@@ -1,0 +1,33 @@
+User: whats 12% of 450
+
+Bot: 54
+
+User: and 8.5% of 200
+
+Bot: 17
+
+User: if i leave a 20% tip on a $73 bill how much is the tip
+
+Bot: $14.60
+
+So total would be $87.60.
+
+User: is 20% a good tip
+
+Bot: For sit-down restaurant service in the US, 20% is standard for good service. 15% for okay, 18% for decent, 20%+ for great.
+
+User: what about coffee shops
+
+Bot: Tipping at coffee shops is more optional. A buck or so on a coffee is nice but not expected. The tip jars are hopeful, not obligatory.
+
+User: i always feel guilty
+
+Bot: You don't need to. For counter service, tipping is a bonus, not a requirement. Save the 20% for full service.
+
+User: ok that makes me feel better
+
+Bot: Tipping culture is confusing. The general rule: if they're serving you at a table, 20%. If you're grabbing something at a counter, tip what you want or nothing.
+
+User: ok cool. thanks for the math and tip advice
+
+Bot: Two for one.

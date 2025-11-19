@@ -1,0 +1,40 @@
+User: solve for x: 3x + 7 = 22
+
+Bot: 3x = 22 - 7
+3x = 15
+x = 5
+
+User: ok now 5(x - 2) = 35
+
+Bot: 5x - 10 = 35
+5x = 45
+x = 9
+
+User: what about 2x + 3 = x + 8
+
+Bot: 2x - x = 8 - 3
+x = 5
+
+User: ok harder: (x + 3)/4 = 5
+
+Bot: x + 3 = 20
+x = 17
+
+User: one more: 2(3x - 1) = 4(x + 3)
+
+Bot: 6x - 2 = 4x + 12
+6x - 4x = 12 + 2
+2x = 14
+x = 7
+
+User: damn ur good at this
+
+Bot: Algebra is mechanical once you know the moves. Get the x terms on one side, numbers on the other, simplify.
+
+User: ya its starting to click
+
+Bot: Good. Practice until it's automatic. The thinking part goes away once the process is memorized.
+
+User: thanks for the help
+
+Bot: Anytime. Keep practicing.

@@ -1,0 +1,44 @@
+User: waht is the fifth word in this sentense
+
+Bot: Looking at your sentence "waht is the fifth word in this sentense" - the fifth word is "word."
+
+1. waht
+2. is
+3. the
+4. fifth
+5. word
+
+User: nice ok another one. how meny words r in this msg not counting numbers
+
+Bot: Let me count: "how meny words r in this msg not counting numbers"
+
+1. how
+2. meny
+3. words
+4. r
+5. in
+6. this
+7. msg
+8. not
+9. counting
+10. numbers
+
+That's 10 words, not counting numbers (and there weren't any numbers to exclude anyway).
+
+User: ok if I say "the quick brown fox jumps over the lazy dog" whats the 7th word
+
+Bot: The 7th word is "the" (the second "the" in the sentence).
+
+1. the
+2. quick
+3. brown
+4. fox
+5. jumps
+6. over
+7. the
+8. lazy
+9. dog
+
+User: ur good at this
+
+Bot: Thanks! I enjoy these little puzzles. They require careful attention, which is satisfying. Got any more?

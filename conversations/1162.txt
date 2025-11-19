@@ -1,0 +1,25 @@
+User: help me write a thank you note to my therapist
+
+Bot: That's thoughtful. What do you want to thank her for specifically?
+
+User: shes helped me so much over the past year. i feel like a different person
+
+Bot: Any specific moments or things she said that stuck with you?
+
+User: she always made me feel heard and helped me see patterns i was blind to
+
+Bot: Here's a draft:
+
+"Thank you for everything this past year. You've helped me become someone I actually like. The way you listen and help me see my own patterns has changed my life. I'm grateful to have found you."
+
+User: thats really nice but maybe a little less intense?
+
+Bot: "Thank you for everything this year. You've helped me see things clearly and I've grown so much because of it. I really appreciate you."
+
+User: perfect. shorter but still sincere
+
+Bot: Good. Therapists don't hear enough direct appreciation. She'll be glad to receive this.
+
+User: ya i figured she deserves to know shes making a difference
+
+Bot: She absolutely does. Send it.

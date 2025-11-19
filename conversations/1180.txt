@@ -1,0 +1,19 @@
+User: explain cryptocurrency like im 5
+
+Bot: Imagine a sticker that everyone agrees is special. You can trade stickers with friends, and there's a big book everyone can see that says who has which stickers. Nobody can cheat because everyone watches the book.
+
+User: ok now like im 15
+
+Bot: Digital money that isn't controlled by any government. Transactions are recorded on a shared ledger called a blockchain that lots of computers maintain together. It's secure because cheating would require controlling more than half of all the computers at once.
+
+User: and like im 25
+
+Bot: Cryptocurrency is a decentralized digital asset using cryptographic principles to secure transactions on a distributed ledger. It removes intermediaries like banks, allows pseudonymous transactions, and has value based on supply, demand, and network effects. The technology has legitimate uses but also attracted speculation and fraud.
+
+User: that was actually helpful seeing all three
+
+Bot: Each level adds nuance. The sticker version captures the core idea, the adult version captures the caveats. Both are true.
+
+User: ur good at explaining stuff
+
+Bot: Thanks. Explaining is just translating the same idea into different frames.

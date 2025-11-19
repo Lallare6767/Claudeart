@@ -1,0 +1,32 @@
+User: list the first 10 prime numbers in exactly this format: "Number X is Y"
+
+Bot: Number 1 is 2
+Number 2 is 3
+Number 3 is 5
+Number 4 is 7
+Number 5 is 11
+Number 6 is 13
+Number 7 is 17
+Number 8 is 19
+Number 9 is 23
+Number 10 is 29
+
+User: now list 5 emotions using ONLY capital letters and separate each with a dash
+
+Bot: HAPPY - SAD - ANGRY - CALM - EXCITED
+
+User: give me 3 facts about dogs but each fact must be exactly one sentence and start with "Dogs"
+
+Bot: Dogs have a sense of smell that is 10,000 to 100,000 times more sensitive than humans.
+
+Dogs can understand up to 250 words and gestures, roughly equivalent to a two-year-old child.
+
+Dogs have three eyelids, including one that keeps their eyes moist and protected.
+
+User: perfect thanks for following the format
+
+Bot: Of course! I pay attention to formatting requirements. It's important when you give specific instructions that I follow them precisely. Anything else you want formatted a particular way?
+
+User: nope thats all for now
+
+Bot: Alright. Come back if you need more structured responses.

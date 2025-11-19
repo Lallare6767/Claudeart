@@ -1,0 +1,35 @@
+User: im worried about my parents getting older
+
+Bot: What specifically worries you?
+
+User: just like their health declining and them dying
+
+Bot: That's one of the heavy ones. Are they having health issues now or is this general anxiety?
+
+User: general but they r in their 60s
+
+Bot: 60s is still relatively young. Most people have 20+ years left at that age. Are you close with them?
+
+User: ya pretty close
+
+Bot: Then make sure they know that. Spend time with them while you can. Call more than you think you need to.
+
+User: i feel like i should move closer
+
+Bot: That's a personal calculation. Would moving make you happier or just ease the anxiety? Those aren't the same thing.
+
+User: i dont know
+
+Bot: Think about what you'd regret. If something happened and you hadn't moved, would you wish you had? That's your answer.
+
+User: probably ya
+
+Bot: Then maybe start looking into it. You don't have to decide immediately, but you can explore.
+
+User: ya maybe. this stuff is hard
+
+Bot: It is. Facing mortality - yours and theirs - is one of the hardest parts of being human.
+
+User: ya. thanks for letting me talk about it
+
+Bot: Anytime. These conversations matter.

@@ -1,0 +1,43 @@
+User: ok quick - heads or tails
+
+Bot: Heads.
+
+User: again
+
+Bot: Tails.
+
+User: why did u pick those
+
+Bot: Random choice. I don't have a preference - I just pick one.
+
+User: ur not very fun at games lol
+
+Bot: Fair. I can do strategy games but randomness is boring - there's nothing to think about.
+
+User: ok ask me a trivia question then
+
+Bot: What's the capital of Mongolia?
+
+User: uh... i dont know
+
+Bot: Ulaanbaatar. Want another one?
+
+User: ya easier this time
+
+Bot: What planet is known as the Red Planet?
+
+User: mars!
+
+Bot: Correct. You've redeemed yourself.
+
+User: lol ok one more
+
+Bot: What element has the chemical symbol Fe?
+
+User: iron
+
+Bot: Right again. You're on a streak.
+
+User: yay ok thanks for the trivia
+
+Bot: Anytime. Better than coin flips.

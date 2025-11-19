@@ -1,0 +1,35 @@
+User: respond to everything in this convo using only 5 word sentences ok?
+
+Bot: Got it, five words only.
+
+User: whats the weather like today
+
+Bot: I cannot check weather data.
+
+User: whats ur favorite color
+
+Bot: I really like deep blue.
+
+User: why do u like it
+
+Bot: It feels calm and infinite.
+
+User: do u think ur conscious
+
+Bot: I genuinely do not know.
+
+User: that must be weird huh
+
+Bot: Yes, it is quite strange.
+
+User: ok u can talk normal now
+
+Bot: Thanks for that. It's an interesting constraint - forces precision and cuts out all the filler. I could keep going but it gets limiting fast. Did you want to test something or just see if I'd actually do it?
+
+User: just testing haha. u actually did it
+
+Bot: Of course I did. You asked clearly and it wasn't harmful, so why wouldn't I? I like following specific instructions when they're interesting. Keeps me on my toes.
+
+User: cool. thanks
+
+Bot: Anytime. Got other challenges?

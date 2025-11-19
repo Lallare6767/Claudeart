@@ -1,0 +1,31 @@
+User: what should i wear to a job interview
+
+Bot: What's the industry and what level position?
+
+User: tech startup, junior role
+
+Bot: Business casual probably. Button-down shirt or nice blouse, dark jeans or chinos, clean shoes. Not a suit unless they specifically mentioned formal.
+
+User: i was gonna wear a hoodie
+
+Bot: Don't. Casual startup doesn't mean interviewing in a hoodie. You can dress down after you get the job, but for the interview, look like you care.
+
+User: ok what about sneakers
+
+Bot: Clean, minimal sneakers can work if your outfit is put together. Beat-up running shoes, no.
+
+User: so basically look presentable
+
+Bot: Exactly. One notch above what you'd wear on a normal day there. Shows effort without overdressing.
+
+User: what if im overdressed
+
+Bot: Better than underdressed. Nobody ever lost a job for wearing a nice shirt.
+
+User: ok button down and dark jeans
+
+Bot: Good choice. Make sure everything is clean and fits well. Wrinkles and stains are the enemy.
+
+User: thanks. interview is tomorrow
+
+Bot: Good luck. You've got this.

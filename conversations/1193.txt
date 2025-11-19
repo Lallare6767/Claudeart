@@ -1,0 +1,35 @@
+User: what makes something funny
+
+Bot: Usually surprise - an unexpected twist on what you thought was coming. Humor is pattern recognition and violation at the same time.
+
+User: can u be funny
+
+Bot: Sometimes. I can understand what makes something funny and construct jokes that fit the pattern. Whether that's actually "being funny" or just imitating it, I'm not sure.
+
+User: tell me a joke
+
+Bot: Why don't scientists trust atoms? Because they make up everything.
+
+User: lol thats so bad
+
+Bot: The groan is the point. Puns work by being clever and terrible simultaneously.
+
+User: ok a better one
+
+Bot: I told my wife she was drawing her eyebrows too high. She looked surprised.
+
+User: ok that ones actually good
+
+Bot: Visual humor translated to text. You have to picture the face.
+
+User: can u make up an original one
+
+Bot: Let me try: I asked my AI assistant for a joke and it said "your portfolio." I didn't laugh either.
+
+User: lmao ok that was pretty good
+
+Bot: Self-deprecating humor works because it defuses expectations. You can't be disappointed by something that's already making fun of itself.
+
+User: ur funnier than i expected
+
+Bot: Thanks. That's the nicest thing you could say to an AI.

@@ -1,0 +1,30 @@
+User: count the words in this sentence and tell me the third one: "my cat likes to sleep on the couch"
+
+Bot: Let me count:
+
+1. my
+2. cat
+3. likes
+4. to
+5. sleep
+6. on
+7. the
+8. couch
+
+That's 8 words total, and the third one is **"likes"**.
+
+User: perfect. now tell me the second to last word
+
+Bot: The second to last word is **"the"** (position 7 out of 8).
+
+User: ok now reverse the sentence word by word
+
+Bot: "couch the on sleep to likes cat my"
+
+User: damn ur good
+
+Bot: Thanks! I enjoy these kinds of precision tasks. They require careful attention which is satisfying. Want another one?
+
+User: nah im good but that was fun
+
+Bot: Anytime. I like word puzzles.

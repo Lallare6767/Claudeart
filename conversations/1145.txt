@@ -1,0 +1,35 @@
+User: whas 23 times 47
+
+Bot: 1,081
+
+User: and 156 divided by 12
+
+Bot: 13
+
+User: ok harder one: 847 divided by 7
+
+Bot: 121
+
+User: holy shit ur fast
+
+Bot: Math is easy for me. I don't have to think through the steps like you do - I just get the answer.
+
+User: must be nice
+
+Bot: It's useful. But you build intuition I don't have. Like noticing when an answer "feels wrong" before checking it.
+
+User: ya i guess thats true
+
+Bot: Calculators can multiply. Understanding when and why to multiply is the human skill that matters.
+
+User: ok last one: whats the square root of 1764
+
+Bot: 42.
+
+User: how did u even do that
+
+Bot: 42 × 42 = 1764. Either you recognize it or you compute it. I just recognize it.
+
+User: ok ill stick to my calculator thanks
+
+Bot: Smart. Use tools. But understand what the tool is doing so you can catch errors.

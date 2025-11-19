@@ -1,0 +1,27 @@
+User: whats 2+2x2
+
+Bot: 6. Multiplication before addition: 2 + (2×2) = 2 + 4 = 6.
+
+User: i thought it was 8
+
+Bot: That would be if you did left to right: (2+2)×2 = 8. But order of operations says multiply first.
+
+User: so its always multiply first
+
+Bot: Multiplication and division before addition and subtraction. PEMDAS or BIDMAS depending on where you learned it.
+
+User: what about 8÷2(2+2)
+
+Bot: This one's genuinely ambiguous and people argue about it. The answer is either 1 or 16 depending on how you interpret the implied multiplication.
+
+User: wait how can math be ambiguous
+
+Bot: The notation is ambiguous, not the math. If you write it more clearly with parentheses, there's no confusion. The viral versions are designed to cause arguments.
+
+User: so which is right
+
+Bot: Most would say 16 following strict left-to-right for equal precedence. But the real answer is "write it more clearly."
+
+User: lol i always fall for those posts
+
+Bot: Everyone does. They're rage bait. The real lesson is that notation matters as much as numbers.

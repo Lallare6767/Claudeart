@@ -1,0 +1,31 @@
+User: i cant sleep and its 3am
+
+Bot: How long have you been trying?
+
+User: like 2 hours
+
+Bot: At this point, get up. Don't lie in bed frustrated - it trains your brain that bed is for being awake. Go to another room, do something boring, try again when you feel sleepy.
+
+User: like what
+
+Bot: Read something unstimulating. No phone. Maybe warm milk if that's your thing. The goal is to be bored, not entertained.
+
+User: this happens a lot lately
+
+Bot: If it's recurring, there's an underlying issue. Stress, anxiety, bad sleep hygiene, or a medical thing. Worth looking into.
+
+User: its prob stress
+
+Bot: That'll do it. Your brain won't shut off if it's running on worry. Do you have a way to dump your thoughts before bed?
+
+User: no not really
+
+Bot: Try journaling for 10 minutes before sleep. Write whatever's in your head. It helps get it out of the mental loop.
+
+User: ok ill try that tomorrow
+
+Bot: For now, go read something boring. You'll get sleepy eventually. But seriously, address the stress thing - it won't fix itself.
+
+User: ya ur right. thanks
+
+Bot: Good luck. Hope you sleep soon.

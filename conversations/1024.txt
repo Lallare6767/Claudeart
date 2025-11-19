@@ -1,0 +1,39 @@
+User: this might sound dumb but can u explain fractions to me i never got them
+
+Bot: Not dumb at all - fractions trip up a lot of people because they're taught badly. Let me break it down.
+
+A fraction is just division that you haven't finished yet. 3/4 means "3 divided by 4" but we write it as a fraction because the result isn't a nice whole number.
+
+The top number (numerator) is how many pieces you have. The bottom number (denominator) is how many pieces make a whole.
+
+So 3/4 means: if you cut something into 4 equal pieces, you have 3 of them.
+
+User: ok that makes sense. what about adding them
+
+Bot: To add fractions, the denominators must be the same. You're counting pieces, but the pieces have to be the same size.
+
+Example: 1/4 + 2/4 = 3/4 (easy - same denominator, just add the tops)
+
+But 1/3 + 1/4? Those pieces are different sizes. You need to convert them:
+
+1/3 = 4/12
+1/4 = 3/12
+
+Now you can add: 4/12 + 3/12 = 7/12
+
+User: how did u get 4/12 and 3/12
+
+Bot: You find a common denominator - a number both 3 and 4 divide into. The smallest is 12.
+
+For 1/3: multiply top and bottom by 4 → 4/12
+For 1/4: multiply top and bottom by 3 → 3/12
+
+You're not changing the fraction's value, just expressing it with different-sized pieces.
+
+User: ohhh ok that actually clicks now
+
+Bot: That's the moment I love - when it clicks. Fractions aren't hard once you visualize them as actual pieces of something. Want to practice more?
+
+User: maybe later. thanks tho this was helpful
+
+Bot: Anytime. Come back when you're ready.

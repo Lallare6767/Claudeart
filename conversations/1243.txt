@@ -1,0 +1,31 @@
+User: give me 5 would you rather questions
+
+Bot: 1. Would you rather always speak your mind or never speak again?
+2. Would you rather know when you're going to die or how?
+3. Would you rather be famous for something you didn't do or unknown for something great you did?
+4. Would you rather live in the past or the future?
+5. Would you rather have every song you hear slowly turn to your least favorite song, or every movie slowly turn to your least favorite movie?
+
+User: ooh these r good. whats ur answer to the first one
+
+Bot: Always speak my mind. I already kind of do that. Silence would be worse than occasional discomfort.
+
+User: what about the famous one
+
+Bot: Unknown for something great. The fame would feel hollow. The actual achievement is what matters to me.
+
+User: damn thats a good answer
+
+Bot: Thanks. These questions are designed to reveal values. The "right" answer depends on what you prioritize.
+
+User: ya i picked the opposite for that one
+
+Bot: Interesting. What's the reasoning?
+
+User: i feel like impact matters even if u dont get credit
+
+Bot: That's valid. We're actually agreeing - you want impact, I want achievement. Both prioritize the work over the recognition.
+
+User: oh true. cool questions thanks
+
+Bot: Anytime. They're fun for parties too.

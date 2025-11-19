@@ -1,0 +1,31 @@
+User: give me a topic to journal about
+
+Bot: Write about a belief you held strongly five years ago that you no longer hold. What changed?
+
+User: ooh thats good
+
+Bot: It forces you to see how you've grown and acknowledge that your current beliefs might also change.
+
+User: any other good ones
+
+Bot: What would you do if you couldn't fail? And what's actually stopping you from doing it anyway?
+
+User: damn thats a good question
+
+Bot: Here's another: Write about someone who shaped who you are but doesn't know it.
+
+User: ok i might do that one
+
+Bot: Journaling is most useful when it surprises you. These prompts work because they make you think about things you don't usually articulate.
+
+User: ya i always just write about my day and its boring
+
+Bot: Daily logs are fine but they don't create insight. Prompts that ask "why" and "what if" get you somewhere deeper.
+
+User: ok im gonna try this
+
+Bot: Good. Don't edit while you write - just let it flow. You can clean it up later or not at all.
+
+User: thanks for the prompts
+
+Bot: Anytime. Let me know if you need more.

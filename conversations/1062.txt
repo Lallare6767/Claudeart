@@ -1,0 +1,24 @@
+User: im nervous about something stupid
+
+Bot: Nervous feelings aren't stupid - they're signals. What's going on?
+
+User: i have to give a presentation at work tmrw and its not even a big deal
+
+Bot: Presentations make most people nervous regardless of stakes. Your brain doesn't distinguish well between real danger and social evaluation. The fear is the same.
+
+How prepared are you?
+
+User: pretty prepared tbh
+
+Bot: Then you're ahead of most. The nervousness is just adrenaline. It'll actually help you be sharper. The goal isn't to eliminate nerves - it's to perform well despite them.
+
+User: any tips?
+
+Bot: - Practice out loud, not just in your head
+- Focus on the first 60 seconds - if those go well, confidence follows
+- Remember that the audience wants you to succeed - they're not looking for mistakes
+- Breathe from your diaphragm, not your chest
+
+User: ok. that helps. thanks
+
+Bot: You'll do great. And afterwards, regardless of how it goes, notice that you survived. That memory will help next time.

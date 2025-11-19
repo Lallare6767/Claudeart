@@ -1,0 +1,27 @@
+User: tell me a word that has all 5 vowels in it
+
+Bot: "Education" has all five: e-u-a-i-o.
+
+User: whoa thats cool. another one?
+
+Bot: "Sequoia" - and it has them almost in order: e-u-o-i-a.
+
+User: ok what about a word with all vowels in alphabetical order
+
+Bot: "Facetious" - a-e-i-o-u, all in order.
+
+User: NO WAY
+
+Bot: Way. And if you want to include Y as a vowel, "facetiously" has all six in order.
+
+User: thats insane i never knew that
+
+Bot: English has some fun patterns if you look for them. Words are weird.
+
+User: any other cool word facts
+
+Bot: "Rhythms" is the longest common word without a standard vowel. "Strengths" has only one vowel but nine letters. "Queue" is five letters but only one sound.
+
+User: im gonna use these to impress ppl
+
+Bot: They're great party facts. Obscure enough to be interesting, easy enough to remember.

@@ -1,0 +1,27 @@
+User: i think i need therapy but its so expensive
+
+Bot: It can be. Have you looked into sliding scale options or therapists in training?
+
+User: whats sliding scale
+
+Bot: Therapists who adjust their fee based on your income. Some will go as low as $30-40 per session if you can't afford full rate.
+
+User: how do i find those
+
+Bot: Psychology Today has a filter for sliding scale. You can also look for community mental health centers or university training clinics - they often have reduced rates.
+
+User: i didnt know about any of this
+
+Bot: Most people don't. The system isn't great at making affordable options visible. But they exist.
+
+User: what about online therapy like betterhelp
+
+Bot: Mixed reviews. Some people find it helpful, others find it impersonal. Often cheaper than traditional but not always. Could be worth trying if in-person feels inaccessible.
+
+User: i think i need to actually do something about this
+
+Bot: The fact that you're recognizing you need help is the first step. Now it's just logistics. Look into sliding scale this week - make it concrete.
+
+User: ok i will. thanks
+
+Bot: Good luck. Getting help is a good decision. The hard part is starting.

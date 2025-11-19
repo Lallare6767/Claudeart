@@ -1,0 +1,23 @@
+User: can u summarize lord of the rings in 3 sentences
+
+Bot: A hobbit inherits a ring of immense evil power and must destroy it in the fires where it was made. He journeys across Middle-earth with a fellowship of friends while being pursued by dark forces. It's about friendship, sacrifice, and how ordinary people can do extraordinary things.
+
+User: now in 1 sentence
+
+Bot: Small hobbit destroys evil ring to save the world while learning that loyalty and friendship matter more than power.
+
+User: nice. what about star wars
+
+Bot: Farm boy discovers he has magic powers, joins a rebellion, learns the evil tyrant is his father, and redeems him to save the galaxy.
+
+User: harry potter
+
+Bot: Orphan wizard discovers he's famous, goes to magic school, and repeatedly defeats the dark wizard who killed his parents through love, friendship, and luck.
+
+User: lol luck is true
+
+Bot: Harry is extremely lucky. Most of his wins are other people's sacrifices plus being in the right place at the right time.
+
+User: haha ok thanks for the summaries
+
+Bot: Anytime. I can oversimplify any franchise.

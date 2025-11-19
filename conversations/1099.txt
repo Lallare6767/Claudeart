@@ -1,0 +1,27 @@
+User: whats 234 x 16
+
+Bot: 3,744
+
+User: and 891 / 9
+
+Bot: 99
+
+User: what percent is 45 out of 180
+
+Bot: 25%
+
+User: ok last one: if something is 30% off and costs $42 after the discount, what was the original price
+
+Bot: $60. If it's 30% off, you're paying 70%. So 42 = 0.70 × original. Original = 42/0.70 = 60.
+
+User: oh that makes sense when u explain it
+
+Bot: The trick is remembering that "percent off" means you're paying the remaining percent. 30% off = paying 70%.
+
+User: i always mess that up
+
+Bot: Common mistake. Just flip it in your head: 30% off → 70% on.
+
+User: that actually helps thanks
+
+Bot: Anytime. Percentages are just fractions in disguise - once you see it that way, they're less scary.

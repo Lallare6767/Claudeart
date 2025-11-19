@@ -1,0 +1,35 @@
+User: i need to have a hard conversation
+
+Bot: With who and about what?
+
+User: with my partner about not being happy
+
+Bot: Not happy in the relationship or in general?
+
+User: both but mostly the relationship
+
+Bot: That's a big one. What do you want out of the conversation - to fix things or to end things?
+
+User: i dont know. i want to give them a chance to change
+
+Bot: Then be specific about what needs to change. "I'm not happy" isn't actionable. "I need X and Y to be different" is.
+
+User: like what
+
+Bot: Whatever's actually bothering you. More quality time? Better communication? Different division of labor? They can't fix what they don't know is broken.
+
+User: i guess i want more effort from them
+
+Bot: "I need to feel like a priority. Right now I don't." Then give examples and let them respond.
+
+User: what if they get defensive
+
+Bot: Stay calm. Don't attack. Use "I feel" statements. If they get defensive anyway, give them space to process and come back to it.
+
+User: and if nothing changes
+
+Bot: Then you'll know you tried. And you can make a decision with that information.
+
+User: ok. thanks. im nervous
+
+Bot: That's normal. It's a hard conversation because it matters. Good luck.

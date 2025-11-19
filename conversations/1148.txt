@@ -1,0 +1,35 @@
+User: help me come up with a punny fantasy football team name
+
+Bot: Who's your best player?
+
+User: tyreek hill
+
+Bot: Some options:
+- "Tyreek and Destroy"
+- "Hill Yeah"
+- "Over the Hill"
+- "The Hills Have Eyes for Touchdowns"
+
+User: lol the last one is so long
+
+Bot: Too long for the character limit probably. "Tyreek and Destroy" is the cleanest.
+
+User: ya i like that one. any others for my backup?
+
+Bot: Who else you got?
+
+User: kelce
+
+Bot: - "Travis for Me"
+- "Kelce Me If You Can"
+- "License to Kelce"
+
+User: ooh kelce me if you can is good
+
+Bot: It's got legs. Most people will get the reference.
+
+User: ok im going with tyreek and destroy. thanks
+
+Bot: Good luck this season. May your players stay healthy and your opponents' quarterbacks throw picks.
+
+User: haha thanks i need it

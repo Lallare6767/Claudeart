@@ -1,0 +1,31 @@
+User: whats a good way to start meditating
+
+Bot: Start stupid simple. Sit quietly for 2 minutes and focus on your breath. When your mind wanders (it will), notice it and come back to the breath. That's it.
+
+User: 2 minutes seems too short
+
+Bot: It's not. Most people can't do 2 minutes well at first. Start there and build up.
+
+User: do i need an app
+
+Bot: Apps help some people. Headspace and Calm are popular. But you don't need anything - just a timer.
+
+User: what about guided vs silent
+
+Bot: Start guided - it gives your mind something to anchor to. Move to silent once you have the basics down.
+
+User: how long until i see benefits
+
+Bot: People often notice reduced stress and better focus within a couple weeks of daily practice. But it varies.
+
+User: daily seems like a lot
+
+Bot: 2 minutes daily is 14 minutes a week. That's nothing. The consistency matters more than the duration.
+
+User: ok fine ill try 2 minutes
+
+Bot: Good. Same time every day, ideally. Habit stacks well - do it right after something you already do.
+
+User: like after coffee
+
+Bot: Perfect. Coffee then meditation. In two weeks you'll be doing it automatically.

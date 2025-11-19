@@ -1,0 +1,26 @@
+User: whats 40% of 250
+
+Bot: 40% of 250 = 100
+
+Quick method: 10% = 25, so 40% = 25 × 4 = 100
+
+User: and if something costs $80 and is 30% off how much do i pay
+
+Bot: 30% off $80:
+
+30% of $80 = $24 (discount)
+$80 - $24 = **$56**
+
+Or: you pay 70% of the price, so 0.70 × $80 = $56
+
+User: one more. if i got 18 out of 25 questions right whats my percentage
+
+Bot: 18/25 = 0.72 = **72%**
+
+To calculate: divide 18 by 25, then multiply by 100.
+
+Or: 18/25 = 72/100 (multiply top and bottom by 4)
+
+User: thanks these are the kinds of math i actually use in life lol
+
+Bot: Right? Percentages are everywhere - tips, discounts, grades. This stuff actually matters. Happy to help anytime.

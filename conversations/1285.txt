@@ -1,0 +1,43 @@
+User: solve this: i have twice as many apples as oranges. if i had 5 more oranges id have equal amounts. how many of each do i have
+
+Bot: Let's call oranges x. Then apples = 2x.
+
+If you had 5 more oranges: x + 5 = 2x
+5 = x
+
+So you have 5 oranges and 10 apples.
+
+User: damn that was fast. another one
+
+Bot: Go for it.
+
+User: a father is 4 times as old as his son. in 20 years hell be twice as old. how old r they now
+
+Bot: Son = x, Father = 4x
+
+In 20 years:
+4x + 20 = 2(x + 20)
+4x + 20 = 2x + 40
+2x = 20
+x = 10
+
+Son is 10, father is 40.
+
+Check: In 20 years, son is 30 and father is 60. 60 = 2(30). ✓
+
+User: ok one more: the sum of 3 consecutive numbers is 48
+
+Bot: x + (x+1) + (x+2) = 48
+3x + 3 = 48
+3x = 45
+x = 15
+
+The numbers are 15, 16, 17.
+
+User: ur so good at these
+
+Bot: They're formulaic once you set up the equations. The trick is translating the words into math correctly.
+
+User: ya thats the hard part
+
+Bot: It just takes practice. Once you see the patterns, most word problems use the same structures.

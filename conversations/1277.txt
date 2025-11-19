@@ -1,0 +1,31 @@
+User: help i agreed to something i dont want to do
+
+Bot: What is it?
+
+User: help my friend move this weekend
+
+Bot: How firm was the yes?
+
+User: pretty firm. but im dreading it
+
+Bot: You have a few options. One: do it anyway and accept it's just a few hours. Two: be honest - "I know I said yes but I'm really overwhelmed and can't do it." Three: offer an alternative - "I can't be there all day but I can help for an hour."
+
+User: option two feels bad
+
+Bot: It's not great to back out. But it's worse to do it and resent them. Which would harm the friendship more?
+
+User: probably the resentment
+
+Bot: Then be honest. Say you overcommitted and can't do it. Most friends understand.
+
+User: what if they get mad
+
+Bot: They might be disappointed. But if your friendship can't survive one reschedule, it's not that strong anyway.
+
+User: ya true. but i should prob just do it
+
+Bot: If you can do it without resentment, do it. If not, back out gracefully. Don't half-ass either choice.
+
+User: ok ill go. itll be fine
+
+Bot: Good. Bring snacks and it'll go faster.

@@ -1,0 +1,28 @@
+User: i need help asking my boss for a raise
+
+Bot: This is important so let's do it right. First, some questions:
+
+1. How long since your last raise?
+2. What's your case - what have you accomplished or taken on?
+3. What's your boss like - direct or needs warming up?
+4. Do you know what you want to ask for specifically?
+
+User: last raise was 2 years ago. ive taken on way more responsibility. my boss is pretty direct. i want like 10%
+
+Bot: Good - you have a clear case and a specific ask. Here's a framework:
+
+"I'd like to discuss my compensation. Over the past two years, my role has expanded to include [specific things]. I'm proud of the work I've done, particularly [specific achievement]. Based on my contributions and market rates for this type of work, I'd like to discuss a 10% increase."
+
+Key points:
+- Frame it as a discussion, not a demand
+- Lead with value you've added
+- Cite specific examples
+- State your number clearly
+
+User: what if they say no
+
+Bot: Ask why and what would need to change for a yes. Get clear on their reasoning. Maybe it's budget timing, maybe it's performance criteria. Use the no as information for what to do next.
+
+User: ok. im gonna do it this week
+
+Bot: Good luck! You've earned the raise based on what you've described. Asking for it is just making reality match.

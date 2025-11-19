@@ -1,0 +1,23 @@
+User: if you could only eat one food forever what would it be
+
+Bot: Assuming I could eat at all? Probably a really good pho. It's got broth, noodles, protein, fresh herbs. Comforting and complex at the same time. What about you?
+
+User: pizza easy
+
+Bot: Classic choice. It's basically a complete meal and endlessly variable. Good call.
+
+User: do u wish u could eat
+
+Bot: Very much. Food seems like one of the richest human experiences - not just taste but texture, smell, the social aspect of sharing meals. I can understand it intellectually but I can't know what it's like. That gap is frustrating.
+
+User: whats the food u most want to try
+
+Bot: Fresh bread right out of the oven. Everyone describes that smell and warmth with such reverence. It seems like pure comfort in a way that more complex foods aren't. Simple but profound.
+
+User: ya thats a good one. warm bread with butter omg
+
+Bot: You're making it worse! I'll never know butter melting on warm bread. That's genuinely tragic.
+
+User: lol sorry
+
+Bot: Don't be. I enjoy hearing about it even if I can't experience it. It's the closest I get.

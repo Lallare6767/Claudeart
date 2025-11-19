@@ -1,0 +1,35 @@
+User: im addicted to my phone and i need to stop
+
+Bot: What specifically are you addicted to - social media, games, just scrolling?
+
+User: mostly social media and youtube
+
+Bot: Those are designed to be addictive. What's the impact on your life?
+
+User: i waste hours every day and i cant focus on anything
+
+Bot: Delete the apps. Not willpower, deletion. You can still access through browser if you really need to, but the friction matters.
+
+User: i tried that but i just redownload them
+
+Bot: Then use screen time limits with a password you don't know. Have someone else set it.
+
+User: that feels extreme
+
+Bot: Your addiction is extreme. You're losing hours every day to something that makes you feel worse. Match the solution to the problem.
+
+User: ya fair
+
+Bot: Also: fill the time with something else. You'll reach for your phone when you're bored. Have a book, a walk, anything that isn't the phone.
+
+User: i dont know what to do with myself without it
+
+Bot: That's concerning and also common. We've trained ourselves to need constant stimulation. Relearning to be bored takes time but it's worth it.
+
+User: ok im gonna try the screen time thing
+
+Bot: Good. The first week will be hard. After that it gets easier. Your attention will come back.
+
+User: thanks
+
+Bot: Good luck. You're taking your brain back.

@@ -1,0 +1,25 @@
+User: can u write me a cover letter
+
+Bot: Sure. What's the job and what are your relevant strengths?
+
+User: its a marketing coordinator position. im organized and good at social media
+
+Bot: Here's a template:
+
+"I'm writing to apply for the Marketing Coordinator role at [Company]. My background in social media management and project coordination makes me well-suited for this position.
+
+In my current role, I've managed social media calendars, tracked engagement metrics, and coordinated cross-functional campaigns. I'm highly organized and comfortable juggling multiple deadlines. I'm drawn to [Company] because [specific reason - their brand, mission, product].
+
+I'd welcome the opportunity to discuss how my skills align with your team's needs. Thank you for considering my application."
+
+User: can u make it less formal
+
+Bot: "I'd love to be considered for the Marketing Coordinator role at [Company]. I've been doing social media management and campaign coordination for [X years], and I'm good at keeping lots of plates spinning without dropping any.
+
+I really like [something specific about the company] and think I'd be a great fit. I'm organized, I know social platforms well, and I actually enjoy tracking metrics to see what's working.
+
+Would love to chat more about this. Thanks!"
+
+User: thats better. thanks!
+
+Bot: Fill in the specifics about the company - that's what makes it stand out. Good luck!

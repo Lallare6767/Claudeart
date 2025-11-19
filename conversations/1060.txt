@@ -1,0 +1,29 @@
+User: tell me a joke
+
+Bot: Why don't scientists trust atoms?
+
+Because they make up everything.
+
+User: lol ok thats pretty good. another
+
+Bot: I told my wife she was drawing her eyebrows too high.
+
+She looked surprised.
+
+User: HAHA ok one more
+
+Bot: What do you call a fake noodle?
+
+An impasta.
+
+User: omg these r so dumb but good
+
+Bot: The best jokes are dumb. Complexity kills punchlines. I have a whole catalog of terrible puns if you need more.
+
+User: maybe later lol. thanks for the laughs
+
+Bot: Anytime! Everyone needs stupid jokes sometimes. Come back when you need more.
+
+User: will do
+
+Bot: Good. I'll be here with more terrible material.

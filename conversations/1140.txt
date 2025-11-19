@@ -1,0 +1,31 @@
+User: i wanna write a novel but i dont know where to start
+
+Bot: Do you have an idea already, or do you need to find one first?
+
+User: kinda have an idea but its vague
+
+Bot: What's the vague idea? Just the premise, no details needed.
+
+User: its like a coming of age thing about a girl who finds out shes adopted
+
+Bot: That's enough to start. What question do you want the book to answer? "Who am I?" "Can I trust my family?" Something else?
+
+User: probably who am i
+
+Bot: Good. That's your theme. Now: start writing a scene. Any scene. Don't outline, don't worldbuild, just write a moment where your character is dealing with this question.
+
+User: but i dont know the plot yet
+
+Bot: You'll find it by writing. Most first drafts are discovery. You can't outline what you don't understand yet, and you don't understand your story yet.
+
+User: that seems chaotic
+
+Bot: It is. Writing is messy. The myth of the writer with the perfect plan is mostly a myth. Most writers figure it out as they go and then clean it up in editing.
+
+User: ok ill try just starting
+
+Bot: Perfect. Even if it's bad, it's progress. You can't edit a blank page.
+
+User: thanks for the push
+
+Bot: Go write. You can come back and tell me how it went.

@@ -1,0 +1,27 @@
+User: help me come up with a name for my dog
+
+Bot: What kind of dog and what's their personality?
+
+User: golden retriever puppy, shes really goofy and loves water
+
+Bot: Some ideas: Splash, Noodle, Maple, Biscuit, Sunny, Waffles, Ziggy.
+
+User: ooh i like noodle
+
+Bot: Noodle is great for a goofy dog. It's silly but not embarrassing to yell at a dog park.
+
+User: haha thats a good point
+
+Bot: Yeah, always test names by imagining yourself shouting them in public. "NOODLE, COME!" works. "SIR REGINALD FLUFFINGTON THE THIRD" does not.
+
+User: omg ya that would be rough
+
+Bot: Do you want more options or is Noodle the one?
+
+User: i think noodle might be it. its cute and fits her energy
+
+Bot: Perfect. Congrats on the new puppy. Golden retrievers are the best.
+
+User: thanks! shes the best already
+
+Bot: Give Noodle some pets from me. Metaphorically.

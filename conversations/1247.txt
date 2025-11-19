@@ -1,0 +1,31 @@
+User: help me think through whether to move cities
+
+Bot: What's pulling you toward moving and what's keeping you where you are?
+
+User: job opportunity in new city. friends and family in current city
+
+Bot: How good is the job opportunity? Life-changing or just better?
+
+User: pretty big step up career wise
+
+Bot: And how close are you to friends and family? Daily contact or occasional?
+
+User: close but not daily. maybe weekly
+
+Bot: How do you feel about your current city otherwise - cost of living, culture, things to do?
+
+User: its fine. kinda bored honestly
+
+Bot: Here's what I'm hearing: you have an opportunity for career growth in a new place, and some restlessness with where you are. The main thing holding you back is relationships.
+
+User: ya thats pretty accurate
+
+Bot: Those relationships can survive distance. You can visit, call, plan trips. It's not like old times where moving meant never seeing people again.
+
+User: true but its not the same
+
+Bot: It's not. But what's the alternative - stay bored and pass up a big opportunity to avoid discomfort? The relationships will adapt. Stagnation won't fix itself.
+
+User: ya. i think i should probably go
+
+Bot: Sounds like you already knew that. Sometimes you just need to hear yourself say it.

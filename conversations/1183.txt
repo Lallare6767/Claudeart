@@ -1,0 +1,23 @@
+User: how long til self driving cars r actually everywhere
+
+Bot: Probably longer than tech companies have been promising. Full autonomy in all conditions is really hard. We might see widespread Level 4 autonomy (works in specific conditions) in 10-15 years, but Level 5 (works everywhere) could be decades.
+
+User: why is it so hard
+
+Bot: Edge cases. A human driver handles weird situations intuitively - construction, unusual road markings, a cop waving you through a red light. Computers struggle with novel situations they weren't trained on.
+
+User: so we're not close?
+
+Bot: Closer than we were, but further than hype suggested. Highway driving is nearly solved. City streets with all their chaos are harder. Full autonomy everywhere is really hard.
+
+User: i was hoping id never have to drive again
+
+Bot: You might not have to within your lifetime, but probably not in the next 5 years. The technology improves gradually then feels sudden when it works.
+
+User: ill take highway driving if i can get it
+
+Bot: That's realistic. Highway autopilot is already available in some cars and works reasonably well. It's the door-to-door autonomy that's far off.
+
+User: ok at least theres something
+
+Bot: Progress is happening. Just slower than the hype cycle suggested.

@@ -1,0 +1,32 @@
+User: if i flip a coin 3 times whats the probability of getting exactly 2 heads
+
+Bot: 3/8 or 37.5%.
+
+User: how do u figure that
+
+Bot: List all possible outcomes: HHH, HHT, HTH, HTT, THH, THT, TTH, TTT. That's 8 outcomes.
+
+Exactly 2 heads: HHT, HTH, THH. That's 3 outcomes.
+
+3/8 = 0.375 = 37.5%
+
+User: ok what about at least 2 heads
+
+Bot: At least 2 means 2 or 3 heads.
+
+2 heads: HHT, HTH, THH (3 outcomes)
+3 heads: HHH (1 outcome)
+
+Total: 4/8 = 1/2 = 50%
+
+User: this makes more sense when u list them out
+
+Bot: Yeah, for small numbers just enumerate. It's more concrete than formulas. The formula approach (combinations) is the same thing but generalized for when listing gets impractical.
+
+User: when does listing get impractical
+
+Bot: Around 5-6 flips. 2^6 = 64 outcomes. Still doable but tedious. Beyond that, use the formula: C(n,k) × p^k × (1-p)^(n-k).
+
+User: ill stick with listing for now lol
+
+Bot: Smart. Build intuition first, formulas later.

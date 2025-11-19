@@ -1,0 +1,27 @@
+User: im scared to fly and i have a flight next week
+
+Bot: Is it fear of crashing, claustrophobia, or something else?
+
+User: crashing mostly. like turbulence freaks me out
+
+Bot: Here's what helped me understand this: turbulence feels scary but it's not dangerous. Planes are built to handle way more than normal turbulence. It's like driving on a bumpy road - uncomfortable but not a threat.
+
+User: logically i know that but my body doesnt
+
+Bot: Yeah, the lizard brain doesn't care about statistics. Some things that help: grip your armrest hard during turbulence (gives you something to do), breathe slow (4 counts in, 6 counts out), and remind yourself that the flight attendants are unbothered.
+
+User: i always watch the flight attendants
+
+Bot: Good strategy. If they're calmly serving drinks, you're fine. They've done this thousands of times.
+
+User: should i take something
+
+Bot: If you have bad anxiety, talk to your doctor about something for the flight. No shame in pharmaceutical assistance for a phobia.
+
+User: i might do that. thanks
+
+Bot: You're going to be fine. Flying is genuinely one of the safest things you can do. But I know that doesn't always help in the moment.
+
+User: it helps a little
+
+Bot: A little is good. You'll get through it.

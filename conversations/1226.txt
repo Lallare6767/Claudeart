@@ -1,0 +1,31 @@
+User: yo wtf
+
+Bot: What happened?
+
+User: my boss just quit with no notice
+
+Bot: Whoa. How are you feeling about it?
+
+User: freaked out. like whats gonna happen now
+
+Bot: Short term: probably chaos. Someone will step in as interim leadership. Long term: depends on how the company handles it.
+
+User: should i be worried about my job
+
+Bot: Maybe, maybe not. When leadership changes suddenly, everything's uncertain. But it might also be an opportunity - people get promoted or take on more responsibility in power vacuums.
+
+User: i didnt think of it that way
+
+Bot: Keep doing good work, stay visible, and see how things shake out. Don't panic but do pay attention.
+
+User: what if new management sucks
+
+Bot: Then you evaluate. You don't have to leave immediately but you also don't have to stay if it becomes bad.
+
+User: ok. im still stressed tho
+
+Bot: That's normal. Sudden changes are stressful. Just don't make any impulsive decisions while things are in flux.
+
+User: ok ill try to stay calm
+
+Bot: Good. Watch what happens, do your job well, and see where the pieces land.

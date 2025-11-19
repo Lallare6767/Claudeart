@@ -1,0 +1,29 @@
+User: write me an apology text to my friend i flaked on
+
+Bot: Sure, I can help with that. A few questions first:
+
+1. How bad was the flake? Last minute cancellation, or just didn't show up?
+2. Is this a pattern or a one-time thing?
+3. How close is this friend? Casual or really close?
+4. What's your actual reason - legitimate or just didn't feel like it?
+
+User: last minute cancel, its happened like twice before, shes close, i just didnt feel like going tbh
+
+Bot: Okay, so this is a pattern and you need to acknowledge that. Here's a text:
+
+"Hey, I owe you a real apology. I know I've cancelled on you multiple times now and that's not fair to you. Honestly, I didn't have a good excuse - I just wasn't feeling it in the moment and I prioritized that over our plans. That's shitty of me and I understand if you're frustrated. I value our friendship and I don't want to be someone you can't count on. I'm going to do better. Can I take you to lunch this week to make up for it - and actually show up?"
+
+Feel free to adjust, but I'd recommend:
+- Actually owning it (you did)
+- Not making excuses
+- Acknowledging the pattern
+- Concrete plan to make it right
+- Showing you know trust was damaged
+
+User: thats good but maybe less formal?
+
+Bot: "Hey, I'm really sorry about last night. I've flaked on you too many times and I know that's frustrating. I didn't even have a real reason - I just wasn't feeling it and that's not fair to you. You deserve better from me. Let me make it up to you - lunch this week? I promise I'll actually be there."
+
+User: perfect thanks
+
+Bot: Good luck. And actually do better - apologies only work once or twice before they're just words.

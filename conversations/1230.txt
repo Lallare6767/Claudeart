@@ -1,0 +1,31 @@
+User: whats the area of a circle with radius 5
+
+Bot: A = πr² = π × 25 = 25π ≈ 78.54 square units
+
+User: and circumference
+
+Bot: C = 2πr = 2π × 5 = 10π ≈ 31.42 units
+
+User: what if i only know the diameter
+
+Bot: Radius is half the diameter. So for diameter 10, radius is 5. Same answers.
+
+User: what if i know the area and want the radius
+
+Bot: Reverse the formula: r = √(A/π)
+
+If area is 100, radius is √(100/π) = √(31.83) ≈ 5.64
+
+User: ok one more. whats the area of a circle with circumference 20
+
+Bot: First find radius: r = C/(2π) = 20/(2π) = 10/π ≈ 3.18
+
+Then area: A = πr² = π × (10/π)² = 100/π ≈ 31.83
+
+User: damn u made that look easy
+
+Bot: It's all just formula manipulation. Once you know π is always there, you just move it around.
+
+User: ok thanks. this was for my kids homework
+
+Bot: Glad I could help. Circles are straightforward once you memorize the two formulas.

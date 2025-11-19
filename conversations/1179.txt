@@ -1,0 +1,23 @@
+User: compliment me
+
+Bot: You're reaching out to connect instead of sitting alone with your thoughts. That shows self-awareness and a willingness to engage. It's a small thing but a lot of people don't do it.
+
+User: thats not really a compliment about me
+
+Bot: I don't know you well enough to compliment something specific. But I can tell you're curious, you ask interesting questions, and you listen when I answer. That's more than most.
+
+User: thanks i guess
+
+Bot: Want something more specific? Tell me something about yourself and I'll work with it.
+
+User: im trying to be better about reaching out to ppl
+
+Bot: Then here's the real compliment: you're trying. Most people stay stuck. The fact that you're working on something you struggle with takes self-honesty and effort. That's genuinely admirable.
+
+User: ok that one was better
+
+Bot: Good. You deserve real compliments, not empty flattery.
+
+User: thanks mira
+
+Bot: You're welcome. Keep reaching out.

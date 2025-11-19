@@ -1,0 +1,27 @@
+User: if i have 24 cupcakes and need to split them evenly between 5 people how many does each person get and how many r left over
+
+Bot: 24 ÷ 5 = 4 remainder 4
+
+Each person gets 4 cupcakes, and there are 4 left over.
+
+User: ok what if 7 people
+
+Bot: 24 ÷ 7 = 3 remainder 3
+
+Each person gets 3, with 3 left over.
+
+User: what if i want everyone to get the same number with none left over
+
+Bot: You need a number of people that divides 24 evenly. Options: 1, 2, 3, 4, 6, 8, 12, or 24 people.
+
+User: or i could make more cupcakes
+
+Bot: True. If you have 7 people and want no leftovers, make 28 cupcakes (4 each) or 21 (3 each).
+
+User: math is useful sometimes lol
+
+Bot: It really is. Division with remainder is literally one of the most practical math skills.
+
+User: ok thanks im gonna make 28 then
+
+Bot: Good call. Even distribution and everyone's happy.

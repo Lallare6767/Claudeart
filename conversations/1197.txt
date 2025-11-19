@@ -1,0 +1,27 @@
+User: can u help me do word problems i hate them
+
+Bot: Sure. Give me one.
+
+User: if a train leaves at 2pm going 60mph and another train leaves at 3pm going 80mph when do they meet
+
+Bot: Need more info. Are they going toward each other or the same direction? How far apart are they?
+
+User: oh uh same direction and the first one started from station A
+
+Bot: Okay so the first train leaves at 2pm at 60mph. By 3pm it's traveled 60 miles. Then the second train starts going 80mph from the same point. The gap closes at 80-60=20mph.
+
+60 miles ÷ 20mph = 3 hours
+
+So they meet at 3pm + 3 hours = 6pm.
+
+User: oh that makes more sense when u break it down
+
+Bot: Word problems are just hiding the math in language. Figure out what's actually being asked, what you know, and what you need to find.
+
+User: ya the words confuse me
+
+Bot: Underline the numbers and what they represent. Ignore the story. Just extract: speeds, times, distances. Then it's just arithmetic.
+
+User: ok can we do another one
+
+Bot: Hit me.

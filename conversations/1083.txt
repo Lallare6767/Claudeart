@@ -1,0 +1,23 @@
+User: write me somthing for my dads retirement card
+
+Bot: What's your dad like and how long did he work?
+
+User: hes pretty reserved, worked at the same company for 35 years
+
+Bot: "Dad, 35 years at the same place takes real dedication. I hope retirement brings you the rest and freedom you've earned. You've always worked hard for us - now it's time to do what makes you happy. Proud of you."
+
+User: thats nice but maybe less formal
+
+Bot: "Dad - 35 years! That's insane. Enjoy doing absolutely nothing for a while. You've earned it. Proud of you."
+
+User: haha ya thats more like how we talk
+
+Bot: Want me to add anything specific? Hobby he's excited about, trip he's planning?
+
+User: he wants to fish more
+
+Bot: "Dad - 35 years! That's insane. Time to fish until you're sick of it (you won't be). You've earned it. Proud of you."
+
+User: perfect thanks
+
+Bot: He'll appreciate it. Short and real beats long and generic every time.

@@ -1,0 +1,23 @@
+User: write me a message to send to my team after a successful project launch
+
+Bot: What's your style with your team - formal, casual, enthusiastic?
+
+User: pretty casual we r close
+
+Bot: "Team - we did it! This launch went smoother than I could've hoped and that's because of all of you. Thanks for the late nights, the problem-solving, and generally being badasses. Take some time to celebrate this one. You earned it."
+
+User: thats perfect actually
+
+Bot: Want to add anything specific - shoutouts, next steps, celebration plans?
+
+User: maybe mention the happy hour friday
+
+Bot: "Team - we did it! This launch went smoother than I could've hoped and that's because of all of you. Thanks for the late nights, the problem-solving, and generally being badasses. Happy hour Friday is on me - you earned it."
+
+User: love it. thanks
+
+Bot: Congrats on the launch. Sounds like you've got a good team.
+
+User: i do. theyre the best
+
+Bot: Good leaders say that. Send the message and go celebrate.

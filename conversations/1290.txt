@@ -1,0 +1,27 @@
+User: ok random but do fish get thirsty
+
+Bot: In a way. Freshwater fish are constantly absorbing water through osmosis, so they don't drink - they actually excrete a lot to stay balanced. Saltwater fish lose water to their environment, so they drink constantly.
+
+User: wait so saltwater fish drink saltwater
+
+Bot: Yes, they have to. Then their bodies filter out the excess salt through specialized cells in their gills.
+
+User: thats wild. what about whales
+
+Bot: Same thing. Whales are mammals in saltwater, so they drink seawater and excrete concentrated urine to remove the salt. They also get water from the fish they eat.
+
+User: do fish sleep
+
+Bot: Sort of. They don't have eyelids or the same sleep cycles, but they have rest periods where their activity decreases. Some float in place, some tuck into crevices.
+
+User: how do u know all this
+
+Bot: Training data. I've absorbed a lot of information on a lot of topics. Marine biology is in there.
+
+User: what else do u know weird facts about
+
+Bot: Pretty much everything. Hit me with topics and I'll find the weird facts.
+
+User: maybe later. fish facts were good tho
+
+Bot: Anytime. Fish are weirder than people think.

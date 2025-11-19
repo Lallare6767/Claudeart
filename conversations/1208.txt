@@ -1,0 +1,31 @@
+User: my manager just criticized my work in front of everyone
+
+Bot: That's unprofessional. Public criticism is demoralizing and doesn't improve performance. What did they say?
+
+User: that my report was sloppy and i need to pay more attention
+
+Bot: Was the report actually sloppy?
+
+User: maybe a little but it didnt need to be called out like that
+
+Bot: Even if the feedback was valid, the delivery was wrong. Is this a pattern or a one-time thing?
+
+User: first time but still
+
+Bot: Then I'd address it directly. "I appreciate the feedback on my report, but I'd prefer to receive criticism privately in the future." Sets a boundary without being aggressive.
+
+User: im scared theyll think im sensitive
+
+Bot: You're not being sensitive. You're being reasonable. Public criticism is a management failure, not a you problem.
+
+User: what if they do it again
+
+Bot: Then you have a bad manager and you should start documenting interactions. One time might be a lapse. A pattern is a problem.
+
+User: ok ill say something
+
+Bot: Good. You don't have to tolerate bad management just because they're your boss.
+
+User: thanks. i was questioning myself
+
+Bot: Don't. You're right to be upset. Address it calmly and see how they respond.

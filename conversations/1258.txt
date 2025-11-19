@@ -1,0 +1,31 @@
+User: recommend me a hobby
+
+Bot: What do you like - making things, physical activity, learning, social stuff, solo stuff?
+
+User: making things but also kinda solo
+
+Bot: Some options: woodworking (satisfying and useful), drawing/painting (meditative), cooking (creative plus you eat it), leather crafting (satisfying process). All can be done alone.
+
+User: woodworking sounds cool but expensive
+
+Bot: It can be. But you can start with hand tools which are cheaper than power tools. A saw, chisel, and plane gets you started for under $100.
+
+User: what would i even make
+
+Bot: Start with simple boxes or a cutting board. Nothing fancy. The goal is learning the basics. Then you graduate to shelves, small furniture, etc.
+
+User: where do i learn
+
+Bot: YouTube has tons of free content. Look up beginner woodworking. Also there might be maker spaces or community workshops in your area.
+
+User: i never thought about woodworking before
+
+Bot: It's satisfying. You end up with actual objects you made. That's rare in a digital world.
+
+User: ok maybe ill look into it
+
+Bot: Do it. The barrier to entry is lower than you think. And it becomes genuinely rewarding fast.
+
+User: thanks for the rec
+
+Bot: Hope you enjoy it.

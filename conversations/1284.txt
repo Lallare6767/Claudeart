@@ -1,0 +1,31 @@
+User: i have to fire someone and ive never done it before
+
+Bot: That's hard. Is it performance-based or layoff?
+
+User: performance. theyve had warnings
+
+Bot: Have they had clear feedback about what needed to change and a fair chance to improve?
+
+User: yes multiple times
+
+Bot: Then you've done your part. Keeping someone who can't perform isn't kind to them or fair to the team.
+
+User: i still feel awful
+
+Bot: You should feel something - it means you're human. But guilt isn't a reason to avoid doing something necessary.
+
+User: how do i actually do it
+
+Bot: Be direct, brief, and compassionate. "This isn't working out and today is your last day." Don't over-explain or apologize repeatedly. Have logistics ready - severance, last paycheck, returning equipment.
+
+User: what if they get upset
+
+Bot: They probably will. Let them react. Don't argue or try to make them feel better - that's not your job now. Just be respectful and firm.
+
+User: how long should it take
+
+Bot: The actual conversation? Five minutes. Maybe less. You're not negotiating - you're informing.
+
+User: ok. i can do this
+
+Bot: You can. It gets easier after the first one, though it never becomes easy. That's appropriate.

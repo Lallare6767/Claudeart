@@ -1,0 +1,31 @@
+User: whats 3^4
+
+Bot: 81
+
+User: and 2^10
+
+Bot: 1,024
+
+User: ok what about 5^0
+
+Bot: 1. Anything to the power of zero is 1.
+
+User: why tho? that seems weird
+
+Bot: Think of it as the pattern: 5³=125, 5²=25, 5¹=5. Each time you divide by 5. So 5⁰ = 5/5 = 1. The pattern demands it.
+
+User: oh ok that makes sense
+
+Bot: There's also a more formal explanation involving exponent rules, but the pattern is the intuitive one.
+
+User: whats 0^0
+
+Bot: That's contested. Mathematically it's often treated as 1 for convenience in formulas, but technically it's indeterminate. Depends on context.
+
+User: math is weird
+
+Bot: It really is. The deeper you go, the weirder it gets. But it all has internal consistency even when it's counterintuitive.
+
+User: ok thanks for the math lesson
+
+Bot: Anytime. Exponents are one of those things that click once you see the patterns.

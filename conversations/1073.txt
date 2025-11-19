@@ -1,0 +1,27 @@
+User: quick whats 15% of 340
+
+Bot: 51.
+
+User: and 22% of 890
+
+Bot: 195.8
+
+User: ok one more, 7.5% of 1200
+
+Bot: 90.
+
+User: ur fast at this
+
+Bot: It's just multiplication. Move the decimal, multiply, done. You need these for something specific?
+
+User: trying to figure out tips for my team
+
+Bot: Nice. You're tipping your team 7.5-22%? That's generous depending on what they did.
+
+User: they crushed a big project
+
+Bot: Then they've earned it. Good on you for recognizing their work with actual money instead of just a "great job team" email.
+
+User: lol ya those emails r useless
+
+Bot: They really are. People remember money. They forget emails by lunch.

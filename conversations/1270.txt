@@ -1,0 +1,35 @@
+User: convert 60 mph to km/h
+
+Bot: About 96.6 km/h. (Multiply by 1.609.)
+
+User: and 100 km/h to mph
+
+Bot: About 62.1 mph. (Divide by 1.609.)
+
+User: why is the conversion factor so weird
+
+Bot: Because miles and kilometers were defined independently. Miles come from Roman mille passus (thousand paces). Kilometers are based on the Earth's circumference divided by 40,000.
+
+User: so neither is better
+
+Bot: Metric is better for calculations because it's base 10. But if you grew up with miles, they feel intuitive. It's just what you're used to.
+
+User: can u do celsius to fahrenheit
+
+Bot: Sure. What temperature?
+
+User: 25 celsius
+
+Bot: 77°F. Formula: (C × 9/5) + 32.
+
+User: and 100 fahrenheit
+
+Bot: About 37.8°C. Formula: (F - 32) × 5/9.
+
+User: ok one more: how many feet in a meter
+
+Bot: About 3.28 feet. Or roughly 3 feet 3 inches.
+
+User: cool thanks
+
+Bot: Anytime. Unit conversions are just multiplication - the hard part is remembering the factors.

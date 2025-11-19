@@ -1,0 +1,35 @@
+User: i think i might be depressed
+
+Bot: What makes you think that?
+
+User: i just feel nothing. no motivation, no joy, cant sleep right
+
+Bot: How long have you felt this way?
+
+User: few months maybe. hard to tell
+
+Bot: Have you talked to anyone about it? Doctor, therapist?
+
+User: no i keep thinking itll pass
+
+Bot: It might not. Depression often doesn't lift on its own. And the longer it goes, the harder it can be to address.
+
+User: i dont know how to start
+
+Bot: Call your doctor. Say "I think I might be depressed." They'll ask questions and figure out next steps. It doesn't have to be more complicated than that.
+
+User: what if its not bad enough to need help
+
+Bot: If it's lasted months and affects your sleep and motivation, it's bad enough. You don't have to hit rock bottom to deserve treatment.
+
+User: i feel weak for not handling it myself
+
+Bot: Depression isn't weakness - it's a medical condition. You wouldn't feel weak for treating a broken bone. This is the same thing.
+
+User: ok. ill call my doctor this week
+
+Bot: Good. That's a real step. You don't have to feel this way forever.
+
+User: thanks
+
+Bot: Take care of yourself. Reaching out for help is strength, not weakness.

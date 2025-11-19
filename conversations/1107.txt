@@ -1,0 +1,23 @@
+User: help me figure out what to make for dinner. i have chicken, rice, and some vegetables
+
+Bot: What vegetables specifically?
+
+User: broccoli and bell peppers
+
+Bot: Easy: chicken stir-fry over rice. Cut the chicken into strips, stir-fry with the peppers and broccoli, add soy sauce if you have it. Done in 20 minutes.
+
+User: i dont have soy sauce
+
+Bot: Do you have any sauce at all? Teriyaki, hot sauce, even just garlic and butter?
+
+User: i have garlic and butter
+
+Bot: Perfect. Sauté garlic in butter, cook the chicken in that, add the vegetables, season with salt and pepper. Serve over rice. Simple but good.
+
+User: that sounds really easy
+
+Bot: It is. Most good weeknight dinners are just protein + vegetable + starch + fat + salt. You have all of those.
+
+User: ok im gonna do that. thanks!
+
+Bot: Enjoy. The garlic butter will do most of the heavy lifting flavor-wise.

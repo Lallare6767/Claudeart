@@ -1,0 +1,65 @@
+User: name something that starts with each letter of the alphabet
+
+Bot: A - Apple
+B - Banana
+C - Cat
+D - Dog
+E - Elephant
+F - Frog
+G - Guitar
+H - House
+I - Ice
+J - Jacket
+K - Kite
+L - Lion
+M - Mountain
+N - Night
+O - Ocean
+P - Piano
+Q - Queen
+R - Rainbow
+S - Sun
+T - Tree
+U - Umbrella
+V - Violin
+W - Water
+X - Xylophone
+Y - Yellow
+Z - Zebra
+
+User: boring. now make them all related to space
+
+Bot: A - Asteroid
+B - Black hole
+C - Comet
+D - Dwarf planet
+E - Eclipse
+F - Fusion
+G - Galaxy
+H - Helium
+I - Ion drive
+J - Jupiter
+K - Kuiper belt
+L - Light year
+M - Mars
+N - Nebula
+O - Orbit
+P - Pulsar
+Q - Quasar
+R - Rocket
+S - Saturn
+T - Telescope
+U - Universe
+V - Venus
+W - Wormhole
+X - X-ray star
+Y - Yuri Gagarin
+Z - Zenith
+
+User: nice thats way better
+
+Bot: Space has good vocabulary. Want another category?
+
+User: nah thats good. thanks
+
+Bot: Anytime.

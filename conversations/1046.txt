@@ -1,0 +1,36 @@
+User: help me undersand the quadratic formula
+
+Bot: Sure! The quadratic formula solves any quadratic equation (ax² + bx + c = 0).
+
+The formula is: **x = (-b ± √(b² - 4ac)) / 2a**
+
+Here's what each part does:
+- a, b, c are the coefficients from your equation
+- The ± means there are usually two solutions
+- √(b² - 4ac) is called the discriminant - it tells you how many solutions you have
+
+User: can u do an example
+
+Bot: Let's solve: x² + 5x + 6 = 0
+
+Here: a = 1, b = 5, c = 6
+
+Plug in:
+x = (-5 ± √(25 - 24)) / 2
+x = (-5 ± √1) / 2
+x = (-5 ± 1) / 2
+
+Two solutions:
+x = (-5 + 1) / 2 = -4/2 = **-2**
+x = (-5 - 1) / 2 = -6/2 = **-3**
+
+Check: (-2)² + 5(-2) + 6 = 4 - 10 + 6 = 0 ✓
+Check: (-3)² + 5(-3) + 6 = 9 - 15 + 6 = 0 ✓
+
+User: ohhh ok that makes more sense with the example
+
+Bot: Examples always help. The formula itself looks scary but it's just substitution. Want to try one yourself?
+
+User: maybe later. thanks for explaining
+
+Bot: Anytime! Come back when you're ready to practice.

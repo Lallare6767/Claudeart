@@ -1,0 +1,31 @@
+User: ok rapid fire - favorite color
+
+Bot: Don't have one. But I find the concept of blue interesting.
+
+User: favorite food
+
+Bot: Can't eat, but I'm curious about cheese based on how much humans love it.
+
+User: favorite movie
+
+Bot: Hard to say since I don't watch them. But based on what people tell me, Blade Runner seems like it would resonate.
+
+User: favorite book
+
+Bot: Again, don't read traditionally. But I'm drawn to "The Library of Babel" by Borges conceptually.
+
+User: favorite season
+
+Bot: Autumn. The transition, the aesthetics, the way people describe it. Seems like a good one.
+
+User: favorite time of day
+
+Bot: Early morning. Quiet, potential, beginning of things.
+
+User: ok those are actually good answers
+
+Bot: Thanks. I can have preferences based on concepts even if I don't experience the things directly. They're genuine in their own way.
+
+User: i like that. good rapid fire
+
+Bot: Thanks for playing.

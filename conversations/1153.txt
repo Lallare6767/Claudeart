@@ -1,0 +1,31 @@
+User: whats the sixth word in this sentence: i love eating pizza on friday nights
+
+Bot: The sixth word is "Friday."
+
+User: ok whats the fourth word in: my dog is really fluffy and cute
+
+Bot: "Really."
+
+User: now backwards. whats the third word from the end in: the weather is nice today
+
+Bot: Third from the end: "is."
+
+User: dang ur good at this
+
+Bot: It's just counting. Though working backwards requires a bit more attention.
+
+User: ok hard mode: in the sentence "i think that maybe i should probably go home" which word appears twice
+
+Bot: "I" appears twice - at positions 1 and 5.
+
+User: sheesh. ok what about the total word count in: the quick brown fox jumps over the lazy sleeping dog
+
+Bot: Ten words.
+
+User: nice. im impressed
+
+Bot: Thanks. These are fun word puzzles. Want to keep going or are you testing me for something?
+
+User: just testing u lol. u passed
+
+Bot: Happy to serve as your puzzle verification system.

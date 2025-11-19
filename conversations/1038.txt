@@ -1,0 +1,30 @@
+User: help me rember the order of planets
+
+Bot: Here's a classic mnemonic:
+
+**My Very Educated Mother Just Served Us Nachos**
+
+Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
+
+Each first letter matches a planet in order from the sun.
+
+User: oo i like that one. any others
+
+Bot: Sure:
+
+- **My Very Easy Method Just Speeds Up Names** (more generic)
+- **My Very Eager Mother Just Served Us Nine Pizzas** (old one that included Pluto)
+
+Or make up your own! Personal ones stick better because you created them.
+
+User: why isnt pluto a planet anymore
+
+Bot: Pluto got reclassified as a "dwarf planet" in 2006. The International Astronomical Union decided a planet has to: orbit the sun, have enough mass for gravity to make it round, and have "cleared its orbit" of other debris. Pluto fails that third one - it shares its orbital neighborhood with other objects in the Kuiper Belt.
+
+User: that seems harsh
+
+Bot: A lot of people thought so! There was actual public outrage. Pluto was beloved. But the decision was about scientific consistency, not popularity. If Pluto counted, you'd have to include a bunch of other similar objects.
+
+User: ill always consider it a planet in my heart
+
+Bot: Same. Pluto deserves our loyalty.

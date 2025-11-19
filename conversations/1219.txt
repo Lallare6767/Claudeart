@@ -1,0 +1,31 @@
+User: im thinking about going back to school
+
+Bot: For what and why?
+
+User: masters in data science. i want to switch careers
+
+Bot: Is a masters actually required for data science roles in your area? Or could you learn the skills other ways?
+
+User: i dont know actually
+
+Bot: Check job postings. See what they actually require vs what's "preferred." A masters is 2 years and $50k+. Make sure you need it.
+
+User: ya thats a good point
+
+Bot: Alternative paths: bootcamps, self-study with portfolio projects, certifications. All cheaper and faster. Less prestige but potentially enough.
+
+User: but wont the degree look better
+
+Bot: Maybe. But experience and demonstrated skills often matter more in tech. If you can show you know the work, many employers don't care how you learned it.
+
+User: so u think i shouldnt do it
+
+Bot: I think you should investigate before assuming it's the path. Talk to people in data science roles. Ask what they actually value in candidates.
+
+User: ok thats fair. ill do some research
+
+Bot: Good. It might be the right choice, but make it with information, not assumption.
+
+User: thanks for not just telling me what i wanted to hear
+
+Bot: That's kind of my thing.

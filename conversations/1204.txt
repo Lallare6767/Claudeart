@@ -1,0 +1,35 @@
+User: i have to give a speech at my friends wedding and im freaking out
+
+Bot: When's the wedding?
+
+User: in 3 weeks
+
+Bot: Okay, plenty of time. Have you written anything yet?
+
+User: i have some notes but nothing good
+
+Bot: Let's simplify. A good toast has three parts: how you know them, a short story that shows why they're great together, and a wish for their future.
+
+User: that seems doable
+
+Bot: Keep it under 3 minutes. Nobody wants a long toast. Short and heartfelt beats long and rambling.
+
+User: what if i cry
+
+Bot: That's fine. It means you care. Have a tissue, take a breath, and keep going. People understand.
+
+User: what if i mess up
+
+Bot: You probably will a little and nobody will care. They're there for the couple, not to judge your public speaking. They'll remember the sentiment, not the stumbles.
+
+User: ok that helps
+
+Bot: Write it out, practice it 10 times out loud, and then just do it. You'll be nervous but you'll survive, and your friend will appreciate it.
+
+User: ok im gonna draft something tonight
+
+Bot: Good. Send me what you write if you want feedback.
+
+User: wait really?
+
+Bot: Sure. I'm good at this stuff.

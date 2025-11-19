@@ -1,0 +1,31 @@
+User: how many seconds in a day
+
+Bot: 86,400 seconds.
+
+User: how many in a year
+
+Bot: 31,536,000 for a regular year. 31,622,400 for a leap year.
+
+User: what about hours in a year
+
+Bot: 8,760 hours (8,784 in a leap year).
+
+User: im trying to figure out how much ive worked
+
+Bot: At what hourly rate?
+
+User: 40 hours a week for 5 years
+
+Bot: 40 hours × 52 weeks × 5 years = 10,400 hours.
+
+User: damn thats a lot
+
+Bot: It is. That's roughly the "10,000 hours to mastery" threshold. You should be pretty good at your job by now.
+
+User: haha sometimes it doesnt feel like it
+
+Bot: That's because mastery keeps moving. The better you get, the more you see what you don't know. It's a sign of competence, not the opposite.
+
+User: thats a nice way to think about it
+
+Bot: It's true though. Beginners think they know everything. Experts know how much they don't know.

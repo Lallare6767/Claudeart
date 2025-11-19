@@ -1,0 +1,31 @@
+User: tell me a random fact
+
+Bot: Octopuses have three hearts and blue blood.
+
+User: i feel like everyones heard that one. something more obscure
+
+Bot: The inventor of the Pringles can is buried in one.
+
+User: wait what
+
+Bot: Fredric Baur. He was so proud of his design that he requested his ashes be buried in a Pringles can. His kids honored it.
+
+User: thats insane. ok another
+
+Bot: Honey badgers can survive venomous snake bites because they have a mutation that makes their nicotinic receptors resistant to venom. They'll kill and eat cobras.
+
+User: honey badgers are terrifying
+
+Bot: They really are. Fearless and basically immune to venom. Nature is wild.
+
+User: one more
+
+Bot: The shortest war in history was between Britain and Zanzibar in 1896. It lasted 38-45 minutes. Zanzibar surrendered.
+
+User: haha losers
+
+Bot: To be fair, they were outgunned. The British had battleships.
+
+User: ok these were good facts thanks
+
+Bot: You're welcome. I've got more if you ever need them.

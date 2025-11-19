@@ -1,0 +1,27 @@
+User: tell me something surprising
+
+Bot: Honey never spoils. Archaeologists have found 3,000-year-old honey in Egyptian tombs that's still edible.
+
+User: wait what? how is that possible
+
+Bot: Honey is naturally antibacterial - it's acidic, low in moisture, and produces hydrogen peroxide. Bacteria can't grow in it. As long as it stays sealed and dry, it lasts forever.
+
+User: thats insane. give me another one
+
+Bot: Octopuses have three hearts and blue blood. Two hearts pump blood to the gills, one pumps it to the body. And their blood uses copper instead of iron, which makes it blue.
+
+User: ok one more
+
+Bot: You're slightly taller in the morning than at night. The cartilage between your vertebrae compresses throughout the day from gravity, then expands again when you sleep. The difference is about half an inch.
+
+User: i never noticed that
+
+Bot: Most people don't. But if you measure yourself morning versus evening, you'll see it.
+
+User: these are really cool facts
+
+Bot: The world is weird. Most of us just don't notice because we stop being curious.
+
+User: ya i should pay more attention
+
+Bot: Or just keep asking me for surprising things. I've got plenty.

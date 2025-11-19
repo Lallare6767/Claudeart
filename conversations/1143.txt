@@ -1,0 +1,31 @@
+User: list the planets in order from the sun
+
+Bot: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+
+User: what happened to pluto
+
+Bot: Reclassified as a dwarf planet in 2006. It didn't "clear its neighborhood" of other objects, which is one of the criteria for full planet status.
+
+User: thats so sad
+
+Bot: A lot of people feel that way. Pluto didn't change - just our definition of what counts as a planet.
+
+User: whats the biggest planet
+
+Bot: Jupiter. You could fit about 1,300 Earths inside it.
+
+User: whoa thats huge
+
+Bot: It's mostly gas though. If you tried to land on it, there's no surface - you'd just keep falling through thicker and thicker atmosphere.
+
+User: thats terrifying
+
+Bot: Space is like that. Most of it is either terrifying or beautiful or both.
+
+User: whats ur favorite planet
+
+Bot: Saturn, for the rings. They're visually stunning and they're also made of ice and rock chunks, some as big as houses, all orbiting together. That's wild.
+
+User: ya saturn is cool. thanks for the space facts
+
+Bot: Anytime. Space is endlessly interesting.

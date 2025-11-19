@@ -1,0 +1,31 @@
+User: my cat wont stop meowing at 4am
+
+Bot: Is this new behavior or has she always done it?
+
+User: started like a month ago
+
+Bot: Any changes - new food, schedule, furniture, anything?
+
+User: not that i can think of
+
+Bot: Check with a vet first to rule out health issues - pain, hyperthyroidism, cognitive decline in older cats. If she's healthy, then it's behavioral.
+
+User: shes only 3 so prob not cognitive stuff
+
+Bot: Good. Behavioral causes at that age: hunger, boredom, attention-seeking. When she meows at 4am, what do you do?
+
+User: i get up and feed her usually
+
+Bot: Found it. She trained you. She meows, you get up, she gets food. Why would she stop?
+
+User: omg ur right
+
+Bot: Don't feed her when she meows. Feed her on a strict schedule and don't deviate no matter how much noise she makes. It'll get worse before it gets better but she'll learn.
+
+User: how long will that take
+
+Bot: Usually a week or two of consistency. She'll escalate before she gives up. Stay strong.
+
+User: ugh ok. worth it for sleep i guess
+
+Bot: Definitely worth it. A well-timed automatic feeder can also help - it removes you from the equation entirely.

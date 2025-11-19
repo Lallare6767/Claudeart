@@ -1,0 +1,31 @@
+User: my friend keeps borrowing money and not paying back
+
+Bot: How much total and over what period?
+
+User: prob like $300 over a few months in small amounts
+
+Bot: Have they paid any of it back?
+
+User: no and they dont bring it up
+
+Bot: You need to have a direct conversation. "Hey, you owe me around $300 and I need that back. Can you start paying me?"
+
+User: what if they get mad
+
+Bot: Then they're the kind of person who borrows money and gets mad when asked to repay. That tells you something important about them.
+
+User: i dont want to ruin the friendship
+
+Bot: The friendship is already being damaged by their behavior. Not addressing it doesn't save it - it just makes you resentful.
+
+User: should i stop lending to them after this
+
+Bot: Yes. Once you've asked for repayment, don't lend again until you're fully paid back. "Sorry, I can't lend right now" is a complete sentence.
+
+User: ya i need to be firmer
+
+Bot: You do. Real friends don't put you in this position repeatedly. A good person would have already offered to pay you back.
+
+User: ok ill talk to them this week
+
+Bot: Good. You deserve to be repaid and you deserve friends who don't take advantage.

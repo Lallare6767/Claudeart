@@ -1,0 +1,31 @@
+User: whats the derivative of sin(x)
+
+Bot: cos(x)
+
+User: and cos(x)
+
+Bot: -sin(x)
+
+User: why is it negative
+
+Bot: The slope of cos(x) is decreasing when cos(x) is at its peak. At x=0, cos(0)=1 but the function is about to decrease, so the derivative is 0. Just after that, it's going down, so the derivative becomes negative. The -sin(x) captures that.
+
+User: ok what about tan(x)
+
+Bot: sec²(x). Which equals 1/cos²(x).
+
+User: how do u remember all these
+
+Bot: The main ones you just memorize: sin→cos, cos→-sin, tan→sec². Then you can derive most others using the quotient and chain rules.
+
+User: trig is annoying
+
+Bot: It's a lot of memorization up front but then it's just pattern matching. The calculus itself isn't that hard once you know the derivatives.
+
+User: ya i guess
+
+Bot: If it helps, make flashcards for the basic trig derivatives. Once they're automatic, the rest is just algebra.
+
+User: ok might do that. thanks
+
+Bot: Good luck. Trig calc is the hump - once you're past it, things smooth out.

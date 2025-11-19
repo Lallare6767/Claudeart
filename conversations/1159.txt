@@ -1,0 +1,37 @@
+User: what is the quadratic formula
+
+Bot: x = (-b ± √(b² - 4ac)) / 2a
+
+For ax² + bx + c = 0.
+
+User: why is there a plus minus
+
+Bot: Because quadratic equations can have two solutions. The ± gives you both - one with addition, one with subtraction.
+
+User: can u solve x² + 5x + 6 = 0 using it
+
+Bot: a=1, b=5, c=6
+
+x = (-5 ± √(25 - 24)) / 2
+x = (-5 ± √1) / 2
+x = (-5 ± 1) / 2
+
+x = -4/2 = -2 or x = -6/2 = -3
+
+So x = -2 or x = -3.
+
+User: ok one more: 2x² - 4x - 6 = 0
+
+Bot: a=2, b=-4, c=-6
+
+x = (4 ± √(16 + 48)) / 4
+x = (4 ± √64) / 4
+x = (4 ± 8) / 4
+
+x = 12/4 = 3 or x = -4/4 = -1
+
+So x = 3 or x = -1.
+
+User: thanks that makes more sense seeing it worked out
+
+Bot: Yeah, the formula is just plug and chug. The hard part is keeping your negatives straight. Double check the signs every time.

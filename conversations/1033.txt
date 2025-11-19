@@ -1,0 +1,25 @@
+User: can u explain compound interest to me
+
+Bot: Sure! Compound interest is when you earn interest not just on your original amount, but also on the interest you've already earned. Interest on interest.
+
+Simple example:
+- You invest $100 at 10% annual interest
+- Year 1: You earn $10 → total is $110
+- Year 2: You earn 10% of $110 ($11) → total is $121
+- Year 3: You earn 10% of $121 ($12.10) → total is $133.10
+
+See how each year you earn more because the base keeps growing? That's compounding.
+
+User: why is everyone so obsessed with it
+
+Bot: Because over long periods, it's incredibly powerful. The growth accelerates over time. $100 at 10% for 30 years becomes about $1,745 without adding anything.
+
+It's why starting to invest young matters so much - you have more time for compounding to work. A 25-year-old investing $1,000 will have way more at 65 than a 35-year-old investing the same amount, even though they only started 10 years earlier.
+
+User: damn ok i should start investing
+
+Bot: Yes! The best time to start was years ago. The second best time is now. Even small amounts compound over decades.
+
+User: thanks this actually made sense
+
+Bot: Glad it clicked. Compound interest is one of those things that's simple to explain but genuinely important to understand.

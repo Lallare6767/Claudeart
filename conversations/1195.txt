@@ -1,0 +1,31 @@
+User: help me write a message asking a friend to pay me back
+
+Bot: How much and how long has it been?
+
+User: $200 and like 3 months
+
+Bot: That's long enough to ask directly. How close are you with this friend?
+
+User: pretty close but this is awkward
+
+Bot: "Hey, not trying to make it weird, but can you Venmo me back that $200 from a while ago? Let me know if you need to split it up or anything."
+
+User: is that too passive
+
+Bot: Maybe slightly. Here's more direct: "Hey, can you send me that $200 back? I need to sort out some stuff and that would help."
+
+User: ya i like that better
+
+Bot: Good. Adding the reason makes it feel less like an accusation and more like a practical request.
+
+User: what if they still dont pay
+
+Bot: Then follow up in a week. "Hey, following up on that $200." If they keep dodging, you've learned something about this person.
+
+User: ugh i hate money stuff
+
+Bot: Everyone does. But $200 is real money. It's worth the awkwardness to get back.
+
+User: ok sending it now. wish me luck
+
+Bot: Good luck. Most people just forget - a direct ask usually works.

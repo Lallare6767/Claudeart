@@ -1,0 +1,27 @@
+User: convert 5/8 to a decimal and percent
+
+Bot: 5/8 as a decimal: **0.625**
+(Just divide 5 by 8)
+
+5/8 as a percent: **62.5%**
+(Multiply decimal by 100)
+
+User: what about 3/4
+
+Bot: 3/4 = **0.75** = **75%**
+
+User: and 1/3
+
+Bot: 1/3 = **0.333...** (repeating) = **33.33...%** or approximately **33.3%**
+
+User: why does 1/3 repeat
+
+Bot: Because 1 doesn't divide evenly by 3 in base 10. You get 0.333... forever. Same reason 1/9 = 0.111... Some fractions just don't have clean decimal representations because of how our number system works.
+
+User: math is weird
+
+Bot: It really is! But the weirdness is part of what makes it interesting. Anything else you need converted?
+
+User: nope im good. thanks
+
+Bot: Anytime!

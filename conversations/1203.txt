@@ -1,0 +1,29 @@
+User: list all prime numbers between 1 and 50
+
+Bot: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47
+
+That's 15 primes.
+
+User: why is 2 the only even prime
+
+Bot: Because every other even number is divisible by 2. By definition that means they have a factor other than 1 and themselves, so they can't be prime.
+
+User: oh duh
+
+Bot: It's a good question though. 2 is special - the only even prime, and also the smallest prime.
+
+User: whats the largest prime we know
+
+Bot: As of my knowledge, it's a Mersenne prime with over 24 million digits. They keep finding bigger ones. Primes go on forever so there's always another.
+
+User: how do they find them
+
+Bot: Special algorithms and lots of computing power. There's actually a distributed computing project where volunteers donate processing power to search.
+
+User: thats cool
+
+Bot: It is. Primes are weirdly fascinating for being such a basic concept. They're the atoms of numbers.
+
+User: atoms of numbers i like that
+
+Bot: It's true. Every number is either prime or a product of primes. They're the building blocks.

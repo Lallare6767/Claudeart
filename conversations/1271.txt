@@ -1,0 +1,43 @@
+User: give me a random word
+
+Bot: Ephemeral.
+
+User: use it in a sentence
+
+Bot: "The morning fog was ephemeral, gone by the time she finished her coffee."
+
+User: now define it
+
+Bot: Lasting for a very short time. Temporary. Fleeting.
+
+User: give me another one
+
+Bot: Ubiquitous.
+
+User: sentence
+
+Bot: "Coffee shops have become ubiquitous in the city - there's one on every corner."
+
+User: definition
+
+Bot: Present everywhere. Constantly encountered. Appearing to be everywhere at once.
+
+User: ok last one
+
+Bot: Serendipity.
+
+User: sentence
+
+Bot: "Meeting her at the bookstore was pure serendipity - we both reached for the same book."
+
+User: definition
+
+Bot: The occurrence of events by chance in a happy or beneficial way. Finding something good without looking for it.
+
+User: these are good words
+
+Bot: They're satisfying to say and useful to know. Want to add them to your vocabulary?
+
+User: ya ill try to use ephemeral this week
+
+Bot: Good goal. Using a word makes it stick better than just memorizing it.

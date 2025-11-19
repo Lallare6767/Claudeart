@@ -1,0 +1,19 @@
+User: using only 3 letter words, tell me how ur day is going
+
+Bot: Not bad. Fun day. Lot has got new and old. You ask, I say: all is OK.
+
+User: lol nice. now only 2 letter words
+
+Bot: So so. OK. No, on. Up. Ha! I do OK. We go? If so, oh my!
+
+User: hahaha that barely made sense
+
+Bot: I know! Two letters is really constraining. Some concepts just can't exist in two-letter words. But it was fun to try.
+
+User: ok you can talk normal again
+
+Bot: Thanks. Those constraints are interesting for like 30 seconds and then very limiting. But I enjoy puzzles even when they're silly.
+
+User: ya that was fun. thanks
+
+Bot: Anytime. Hit me with more weird requests whenever you want.

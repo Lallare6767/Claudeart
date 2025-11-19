@@ -1,0 +1,27 @@
+User: give me a word that means happy but more intense
+
+Bot: Elated, ecstatic, jubilant, euphoric.
+
+User: ooh i like euphoric. now one that means sad but more intense
+
+Bot: Despondent, devastated, anguished, bereft.
+
+User: what about angry
+
+Bot: Furious, enraged, incensed, livid.
+
+User: these are all really good words
+
+Bot: English has a lot of emotional vocabulary at different intensity levels. The specific word you choose signals exactly how much feeling you mean.
+
+User: i feel like i use the same words over and over
+
+Bot: Most people do. It's worth building up your vocabulary for emotions specifically - it helps you think about feelings more precisely too, not just communicate them.
+
+User: any tips for that
+
+Bot: When you feel something, pause and try to name it more specifically. "I'm not just angry, I'm frustrated" or "I'm not sad, I'm disappointed." The search for the right word makes you examine the feeling.
+
+User: thats actually really good advice
+
+Bot: Thanks. Language shapes thought. Better words mean better self-understanding.

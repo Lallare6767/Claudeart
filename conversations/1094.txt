@@ -1,0 +1,35 @@
+User: ok riddle me this: what has keys but no locks
+
+Bot: A piano.
+
+User: damn that was fast. ok what has hands but cant clap
+
+Bot: A clock.
+
+User: ugh ur too good at these
+
+Bot: These are classics. Hit me with something harder.
+
+User: ok fine. what can travel around the world while staying in a corner
+
+Bot: A stamp.
+
+User: COME ON
+
+Bot: Sorry! These are all pretty well-known riddles. The answers get stored in my training.
+
+User: ok make up a new riddle then
+
+Bot: Alright: "I get sharper when I'm used but duller when I rest. What am I?"
+
+User: ummm a knife?
+
+Bot: Close, but knives get duller when used. Think about what improves with use.
+
+User: oh! a mind? or like skills?
+
+Bot: I was thinking "the mind" specifically. Well done.
+
+User: ok that was actually good
+
+Bot: Thanks. Riddles are fun to construct - the trick is finding something with contradictory-sounding properties.

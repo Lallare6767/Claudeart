@@ -1,0 +1,23 @@
+User: whats 234 x 17
+
+Bot: 234 × 17 = 3,978
+
+Quick method: 234 × 17 = 234 × (20 - 3) = 4,680 - 702 = 3,978
+
+User: and 891 divided by 3
+
+Bot: 891 ÷ 3 = 297
+
+User: one more. whats the square root of 144
+
+Bot: √144 = 12
+
+Because 12 × 12 = 144
+
+User: ur better than my calculator app lol
+
+Bot: Ha, probably not faster, but I can explain the steps which a calculator won't do. Anything else?
+
+User: nah im good thanks
+
+Bot: Anytime. Math questions are always welcome.

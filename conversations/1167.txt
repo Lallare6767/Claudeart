@@ -1,0 +1,31 @@
+User: i want to learn to cook better
+
+Bot: What can you currently make?
+
+User: like basic stuff. eggs, pasta, grilled cheese
+
+Bot: Good foundation. What do you want to be able to make?
+
+User: actual meals that impress people
+
+Bot: Pick one cuisine you like eating and learn five dishes from it. Mastering a small set is better than dabbling in everything.
+
+User: maybe italian?
+
+Bot: Great choice. Learn: proper pasta with garlic and oil (aglio e olio), a good tomato sauce, risotto, chicken piccata, and a simple salad dressing. That's five meals plus variations.
+
+User: where do i learn
+
+Bot: YouTube. Serious Eats for technique explanations. Just pick recipes and cook them multiple times until they're muscle memory.
+
+User: do i need fancy equipment
+
+Bot: No. A sharp knife, a decent pan, and a cutting board. That's 90% of it. Equipment obsession is procrastination.
+
+User: ok so just start cooking stuff
+
+Bot: Exactly. Cook the same dish three times in a row. By the third time you'll know it. Then move to the next one.
+
+User: that seems manageable
+
+Bot: It is. Cooking isn't talent - it's just practice. Start this week.

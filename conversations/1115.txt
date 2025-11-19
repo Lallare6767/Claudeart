@@ -1,0 +1,35 @@
+User: whats 3/4 plus 2/3
+
+Bot: First find a common denominator. 12 works.
+
+3/4 = 9/12
+2/3 = 8/12
+
+9/12 + 8/12 = 17/12 = 1 and 5/12
+
+User: ok what about 5/6 minus 1/4
+
+Bot: Common denominator 12 again.
+
+5/6 = 10/12
+1/4 = 3/12
+
+10/12 - 3/12 = 7/12
+
+User: and 2/5 times 3/7
+
+Bot: Just multiply across: 2×3 = 6, 5×7 = 35.
+
+2/5 × 3/7 = 6/35
+
+User: and divide 3/4 by 2/3
+
+Bot: Flip and multiply: 3/4 × 3/2 = 9/8 = 1 and 1/8
+
+User: ur like a fraction calculator
+
+Bot: Pretty much. The rules are mechanical once you know them - find common denominators for add/subtract, multiply straight across, flip and multiply for division.
+
+User: ya i think i got it now. thanks
+
+Bot: Nice. Fractions click once the patterns become automatic.

@@ -1,0 +1,27 @@
+User: how many words are in this sentence: the quick brown fox jumps over the lazy dog
+
+Bot: Nine words.
+
+User: what about: i really really really love pizza so much
+
+Bot: Eight words.
+
+User: does really count as one word or three
+
+Bot: Three separate instances of "really," so three words. Total: eight.
+
+User: ok whats the longest word in that sentence
+
+Bot: "Really" and "pizza" are both six letters. They're tied for longest.
+
+User: what if i said i really really really love pizzaaaaa
+
+Bot: Then "pizzaaaaa" would be the longest at ten letters. Though it's not a real word, just pizza with extra a's.
+
+User: lol true. ok one more: she sells seashells by the seashore
+
+Bot: Six words. "Seashells" and "seashore" are each one word even though they're compound.
+
+User: ur good at this
+
+Bot: It's just counting. The tricky part is edge cases like contractions and hyphenated words, but these were straightforward.

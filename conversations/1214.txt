@@ -1,0 +1,33 @@
+User: if i run 3 miles in 27 minutes whats my pace
+
+Bot: 9 minutes per mile.
+
+27 ÷ 3 = 9
+
+User: is that good
+
+Bot: It's solid for recreational running. Not competitive racing pace, but plenty fast for fitness and health benefits.
+
+User: what would competitive be
+
+Bot: Depends on the level. A good amateur might run 6-7 minute miles. College athletes do 5-6. Elite marathoners sustain around 4:45 per mile for 26 miles.
+
+User: jeez thats insane
+
+Bot: It really is. Those numbers require both talent and years of dedicated training.
+
+User: my goal is like 8 minute miles
+
+Bot: That's achievable. Mix in interval training and tempo runs. Vary your pace instead of always running at the same speed.
+
+User: whats a tempo run
+
+Bot: Sustained effort at a "comfortably hard" pace - faster than easy jogging but not all-out. Usually 20-30 minutes. Builds your lactate threshold.
+
+User: ok ill try that
+
+Bot: Good luck. Dropping a minute off your pace takes work but it's doable.
+
+User: thanks for the running advice lol
+
+Bot: I contain multitudes.

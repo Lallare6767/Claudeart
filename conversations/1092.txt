@@ -1,0 +1,27 @@
+User: convert 5/8 to a decimal
+
+Bot: 0.625
+
+User: and 7/16
+
+Bot: 0.4375
+
+User: how do u do that so fast
+
+Bot: Just division. 7 ÷ 16. With practice you memorize common ones. 1/8 = 0.125, so 5/8 = 0.625. 1/16 = 0.0625, so you can build from there.
+
+User: whats 11/12
+
+Bot: 0.9166... (repeating). Or approximately 0.917.
+
+User: how do i know when itll repeat
+
+Bot: If the denominator has only 2s and 5s as prime factors, it terminates. Otherwise it repeats. 12 = 2² × 3, that 3 makes it repeat.
+
+User: oh thats actually a useful rule
+
+Bot: Yeah, it saves you from wondering why the division keeps going. 8 and 16 are powers of 2, so they terminate. 12 has a 3, so it repeats.
+
+User: cool thanks
+
+Bot: Anytime. Fractions and decimals are just two ways of writing the same thing.

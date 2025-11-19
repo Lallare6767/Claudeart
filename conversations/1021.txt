@@ -1,0 +1,29 @@
+User: i have a job interview tmrw and im freaking out
+
+Bot: First, take a breath. Nerves are normal and even helpful - they show you care. What's the job and what specifically is worrying you?
+
+User: its for a customer service role. im worried ill blank on answers
+
+Bot: Blanking happens when you're trying to remember a perfect answer instead of just responding to the question. Here's what helps:
+
+1. Prepare stories, not scripts. Think of 3-5 situations from your life that show problem-solving, teamwork, handling stress.
+2. Use the STAR method: Situation, Task, Action, Result.
+3. If you blank, it's okay to pause. Say "That's a good question, let me think for a second."
+
+For customer service specifically, they'll ask about difficult customers, multitasking, communication. Have examples ready.
+
+User: what if they ask something i dont expect
+
+Bot: Then you figure it out in real time, which is fine and often more authentic than a rehearsed answer. They know you're nervous. They're not expecting perfection. They're looking for someone who can think, communicate, and learn.
+
+User: what should i wear
+
+Bot: For customer service, business casual is usually safe. Nice pants or skirt, collared shirt or blouse, clean shoes. Not too formal unless you know their culture is more corporate.
+
+User: ok. any last tips?
+
+Bot: Arrive early. Bring copies of your resume. Make eye contact. Ask questions at the end - shows you're engaged. And remember: they want you to do well. They need to fill the position. You're not there to prove yourself worthy - you're there to see if it's a good mutual fit.
+
+User: that last part helps. thanks
+
+Bot: You're going to do great. Let me know how it goes!

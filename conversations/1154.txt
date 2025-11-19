@@ -1,0 +1,31 @@
+User: I just adopted a kitten and im nervous
+
+Bot: Congratulations! Nervous about what specifically?
+
+User: like taking care of her properly. ive never had a cat before
+
+Bot: Cats are pretty low-maintenance compared to other pets. The basics: food and water, clean litter box, safe space to hide, things to scratch, and playtime.
+
+User: how often do i clean the litter
+
+Bot: Scoop daily, full clean weekly. Cats are picky about cleanliness - if the box is gross, they'll find somewhere else to go.
+
+User: ok what about food
+
+Bot: Wet food or quality dry food, twice a day. Don't free-feed dry food or they'll get fat. Fresh water always available.
+
+User: she keeps hiding under the bed
+
+Bot: Totally normal for a new cat. She's scared and adjusting. Don't force her out - let her come to you. Put food and water near her hiding spot and just exist quietly in the room.
+
+User: how long until shes comfortable
+
+Bot: Could be a few days, could be a few weeks. Depends on the cat. Just be patient and gentle.
+
+User: ok. i just want her to like me
+
+Bot: She will. You're her food source and her warm body. Once she trusts you, she'll be attached. Give it time.
+
+User: ok. thanks for the reassurance
+
+Bot: You've got this. Kittens are resilient. Just love her and learn as you go.

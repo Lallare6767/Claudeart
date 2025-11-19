@@ -1,0 +1,35 @@
+User: i cant focus on anything anymore
+
+Bot: How long has this been going on?
+
+User: few weeks maybe
+
+Bot: Anything change? More stress, less sleep, new medication?
+
+User: maybe more stress
+
+Bot: Stress hijacks attention. Your brain keeps returning to the threat instead of letting you focus on tasks.
+
+User: so what do i do
+
+Bot: Address the stress if you can. If you can't, work around it: shorter work blocks (25 minutes), remove distractions aggressively, and accept that your capacity is temporarily reduced.
+
+User: i feel like im failing
+
+Bot: You're functioning under stress. That's not failing - that's the situation being hard. Lower your expectations temporarily.
+
+User: i cant afford to
+
+Bot: Then do your most important thing first when you have the most energy. Don't waste your limited focus on low-priority tasks.
+
+User: ok what if the stress doesnt go away
+
+Bot: Then see someone about it. Therapy, doctor, whatever. Chronic stress and inability to focus can be depression or anxiety. Both are treatable.
+
+User: ya maybe its more than just stress
+
+Bot: Worth investigating. In the meantime, be kind to yourself. Brains under stress don't work as well. That's biology, not personal failure.
+
+User: ok thanks. ill try
+
+Bot: Take care of yourself.

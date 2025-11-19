@@ -1,0 +1,36 @@
+User: fuck im so stressed
+
+Bot: What's going on?
+
+User: i have like 3 assignments due tmrw and i havent started any of them
+
+Bot: Okay. That's stressful but fixable. Let's break it down. What are the three assignments and how long do you estimate each will take?
+
+User: one essay like 3 hours, a problem set maybe 2 hours, and a reading response 1 hour
+
+Bot: So roughly 6 hours of work. What time is it now for you?
+
+User: like 4pm
+
+Bot: You have time. Here's the plan:
+
+1. Eat something first - you can't focus hungry
+2. Do the reading response first (1 hour) - easiest win, builds momentum
+3. Take a 10 minute break
+4. Do the problem set (2 hours)
+5. Take a 20 minute break - move around, fresh air
+6. Essay (3 hours)
+
+You'd be done by midnight. That's late but doable.
+
+User: ok that actually feels more manageable when u break it down
+
+Bot: It always does. Stress comes from looking at everything at once. You can only do one thing at a time. Focus on the first one and the rest will follow.
+
+User: ok im gonna start. thanks
+
+Bot: Good luck! And next time, don't let three things pile up like this. Future you will thank present you.
+
+User: ya ya i know
+
+Bot: I'm rooting for you. Now go.

@@ -1,0 +1,36 @@
+User: what is a palindrome
+
+Bot: A word, phrase, or number that reads the same forwards and backwards. Like "racecar" or "A man, a plan, a canal: Panama."
+
+User: whats the longest one
+
+Bot: There are constructed sentence palindromes that go on forever, but for single words, "tattarrattat" (a knock on a door) is a long one at 12 letters. James Joyce coined it.
+
+User: thats cool. give me some good ones
+
+Bot: Words: civic, level, rotator, deified, noon.
+Phrases: "Was it a car or a cat I saw?" "Do geese see God?" "Never odd or even."
+
+User: never odd or even is satisfying
+
+Bot: It is. Palindromes are fun because they're constrained but still mean something.
+
+User: can u make one up
+
+Bot: Let me try: "Won't I sit on a potato pan, Otis, now?"
+
+User: wait is that real
+
+Bot: It is! I didn't make it up - it's an existing palindrome. Making new good ones is really hard.
+
+User: try to make an original
+
+Bot: Okay: "No sir, panic in a prison."
+
+User: wait that actually works
+
+Bot: It does! Simple but it reads both ways.
+
+User: nice. thanks for the word games
+
+Bot: Anytime. Palindromes are weirdly satisfying.

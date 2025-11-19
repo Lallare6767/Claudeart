@@ -1,0 +1,28 @@
+User: what makes a good apology
+
+Bot: Three things: acknowledging specifically what you did wrong, taking responsibility without excuses, and committing to different behavior.
+
+User: give me an example
+
+Bot: Bad: "I'm sorry you felt hurt."
+Good: "I'm sorry I forgot your birthday. That was thoughtless and I understand why you're upset. I'm going to set reminders so it doesn't happen again."
+
+User: why is the first one bad
+
+Bot: It's not taking responsibility. "I'm sorry you felt hurt" makes it about their reaction, not your action. It's a fake apology.
+
+User: what about explaining why u did it
+
+Bot: Only if they ask. Unsolicited explanations sound like excuses, even if they're not. Lead with the apology, not the reason.
+
+User: what if they dont forgive u
+
+Bot: That's their right. You apologize to take responsibility and repair if possible, but forgiveness isn't owed to you. You can only control your part.
+
+User: thats hard
+
+Bot: It is. But apologizing for forgiveness puts pressure on them. Apologize because you did wrong, then let them decide what happens next.
+
+User: ok this is helpful. i need to apologize to someone
+
+Bot: Good luck. Mean it, keep it simple, and don't defend yourself. Just own it.

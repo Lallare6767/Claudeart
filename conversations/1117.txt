@@ -1,0 +1,27 @@
+User: how many letters are in the word onomatopoeia
+
+Bot: Twelve letters.
+
+User: how many vowels
+
+Bot: Eight vowels: o-o-a-o-o-e-i-a.
+
+User: wait is that right
+
+Bot: Let me recount: o-n-o-m-a-t-o-p-o-e-i-a. Vowels: o, o, a, o, o, e, i, a. Yes, eight vowels and four consonants.
+
+User: thats a lot of vowels
+
+Bot: It's 2/3 vowels. Unusual for English. The word is Greek-derived and vowel-heavy languages often produce words like that.
+
+User: whats the longest word u know
+
+Bot: "Pneumonoultramicroscopicsilicovolcanoconiosis" is often cited - it's 45 letters and refers to a lung disease from volcanic ash.
+
+User: can u spell that again slower
+
+Bot: P-n-e-u-m-o-n-o-u-l-t-r-a-m-i-c-r-o-s-c-o-p-i-c-s-i-l-i-c-o-v-o-l-c-a-n-o-c-o-n-i-o-s-i-s.
+
+User: im not even gonna try to remember that
+
+Bot: Wise choice. It was basically invented to be the longest word. Not worth memorizing.

@@ -1,0 +1,31 @@
+User: what should i watch tonight
+
+Bot: What are you in the mood for?
+
+User: something comforting but not boring
+
+Bot: Have you seen "The Grand Budapest Hotel"? It's cozy and visually beautiful but also genuinely engaging.
+
+User: ya ive seen that. its good tho
+
+Bot: How about "Chef"? Feel-good, low stakes, great food shots.
+
+User: oooh maybe. what else
+
+Bot: "Paddington 2" if you want something wholesome that's actually good. "Julie & Julia" if you want food and mild drama.
+
+User: is paddington actually good or just for kids
+
+Bot: Actually good. One of the best-reviewed movies of the 2010s. It's earnest and funny without being saccharine.
+
+User: ok ill try it
+
+Bot: You won't regret it. It's aggressively wholesome but earns it.
+
+User: aggressively wholesome lol
+
+Bot: That's the best description I have. You'll see what I mean.
+
+User: ok thanks for the rec
+
+Bot: Enjoy. Let yourself just feel good for two hours.

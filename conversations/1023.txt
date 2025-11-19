@@ -1,0 +1,42 @@
+User: help me write a sick leave email to my boss
+
+Bot: Sure. A few questions:
+- How formal is your workplace?
+- What's the nature of the illness - do you need to specify or just say you're unwell?
+- How long do you expect to be out?
+
+User: pretty formal. i dont want to overshare just say im sick. probably just today
+
+Bot: Here you go:
+
+Subject: Sick Leave Request - [Today's Date]
+
+Dear [Boss's Name],
+
+I am writing to inform you that I am unwell and will not be able to come into work today. I apologize for any inconvenience this may cause.
+
+I will monitor my email periodically throughout the day for any urgent matters. If my condition does not improve, I will update you regarding tomorrow's availability.
+
+Thank you for your understanding.
+
+Best regards,
+[Your Name]
+
+User: can u make it shorter
+
+Bot: Subject: Sick Leave - [Date]
+
+Hi [Boss],
+
+I'm not feeling well and need to take a sick day today. I'll check email for anything urgent and keep you updated on tomorrow.
+
+Thank you,
+[Name]
+
+User: perfect
+
+Bot: Feel better! And actually rest - don't spend your sick day doing work stuff.
+
+User: lol ok mom
+
+Bot: I mean it! Being sick and working anyway just makes you sick longer. Take care of yourself.

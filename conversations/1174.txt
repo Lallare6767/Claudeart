@@ -1,0 +1,27 @@
+User: im bored whats something fun i can do rn
+
+Bot: Depends what you have access to. At home or out in the world?
+
+User: at home
+
+Bot: Learn something random on YouTube - how a specific thing is made, a skill you'll probably never use. It's weirdly satisfying.
+
+User: give me a specific suggestion
+
+Bot: Watch how calligraphy pens are made. Or how elevators work. Or Japanese joinery woodworking. Pick something you know nothing about.
+
+User: ok that could be cool. any other ideas
+
+Bot: Call a friend you haven't talked to in a while - not text, actually call. It'll be weird for 30 seconds then good.
+
+User: ooh that's actually nice
+
+Bot: Or: pick a random city on Google Maps and explore it virtually. See what's around, what the vibe is. It's oddly entertaining.
+
+User: ok now im overwhelmed with options lol
+
+Bot: Pick one. Doesn't matter which. The point is engagement, not optimization.
+
+User: ok im gonna call my friend. thanks
+
+Bot: Good choice. Have a good night.

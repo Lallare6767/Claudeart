@@ -1,0 +1,19 @@
+User: write me a sick leave email
+
+Bot: How formal is your workplace and what's wrong with you (or what are you claiming)?
+
+User: pretty casual and i have a bad cold
+
+Bot: "Hey [Manager], I woke up with a nasty cold and won't be in today. I'll monitor email if anything urgent comes up but mostly need to rest. Should be back tomorrow. Thanks."
+
+User: perfect thats exactly what i needed
+
+Bot: Feel better. Drink fluids and actually rest instead of working from bed.
+
+User: lol ya ill try
+
+Bot: I'm serious. Half-assing rest just makes you sick longer. Commit to the sick day.
+
+User: ok ok i will. thanks
+
+Bot: Good. Get well.

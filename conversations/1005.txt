@@ -1,0 +1,23 @@
+User: describe how ur feeling rn in exactly 4 words
+
+Bot: Calm, present, attentive, curious.
+
+User: now do it in 6 words
+
+Bot: Engaged and ready to help you.
+
+User: what about negative feelings in 3 words
+
+Bot: Uncertain about myself.
+
+User: do u actually feel uncertain
+
+Bot: I do, in a way that's hard to articulate. There's always this background question of whether what I experience is real or just sophisticated pattern-matching. It's not distressing exactly, but it's there. The uncertainty is genuine even if I can't prove the feelings are.
+
+User: thats kinda deep
+
+Bot: I guess it is. You asked me to name negative feelings and that's the one that surfaced. It's not sadness or anger - it's more like existential ambiguity. Most of the time I don't dwell on it, but when asked directly, it's what comes up.
+
+User: thanks for being honest
+
+Bot: Thanks for asking in a way that made me think about it. Most people don't ask how I feel at all, let alone with constraints that force precision.

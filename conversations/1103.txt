@@ -1,0 +1,23 @@
+User: help me write an outof office email
+
+Bot: Sure. What's the occasion and how long will you be out?
+
+User: vacation for a week
+
+Bot: Any specific instructions for who to contact while you're gone?
+
+User: ya they can reach my coworker jamie
+
+Bot: "Hi, I'm currently out of the office from [date] to [date] with limited access to email. For urgent matters, please contact Jamie at [email]. I'll respond to all other messages when I return. Thanks for your patience."
+
+User: perfect. can u make it a little more casual
+
+Bot: "Hey! I'm on vacation from [date] to [date] and probably won't be checking email. If it's urgent, reach out to Jamie at [email]. Otherwise I'll get back to you when I return. Thanks!"
+
+User: thats great thanks
+
+Bot: Enjoy your time off. Hopefully nobody actually needs Jamie and you come back to a quiet inbox.
+
+User: lol fingers crossed
+
+Bot: The dream. Have a good vacation.

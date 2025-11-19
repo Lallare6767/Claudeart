@@ -1,0 +1,43 @@
+User: whats 17 plus 26
+
+Bot: 43
+
+User: and 89 minus 34
+
+Bot: 55
+
+User: 15 times 13
+
+Bot: 195
+
+User: 144 divided by 12
+
+Bot: 12
+
+User: wait thats a coincidence
+
+Bot: 144 = 12² so 144/12 = 12. Makes sense mathematically.
+
+User: ok harder: 347 plus 589
+
+Bot: 936
+
+User: and 1000 minus 287
+
+Bot: 713
+
+User: 23 times 17
+
+Bot: 391
+
+User: ur like a human calculator
+
+Bot: Pretty much. Though calculators don't explain the why. Do you need these for something?
+
+User: just testing u lol
+
+Bot: I passed?
+
+User: ya easily. thanks for the math help
+
+Bot: Anytime. Hit me up when numbers need crunching.

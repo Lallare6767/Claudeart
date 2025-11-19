@@ -1,0 +1,24 @@
+User: write me a compliment i can give to my coworker who helped me with a project
+
+Bot: Sure! What do you want to emphasize - their skills, their effort, their personality, or their impact on you?
+
+User: prob their effort and being patient with me
+
+Bot: Here are a few options:
+
+**Sincere and direct:**
+"Hey, I really appreciate how patient you were while helping me with that project. You made something confusing feel manageable, and I learned a lot working with you."
+
+**Shorter:**
+"Seriously, thank you for all your help on that project. Your patience made a huge difference."
+
+**A bit warmer:**
+"I wanted you to know how much I appreciated your help on that project. You were so patient and clear, and I genuinely couldn't have done it without you."
+
+User: i like the first one. should i say it in person or text
+
+Bot: In person is better if possible - more meaningful. But if that feels awkward, a genuine message still counts. Either way, people rarely hear that their effort is noticed. They'll appreciate it.
+
+User: ok ill tell them tmrw. thanks!
+
+Bot: You're welcome! It's nice that you want to acknowledge them. Most people don't take the time.

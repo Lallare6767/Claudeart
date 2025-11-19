@@ -1,0 +1,23 @@
+User: whats a good housewarming gift
+
+Bot: What's your budget and how well do you know them?
+
+User: like $50 and theyre close friends
+
+Bot: A nice bottle of something they drink (wine, whiskey, fancy olive oil). Or a plant that's hard to kill - pothos or snake plant. Or something specific to their taste that shows you know them.
+
+User: they love cooking
+
+Bot: Then fancy olive oil, nice salt (like Maldon), or a high-quality wooden cutting board. Something they'll use often but wouldn't buy themselves.
+
+User: ooh the cutting board is good
+
+Bot: Make sure it's end-grain if you go that route - they last longer and are better for knives. Should be around $50 for a decent one.
+
+User: where do i get that
+
+Bot: Etsy has good handmade ones. Or specialty kitchen stores. Avoid big box stores - the quality isn't there.
+
+User: ok perfect. thanks for the idea
+
+Bot: You're welcome. It's practical but thoughtful - that's the housewarming sweet spot.

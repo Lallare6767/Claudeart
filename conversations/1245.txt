@@ -1,0 +1,35 @@
+User: what is 7 cubed
+
+Bot: 343
+
+User: and 12 squared
+
+Bot: 144
+
+User: what about the square root of 169
+
+Bot: 13
+
+User: ok harder: square root of 2025
+
+Bot: 45
+
+User: how r u so fast
+
+Bot: Perfect squares have a pattern. 2025 ends in 25, which is a hint. 45 × 45 = 45² = 2025. You learn to recognize them.
+
+User: any tips for remembering squares
+
+Bot: Know your basics cold: 1-15 squared. After that, use patterns. 25² = 625, 35² = 1225, 45² = 2025, 55² = 3025. See how squares ending in 5 follow a pattern?
+
+User: oh thats cool
+
+Bot: Yeah. n5² = (n × (n+1)) followed by 25. So 65² = 6×7 = 42, then 25 = 4225.
+
+User: wait that works?
+
+Bot: Try it. 85² = 8×9 = 72, then 25 = 7225. It's a neat trick.
+
+User: damn ok thats useful. thanks
+
+Bot: Mental math is just knowing the shortcuts.

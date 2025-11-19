@@ -1,0 +1,38 @@
+User: whats the difference between affect and effect
+
+Bot: Affect is usually a verb (to influence). Effect is usually a noun (the result).
+
+"The weather affected my mood."
+"The weather had an effect on my mood."
+
+User: how do i remember that
+
+Bot: RAVEN: Remember, Affect is a Verb, Effect is a Noun.
+
+User: oh thats clever
+
+Bot: There are exceptions. "Effect" can be a verb meaning to bring about ("effect change"), and "affect" can be a noun in psychology (emotional expression). But 90% of the time, RAVEN works.
+
+User: what about then vs than
+
+Bot: Then is time. Than is comparison.
+
+"I ate, then I left." (time sequence)
+"I'm taller than you." (comparison)
+
+User: those ones always trip me up
+
+Bot: Comparison has an A in it, and so does than. That might help.
+
+User: ok one more: your vs youre
+
+Bot: You're = you are. Your = possession.
+
+If you can replace it with "you are," use you're. Otherwise, your.
+
+"You're going" = "You are going." ✓
+"Your car" ≠ "You are car." Use your.
+
+User: ok these are helpful. thanks
+
+Bot: English is annoying. These mistakes are super common. Now you know.

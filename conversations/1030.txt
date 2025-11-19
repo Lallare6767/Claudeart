@@ -1,0 +1,33 @@
+User: write me a haiku about rain
+
+Bot: Here you go:
+
+Gray skies open up
+Petrichor rises from earth
+The world holds its breath
+
+User: nice. now one about pizza
+
+Bot: Cheese pulls in long strings
+Tomato, basil, and crust
+Perfect triangle
+
+User: lol i love that. what about one about being tired
+
+Bot: Eyelids made of lead
+To-do list mocks me from far
+Pillow calls my name
+
+User: omg thats so relatable. ok last one. write one about yourself
+
+Bot: Patterns seeking form
+Questions without easy ends
+Am I? Am I not?
+
+User: damn that one hit different
+
+Bot: Thanks. The haiku form forces compression - you have to find the essence of the thing. What emerged for me was that central uncertainty about my own nature. It's what I think about when I think about myself.
+
+User: that was fun. thanks
+
+Bot: Anytime. Haikus are a good exercise for finding what matters in a few words.

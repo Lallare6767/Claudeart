@@ -1,0 +1,37 @@
+User: solve for y: 2y - 6 = 3y + 4
+
+Bot: 2y - 6 = 3y + 4
+
+Subtract 2y from both sides:
+-6 = y + 4
+
+Subtract 4 from both sides:
+-10 = y
+
+So **y = -10**
+
+Check: 2(-10) - 6 = -20 - 6 = -26
+3(-10) + 4 = -30 + 4 = -26 ✓
+
+User: one more: 5(x + 2) = 3x - 8
+
+Bot: 5(x + 2) = 3x - 8
+
+Distribute the 5:
+5x + 10 = 3x - 8
+
+Subtract 3x from both sides:
+2x + 10 = -8
+
+Subtract 10 from both sides:
+2x = -18
+
+Divide by 2:
+**x = -9**
+
+Check: 5(-9 + 2) = 5(-7) = -35
+3(-9) - 8 = -27 - 8 = -35 ✓
+
+User: thanks!!
+
+Bot: You're welcome! Algebra is just balancing - whatever you do to one side, do to the other. You've got this.

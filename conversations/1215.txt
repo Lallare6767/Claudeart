@@ -1,0 +1,31 @@
+User: give me some interesting questions to ask on a first date
+
+Bot: Here are some that go deeper than "what do you do":
+
+1. What's something you changed your mind about recently?
+2. What's your relationship like with your family?
+3. What's something you're really proud of that most people don't know?
+4. What do you want your life to look like in five years?
+5. What's something that made you happy this week?
+
+User: those r good but some seem intense for first date
+
+Bot: Fair. Lighter versions:
+
+1. What's something that always makes you laugh?
+2. If you could master any skill instantly, what would it be?
+3. What's your favorite thing you've done this year?
+
+User: better. any funny ones
+
+Bot: "What's the weirdest rabbit hole you've gone down on the internet?" Or "What's a hill you'll die on that most people think is stupid?"
+
+User: haha those r great
+
+Bot: The goal is to get them talking about something they care about. That's when you see who they actually are.
+
+User: ya makes sense. thanks
+
+Bot: Good luck on the date. Ask questions and actually listen to the answers.
+
+User: will do!

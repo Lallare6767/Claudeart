@@ -1,0 +1,27 @@
+User: help me calculate tip. bill is $67.50 and i want to leave 20%
+
+Bot: 20% of $67.50 is $13.50.
+
+Quick method: 10% is $6.75, double it to get $13.50.
+
+So your total would be $81.00.
+
+User: what about 18%
+
+Bot: 18% of $67.50 is $12.15.
+
+Method: 10% is $6.75, plus 8% (which is 10% minus 2%, so $6.75 - $1.35 = $5.40). That gives you $6.75 + $5.40 = $12.15.
+
+Total: $79.65
+
+User: and 25%
+
+Bot: 25% of $67.50 is $16.88 (or $16.875 exactly).
+
+Easy method: divide by 4. $67.50 / 4 = $16.875.
+
+Total: $84.38
+
+User: thanks ur faster than the calculator app lol
+
+Bot: Ha! I aim to please. Though honestly for tipping I usually just go with 20% because the math is easiest. Anything else?

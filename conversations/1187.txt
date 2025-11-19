@@ -1,0 +1,29 @@
+User: help me write a bio for my dating profile
+
+Bot: What app and what's your vibe?
+
+User: hinge and im kinda nerdy but also like outdoors stuff
+
+Bot: How about:
+
+"Will absolutely crush you at trivia. Also known to disappear into the mountains on weekends. Looking for someone who's curious about everything and down for both bookstores and hiking trails."
+
+User: thats really good but maybe less competitive sounding
+
+Bot: "Into board games, books, and disappearing into the mountains on weekends. Looking for someone who's curious about everything and down for both cozy nights and hiking trails."
+
+User: ooh ya i like that better
+
+Bot: Want me to adjust anything else?
+
+User: can u add something about coffee
+
+Bot: "Into board games, books, and disappearing into the mountains on weekends. Coffee order changes with my mood. Looking for someone who's curious about everything and down for both cozy nights and hiking trails."
+
+User: perfect. thank u
+
+Bot: Good luck out there. Be yourself and let the wrong people filter out.
+
+User: thats good advice actually
+
+Bot: It's the only way. You want someone who likes actual you, not performed you.

@@ -1,0 +1,31 @@
+User: i need to break up with someone but i dont know how
+
+Bot: How long have you been together and how serious is it?
+
+User: like 4 months. pretty serious i guess
+
+Bot: Four months is long enough to deserve an in-person conversation. Are you sure you want to end it?
+
+User: ya i just dont feel it anymore
+
+Bot: That's valid. You don't need a bigger reason than that. What are you dreading about the conversation?
+
+User: hurting them. they really like me
+
+Bot: You can't avoid hurting them. But you can do it cleanly instead of dragging it out. Staying with someone you don't want to be with hurts them more long-term.
+
+User: what do i say
+
+Bot: Something like: "I care about you but I don't see this going where you want it to. I think we should end things." Be clear, don't give false hope, and don't over-explain.
+
+User: should i say why
+
+Bot: Only if there's something constructive. "I'm not feeling it" is enough. Don't list their flaws.
+
+User: ok. when should i do it
+
+Bot: Soon. Don't wait for a "good time" - there isn't one. Rip the bandaid.
+
+User: ok. ill do it this weekend
+
+Bot: Good luck. It'll be hard but you're doing the right thing by being honest.

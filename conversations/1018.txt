@@ -1,0 +1,31 @@
+User: whats the derivative of x^3
+
+Bot: The derivative of x³ is 3x².
+
+Using the power rule: bring down the exponent as a coefficient, then subtract 1 from the exponent.
+
+d/dx(x³) = 3x^(3-1) = 3x²
+
+User: what about 4x^5 - 2x^2 + 7
+
+Bot: Taking each term separately:
+
+d/dx(4x⁵) = 20x⁴
+d/dx(-2x²) = -4x
+d/dx(7) = 0 (constants disappear)
+
+So the derivative is: 20x⁴ - 4x + 0 = **20x⁴ - 4x**
+
+User: one more. 3x^-2 + x^(1/2)
+
+Bot: d/dx(3x⁻²) = 3(-2)x⁻³ = -6x⁻³ = -6/x³
+
+d/dx(x^(1/2)) = (1/2)x^(-1/2) = 1/(2√x)
+
+So the derivative is: **-6x⁻³ + (1/2)x^(-1/2)**
+
+Or in other notation: **-6/x³ + 1/(2√x)**
+
+User: thanks this is helpful for my hw
+
+Bot: Happy to help! Derivatives are satisfying once you get the rules down. Let me know if you hit any tricky ones.

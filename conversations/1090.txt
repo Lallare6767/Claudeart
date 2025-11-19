@@ -1,0 +1,25 @@
+User: can u help me write wedding vows
+
+Bot: I'd love to. Tell me about your partner and your relationship - how'd you meet, what do you love about them, any specific moments or promises you want to include?
+
+User: we met in college, shes super smart and funny, she calms me down when i get anxious
+
+Bot: Good details. Tone: funny, sincere, somewhere in between?
+
+User: sincere but not too cheesy
+
+Bot: Here's a start:
+
+"When we met, I didn't know I was meeting my person. But pretty quickly it became clear - you're the smartest, funniest person in every room, and somehow you chose me. You've talked me down from more anxious spirals than I can count. I promise to be that calm for you, to laugh at your jokes even when they're bad, and to keep choosing you every day for the rest of our lives."
+
+User: omg i might cry
+
+Bot: That's a good sign for vows. Want me to adjust anything?
+
+User: maybe a little shorter
+
+Bot: "I didn't know I was meeting my person when we met. But you're the smartest and funniest person I know, and you've calmed me through every storm. I promise to be that for you - to laugh with you and choose you every single day."
+
+User: perfect. thanks so much
+
+Bot: Congratulations. I hope the day is wonderful.

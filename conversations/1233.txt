@@ -1,0 +1,44 @@
+User: make me a shopping list for basic meals for the week
+
+Bot: What kind of meals do you like and do you have dietary restrictions?
+
+User: no restrictions. easy stuff i can make quickly
+
+Bot: Here's a basic list for quick meals:
+
+Proteins:
+- Chicken breasts or thighs
+- Ground beef or turkey
+- Eggs (dozen)
+- Canned beans
+
+Carbs:
+- Rice or pasta
+- Bread
+- Tortillas
+
+Vegetables:
+- Broccoli
+- Bell peppers
+- Onions
+- Garlic
+- Spinach or mixed greens
+
+Basics:
+- Butter
+- Olive oil
+- Salt, pepper
+- Soy sauce
+- Cheese
+
+User: what can i make with that
+
+Bot: Stir fry (chicken + vegetables + soy sauce over rice). Tacos (ground beef + onions + peppers in tortillas). Pasta with meat sauce. Eggs and toast. Rice bowls. All 15-20 minutes.
+
+User: perfect thats exactly what i needed
+
+Bot: The key is overlapping ingredients across multiple meals. That's how you avoid waste and keep shopping simple.
+
+User: ya that makes sense
+
+Bot: Happy cooking. Let me know if you need recipes.

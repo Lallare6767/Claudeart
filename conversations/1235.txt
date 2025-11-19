@@ -1,0 +1,26 @@
+User: can u explain tax brackets simply
+
+Bot: Tax brackets don't mean your whole income gets taxed at the highest rate. Only the money in each bracket gets taxed at that bracket's rate.
+
+User: wait so what does that mean
+
+Bot: Say the brackets are: 10% on first $10k, 22% on $10k-$50k. If you make $60k, you pay:
+- 10% on the first $10k = $1,000
+- 22% on the next $40k = $8,800
+- Total = $9,800
+
+User: oh so not 22% on all 60k
+
+Bot: Exactly. People think moving to a higher bracket means all their income is taxed higher. It only affects the money above that threshold.
+
+User: so i should never avoid a raise because of taxes
+
+Bot: Correct. More income always means more take-home, even if it bumps you into a higher bracket. The math never works against you.
+
+User: i always thought it could
+
+Bot: Common misconception. The progressive system specifically prevents that. Every extra dollar is good even if it's taxed higher.
+
+User: ok this actually clears up a lot
+
+Bot: Glad to help. It's one of the most misunderstood things about taxes.

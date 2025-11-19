@@ -1,0 +1,29 @@
+User: if a recipe serves 4 and i want it to serve 6 how do i adjust
+
+Bot: Multiply all ingredients by 1.5 (that's 6÷4).
+
+So 1 cup becomes 1.5 cups, 2 tablespoons becomes 3 tablespoons, etc.
+
+User: what about cooking time
+
+Bot: Usually stays about the same if you're using the same pan size. If you use a bigger pan, might be slightly less time. Don't scale cooking time linearly.
+
+User: ok what if i want to make half a recipe
+
+Bot: Divide everything by 2. 1 cup becomes 1/2 cup, 2 eggs becomes 1 egg.
+
+User: what if theres an odd number like 3 eggs
+
+Bot: For 3 eggs halved, you'd use 1.5 eggs. You can beat the eggs together first, measure by volume, and use half.
+
+User: thats clever
+
+Bot: It's the only reliable way to halve eggs. Otherwise you're guessing.
+
+User: ok scaling makes more sense now
+
+Bot: Just keep the ratios consistent and you'll be fine. Baking is more sensitive than cooking, so measure carefully for baked goods.
+
+User: thanks. im making dinner for more people than usual
+
+Bot: Good luck. You've got this.
