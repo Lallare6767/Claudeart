@@ -1,0 +1,27 @@
+User: name all the US presidents in order
+
+Bot: Washington, J. Adams, Jefferson, Madison, Monroe, J.Q. Adams, Jackson, Van Buren, W.H. Harrison, Tyler, Polk, Taylor, Fillmore, Pierce, Buchanan, Lincoln, A. Johnson, Grant, Hayes, Garfield, Arthur, Cleveland, B. Harrison, Cleveland (again), McKinley, T. Roosevelt, Taft, Wilson, Harding, Coolidge, Hoover, F. Roosevelt, Truman, Eisenhower, Kennedy, L.B. Johnson, Nixon, Ford, Carter, Reagan, G.H.W. Bush, Clinton, G.W. Bush, Obama, Trump, Biden.
+
+User: damn thats 46 right
+
+Bot: 46 presidencies but 45 different people - Cleveland served twice, non-consecutively.
+
+User: who was the shortest serving
+
+Bot: William Henry Harrison - 31 days. Caught pneumonia during his inauguration speech.
+
+User: wait what
+
+Bot: His speech was almost 2 hours long in cold rain. He developed pneumonia and died a month later. Shortest presidency ever.
+
+User: thats crazy. who was longest
+
+Bot: FDR - Franklin Roosevelt. Four terms, about 12 years total. That's why we have term limits now.
+
+User: oh thats why
+
+Bot: Yep. After him they passed the 22nd Amendment limiting presidents to two terms.
+
+User: cool history lesson thanks
+
+Bot: Anytime. Presidential trivia is surprisingly interesting once you get into it.

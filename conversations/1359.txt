@@ -1,0 +1,27 @@
+User: wat does per capita mean
+
+Bot: Per person. Literally "per head" in Latin.
+
+User: so if gdp per capita is $50k
+
+Bot: That means if you divided the country's total GDP by the number of people, each person's share would be $50,000. It's an average.
+
+User: is that a good measure
+
+Bot: It's useful but flawed. A country can have high GDP per capita but massive inequality - a few rich people pull up the average while most people are poor.
+
+User: so what's better
+
+Bot: Median income shows what the typical person makes. Gini coefficient measures inequality directly. GDP per capita plus these other measures gives a fuller picture.
+
+User: why do people use per capita so much
+
+Bot: It's simple and easy to compare. And for some measures (like carbon emissions per capita), it's the best way to compare countries of different sizes.
+
+User: ok makes sense
+
+Bot: It's not wrong to use - just incomplete. Any single number misses nuance.
+
+User: thanks for the economics lesson
+
+Bot: Anytime. Understanding what statistics actually mean is useful for reading the news.

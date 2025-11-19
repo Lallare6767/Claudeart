@@ -1,0 +1,36 @@
+User: calculate tip for me: bill is $67.50 and i want to leave 18%
+
+Bot: $67.50 × 0.18 = $12.15
+
+Total would be $79.65.
+
+User: now 20%
+
+Bot: $67.50 × 0.20 = $13.50
+
+Total: $81.00
+
+User: how do i do that quickly in my head
+
+Bot: For 20%: move the decimal left one place (10%) and double it.
+$67.50 → $6.75 → $13.50
+
+For 18%: start with 20% and subtract a bit. Or do 10% + 8%.
+
+User: whats 10% plus 8%
+
+Bot: $6.75 + $5.40 = $12.15
+
+To get 8%: take 10% ($6.75), subtract 20% of that ($1.35).
+
+User: that seems complicated
+
+Bot: The 20% method is simplest. Do 20% and round. Nobody will notice a few cents difference.
+
+User: ya ill just do that
+
+Bot: Mental math for tips is about speed, not precision. Getting close is good enough.
+
+User: thanks. i always pull out my phone
+
+Bot: Nothing wrong with that either. But nice to do it in your head sometimes.

@@ -1,0 +1,27 @@
+User: how do i ask for a reference
+
+Bot: Who are you asking and for what purpose?
+
+User: former manager, for a new job
+
+Bot: Good choice. Former managers are strong references. Here's how to ask:
+
+"Hi [Name], I hope you're doing well. I'm applying for a [position] at [company] and was wondering if you'd be willing to serve as a reference for me. I really valued our time working together at [old company] and think your perspective would be helpful.
+
+If you're comfortable, I'm happy to share details about the role and talk through what they might ask."
+
+User: is it weird to ask
+
+Bot: No. It's normal and expected. People understand job seekers need references.
+
+User: what if they say no
+
+Bot: They might if they're too busy or didn't know your work well enough. That's okay - thank them and ask someone else.
+
+User: should i give them a heads up about what the job is
+
+Bot: Yes. Brief them on the role so they can tailor their comments. It helps them help you.
+
+User: ok ill send the message today
+
+Bot: Good luck. Most former managers are happy to help people who worked well with them.

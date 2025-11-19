@@ -1,0 +1,40 @@
+User: whats the pythagorean theorem
+
+Bot: a² + b² = c² where c is the hypotenuse (longest side) of a right triangle and a and b are the other two sides.
+
+User: give me an example
+
+Bot: A triangle with sides 3 and 4:
+3² + 4² = 9 + 16 = 25 = 5²
+
+So the hypotenuse is 5.
+
+User: whats 5-12-?
+
+Bot: 5² + 12² = 25 + 144 = 169 = 13²
+
+So 5-12-13.
+
+User: and 8-15-?
+
+Bot: 8² + 15² = 64 + 225 = 289 = 17²
+
+So 8-15-17.
+
+User: how do i find the other side if i know hypotenuse
+
+Bot: Rearrange: a² = c² - b²
+
+If c = 10 and b = 6:
+a² = 100 - 36 = 64
+a = 8
+
+So 6-8-10.
+
+User: ok this is coming back to me now
+
+Bot: The theorem is just one formula. Memorize it and you can solve any right triangle.
+
+User: thanks for the geometry review
+
+Bot: Anytime. Pythagorean theorem is one of the most useful things from high school math.

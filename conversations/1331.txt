@@ -1,0 +1,31 @@
+User: what should i know before buying a house
+
+Bot: A lot. The big ones: know your actual budget (not just what the bank approves you for), factor in all costs (taxes, insurance, maintenance, HOA), get a home inspection, and don't skip the boring parts like reading disclosures.
+
+User: how much can i actually afford
+
+Bot: Rule of thumb: 28% of gross income for housing costs, no more than 36% total debt. But more conservative is better - you want cushion for repairs and life changes.
+
+User: whats the process like
+
+Bot: Pre-approval, house hunting, offer, inspection, appraisal, closing. Takes 30-60 days typically from accepted offer to keys.
+
+User: what do people regret most
+
+Bot: Buying at the top of their budget, skipping inspection to win a bidding war, underestimating repair costs, and not considering the neighborhood long-term.
+
+User: any hidden costs
+
+Bot: Closing costs (2-5% of purchase price), property taxes, homeowners insurance, PMI if you put down less than 20%, HOA fees, and maintenance (budget 1% of home value annually).
+
+User: thats a lot
+
+Bot: Homeownership is expensive beyond the mortgage. Make sure you can afford all of it, not just the monthly payment.
+
+User: maybe im not ready yet
+
+Bot: That's fine. Better to wait than stretch too far. Keep saving and you'll be in a better position when you are ready.
+
+User: ok thanks for the reality check
+
+Bot: Good luck when you do pull the trigger.

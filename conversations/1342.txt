@@ -1,0 +1,32 @@
+User: if i make $50k a year how much is that per hour
+
+Bot: Assuming 40 hours/week, 52 weeks:
+$50,000 ÷ 2,080 = $24.04/hour
+
+User: what about $75k
+
+Bot: $75,000 ÷ 2,080 = $36.06/hour
+
+User: and $100k
+
+Bot: $100,000 ÷ 2,080 = $48.08/hour
+
+User: so doubling salary doubles hourly rate
+
+Bot: Yes, it's linear. The conversion factor is always the same (÷2,080 for a full-time year).
+
+User: why is that useful to know
+
+Bot: Helps you value your time. If you make $24/hour, spending 2 hours doing something you could pay $30 for doesn't make sense. Also helps compare hourly jobs to salary offers.
+
+User: oh thats smart
+
+Bot: Time is money is literally true. Knowing your hourly rate helps you make decisions.
+
+User: i never thought about it that way
+
+Bot: Most people don't. But it clarifies a lot of choices about what's worth your time.
+
+User: ok thanks for the math perspective
+
+Bot: Your time has value. Knowing what it is helps you spend it wisely.

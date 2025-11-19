@@ -1,0 +1,35 @@
+User: im procrastinating on something important
+
+Bot: What is it and when is it due?
+
+User: big work presentation. due friday
+
+Bot: Today is what day?
+
+User: wednesday
+
+Bot: Okay, you have time but not much. What part are you procrastinating on?
+
+User: all of it. i havent started
+
+Bot: Why? Overwhelmed, scared it won't be good, or just avoiding?
+
+User: probably scared it wont be good
+
+Bot: Perfect is the enemy of done. A finished presentation that's 80% good beats a perfect one that doesn't exist.
+
+User: ya i know but i freeze
+
+Bot: Break it into smallest pieces. First: make a title slide. That's it. Then move to the next thing.
+
+User: that seems too small
+
+Bot: That's the point. Starting is the hard part. Once you're moving, momentum carries you.
+
+User: ok ill make the title slide now
+
+Bot: Good. Then the next piece. Don't think about the whole thing - just the next piece.
+
+User: ok im doing it
+
+Bot: Good luck. You've got this. Imperfect and done beats perfect and imaginary.

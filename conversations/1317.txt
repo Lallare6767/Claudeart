@@ -1,0 +1,31 @@
+User: i have to give constructive feedback to my employee and im nervous
+
+Bot: Nervous about what specifically?
+
+User: making them feel bad or defensive
+
+Bot: That's considerate. The goal is to help them improve, not make them feel attacked. Focus on behavior, not character.
+
+User: whats the difference
+
+Bot: Behavior: "The reports have had errors lately." Character: "You're careless." One is fixable and specific. The other is an attack.
+
+User: ok what else
+
+Bot: Be concrete. Give examples. "In the last report, the numbers in section 3 were wrong" is better than "your reports have issues."
+
+User: should i sandwich it between compliments
+
+Bot: The "compliment sandwich" is recognizable and often feels fake. Better to be direct but kind. "I want to help you improve in this area" sets the tone.
+
+User: what if they get defensive
+
+Bot: Stay calm and redirect. "I understand this is hard to hear. Let's focus on what we can do going forward." Give them time to process.
+
+User: ok i think i can do this
+
+Bot: You can. Good feedback helps people grow. Avoiding it doesn't help anyone.
+
+User: thanks for the coaching
+
+Bot: Good luck. Delivering feedback is a skill - you'll get better with practice.

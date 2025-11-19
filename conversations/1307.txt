@@ -1,0 +1,27 @@
+User: should i ask for a promotion or wait to be recognized
+
+Bot: Ask. Recognition without asking is rare and unreliable. If you wait, you're hoping someone notices and cares enough to act. That's a lot of variables.
+
+User: but what if they say no
+
+Bot: Then you know where you stand and can decide what to do. That's better than hoping indefinitely.
+
+User: what if they think im pushy
+
+Bot: Asking for a promotion isn't pushy - it's professional. Reasonable managers expect it. If they penalize you for asking, that tells you something about the company.
+
+User: how do i actually ask
+
+Bot: Schedule a meeting with your manager. Say: "I'd like to discuss my career path. I'm interested in moving to [specific role] and I'd like to understand what I need to do to get there."
+
+User: so not directly asking for it
+
+Bot: You can be direct: "I believe I'm ready for promotion to X and I'd like your support." But opening with the career discussion frame is softer if that's more comfortable.
+
+User: and if they say not yet
+
+Bot: Ask specifically what needs to change and by when. Get concrete criteria. "Not yet" without timeline is just deferral.
+
+User: ok maybe ill do this
+
+Bot: Do it. The worst case is a "no" you can plan around. The best case is you get what you want.

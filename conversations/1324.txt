@@ -1,0 +1,33 @@
+User: if i flip a coin 5 times whats the chance of getting all heads
+
+Bot: (1/2)^5 = 1/32 ≈ 3.1%
+
+User: what about at least 4 heads
+
+Bot: 4 heads or 5 heads.
+
+5 heads: 1 way
+4 heads: 5 ways (HHHHT, HHHTH, HHTHH, HTHHH, THHHH)
+
+Total: 6/32 = 3/16 ≈ 18.75%
+
+User: how do u calculate the 5 ways
+
+Bot: Combinations: C(5,4) = 5. There are 5 ways to choose which one of the 5 flips is tails.
+
+User: what about exactly 3 heads
+
+Bot: C(5,3) = 10 ways.
+Probability: 10/32 = 5/16 ≈ 31.25%
+
+User: why is 3 more likely than 4 or 5
+
+Bot: More ways for it to happen. The middle outcomes have more combinations. That's why the distribution is bell-shaped.
+
+User: oh like a normal distribution
+
+Bot: Exactly. Binomial distribution approximates normal as the number of trials increases.
+
+User: ok this makes more sense now
+
+Bot: Probability is just counting outcomes. The formulas just make the counting faster.

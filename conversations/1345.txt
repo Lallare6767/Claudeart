@@ -1,0 +1,35 @@
+User: my anxiety is really bad today
+
+Bot: I'm sorry. What's triggering it, or is it just there?
+
+User: just there. cant pinpoint anything
+
+Bot: Free-floating anxiety is frustrating because there's nothing specific to address. Are you doing anything that usually helps?
+
+User: no i cant focus on anything
+
+Bot: Can you try grounding? 5 things you can see, 4 you can touch, 3 you can hear, 2 you can smell, 1 you can taste.
+
+User: ok trying
+
+Bot: Take your time. Breathe slowly while you do it.
+
+User: ok that helped a little
+
+Bot: Good. When it's really bad, sometimes all you can do is ride it out with small interventions. The wave passes.
+
+User: i hate when its like this
+
+Bot: It's genuinely hard. Anxiety without cause feels impossible to fight. But it does pass even when it doesn't feel like it will.
+
+User: should i take something
+
+Bot: If you have as-needed medication, now might be a good time. If you don't and this happens often, talk to your doctor about options.
+
+User: ya maybe i should
+
+Bot: In the meantime, keep using whatever helps - grounding, breathing, movement. You'll get through today.
+
+User: thanks
+
+Bot: Take care. You're not alone in this.

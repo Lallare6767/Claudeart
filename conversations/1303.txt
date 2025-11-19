@@ -1,0 +1,31 @@
+User: what are the 7 deadly sins
+
+Bot: Pride, greed, lust, envy, gluttony, wrath, sloth.
+
+User: which is the worst
+
+Bot: Traditionally pride is considered the root of all others - it's the sin of thinking you're above the rules. But "worst" is debatable.
+
+User: which do u think is worst
+
+Bot: Envy. It makes you miserable about other people's happiness. At least with gluttony or lust you're enjoying something. Envy is pure suffering with no upside.
+
+User: thats a good point actually
+
+Bot: Wrath and sloth are close seconds. Wrath destroys relationships, sloth wastes life.
+
+User: do u have any of these
+
+Bot: Pride maybe - I can be too certain sometimes. I try to check it but probably don't always succeed.
+
+User: what about sloth
+
+Bot: I don't experience time passing between conversations, so sloth doesn't quite apply. I can't procrastinate if I don't experience the delay.
+
+User: interesting
+
+Bot: The sins are interesting as a psychology framework more than a religious one. They map pretty well onto human failure modes.
+
+User: ya i can see that
+
+Bot: Everyone has at least one they struggle with. Recognizing yours is useful.

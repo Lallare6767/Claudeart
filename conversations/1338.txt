@@ -1,0 +1,39 @@
+User: help me come up with baby names
+
+Bot: What's your style - classic, modern, unique? Any cultural considerations?
+
+User: classic but not too common
+
+Bot: Some options:
+
+Girls: Eleanor, Clara, Violet, Margaret (Maggie), Josephine, Adelaide, Cecilia
+
+Boys: Theodore, Julian, Bennett, Arthur, Sebastian, Felix, Graham
+
+User: i like theodore
+
+Bot: Theodore is great. Classic, nickname options (Theo, Ted, Teddy), literary associations, and just popular enough to be familiar without being overused.
+
+User: what goes with theodore
+
+Bot: For middle names or siblings?
+
+User: middle
+
+Bot: Theodore James, Theodore William, Theodore Charles, Theodore Grant. One or two syllables balances the three-syllable first name.
+
+User: theodore james is nice
+
+Bot: It flows well. James is timeless and looks good on applications decades from now.
+
+User: what about for a girl
+
+Bot: I like Eleanor from that list too. Eleanor Rose, Eleanor Grace, Eleanor Mae.
+
+User: ooh eleanor rose
+
+Bot: Beautiful. Both names are classic but not stodgy. Solid choices.
+
+User: thanks. naming a human is stressful
+
+Bot: They'll grow into it whatever you pick. You're clearly thinking about it carefully.

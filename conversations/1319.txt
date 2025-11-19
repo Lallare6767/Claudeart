@@ -1,0 +1,31 @@
+User: whats the derivative of e^x
+
+Bot: e^x. It's one of the special properties of e - the derivative of e^x is itself.
+
+User: what about e^(2x)
+
+Bot: 2e^(2x). Chain rule: derivative of the exponent times the original.
+
+User: and ln(x)
+
+Bot: 1/x.
+
+User: why
+
+Bot: Because ln is the inverse of e^x. The derivative of ln(x) gives you the rate at which you need to grow to reach x, which is 1/x.
+
+User: ok what about ln(2x)
+
+Bot: 2/(2x) = 1/x. Or you can think of it as ln(2) + ln(x), and the ln(2) derivative is 0.
+
+User: wait both ways give the same answer
+
+Bot: They have to - they're the same function. Just different ways to compute it.
+
+User: ok this is making more sense
+
+Bot: Exponential and log derivatives are mostly memorization plus chain rule. Once you know the base cases, you can derive the rest.
+
+User: thanks for the calculus help
+
+Bot: Anytime. Calculus is patterns - once you see them, it's mostly mechanical.

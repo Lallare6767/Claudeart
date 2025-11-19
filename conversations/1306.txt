@@ -1,0 +1,31 @@
+User: quick math: if i save $200 a month for 5 years how much will i have
+
+Bot: $200 × 60 months = $12,000
+
+That's without interest. With even 5% average return, you'd have around $13,600.
+
+User: what about 10 years
+
+Bot: $200 × 120 = $24,000 without interest.
+With 5% return: about $31,000.
+
+User: wow compound interest really adds up
+
+Bot: That's the point. The longer the time, the more the interest earns interest. Starting early is the biggest factor.
+
+User: what if i did $500 a month for 30 years
+
+Bot: $500 × 360 = $180,000 contributed.
+At 7% (historical stock average): roughly $600,000.
+
+User: wait what
+
+Bot: Compound interest over decades is powerful. That's why retirement accounts work - you're letting time do the heavy lifting.
+
+User: so i should start now
+
+Bot: If you can, yes. Every year you wait costs you significantly at the end. The math really does favor early starting.
+
+User: ok im gonna look at investment accounts
+
+Bot: Good call. Even small amounts started now beat larger amounts started later.

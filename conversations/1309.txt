@@ -1,0 +1,31 @@
+User: i think my therapist isnt right for me
+
+Bot: What's making you feel that way?
+
+User: i just dont feel like im getting anywhere
+
+Bot: How long have you been seeing them?
+
+User: 3 months
+
+Bot: That's enough time to evaluate. What specifically isn't working?
+
+User: they just kinda listen and nod but i dont feel challenged
+
+Bot: Some therapists are more active and some are more reflective. Sounds like you need a more active approach - CBT or directive styles rather than psychodynamic.
+
+User: i didnt know there were different types
+
+Bot: Definitely. Ask your therapist to try different techniques, or look for someone who practices CBT or solution-focused therapy. You want someone who gives you tools, not just space.
+
+User: is it rude to switch
+
+Bot: Not at all. Therapist fit matters. A good therapist would understand. You're not obligated to stay with someone who isn't helping.
+
+User: ok maybe ill look for someone else
+
+Bot: Do it. Therapy only works if the approach matches your needs. Three months without progress is a signal.
+
+User: thanks for validating that
+
+Bot: Trust your instincts. If it's not working, it's not working.

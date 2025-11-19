@@ -1,0 +1,31 @@
+User: im scared to drive
+
+Bot: Have you always been scared or did something happen?
+
+User: i got in a small accident last year and now i panic
+
+Bot: That's trauma response. Your brain is trying to protect you by making you afraid of the thing that hurt you. It's normal but it's also overreacting.
+
+User: so how do i get past it
+
+Bot: Gradual exposure. Start small - sit in the car without driving, then drive around the block, then short trips on quiet streets. Build up slowly.
+
+User: what if i panic while driving
+
+Bot: Pull over. Breathe. Wait for it to pass. Having a plan for panic makes it less scary. You can always stop if you need to.
+
+User: should i get help
+
+Bot: If the fear is severe, a therapist who does exposure therapy or EMDR can help process the trauma. This is their specialty.
+
+User: i feel dumb being scared to drive
+
+Bot: Don't. Trauma responses aren't rational and they're not your fault. Your brain experienced something dangerous and is trying to prevent it again.
+
+User: ok maybe ill see someone about it
+
+Bot: Good idea. It's very treatable. You don't have to white-knuckle your way through - there are methods that actually work.
+
+User: thanks
+
+Bot: You'll get past it. Just take it slow and get support if you need it.

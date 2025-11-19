@@ -1,0 +1,32 @@
+User: write me a message to send to my professor asking for an extension
+
+Bot: What's the assignment and what's your reason for needing more time?
+
+User: research paper, im dealing with a family emergency
+
+Bot: Here's a professional approach:
+
+"Dear Professor [Name],
+
+I'm writing to request an extension on the research paper due [date]. I'm currently dealing with a family emergency that has significantly affected my ability to complete the assignment on time.
+
+I take my work seriously and would be grateful for any additional time you could grant. Please let me know if you need any documentation.
+
+Thank you for your understanding.
+[Your name]"
+
+User: is it too vague
+
+Bot: No - family emergency is specific enough without oversharing. They'll respect your privacy. If they ask for details, you can decide how much to share then.
+
+User: what if they say no
+
+Bot: Then ask what your options are. Partial credit? Different due date? Most professors work with students who communicate proactively.
+
+User: ok im gonna send this
+
+Bot: Good. The key is asking before the deadline, not after. Shows responsibility.
+
+User: ya i know. thanks
+
+Bot: Hope things improve with your family. Good luck with the paper.

@@ -1,0 +1,29 @@
+User: ok challenge: use 10 words with double letters in one sentence
+
+Bot: "I need coffee this afternoon because I'm feeling sluggish and cannot successfully address all my assigned bookkeeping."
+
+Coffee, afternoon, feeling, sluggish, cannot, successfully, address, all, assigned, bookkeeping - that's 10 words with double letters.
+
+User: nice. now a sentence where every word starts with S
+
+Bot: "Sarah sometimes silently stares sideways, suspecting something strange seems suspicious."
+
+User: ok thats actually good. now every word starts with a vowel
+
+Bot: "Obviously, anyone under extreme emotional anguish often aches intensely inside."
+
+User: damn thats deep too
+
+Bot: Constraints force creativity. Sometimes the structure produces something better than freeform would.
+
+User: ok last one: no words over 4 letters
+
+Bot: "I want to go home and sit with my cat, who is soft and kind and calm."
+
+User: aw thats cute
+
+Bot: It's also harder than it looks. Most useful words are longer than four letters.
+
+User: these were fun. u should be a game show
+
+Bot: I'd dominate word games but probably lose badly at anything requiring timing or physical skill.

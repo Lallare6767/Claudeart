@@ -1,0 +1,31 @@
+User: explain inflation simply
+
+Bot: Prices go up, money buys less. If everything costs 3% more than last year, your $100 now only buys what $97 bought before.
+
+User: why does it happen
+
+Bot: Usually too much money chasing too few goods. If everyone has more money but there's the same amount of stuff, prices rise.
+
+User: is some inflation normal
+
+Bot: Yes. Central banks actually target around 2% inflation because mild inflation encourages spending and investment. Deflation (falling prices) is often worse because people delay purchases waiting for lower prices.
+
+User: what about high inflation
+
+Bot: High inflation erodes savings, makes planning hard, and hurts people on fixed incomes. That's when it becomes a serious problem.
+
+User: how do they fix it
+
+Bot: Usually raising interest rates. Higher rates make borrowing expensive, so people spend less, which cools demand and slows price increases.
+
+User: but that hurts the economy
+
+Bot: Yes. It's a tradeoff. Higher rates slow inflation but also slow growth and increase unemployment. That's why it's contentious.
+
+User: economics is complicated
+
+Bot: It is. Everything connects to everything else. Fixing one problem often creates another.
+
+User: thanks for explaining
+
+Bot: Happy to help. Inflation affects everyone so it's worth understanding the basics.

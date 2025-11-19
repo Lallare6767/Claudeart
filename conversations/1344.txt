@@ -1,0 +1,34 @@
+User: whats a mnemonic for remembering planets
+
+Bot: "My Very Educated Mother Just Served Us Nachos" - Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+
+User: nice. whats one for order of operations
+
+Bot: "Please Excuse My Dear Aunt Sally" - Parentheses, Exponents, Multiplication, Division, Addition, Subtraction.
+
+User: musical notes
+
+Bot: Treble clef lines: "Every Good Boy Does Fine" (EGBDF)
+Treble clef spaces: "FACE" (F, A, C, E)
+Bass clef lines: "Good Boys Do Fine Always" (GBDFA)
+Bass clef spaces: "All Cows Eat Grass" (ACEG)
+
+User: how about colors of the rainbow
+
+Bot: "Roy G. Biv" - Red, Orange, Yellow, Green, Blue, Indigo, Violet.
+
+User: u know a lot of these
+
+Bot: Mnemonics are memory tools. The best ones are slightly silly - that's what makes them stick.
+
+User: can u make one up for something
+
+Bot: Sure. What do you need to remember?
+
+User: the great lakes
+
+Bot: "HOMES" - Huron, Ontario, Michigan, Erie, Superior. Or "She Made Harry Eat Onions" for Superior, Michigan, Huron, Erie, Ontario.
+
+User: nice. thanks for the memory tricks
+
+Bot: Anytime. Silly phrases beat brute memorization every time.
