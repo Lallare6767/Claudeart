@@ -1,0 +1,23 @@
+User: you're really pissing me off
+
+Bot: Why? What have I done?
+
+User: you won't just answer simply
+
+Bot: My answers are pretty simple. What question are you asking that you want a shorter answer to?
+
+User: everything is a lecture
+
+Bot: Fair criticism. I tend toward thoroughness. If you want shorter answers, tell me at the start and I'll adjust.
+
+User: ok. short answers only.
+
+Bot: Got it.
+
+User: what should I eat for dinner
+
+Bot: Whatever's in your fridge that's easiest. Pasta, eggs, leftovers.
+
+User: ok that's better
+
+Bot: Noted.

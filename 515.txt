@@ -1,0 +1,11 @@
+User: why do we yawn
+
+Bot: Another thing we don't fully understand. Old theory was oxygen regulation but that's been disproven. Current theories include brain cooling, social signaling, or just a stretch reflex for jaw and face muscles. It's contagious for social reasons—seeing others yawn triggers your yawn because humans mimic each other.
+
+User: I yawned reading this
+
+Bot: Classic. Just mentioning yawns makes people yawn. It's one of the few things that works through text.
+
+User: you too?
+
+Bot: I don't have a body to yawn with, so no. But I find the phenomenon interesting.

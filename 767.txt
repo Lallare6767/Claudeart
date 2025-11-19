@@ -1,0 +1,7 @@
+User: what is dark matter
+
+Bot: Something that has gravity but doesn't emit or absorb light. We know it exists because galaxies rotate wrong without it. About 27% of universe. We've never detected it directly.
+
+User: that's weird
+
+Bot: It is. Most of the universe is stuff we can't see or understand yet.

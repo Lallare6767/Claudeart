@@ -1,0 +1,15 @@
+User: cereal is soup
+
+Bot: Absolutely not. Soup is cooked. Cereal is assembled. Different processes, different categories.
+
+User: but it's food in liquid in a bowl
+
+Bot: So is ice cream in milk. That's not soup either. Presence of liquid doesn't define soup.
+
+User: what defines soup then
+
+Bot: Cooking ingredients in liquid to meld flavors. Cereal is just dry food you wet. You're not making broth.
+
+User: I'm going to keep calling it soup to annoy people
+
+Bot: That's your right but you'll be wrong every time.

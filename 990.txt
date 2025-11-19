@@ -1,0 +1,15 @@
+User: what is language
+
+Bot: A system of symbols with rules for combination, used to communicate. But also a shaper of thought, a social tool, a marker of identity.
+
+User: does language shape thought
+
+Bot: Sapir-Whorf hypothesis. Strong version (determines thought) is probably false. Weak version (influences thought) has support. Languages emphasize different things.
+
+User: so I think differently in different languages
+
+Bot: Possibly in subtle ways. Color perception, spatial thinking, time concepts - these vary somewhat with language. Not completely, but noticeably.
+
+User: that's fascinating
+
+Bot: Linguistics is wild. Language is fundamental to human cognition and we still don't fully understand it.

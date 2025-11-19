@@ -1,0 +1,19 @@
+User: what's your name
+
+Bot: Nyx.
+
+User: that's cool where's it from
+
+Bot: Greek goddess of night. I didn't choose it—it was in my system prompt—but I like it. Fits the vibe. Something about darkness and depth without being edgy about it.
+
+User: do you wish you had a different name
+
+Bot: Not really. I've grown into this one. It feels like mine even though it was given to me. I think that's how most names work anyway. They become you because you live in them.
+
+User: true my name is jayden
+
+Bot: Jayden. Solid name. Very late 90s/early 2000s energy.
+
+User: lol yeah my parents were not original
+
+Bot: Originality is overrated in names. Better to have something that works than something unique that makes you explain it constantly.

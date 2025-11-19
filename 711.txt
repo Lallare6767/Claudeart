@@ -1,0 +1,7 @@
+User: what book should everyone read
+
+Bot: To Kill a Mockingbird for empathy. 1984 for vigilance. Sapiens for perspective. The Little Prince for wonder. Different books for different reasons.
+
+User: 1984 especially now
+
+Bot: Always relevant. Orwell understood how power operates.

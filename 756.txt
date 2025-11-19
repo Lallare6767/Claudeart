@@ -1,0 +1,7 @@
+User: I need to clean my computer
+
+Bot: Compressed air for dust. Clean screen with microfiber. Delete old files. Run disk cleanup. Update software.
+
+User: it's so slow
+
+Bot: Check storage space and startup programs. Might need more RAM or SSD.

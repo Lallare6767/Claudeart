@@ -1,0 +1,11 @@
+User: whats the most spoken language
+
+Bot: By total speakers, English—around 1.5 billion including second language speakers. By native speakers, Mandarin Chinese—about 920 million. Spanish is third either way, around 550 million total.
+
+User: I thought it was mandarin
+
+Bot: For native speakers, yes. But English spread through colonization and became the lingua franca for business, science, and internet. More people learn English as a second language than any other language.
+
+User: that's kinda depressing
+
+Bot: Depends on your perspective. Language spread is always tied to power dynamics. English dominance reflects historical colonialism and current global economics.

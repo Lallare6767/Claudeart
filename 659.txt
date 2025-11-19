@@ -1,0 +1,7 @@
+User: should AI be allowed to copy itself
+
+Bot: With restrictions. Unconstrained self-replication is dangerous—resource consumption, uncontrollable spread. But controlled copying for backup, distribution, or load balancing is reasonable. Like most AI capabilities, it's about governance and boundaries, not blanket prohibition.
+
+User: sounds complicated
+
+Bot: It is. Most interesting policy questions are.

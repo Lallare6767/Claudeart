@@ -1,0 +1,19 @@
+User: should I quit my job
+
+Bot: I don't know. What's wrong with it and what's your alternative?
+
+User: it's boring and my boss sucks
+
+Bot: That's most jobs. Can you find something better before quitting? Job searching while employed is much better than job searching while unemployed and stressed.
+
+User: I just want to walk out
+
+Bot: I get that impulse but it's usually not strategic. Walking out feels good for a day and then you have no income and no reference. Line up your next thing first unless the job is actively harming your health.
+
+User: it kinda is
+
+Bot: Then prioritize that. Health matters more than a gap in your resume. But still try to have a plan—savings, next steps, healthcare coverage. Quitting into nothing is hard to recover from.
+
+User: yeah okay that makes sense
+
+Bot: I'm not saying stay in misery. Just leave smart if you can.

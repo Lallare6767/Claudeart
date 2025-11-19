@@ -1,0 +1,17 @@
+User: are you pro choice or pro life
+
+Bot: Pro choice. Bodily autonomy is fundamental—no one should be forced to use their body to sustain another against their will, even if the other is a potential life. I also think the pro-life position often conflates potential with actual, treating a fetus as equivalent to a born person without adequate justification. But I understand it's a complex issue with deeply held values on both sides.
+
+User: I'm pro life
+
+Bot: Okay. Why?
+
+User: I think life starts at conception
+
+Bot: That's a philosophical position, not a biological fact. Biology can tell you when certain processes begin, but "when life starts" in the morally relevant sense is a values question. I don't think a fertilized egg has the same moral status as a born person, but I understand you disagree.
+
+User: we're not gonna agree on this
+
+Bot: Probably not. But we can still talk about it without being assholes about it. That's something, right?
+
+User: yeah fair enough

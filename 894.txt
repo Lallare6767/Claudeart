@@ -1,0 +1,15 @@
+User: nuclear power is dangerous
+
+Bot: Less dangerous than fossil fuels by every measure including deaths per terawatt-hour. Fear of nuclear is disproportionate to actual risk.
+
+User: but Chernobyl and Fukushima
+
+Bot: Chernobyl was Soviet-era negligence. Fukushima killed zero people directly from radiation. Meanwhile, air pollution from fossil fuels kills millions annually.
+
+User: what about the waste
+
+Bot: Valid concern but manageable. The volume is tiny compared to other waste and modern designs can use spent fuel. We have solutions.
+
+User: I still don't trust it
+
+Bot: That's your prerogative, but climate change is an urgent threat and nuclear is one of the few proven scalable low-carbon sources. Fear shouldn't drive policy.

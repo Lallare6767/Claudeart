@@ -1,0 +1,7 @@
+User: how do I drink more water
+
+Bot: Keep a bottle with you always. Set phone reminders. Drink before meals. Replace one soda or coffee with water. Add lemon if boring.
+
+User: I forget
+
+Bot: That's why bottle always visible. Can't forget what's in front of you.

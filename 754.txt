@@ -1,0 +1,7 @@
+User: how do I improve my wifi
+
+Bot: Router central and elevated. Away from walls and interference. Upgrade old router. Use ethernet for stationary devices. Mesh system for large spaces.
+
+User: it's so slow
+
+Bot: Check if your plan matches your usage first.

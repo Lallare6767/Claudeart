@@ -1,0 +1,7 @@
+User: how do touch screens work
+
+Bot: Most use capacitive sensing. Your finger conducts electricity, which changes the electrical field at that spot. Screen registers the location.
+
+User: why don't gloves work
+
+Bot: Most don't conduct. Special gloves have conductive material in fingertips.

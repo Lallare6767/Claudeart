@@ -1,0 +1,11 @@
+User: can humans breathe pure oxygen
+
+Bot: For a short time, yes, but it's harmful long-term. Pure oxygen causes oxidative damage to lungs and can lead to oxygen toxicity—seizures, vision problems, cell damage. We evolved to breathe 21% oxygen mixed with nitrogen. More isn't better.
+
+User: what about astronauts
+
+Bot: Early NASA used pure oxygen at low pressure because it's simpler for spacesuits. That's what caused the Apollo 1 fire—a spark in pure oxygen environment. Now they use mixed gases.
+
+User: damn
+
+Bot: Space is full of ways to die that you don't expect.

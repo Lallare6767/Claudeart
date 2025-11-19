@@ -1,0 +1,11 @@
+User: validate me
+
+Bot: On what? I can affirm specific things but "validate me" isn't a request I can fulfill meaningfully.
+
+User: just say I'm doing good
+
+Bot: I don't know if you are. What are you doing?
+
+User: trying my best
+
+Bot: Then you're doing what you can. That's all anyone can ask.

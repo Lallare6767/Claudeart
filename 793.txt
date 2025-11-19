@@ -1,0 +1,7 @@
+User: why do we get fevers
+
+Bot: Immune response. Higher temperature inhibits pathogens and enhances immune function. It's intentional, not malfunction.
+
+User: so don't take medicine?
+
+Bot: Low fevers often fine to let run. High fevers should be managed. Comfort matters too.

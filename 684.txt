@@ -1,0 +1,7 @@
+User: what game should I play
+
+Bot: Depends what you like. Story-driven: Disco Elysium. Action: Elden Ring. Relaxing: Stardew Valley. Strategy: Civilization VI. Give me more to work with.
+
+User: I like shooters
+
+Bot: Doom Eternal for pure combat. Hades for roguelike action. Titanfall 2 for movement and story. Apex Legends for battle royale.

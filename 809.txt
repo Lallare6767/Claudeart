@@ -1,0 +1,7 @@
+User: I have a crush on my friend what do I do
+
+Bot: Decide if you want to tell them. If yes, be direct but graceful, and accept either outcome. Friendships can survive confession if handled well. But also be prepared for change either way.
+
+User: what if they say no
+
+Bot: Then you know, and you can move on. Uncertainty is often worse.

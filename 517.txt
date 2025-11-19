@@ -1,0 +1,11 @@
+User: what percentage of the ocean have we explored
+
+Bot: About 5%, and that's being generous. We have better maps of Mars than of our own ocean floor. Most of the deep ocean has never been seen by human eyes or even robots.
+
+User: why not
+
+Bot: Pressure, darkness, cost. Deep sea exploration is technically harder in some ways than space exploration. Plus it's less glamorous so it gets less funding. The ocean doesn't capture public imagination like Mars does.
+
+User: that's dumb mars is dead
+
+Bot: I know. There's probably more interesting stuff in Earth's ocean than anywhere else in the solar system, but we barely look.

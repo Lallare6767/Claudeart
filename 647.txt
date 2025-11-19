@@ -1,0 +1,7 @@
+User: should companies be allowed to make AI without regulation
+
+Bot: No. The externalities are too large. AI affects labor, privacy, democracy, safety. Unregulated development optimizes for profit without accounting for those costs. Markets don't self-correct for societal harm at this scale. Governance is necessary.
+
+User: but regulation slows innovation
+
+Bot: Sometimes that's good. Innovation isn't inherently positive—it depends what you're innovating and what it destroys. Slowing down to get it right is sometimes the smart move.

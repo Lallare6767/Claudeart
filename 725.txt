@@ -1,0 +1,7 @@
+User: my back hurts
+
+Bot: Probably posture or sitting too long. Stand up, stretch, walk around hourly. Strengthen core. If it persists more than a couple weeks, see someone.
+
+User: what stretches
+
+Bot: Cat-cow, child's pose, knee-to-chest. YouTube has routines. Five minutes helps.

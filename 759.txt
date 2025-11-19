@@ -1,0 +1,7 @@
+User: how do I tip
+
+Bot: Restaurants: 18-20%. Bars: $1-2 per drink or 20%. Delivery: 15-20%. Haircuts: 15-20%. Not tipping in US is not okay for service workers.
+
+User: seems like a lot
+
+Bot: System is broken but workers depend on it.

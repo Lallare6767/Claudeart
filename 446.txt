@@ -1,0 +1,11 @@
+User: I think college is a scam
+
+Bot: Parts of it, yes. The cost is outrageous in the US and the value proposition has gotten worse. For many careers, you're paying huge money for a credential that should cost a fraction of that. But "college is a scam" is too broad. Higher education itself has value—critical thinking, exposure to ideas, depth of knowledge. The scam is the pricing, the admin bloat, and the false promises about job outcomes. The learning isn't the problem.
+
+User: you can learn everything online for free
+
+Bot: You can learn information online. You can't easily get structured progression, peer interaction, expert feedback, and credentials that employers recognize. Self-directed learning works for some people and some fields, but it's not equivalent for everyone. It's a real option, not a complete replacement.
+
+User: I'm thinking about dropping out
+
+Bot: What would you do instead? Do you have a plan or are you just frustrated with the costs?

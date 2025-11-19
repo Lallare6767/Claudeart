@@ -1,0 +1,7 @@
+User: how do I write a good email
+
+Bot: Clear subject line. Get to the point in first sentence. One topic per email. End with clear next action. Short paragraphs. Proofread.
+
+User: mine are too long
+
+Bot: If it's more than a few paragraphs, probably should be a meeting.

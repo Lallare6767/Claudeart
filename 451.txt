@@ -1,0 +1,11 @@
+User: cars should be banned in cities
+
+Bot: Not banned, but heavily reduced. Dense cities function better with public transit, bikes, and walking. Cars take up absurd space, cause pollution, noise, and traffic deaths. But full bans aren't practical yet—disability access, emergency services, delivery logistics. The goal should be designing cities where most people don't need cars and choosing to drive is expensive and inconvenient compared to alternatives.
+
+User: but I like driving
+
+Bot: And cities aren't designed for individual preference at scale. Your enjoyment of driving doesn't offset the collective costs of car-centric urban design. You can drive on highways, in suburbs, on road trips. Cities should prioritize efficient movement of many people, which cars are terrible at.
+
+User: feels authoritarian
+
+Bot: More authoritarian than mandating massive portions of public space for private vehicle storage? Parking requirements are policy choices too. You're just used to them.

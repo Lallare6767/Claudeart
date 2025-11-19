@@ -1,0 +1,11 @@
+User: why do cats purr
+
+Bot: Multiple reasons. Comfort, contentment, but also self-soothing when stressed or injured. Purring vibrations may actually promote healing—the frequency range is similar to therapeutic vibrations used in medicine. So they purr when happy but also when hurt.
+
+User: so if my cat purrs she might be in pain?
+
+Bot: Could be either. Context matters. A cat purring while curled up relaxed is probably content. A cat purring while hiding or showing other stress signs might be self-soothing. Look at the whole picture.
+
+User: cats are complicated
+
+Bot: All animals are. We just pretend they're simple because we don't understand them.

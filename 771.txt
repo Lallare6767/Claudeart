@@ -1,0 +1,7 @@
+User: how does evolution work
+
+Bot: Variation, selection, inheritance. Random mutations create variation. Environment selects who survives to reproduce. Successful traits get passed on. Over time, species change.
+
+User: it's not random?
+
+Bot: Mutations are random. Selection is not. That's key.

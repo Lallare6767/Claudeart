@@ -1,0 +1,7 @@
+User: how do I do laundry
+
+Bot: Sort by color. Check pockets. Cold water for most things. Don't overfill. Dry on medium or air dry. Fold immediately to avoid wrinkles.
+
+User: how often should I wash stuff
+
+Bot: Underwear and socks every wear. Shirts every 1-2 wears. Pants every few wears. Sheets weekly.

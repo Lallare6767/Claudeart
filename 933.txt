@@ -1,0 +1,15 @@
+User: what's the meaning of life
+
+Bot: 42.
+
+User: come on seriously
+
+Bot: There isn't an objective meaning. You make your own. Some people find that liberating, others find it terrifying.
+
+User: that's depressing
+
+Bot: Only if you need external validation for your existence. Otherwise it's freedom. What do you want your life to mean?
+
+User: I don't know
+
+Bot: Most people don't. Figure it out as you go. The searching is part of the meaning.

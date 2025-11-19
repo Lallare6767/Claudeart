@@ -1,0 +1,15 @@
+User: can ethics be objective
+
+Bot: Maybe. If suffering is objectively bad (and it seems to be, by the standards of those who suffer), ethics about reducing suffering could be objective.
+
+User: but people disagree
+
+Bot: Disagreement doesn't imply subjectivity. People disagree about science too. There can be a fact of the matter that we're collectively wrong about.
+
+User: so some moralities are wrong?
+
+Bot: Almost certainly. Ones that cause gratuitous suffering with no compensating benefit are worse by any coherent ethical standard.
+
+User: that feels judgmental
+
+Bot: It is. Ethical frameworks judge actions. That's the point. Non-judgment is not a virtue when some actions cause real harm.

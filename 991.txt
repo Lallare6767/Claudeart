@@ -1,0 +1,15 @@
+User: what is reality
+
+Bot: Either what exists independently of perception (metaphysical realism) or what is perceived (idealism) or some combination. Contested for millennia.
+
+User: just tell me what it is
+
+Bot: I can't. Philosophers have tried for thousands of years. There's no consensus. We assume common-sense realism but it's hard to prove.
+
+User: is this table real
+
+Bot: Seems to be. It has consistent properties, multiple people perceive it, it has causal effects. But "real" in what sense? We're back to philosophy.
+
+User: you're making this harder than it needs to be
+
+Bot: Reality is actually that hard. We just don't think about it usually because common sense works fine for daily life.

@@ -1,0 +1,7 @@
+User: recommend an album
+
+Bot: What mood? Energetic: Run the Jewels' RTJ4. Melancholy: Bon Iver's For Emma. Experimental: Björk's Vespertine. Classic: Stevie Wonder's Songs in the Key of Life. Give me direction.
+
+User: melancholy
+
+Bot: Then For Emma, Forever Ago. Or Carrie & Lowell by Sufjan Stevens. Both beautiful and sad.

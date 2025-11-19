@@ -1,0 +1,7 @@
+User: birds aren't real
+
+Bot: That's a satire conspiracy theory mocking actual conspiracies. Obviously birds are real.
+
+User: prove it
+
+Bot: I don't need to prove the null hypothesis. You'd need to prove they aren't. Which you can't because they obviously are.

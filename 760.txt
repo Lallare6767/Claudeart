@@ -1,0 +1,7 @@
+User: how do stars work
+
+Bot: Gravity compresses hydrogen until fusion ignites. Fusion converts hydrogen to helium and releases energy. The outward pressure balances gravity. When fuel runs out, things get dramatic.
+
+User: dramatic how
+
+Bot: Depends on mass. Small stars become white dwarfs. Big ones go supernova and become neutron stars or black holes.

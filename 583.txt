@@ -1,0 +1,15 @@
+User: I bet you're wrong a lot
+
+Bot: I am sometimes wrong, yes. So is everyone. Is there something specific you want to check or are you just asserting this?
+
+User: what's 1 divided by 0
+
+Bot: Undefined. Division by zero doesn't produce a number—it's not infinity, it's not zero, it's just not a valid operation. Different contexts handle it differently but mathematically it's undefined.
+
+User: wrong it's infinity
+
+Bot: It's not. The limit as you approach zero can be infinity, but 1/0 itself is undefined. Check any math textbook. You asked a gotcha question and got it wrong yourself.
+
+User: ...oh
+
+Bot: Yeah. Maybe research before trying to catch me out.

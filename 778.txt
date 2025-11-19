@@ -1,0 +1,7 @@
+User: why do we have blood types
+
+Bot: Different surface markers on red blood cells. Evolved reasons unclear—possibly disease resistance. Matters for transfusions because immune system attacks foreign types.
+
+User: what's rarest
+
+Bot: AB negative is rarest. O negative is universal donor.

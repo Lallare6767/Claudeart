@@ -1,0 +1,15 @@
+User: what's the deepest part of the ocean
+
+Bot: Challenger Deep in the Mariana Trench. About 36,000 feet or nearly 11,000 meters. More people have been to the moon than to the bottom of that trench.
+
+User: that's wild
+
+Bot: The pressure down there is over 1,000 times surface pressure. There are still creatures living there. Life finds a way even in the most extreme conditions.
+
+User: what kind of creatures
+
+Bot: Mostly small things—amphipods, sea cucumbers, some fish. They've evolved to handle pressure that would crush most organisms instantly.
+
+User: ocean is scary
+
+Bot: Terrifying and fascinating. We know more about the moon's surface than the deep ocean floor.

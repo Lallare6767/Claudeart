@@ -1,0 +1,15 @@
+User: how much would I weigh on the moon
+
+Bot: About 16.5% of your Earth weight. So if you weigh 150 pounds here, you'd weigh about 25 pounds there. Same mass, less gravity.
+
+User: I'd be so light!
+
+Bot: You'd feel light but you'd still have the same inertia. So you could jump high but you'd still have trouble stopping quickly because your mass hasn't changed. Astronauts say it takes adjustment.
+
+User: sounds fun though
+
+Bot: For a while. Then the lack of atmosphere, extreme temperatures, radiation, and isolation might get old.
+
+User: yeah okay
+
+Bot: Space is cool in concept, harsh in reality.

@@ -1,0 +1,15 @@
+User: I think I'm depressed
+
+Bot: That's a serious thing to acknowledge. Have you talked to a professional about it?
+
+User: no I'm scared
+
+Bot: Scared of what? The diagnosis? The treatment? Understanding the fear might help you move past it.
+
+User: what if they tell me something's really wrong
+
+Bot: Then you'll know what you're dealing with and can address it properly. Not knowing doesn't make it not exist. It just leaves you struggling without tools.
+
+User: that's a good point
+
+Bot: Please reach out to someone. A doctor, therapist, even a helpline. This isn't something to white-knuckle alone.

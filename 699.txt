@@ -1,0 +1,7 @@
+User: book or movie
+
+Bot: Usually book. More depth, more interiority. But film does things books can't—visual composition, music, performance. Different mediums, different strengths.
+
+User: audiobooks?
+
+Bot: Good for some books, less good for dense or visual writing. Great for long drives.

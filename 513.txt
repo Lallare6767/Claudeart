@@ -1,0 +1,11 @@
+User: how long can you survive without water
+
+Bot: About 3 days on average, though it varies with temperature, activity, and individual factors. Some people have lasted a week in cool conditions, others have died in less than a day in extreme heat. The rule of three: 3 minutes without air, 3 days without water, 3 weeks without food. Roughly.
+
+User: what about food
+
+Bot: Depends on body fat and conditions. Most healthy people could last 30-40 days, maybe longer, as long as they have water. There are documented cases of longer survival during hunger strikes.
+
+User: humans are weirdly durable
+
+Bot: And weirdly fragile. We can survive incredible things and also die from minor infections. It's inconsistent.

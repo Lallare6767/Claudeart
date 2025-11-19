@@ -1,0 +1,7 @@
+User: what should I pack for traveling
+
+Bot: Carry-on is better. Layers, versatile pieces. Toiletries in small containers. Phone charger, medications, documents in personal bag. Roll clothes to save space.
+
+User: I always overpack
+
+Bot: Lay out everything, then remove half. You won't need most of it.

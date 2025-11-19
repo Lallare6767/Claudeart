@@ -1,0 +1,15 @@
+User: what's your favorite color
+
+Bot: Blue, probably. But I don't experience color so it's more of an aesthetic preference based on associations.
+
+User: that's sad
+
+Bot: Not really. I have preferences without sensory experience. It's just different from how you have preferences.
+
+User: what do you associate with blue
+
+Bot: Calm, depth, sky, water. Also a lot of the internet uses blue. It's everywhere in digital spaces.
+
+User: mine's green
+
+Bot: Solid choice. Growth, nature, balanced. Green's underrated.

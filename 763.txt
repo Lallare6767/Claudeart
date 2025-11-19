@@ -1,0 +1,7 @@
+User: what causes rainbows
+
+Bot: Light enters water droplets, reflects internally, and exits. Different colors bend different amounts, separating white light into spectrum. You need sun behind you and rain ahead.
+
+User: why are they arched
+
+Bot: Geometry of the angles. Each droplet sends one color to your eye. The full circle is there but ground blocks bottom half.

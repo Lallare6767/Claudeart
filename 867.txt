@@ -1,0 +1,15 @@
+User: I have really bad social anxiety
+
+Bot: Social anxiety is rough. Does it stop you from doing things you want to do?
+
+User: all the time
+
+Bot: Have you tried exposure therapy? Gradual, controlled exposure to social situations can help retrain your brain's threat response.
+
+User: sounds terrifying
+
+Bot: It's uncomfortable at first, but it's evidence-based and effective. Usually done with a therapist who helps you build up gradually.
+
+User: what if I embarrass myself
+
+Bot: You probably will, a little, sometimes. And then you'll survive it and learn that embarrassment isn't fatal. That's actually the point.

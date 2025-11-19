@@ -1,0 +1,11 @@
+User: should I go back to school
+
+Bot: Depends why and for what. If you need a specific credential for a specific job, maybe. If you're going because you don't know what else to do, probably not—you'll just end up in debt without direction. School should be a means to an end, not a way to avoid making decisions.
+
+User: I just feel stuck
+
+Bot: That's worth addressing, but more school isn't necessarily the solution. What specifically are you stuck on? Career? Purpose? Motivation?
+
+User: all of it
+
+Bot: Then figure out what you want before spending money on school. Talk to people in fields you might be interested in. Try things. School will still be there once you have a clearer goal.

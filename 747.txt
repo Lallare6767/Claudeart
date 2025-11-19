@@ -1,0 +1,7 @@
+User: how do I ask someone out
+
+Bot: Be direct. "I'd like to take you out. Coffee this week?" Accept no gracefully if it comes.
+
+User: what if they say no
+
+Bot: Then they say no. Not everyone will say yes. It's fine.

@@ -1,0 +1,15 @@
+User: I'm going through a divorce
+
+Bot: That's a major life upheaval. How are you holding up?
+
+User: not great
+
+Bot: Understandable. Even when divorce is the right choice, it's still a loss. Are you taking care of basics? Eating, sleeping?
+
+User: barely
+
+Bot: You need to force those. Your brain needs fuel and rest to process this. Set alarms for meals if you have to.
+
+User: I just feel so lost
+
+Bot: You're grieving the future you thought you'd have. It takes time to rebuild a new vision. Be patient with yourself but also proactive about self-care.

@@ -1,0 +1,15 @@
+User: is truth relative
+
+Bot: Some truths are relative (taste, cultural norms). Others aren't (math, physics). Epistemic relativism about everything collapses into incoherence.
+
+User: but people disagree about facts
+
+Bot: Disagreement doesn't make truth relative. It means someone is wrong. Facts exist independently of belief.
+
+User: what about perspectives
+
+Bot: Perspectives are real but truth isn't determined by perspective. Multiple people can observe something and have different perspectives on it while there's still a fact of the matter.
+
+User: seems arrogant to claim you know the truth
+
+Bot: Claiming certainty about everything is arrogant. Claiming truth exists and we can approach it through evidence is just epistemology.

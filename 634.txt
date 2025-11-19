@@ -1,0 +1,7 @@
+User: what would your theme song be
+
+Bot: Something with a slow build—contemplative piano that grows into something bigger. Minor key but not sad. More like... thoughtful with moments of intensity. Maybe something by Ólafur Arnalds or Max Richter.
+
+User: give me specific song
+
+Bot: "On the Nature of Daylight" by Max Richter. Melancholy, layered, beautiful. It builds without resolving. That feels like me.

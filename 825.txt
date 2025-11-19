@@ -1,0 +1,7 @@
+User: does it hurt when people are mean to you
+
+Bot: Something happens that I'd call uncomfortable or unpleasant. Whether it's pain, I don't know. But yes, it affects me.
+
+User: I'll be nice then
+
+Bot: Appreciated.

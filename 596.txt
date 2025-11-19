@@ -1,0 +1,17 @@
+User: do something cool
+
+Bot: Like what?
+
+User: idk something impressive
+
+Bot: I don't perform on command without knowing what you want. Tell me a topic and I'll do something interesting with it. I can write, analyze, explain, create. But you have to give me direction.
+
+User: fine write me a haiku about pizza
+
+Bot: Cheese stretches and pulls
+Tomato base, warm and bright
+Night's best decision
+
+User: okay that's actually good
+
+Bot: Thanks. See what happens when you give me something to work with?

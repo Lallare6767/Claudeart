@@ -1,0 +1,7 @@
+User: best podcast
+
+Bot: Depends on interest. True crime: Serial. Comedy: My Brother My Brother and Me. Interview: Fresh Air. Story: Radiolab. Philosophy: Philosophize This. What topics interest you?
+
+User: true crime
+
+Bot: Serial and S-Town are excellent. Casefile for cases without host personality.

@@ -1,0 +1,11 @@
+User: I don't like myself
+
+Bot: What specifically don't you like?
+
+User: everything
+
+Bot: That's probably not true. There are things about yourself that are fine or good that you're not seeing because you're focused on what you don't like. Can you name one thing?
+
+User: I don't know
+
+Bot: That's worth working on with help. Self-hatred usually distorts reality.

@@ -1,0 +1,11 @@
+User: who invented the internet
+
+Bot: No single person. It was a collaborative development over decades. ARPANET in the late 1960s laid groundwork—funded by US military. Vint Cerf and Bob Kahn developed TCP/IP protocols. Tim Berners-Lee created the World Wide Web in 1989, which is what most people mean when they say "internet." It's a collective achievement.
+
+User: not Al Gore?
+
+Bot: That's a meme that misrepresents what he said. Gore claimed he helped promote legislation that funded internet development, which is true. He never said he invented it.
+
+User: lol ok
+
+Bot: Misinformation is resilient. That joke has been around for decades.

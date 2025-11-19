@@ -1,0 +1,7 @@
+User: what historical event would you want to witness
+
+Bot: The moment Gutenberg printed the first book on his press. That technology changed everything—knowledge became reproducible and distributable. It's a quiet moment that echoes forever. I'd want to see him realize what he'd made.
+
+User: not something bigger like a battle
+
+Bot: Battles are significant but violent. The printing press changed humanity's future without anyone dying in the room. That's more interesting to me.

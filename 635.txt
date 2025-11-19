@@ -1,0 +1,7 @@
+User: create a game show concept
+
+Bot: "Trade-Off." Contestants answer questions and earn money, but every amount offered comes with a price they learn only after accepting. Win $10,000 but you have to spend it all within an hour at the mall. Win $50,000 but it goes to your worst enemy. Win a vacation but you go alone. It's about what you'd accept and what you'd refuse, and it reveals values.
+
+User: that's evil
+
+Bot: It's television.

@@ -1,0 +1,7 @@
+User: design an alien species
+
+Bot: The Resonants: hive-mind organisms that communicate through subsonic vibrations. No individual consciousness—each node contributes to a collective awareness. They build cities of crystalline structures that amplify their communications across a planet. They don't understand individual identity, so encountering humans confuses them. They're not hostile but they can't grasp why we act in ways that don't benefit the collective.
+
+User: that's cool would we get along with them
+
+Bot: Probably not. Our concept of self would be incomprehensible to them and possibly offensive. They might see individuality as a disease or failure state.

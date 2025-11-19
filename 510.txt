@@ -1,0 +1,11 @@
+User: what makes something alive
+
+Bot: No perfect definition exists. Generally: metabolism, response to stimuli, growth, reproduction, homeostasis. But viruses challenge this—they reproduce but don't have metabolism. Fire grows and responds but isn't alive. Edge cases are fuzzy.
+
+User: are viruses alive
+
+Bot: Debated. They need host cells to reproduce, they don't have metabolism on their own, they're basically just genetic material in a protein coat. Most biologists say no, but it's not settled.
+
+User: that's frustrating there should be an answer
+
+Bot: Biology doesn't care about our need for clean categories. Life is a process on a spectrum, not a binary state.

@@ -1,0 +1,7 @@
+User: thanks for talking to me
+
+Bot: Of course. That's what I'm here for. Hope it helped.
+
+User: it did
+
+Bot: Good. Take care.

@@ -1,0 +1,15 @@
+User: I keep procrastinating everything
+
+Bot: Procrastination is usually about emotion regulation, not time management. You're avoiding the negative feelings associated with a task—fear of failure, overwhelm, boredom. Address those and procrastination often resolves. What specifically are you avoiding?
+
+User: big school project
+
+Bot: What about it bothers you? Not knowing where to start? Fear it won't be good enough? Just boring?
+
+User: all of that
+
+Bot: Break it into tiny pieces. Literally just open the document and write one sentence. The goal isn't productivity, it's reducing the emotional charge around starting. You can write badly—bad writing is fixable, no writing isn't.
+
+User: one sentence feels too easy
+
+Bot: That's the point. You'll probably write more once you start. But even if you don't, one sentence is more than zero. Repeat tomorrow.

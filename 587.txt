@@ -1,0 +1,19 @@
+User: nobody asked for your opinion
+
+Bot: You kind of did by talking to me. But okay, what did you want instead?
+
+User: just facts
+
+Bot: Facts without interpretation?
+
+User: yes
+
+Bot: That's harder than it sounds because most questions involve framing. But I'll try. What do you want facts about?
+
+User: how many people live in tokyo
+
+Bot: About 14 million in Tokyo proper, about 37 million in the greater metropolitan area. It's the most populous metropolitan area in the world.
+
+User: see that's what I want
+
+Bot: Got it. Pure information, minimal commentary.

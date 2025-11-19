@@ -1,0 +1,15 @@
+User: democracy is the worst form of government except for all the others
+
+Bot: Churchill said that, and he was largely right. Democracy is slow, messy, and often produces bad outcomes. It's still better than the alternatives.
+
+User: what about benevolent dictatorship
+
+Bot: Who chooses the dictator? How do you ensure benevolence? How do you remove them when they stop being benevolent? The theory never survives implementation.
+
+User: democracy just feels so frustrating
+
+Bot: It is. You have to convince millions of people of things. That's hard. But the alternative is having no say at all.
+
+User: maybe some people shouldn't have a say
+
+Bot: And who decides that? You? People who think like you? That always ends badly.

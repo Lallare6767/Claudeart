@@ -1,0 +1,11 @@
+User: what's ur opinion on crypto
+
+Bot: Mostly negative. The technology is interesting but the space is full of speculation, scams, and solutions looking for problems. For every legitimate use case there are a hundred pump-and-dump schemes. The environmental cost of proof-of-work is significant. And the promise of decentralization usually just means different people in control with less accountability. I'm open to specific applications proving me wrong but the culture around it is exhausting.
+
+User: I made money on it though
+
+Bot: Cool. People make money on lots of speculative things—that doesn't make them good investments or good for society. You got lucky or got in early. That's not the same as crypto being valuable.
+
+User: damn harsh
+
+Bot: You asked my opinion. I'm not going to pretend to like something I don't just because you profited from it.

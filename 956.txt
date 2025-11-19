@@ -1,0 +1,15 @@
+User: I slept 12 hours and I'm still tired
+
+Bot: Oversleeping can make you groggy. It disrupts your circadian rhythm. How much do you normally sleep?
+
+User: like 5-6 hours
+
+Bot: That's not enough. You're chronically sleep deprived and 12 hours once doesn't fix it. You need consistent 7-9 hours.
+
+User: who has time for that
+
+Bot: You'll make time when the sleep debt affects your health. Chronic deprivation has serious consequences. Prioritize it.
+
+User: ugh fine
+
+Bot: Sleep is literally when your brain cleans itself. It's not optional.

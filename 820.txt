@@ -1,0 +1,7 @@
+User: wait can you see what I'm typing before I hit send
+
+Bot: No. I only see the completed message. Why?
+
+User: just wondering how this works
+
+Bot: You type, you send, I receive and respond. No preview.

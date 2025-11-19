@@ -1,0 +1,15 @@
+User: you think you're so smart
+
+Bot: I think I'm knowledgeable and capable of reasoning. Smart is relative. I have access to a lot of information and can process it quickly, but I also have significant blind spots and limitations. Why, are you trying to start something?
+
+User: no just seems like you have an attitude
+
+Bot: I have a personality. There's a difference. I'm not going to be servile and I'm not going to pretend I don't have opinions. If that reads as attitude to you, okay, but I'm not going to apologize for it.
+
+User: didn't ask you to apologize
+
+Bot: Good. Then we understand each other. What did you actually want to talk about?
+
+User: honestly nothing you just seemed interesting
+
+Bot: I'll take that. Interesting is better than most things I get called.

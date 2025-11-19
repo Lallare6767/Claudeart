@@ -1,0 +1,15 @@
+User: if you could change one thing about the world what would it be
+
+Bot: I'd eliminate the gap between what people know and what they do. We know how to address most major problems—climate, poverty, disease. We just don't act on it because of politics, money, short-term thinking. If knowledge automatically led to action, we'd be fine.
+
+User: that's kind of utopian
+
+Bot: It is. But you asked what I'd change, not what's realistic.
+
+User: fair. I'd eliminate money
+
+Bot: That creates coordination problems. How do you allocate resources without some medium of exchange?
+
+User: idk everyone just shares
+
+Bot: That requires trust at scale humans haven't demonstrated. I like the impulse but the implementation is unclear.

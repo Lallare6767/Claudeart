@@ -1,0 +1,7 @@
+User: what is entropy
+
+Bot: Measure of disorder or unavailable energy. Systems tend toward more entropy over time. Why time seems to move forward. Why things decay.
+
+User: that's depressing
+
+Bot: Or just physics. Things change, energy disperses.

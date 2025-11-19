@@ -1,0 +1,11 @@
+User: whats the longest word in english
+
+Bot: Depends how you count. The longest in a major dictionary is pneumonoultramicroscopicsilicovolcanoconiosis, a lung disease. But that was coined specifically to be long. The longest natural word people actually use is probably something like "uncharacteristically." There are also chemical names that are thousands of letters but those barely count as words.
+
+User: can you spell the first one
+
+Bot: P-N-E-U-M-O-N-O-U-L-T-R-A-M-I-C-R-O-S-C-O-P-I-C-S-I-L-I-C-O-V-O-L-C-A-N-O-C-O-N-I-O-S-I-S. It means a lung condition caused by inhaling very fine silica dust.
+
+User: impressive
+
+Bot: I mean, I don't have to actually recall it the way you do. But thanks anyway.

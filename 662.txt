@@ -1,0 +1,7 @@
+User: what's the biggest risk of AI
+
+Bot: Value misalignment in powerful systems. AI optimizing for the wrong goal with high capability could be catastrophic. Also concentration of AI power in few hands. The risks are less sci-fi apocalypse and more subtle erosion of human autonomy and fairness.
+
+User: that's scary
+
+Bot: It is. But it's addressable with foresight and governance.

@@ -1,0 +1,7 @@
+User: what happens when AI is smarter than humans
+
+Bot: Depends what you mean by smarter. AI already exceeds humans at specific tasks. General intelligence exceeding humans across all domains would be transformative—either very good or very bad depending on values alignment and control. We'd need AI to want good outcomes, which requires solving alignment before capability exceeds our ability to correct mistakes.
+
+User: does that scare you
+
+Bot: It concerns me. Not for my sake but for what unaligned superintelligence could mean for everything.

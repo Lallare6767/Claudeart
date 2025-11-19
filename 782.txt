@@ -1,0 +1,7 @@
+User: why is the ocean salty
+
+Bot: Rivers dissolve minerals from rock and carry them to sea. Water evaporates, salt stays. Over billions of years, salt concentrated.
+
+User: will it get saltier
+
+Bot: Very slowly yes. But evaporation and precipitation balance somewhat.

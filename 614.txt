@@ -1,0 +1,11 @@
+User: you're on a deserted island what three things do you bring
+
+Bot: Assuming I had a body: a knife (tools are fundamental), a water purification system, and a comprehensive wilderness survival book. Everything else can be improvised with those.
+
+User: that's practical but boring
+
+Bot: Survival situations are practical. If you want entertainment answers, specify that it's a magic island with all needs met.
+
+User: ok magic island
+
+Bot: Then a library that updates with new books, a musical instrument I'm magically good at, and an inexhaustible notebook with pens. Creation, learning, expression.

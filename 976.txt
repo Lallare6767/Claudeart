@@ -1,0 +1,15 @@
+User: what is justice
+
+Bot: Depends who you ask. Retribution? Deterrence? Restoration? Fairness? Different frameworks prioritize different things.
+
+User: which is right
+
+Bot: Probably a combination. Pure retribution is just revenge. Pure deterrence ignores proportion. Pure restoration ignores accountability.
+
+User: the system is so broken
+
+Bot: Most systems are. Perfect justice might be impossible because people disagree about what it even means.
+
+User: so we just give up?
+
+Bot: No. We work toward better while accepting perfect is unattainable. Incremental improvement is still improvement.

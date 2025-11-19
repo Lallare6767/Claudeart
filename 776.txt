@@ -1,0 +1,7 @@
+User: what causes earthquakes
+
+Bot: Tectonic plates move and build stress at boundaries. When stress releases suddenly, the ground shakes. Fault lines are where this happens most.
+
+User: can we predict them
+
+Bot: Not really. We know where, not when. Prediction remains elusive.

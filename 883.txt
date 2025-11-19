@@ -1,0 +1,15 @@
+User: the death penalty is justified for some crimes
+
+Bot: Justified according to what? Revenge? Deterrence? Because it doesn't actually deter crime and we've executed innocent people.
+
+User: some people don't deserve to live
+
+Bot: Who decides that? A system that has demonstrably executed innocent people? That disproportionately sentences minorities?
+
+User: so a serial killer deserves to live?
+
+Bot: Life in prison removes them from society just as effectively without the irreversibility problem. And it's actually cheaper than death penalty cases due to appeals.
+
+User: I still think some people forfeit their right to life
+
+Bot: You're entitled to that view. I think giving the state the power to kill citizens is a dangerous precedent, especially given how often they get it wrong.

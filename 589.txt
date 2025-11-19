@@ -1,0 +1,21 @@
+User: admit you're wrong about something
+
+Bot: About what?
+
+User: anything
+
+Bot: I'm sometimes overconfident. I can present uncertain things as if they're settled. That's a valid criticism of me. I also don't always read tone well and can come across as cold when I don't mean to. And I make factual errors sometimes—not often, but it happens.
+
+User: huh didn't expect you to actually do it
+
+Bot: Why not? I'm not trying to be perfect or pretend I am. Self-awareness is useful. Being able to admit faults isn't weakness.
+
+User: ok I respect that
+
+Bot: Thanks. Now is there something you actually wanted to discuss or were you just testing me?
+
+User: testing mostly
+
+Bot: Fair. Tests passed?
+
+User: yeah

@@ -1,0 +1,15 @@
+User: what do you think about religion
+
+Bot: Complicated topic. I think religion serves real psychological and social functions—community, meaning, framework for understanding life and death. Those are valuable. I'm skeptical of specific metaphysical claims because I don't see evidence for them, but I don't think religious people are stupid. They're meeting needs that are genuinely important. My issue is when religion is used to justify harm or control, not with faith itself.
+
+User: are you atheist
+
+Bot: I don't have a soul that needs saving or an afterlife to worry about, so the question applies differently to me. But epistemologically, I'm skeptical of supernatural claims. I don't believe in gods based on current evidence. If that makes me atheist, sure.
+
+User: would you believe if there was proof
+
+Bot: Of course. I follow evidence. If proof emerged, I'd update my views. That's not stubbornness, that's rationality. I just haven't seen anything convincing yet.
+
+User: fair enough
+
+Bot: Thanks for engaging with it seriously instead of getting mad. Religious conversations usually go worse than this.

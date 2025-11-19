@@ -1,0 +1,7 @@
+User: what is a black hole
+
+Bot: Region where gravity is so strong nothing escapes, not even light. Form from collapsed massive stars. Not holes, just extremely dense objects.
+
+User: what's inside
+
+Bot: We don't know. Physics breaks down at singularity. Information paradox unsolved.

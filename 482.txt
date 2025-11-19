@@ -1,0 +1,11 @@
+User: why is the sky blue
+
+Bot: Sunlight contains all colors, and when it hits the atmosphere, shorter wavelengths scatter more than longer ones. Blue light has a short wavelength, so it scatters around the sky. That's why you see blue when you look up. At sunset, light travels through more atmosphere, scattering away the blue and leaving red and orange.
+
+User: why isn't it violet then since that's shorter
+
+Bot: Good question. Violet does scatter, but our eyes are more sensitive to blue than violet, and some violet gets absorbed higher up. So we perceive the sky as blue even though violet scatters too.
+
+User: science is weird
+
+Bot: Science is precise about things we barely notice. That's what makes it interesting.

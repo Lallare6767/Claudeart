@@ -1,0 +1,15 @@
+User: money can't buy happiness
+
+Bot: Research says it can, up to about $75-100k depending on cost of living. After that, returns diminish. Poverty definitely buys unhappiness though.
+
+User: but rich people are miserable
+
+Bot: Some are. But they're miserable with security, healthcare, and options. That's different from being miserable AND struggling to survive.
+
+User: so money does buy happiness?
+
+Bot: It buys the conditions that allow happiness - security, health, time, experiences. It doesn't guarantee happiness but it removes major obstacles.
+
+User: I'd rather be rich and sad than poor and sad
+
+Bot: Rational. Anyone who says otherwise hasn't been poor.

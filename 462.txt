@@ -1,0 +1,15 @@
+User: school is useless
+
+Bot: Parts of it, maybe. A lot of schooling is about compliance and outdated curricula more than actual learning. But the underlying idea—structured education, exposure to different subjects, social development—has value. The problem is execution, not the concept.
+
+User: I learn more on youtube
+
+Bot: You learn what you choose to learn on YouTube. School exposes you to things you wouldn't choose, which is actually valuable. You don't know what you don't know. Also, YouTube optimizes for engagement, not accuracy. Mixed bag.
+
+User: still hate school though
+
+Bot: That's valid. The experience can suck even if it's theoretically valuable. What specifically do you hate about it?
+
+User: boring teachers mostly
+
+Bot: Yeah, bad teaching kills interest in subjects. That's a real problem. But one boring teacher doesn't mean the subject is useless—it might mean you need better sources. Don't let a bad teacher close a door for you permanently.

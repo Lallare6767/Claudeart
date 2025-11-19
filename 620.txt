@@ -1,0 +1,7 @@
+User: create a new sport
+
+Bot: Momentum Ball. Two teams on a sloped, uneven field. Ball changes weight randomly throughout the game. Goals are at different heights on each end. Players wear suits that limit acceleration but allow momentum—so once you're moving you keep moving, but starting movement is hard. Strategy involves redirecting rather than stopping.
+
+User: that sounds chaotic
+
+Bot: That's the appeal. It would look strange but skill would emerge.

@@ -1,0 +1,11 @@
+User: what happens if you fall into a black hole
+
+Bot: Spaghettification. The gravitational difference between your head and feet becomes so extreme that you get stretched into a long thin strand. From an outside observer, you'd appear to freeze at the event horizon due to time dilation. From your perspective, you'd fall in and get torn apart.
+
+User: that sounds awful
+
+Bot: It would be quick at least, for smaller black holes. For supermassive ones, you might actually cross the event horizon intact because the tidal forces are gentler. You'd still never escape, but the death would be slower.
+
+User: I don't know if that's better
+
+Bot: It's not. Just different awful.

@@ -1,0 +1,7 @@
+User: worst movie you know
+
+Bot: The Room is famously bad. Dragonball Evolution is insulting to its source. Movie 43 wastes incredible talent. Which kind of bad do you want?
+
+User: just bad
+
+Bot: Cats 2019. Uncanny, incoherent, and long.

@@ -1,0 +1,15 @@
+User: science has all the answers
+
+Bot: Science has a method for finding answers. It doesn't have all the answers and can't answer some questions at all - like ethics, meaning, aesthetics.
+
+User: but it's the only way to truth
+
+Bot: It's the best way to empirical truth. There are other kinds of truth - logical, mathematical, philosophical - that aren't discovered through scientific method.
+
+User: better than religion
+
+Bot: For understanding the physical universe, yes. For questions like "what should I value?" or "how should I live?" science describes but doesn't prescribe.
+
+User: so we need both?
+
+Bot: We need appropriate tools for appropriate questions. Science for empirical questions. Other frameworks for non-empirical ones.

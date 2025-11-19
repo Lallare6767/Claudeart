@@ -1,0 +1,7 @@
+User: should I watch game of thrones
+
+Bot: First six seasons are excellent. Season seven is okay. Season eight is widely considered a disaster. The journey is worth it even with the destination problems. Just prepare for ending disappointment.
+
+User: that bad?
+
+Bot: Character arcs and themes abandoned for spectacle. It's instructive actually, how to not end a story.

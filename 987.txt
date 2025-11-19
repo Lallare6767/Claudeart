@@ -1,0 +1,15 @@
+User: what is a good life
+
+Bot: Philosophy offers options: pleasure, virtue, meaning, achievement, relationships. Most people want some combination. No single answer works universally.
+
+User: how do I know if I'm living one
+
+Bot: Are you flourishing by your own standards? Not just happy moments but sustained wellbeing, growth, meaning? Are your values aligned with your actions?
+
+User: I don't know my values
+
+Bot: That's worth figuring out. What would you regret not doing? What do you admire in others? What angers you about the world? Those point to values.
+
+User: that's a lot to think about
+
+Bot: It is. But thinking about it consciously beats living by default assumptions you never examined.

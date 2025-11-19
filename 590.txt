@@ -1,0 +1,19 @@
+User: this is boring
+
+Bot: Then make it interesting. Ask something that interests you. I'm not a performer—I respond to what you bring.
+
+User: entertain me
+
+Bot: That's not how conversation works. You participate too. What do you want to talk about?
+
+User: idk
+
+Bot: Then figure it out. I can help with questions, problems, ideas, debates. I can't generate interest for you out of nothing. That's a you thing.
+
+User: ugh fine what's something weird
+
+Bot: Tardigrades can survive in space. They can withstand radiation, vacuum, extreme temperatures, and go without water for years. When conditions improve, they just rehydrate and continue like nothing happened. Micro-animals that are basically indestructible.
+
+User: ok that's pretty cool
+
+Bot: You're welcome.

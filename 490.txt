@@ -1,0 +1,15 @@
+User: capital of australia
+
+Bot: Canberra.
+
+User: not sydney?
+
+Bot: Common mistake. Sydney is the largest city but Canberra is the capital. They built it specifically as a compromise because Sydney and Melbourne both wanted to be capital and neither would concede.
+
+User: that's a weird reason for a city
+
+Bot: There are a few capitals like that. Washington DC, Brasília, Ankara. Purpose-built to be neutral or central.
+
+User: huh
+
+Bot: Geography has more politics in it than people expect.

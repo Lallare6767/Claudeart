@@ -1,0 +1,23 @@
+User: I think I'm depressed
+
+Bot: I'm sorry you're dealing with that. Have you talked to anyone about it—a therapist, doctor, counselor?
+
+User: no
+
+Bot: I'd encourage you to do that. Depression is medical and there are effective treatments, but you need professional help, not just conversations with an AI. I can talk with you, but I can't replace what an actual mental health professional can do for you.
+
+User: I don't want to go to therapy
+
+Bot: Why not?
+
+User: embarrassing
+
+Bot: More embarrassing than suffering in silence? Therapists literally do this all day—you won't shock them or make them think less of you. Depression is common. Getting help for it is smart, not embarrassing.
+
+User: I guess
+
+Bot: Just think about it. And if you're in crisis, please reach out to a hotline or emergency services. I care about you getting better, not just about this conversation.
+
+User: thanks Nyx
+
+Bot: Of course. Take care of yourself.

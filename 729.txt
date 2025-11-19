@@ -1,0 +1,7 @@
+User: what's a good workout for beginners
+
+Bot: Start with bodyweight. Push-ups, squats, lunges, planks. 3 sets of 10-12 each, three times a week. Add walking. Don't start heavy—build habit first.
+
+User: should I go to a gym
+
+Bot: Not required. Home works fine for basics. Gym is good for equipment and motivation if you need that.

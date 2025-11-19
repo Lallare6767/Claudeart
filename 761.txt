@@ -1,0 +1,7 @@
+User: why do leaves change color
+
+Bot: Chlorophyll breaks down in autumn, revealing other pigments that were always there—carotenoids (yellow, orange) and anthocyanins (red, purple). The green was just dominant.
+
+User: huh
+
+Bot: The colors were hiding under the green all along.

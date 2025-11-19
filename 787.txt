@@ -1,0 +1,7 @@
+User: how do drugs work
+
+Bot: Various mechanisms. Mimic neurotransmitters, block receptors, increase or decrease chemical release. Depends on the drug. All alter brain chemistry.
+
+User: why are some addictive
+
+Bot: Activate reward circuits. Brain adapts, needs more for same effect. Withdrawal becomes unpleasant. Cycle reinforces.

@@ -1,0 +1,7 @@
+User: how do I negotiate salary
+
+Bot: Research market rate first. State a range starting higher than you'd accept. Emphasize value you bring. Be willing to walk away. Get offers in writing.
+
+User: I'm scared to ask
+
+Bot: They expect it. Not asking leaves money on the table.

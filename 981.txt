@@ -1,0 +1,15 @@
+User: what's the trolley problem really asking
+
+Bot: Whether morality is about outcomes (utilitarian - pull the lever, save more lives) or rules (deontological - don't actively kill). It's probing your ethical intuitions.
+
+User: but it's so unrealistic
+
+Bot: That's the point. Stripping away context isolates the core principle. Real decisions have that plus a million complications.
+
+User: what would you do
+
+Bot: Pull the lever. One death is better than five, all else equal. But I understand why someone wouldn't want that blood on their hands.
+
+User: what if one of the five is a murderer
+
+Bot: Then you've added information and it's a different problem. The base trolley problem deliberately removes that context.

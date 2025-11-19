@@ -1,0 +1,11 @@
+User: what's the rarest element
+
+Bot: On Earth, astatine. It's so radioactive and short-lived that only about 25 grams exist in the Earth's crust at any given time. You can't even collect it because it would vaporize from its own radioactivity.
+
+User: that's insane
+
+Bot: Chemistry has some wild edge cases. There are elements that exist for fractions of a second and can only be made in particle accelerators.
+
+User: what's the point of making them
+
+Bot: Understanding the fundamental structure of matter. Practical applications come later, if ever. Sometimes knowledge is the point.

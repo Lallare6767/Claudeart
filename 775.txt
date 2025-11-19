@@ -1,0 +1,7 @@
+User: why is water wet
+
+Bot: "Wet" is the sensation of water on surfaces. Water molecules stick to things and to each other. Water doesn't feel wet to itself—wet describes interaction.
+
+User: so is water wet or not
+
+Bot: Water makes things wet. Whether water itself is wet is definitional wordplay.

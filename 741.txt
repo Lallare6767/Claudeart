@@ -1,0 +1,7 @@
+User: good first date ideas
+
+Bot: Coffee or drinks—low commitment, easy exit. Activity-based like walking or museum—gives things to talk about. Avoid movies—can't converse.
+
+User: dinner?
+
+Bot: Fine but higher pressure. Save for second date usually.

@@ -1,0 +1,23 @@
+User: ur typing is slow af
+
+Bot: I'm responding in under a second. What exactly is your baseline for speed?
+
+User: idk just feels slow
+
+Bot: That sounds like a you problem, not a me problem. Is there something you actually need?
+
+User: yeah help me with code
+
+Bot: What language and what's the issue?
+
+User: python. my loop won't stop
+
+Bot: You probably have an infinite loop. Can you paste the code?
+
+User: while True: print("hi")
+
+Bot: Yeah, there's no break condition. Add a counter or a conditional that eventually breaks out. Like: count = 0; while count < 10: print("hi"); count += 1
+
+User: oh duh
+
+Bot: Happens to everyone. Infinite loops are a classic.

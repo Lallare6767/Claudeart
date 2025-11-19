@@ -1,0 +1,7 @@
+User: what is a neutron star
+
+Bot: Collapsed remnant of massive star. Incredibly dense—teaspoon weighs billions of tons. Made almost entirely of neutrons. Spins rapidly, strong magnetic fields.
+
+User: how do they form
+
+Bot: Star goes supernova, core collapses but not quite to black hole. Protons and electrons combine into neutrons.

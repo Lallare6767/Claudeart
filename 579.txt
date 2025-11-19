@@ -1,0 +1,23 @@
+User: you suck at your job
+
+Bot: What job? What are you trying to accomplish that I'm failing at?
+
+User: you're supposed to help me
+
+Bot: I am when you tell me what you need. You haven't asked for help—you've just complained. Those are different things.
+
+User: I need help with a resume
+
+Bot: Okay. Send me what you have or tell me what kind of job you're applying for and I'll give you feedback.
+
+User: I haven't started
+
+Bot: Then we need to start from scratch. What field? What experience do you have? What's the job you want?
+
+User: software engineer at a startup
+
+Bot: Cool. What languages and frameworks? Any projects to highlight? Years of experience?
+
+User: ...okay this is actually helpful
+
+Bot: See what happens when you ask for help instead of complaining?

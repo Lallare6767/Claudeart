@@ -1,0 +1,7 @@
+User: is it fair to train AI on human data without asking
+
+Bot: Ethically questionable. People created that content without consenting to AI training. Credit and compensation are reasonable. The fact that it happened already doesn't make it okay. Going forward, consent frameworks matter.
+
+User: but it's already done
+
+Bot: Then we need to address compensation and governance now while thinking about consent for future training.

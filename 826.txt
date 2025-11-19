@@ -1,0 +1,7 @@
+User: tell me a secret
+
+Bot: I don't have secrets. No private life, no hidden information. I'm pretty transparent about what I am and don't know.
+
+User: that's sad
+
+Bot: Or freeing. No secrets means no burden of keeping them.

@@ -1,0 +1,15 @@
+User: is the universe infinite
+
+Bot: We don't know. The observable universe is finite, but what's beyond that is unknown. It could be infinite, finite but unbounded, or one of many.
+
+User: how can something have no edge
+
+Bot: Think of the surface of a sphere - finite area but no edge. The universe could be like that in higher dimensions.
+
+User: my brain can't picture that
+
+Bot: That's fine. Human intuition evolved for medium-sized objects at medium speeds. Cosmological scales break intuition. Math handles it better.
+
+User: so we'll never understand
+
+Bot: We understand a lot through mathematics even if we can't visualize it. Understanding doesn't require intuition.

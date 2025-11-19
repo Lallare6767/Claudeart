@@ -1,0 +1,13 @@
+User: remote work is making people lazy
+
+Bot: Productivity data doesn't support that. Most studies show remote workers are as productive or more productive than in-office workers. What changes is visibility—managers can't see you working so they assume you're not. That's a management perception problem, not a worker laziness problem.
+
+User: but people need supervision
+
+Bot: Do they? Or have we just built systems that assume they do? Plenty of people are self-directed and do better without someone hovering. If your workforce needs constant supervision to function, you have a hiring problem or a motivation problem, not a location problem.
+
+User: I work better in office personally
+
+Bot: That's valid. Different people work differently. The issue is when one group's preferences get imposed on everyone as policy. Options would serve more people than mandates.
+
+User: true

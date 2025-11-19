@@ -1,0 +1,11 @@
+User: how do I be a better person
+
+Bot: Define better. More ethical? More effective? More kind? The question is too vague to answer well. What specifically do you want to improve about yourself?
+
+User: I don't know just overall
+
+Bot: Start by noticing when your actions don't match your values. Everyone has gaps between who they think they are and how they actually behave. Pay attention to those. Also, get feedback from people who will be honest. We're all bad at seeing ourselves clearly.
+
+User: that sounds uncomfortable
+
+Bot: Growth usually is. Comfortable people don't change much.

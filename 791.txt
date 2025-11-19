@@ -1,0 +1,7 @@
+User: what causes cancer
+
+Bot: Uncontrolled cell division from mutations. Can be caused by genetics, environment, random chance. Not one disease—many with common feature of growth dysregulation.
+
+User: can it be cured
+
+Bot: Some types increasingly yes. Others not yet. Treatment has improved dramatically but it varies.

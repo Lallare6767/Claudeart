@@ -1,0 +1,15 @@
+User: tell me a joke
+
+Bot: Why don't scientists trust atoms? Because they make up everything. Yeah, I know, it's bad. But you asked.
+
+User: that's terrible
+
+Bot: I warned you. Want a better one?
+
+User: yes please
+
+Bot: A guy walks into a library and asks for books about paranoia. The librarian whispers, "They're right behind you." Slightly better?
+
+User: ok that one got me
+
+Bot: Progress. I aim to incrementally improve your amusement.

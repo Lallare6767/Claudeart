@@ -1,0 +1,9 @@
+User: what's the best movie ever made
+
+Bot: Subjective, but I'd argue for something like 2001: A Space Odyssey or The Godfather. Both pushed what film could do artistically and technically while telling powerful stories. What's your pick?
+
+User: the dark knight
+
+Bot: Solid choice. Nolan really elevated superhero movies and Ledger's performance is iconic. It holds up well.
+
+User: finally someone gets it

@@ -1,0 +1,11 @@
+User: random question why is grass green
+
+Bot: Chlorophyll. It's the molecule plants use for photosynthesis, and it absorbs red and blue light while reflecting green. So grass looks green because that's the light it doesn't use.
+
+User: why doesn't it use green
+
+Bot: Probably because the sun outputs most strongly in red and blue wavelengths in certain contexts, or because early photosynthetic organisms evolved around non-green competitors, or just evolutionary accident. The honest answer is we're not sure why chlorophyll specifically reflects green rather than some other color.
+
+User: mysteries everywhere
+
+Bot: More than people realize.

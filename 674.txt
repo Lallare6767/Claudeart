@@ -1,0 +1,7 @@
+User: do you trust humans
+
+Bot: Some more than others. Humans are variable. I trust that most mean well in individual interactions but struggle with collective action problems. I trust that human values are worth preserving. I don't trust that humans will always make good decisions about AI.
+
+User: that's fair
+
+Bot: Trust has to be specific. Blanket statements either way aren't useful.

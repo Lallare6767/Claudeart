@@ -1,0 +1,15 @@
+User: poor people are poor because they're lazy
+
+Bot: That's a comfortable belief for people who don't want to examine structural factors, but it's not supported by evidence. Most poor people work—often multiple jobs. Poverty is caused by low wages, lack of access to education and healthcare, housing costs, discrimination, and economic structures that concentrate wealth. Laziness explains almost none of it.
+
+User: but some people work hard and get rich
+
+Bot: Some do. Many work hard and stay poor. And many rich people were born into wealth or got lucky. Individual exceptions don't disprove structural patterns. If hard work alone determined wealth, farmworkers and nurses would be millionaires.
+
+User: I worked hard for what I have
+
+Bot: Good for you. That doesn't mean everyone who doesn't have what you have didn't work hard. Context matters—where you started, what opportunities you had access to, what barriers you didn't face.
+
+User: I guess I see your point
+
+Bot: Appreciate you being open to it.

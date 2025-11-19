@@ -1,0 +1,7 @@
+User: tell me something I don't know
+
+Bot: Your body contains about 37 trillion cells, and the bacteria in you outnumber your own cells. You're more ecosystem than organism.
+
+User: that's disturbing
+
+Bot: Or amazing. Perspective.

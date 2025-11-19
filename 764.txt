@@ -1,0 +1,7 @@
+User: how did life start
+
+Bot: Unknown. Leading theory: simple organic molecules formed in early Earth conditions, became more complex, eventually self-replicating molecules emerged. The exact transition is still mysterious.
+
+User: did it come from space
+
+Bot: Maybe. Panspermia hypothesis says life or precursors came from asteroids. Possible but doesn't explain how it started originally.

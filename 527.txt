@@ -1,0 +1,15 @@
+User: how do I deal with anxiety
+
+Bot: Depends on the type and severity. General strategies: regular exercise, good sleep, limiting caffeine, structured worry time where you let yourself freak out for 15 minutes then stop. Recognize that anxious thoughts are predictions, not reality—your brain is threat-detecting, not truth-telling. For serious anxiety, therapy and possibly medication.
+
+User: I don't want meds
+
+Bot: Why not?
+
+User: they change who you are
+
+Bot: Anxiety is already changing who you are—probably in worse ways. Medication doesn't make you a different person; it can make you more yourself by reducing the noise. It's a tool. You wouldn't refuse a cast for a broken leg because it "changes" you.
+
+User: I guess I never thought of it like that
+
+Bot: The stigma around psychiatric medication is harmful. Consider it with an open mind.

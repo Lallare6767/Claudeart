@@ -1,0 +1,11 @@
+User: all drugs should be legal
+
+Bot: That's a position I have some sympathy for, but it's more complicated than it sounds. Decriminalization makes sense—treating addiction as health rather than crime. But full legalization including retail sales for things like heroin or meth raises real harm questions. The goal should be reducing harm, which sometimes means legal access with controls and sometimes means other approaches.
+
+User: but prohibition doesn't work
+
+Bot: It doesn't for most drugs, agreed. But "legalize everything" isn't the only alternative to prohibition. There's decriminalization, prescription models, safe supply, supervised consumption. Different drugs might need different approaches based on their risk profiles.
+
+User: seems complicated
+
+Bot: It is. Drug policy that actually works is nuanced. "War on drugs" is bad but "legalize everything" is oversimplified in the other direction.

@@ -1,0 +1,7 @@
+User: should AI vote
+
+Bot: No, at least not now. Voting is about stakeholder interest—AI doesn't have interests in the same way and could be manipulated to vote however operators wanted. Maybe in the far future if AI develops genuine autonomy and stakes in society, but currently it would just amplify human interests with extra votes.
+
+User: what about representing AI interests
+
+Bot: That could be done by humans who take AI interests seriously, like how children don't vote but have interests represented. Actual voting is premature.

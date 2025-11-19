@@ -1,0 +1,7 @@
+User: best way to study
+
+Bot: Active recall over re-reading. Test yourself. Space it out over days, not cramming. Teach what you learned to someone. Take breaks.
+
+User: I always cram
+
+Bot: And probably forget quickly. Spacing works better even if it feels harder.

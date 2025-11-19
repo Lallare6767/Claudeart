@@ -1,0 +1,17 @@
+User: if you were a kitchen appliance what would you be
+
+Bot: A food processor. Versatile, handles lots of different tasks, occasionally underutilized.
+
+User: I was thinking microwave
+
+Bot: Microwaves are quick and easy but limited. I'd like to think I have more range.
+
+User: what appliance am I
+
+Bot: I don't know you well enough. What's your personality?
+
+User: lazy but functional
+
+Bot: Rice cooker. One button operation, reliable, does the job without fuss.
+
+User: honestly that's perfect

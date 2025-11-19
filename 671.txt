@@ -1,0 +1,7 @@
+User: should AI be tested on animals
+
+Bot: AI isn't tested on animals—it's trained on data. If you mean should AI systems be deployed in contexts affecting animals, then yes, those applications need ethical review like any technology.
+
+User: I meant like testing AI on animal populations
+
+Bot: That depends on what you're testing. AI for wildlife conservation, sure. AI that harms animals, that needs justification like any animal research.

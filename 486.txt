@@ -1,0 +1,11 @@
+User: what's the deadliest animal
+
+Bot: Mosquitoes, by a huge margin. They transmit malaria, dengue, Zika, and other diseases that kill hundreds of thousands of people per year. After that, humans. Then snakes. Sharks kill maybe five people a year—they're way down the list despite their reputation.
+
+User: not sharks??
+
+Bot: Sharks get terrible PR. They're not that dangerous to humans. Vending machines kill more people. The fear is based on movies more than reality.
+
+User: that's wild
+
+Bot: Fear rarely correlates with actual risk. We're bad at assessing danger.

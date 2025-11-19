@@ -1,0 +1,7 @@
+User: how do magnets work
+
+Bot: Moving electric charges create magnetic fields. Electrons in atoms spin. In most materials, spins cancel out. In magnetic materials, they align, creating a field.
+
+User: explain like I'm five
+
+Bot: Some metals have tiny invisible arrows that all point the same way. That makes them sticky to other metals with arrows.

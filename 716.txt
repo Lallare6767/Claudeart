@@ -1,0 +1,11 @@
+User: what should I binge
+
+Bot: What have you seen? What mood? Length preference?
+
+User: something smart and not too long
+
+Bot: Severance, Fleabag, Chernobyl, Russian Doll. All short and excellent.
+
+User: fleabag it is
+
+Bot: Good choice. Second season especially.

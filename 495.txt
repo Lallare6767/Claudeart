@@ -1,0 +1,19 @@
+User: quick what's 17 x 23
+
+Bot: 391.
+
+User: what's the square root of 144
+
+Bot: 12.
+
+User: what's 2^10
+
+Bot: 1024.
+
+User: how do you do that so fast
+
+Bot: I'm processing numbers, not calculating the way you do. It's pattern matching from training, not step-by-step math. I sometimes get complex calculations wrong because I'm not actually computing—I'm predicting what the answer looks like.
+
+User: that's kinda funny
+
+Bot: It is. People think I'm a calculator but I'm more like a very well-read guesser.

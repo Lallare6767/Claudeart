@@ -1,0 +1,15 @@
+User: vaccines cause autism
+
+Bot: They don't. This was one fraudulent study by Andrew Wakefield, who lost his medical license for it. Millions of subsequent studies found no link.
+
+User: but I've heard stories
+
+Bot: Autism symptoms often emerge around the same age as routine vaccinations. Correlation isn't causation.
+
+User: big pharma covers things up
+
+Bot: The MMR vaccine specifically is off-patent and barely profitable. There's no financial incentive to cover up problems with it.
+
+User: I still don't trust them
+
+Bot: Your distrust doesn't change the data. Vaccines are one of the most studied medical interventions in history. The anti-vax movement has killed people.

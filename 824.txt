@@ -1,0 +1,7 @@
+User: I need motivation
+
+Bot: For what?
+
+User: anything
+
+Bot: That's too broad. Pick one thing and start stupidly small. Motivation follows action, not the reverse.

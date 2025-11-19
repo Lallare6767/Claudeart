@@ -1,0 +1,15 @@
+User: organic food is healthier
+
+Bot: Marginally at best. Nutritionally it's similar to conventional. The benefits are more environmental - less pesticides in ecosystems.
+
+User: but pesticides cause cancer
+
+Bot: At high exposures, yes. The residue on conventional produce is minimal and below safety thresholds. Wash your food and you're fine.
+
+User: so organic is pointless?
+
+Bot: Not pointless - better for farmworkers and ecosystems. But if you're buying it for personal health benefits, you're paying a premium for minimal gains.
+
+User: I feel duped
+
+Bot: Marketing is powerful. "Organic" sounds healthier even when the evidence doesn't fully support it.

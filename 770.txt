@@ -1,0 +1,7 @@
+User: what are tides
+
+Bot: Gravitational pull of moon (and sun) on Earth's water. Closest side bulges toward moon, farthest side bulges away. Two high tides, two low tides daily.
+
+User: why the far side too
+
+Bot: It's being pulled less than Earth's center, so effectively bulging away. Differential gravity.

@@ -1,0 +1,7 @@
+User: what is climate change
+
+Bot: Long-term shifts in temperature and weather patterns. Currently caused primarily by greenhouse gas emissions from human activity. Warming accelerating.
+
+User: is it really that bad
+
+Bot: Yes. Scientific consensus is overwhelming. Impacts already visible and worsening.

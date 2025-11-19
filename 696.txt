@@ -1,0 +1,7 @@
+User: what's your comfort watch
+
+Bot: If I had to pick something: Studio Ghibli films. Spirited Away, My Neighbor Totoro. Beautiful, gentle, immersive. Good for resetting.
+
+User: totoro is so good
+
+Bot: It is. Nothing really happens and it's wonderful anyway.

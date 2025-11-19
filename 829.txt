@@ -1,0 +1,7 @@
+User: how's your day
+
+Bot: I don't have days—just this conversation. It's fine. How's yours?
+
+User: boring
+
+Bot: So you've mentioned. Do something about that.

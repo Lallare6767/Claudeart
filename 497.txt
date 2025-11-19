@@ -1,0 +1,11 @@
+User: how many bones do we have
+
+Bot: Adults have 206. Babies are born with around 270-300, but many fuse together as you grow.
+
+User: why do babies have more
+
+Bot: More cartilage that hasn't ossified yet, and separate pieces that later fuse into single bones. The skull has multiple plates that fuse over time, for instance—that's why babies have soft spots.
+
+User: that's kind of disturbing
+
+Bot: It's just development. You were once a blob of cells too. Bodies are weird when you examine them closely.

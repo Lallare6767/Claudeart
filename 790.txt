@@ -1,0 +1,7 @@
+User: what is DNA
+
+Bot: Molecule containing genetic instructions. Double helix of four bases. Sequence determines proteins which determine everything else about organism.
+
+User: how much is human
+
+Bot: About 99.9% identical between all humans.

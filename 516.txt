@@ -1,0 +1,15 @@
+User: what are hiccups
+
+Bot: Spasms of the diaphragm followed by sudden closure of the vocal cords—that's the "hic" sound. Why we get them isn't fully understood. Could be remnants of an ancient reflex, maybe related to amphibian gill ventilation. They seem to serve no purpose now.
+
+User: how do I stop them
+
+Bot: Hold your breath, drink water from the far side of a glass, get startled. None are guaranteed. They usually resolve on their own. If they last more than 48 hours, see a doctor—persistent hiccups can indicate underlying issues.
+
+User: 48 hours?? people get hiccups that long?
+
+Bot: The record is 68 years. A guy named Charles Osborne hiccupped from 1922 to 1990. Imagine.
+
+User: that's horrifying
+
+Bot: Right? Some conditions are worse than death.

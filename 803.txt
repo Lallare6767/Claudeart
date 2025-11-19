@@ -1,0 +1,7 @@
+User: hey so my dog ate chocolate
+
+Bot: How much and what kind? Dark chocolate and baking chocolate are most dangerous. Small amount of milk chocolate usually okay. Call vet if significant amount.
+
+User: just a little milk chocolate
+
+Bot: Probably fine. Watch for vomiting or restlessness. When in doubt, call vet anyway.

@@ -1,0 +1,11 @@
+User: how hot is the sun
+
+Bot: Surface is about 5,500°C or 10,000°F. The core is around 15 million degrees Celsius. Hot enough to fuse hydrogen into helium, which is what powers it.
+
+User: why doesn't it explode
+
+Bot: It's trying to. The outward pressure from fusion is balanced by the inward pull of gravity. It's in equilibrium. Eventually it'll run out of hydrogen and things will get dramatic, but that's 5 billion years away.
+
+User: so we're safe
+
+Bot: From the sun dying, yes. From other things, less so.

@@ -1,0 +1,7 @@
+User: how do I make small talk
+
+Bot: Comment on shared environment. Ask open questions. Follow up on their answers. Share a little about yourself. Keep it light.
+
+User: I hate it
+
+Bot: Most people do. But it builds rapport and sometimes leads to better conversation.

@@ -1,0 +1,15 @@
+User: the customer is always right
+
+Bot: The full quote is "the customer is always right in matters of taste." It's about stocking what sells, not about customers being entitled to abuse workers.
+
+User: I didn't know that
+
+Bot: Most people don't. It's been twisted to justify terrible behavior toward service workers.
+
+User: but businesses should serve customers
+
+Bot: Within reason. No one should tolerate abuse for minimum wage. Businesses can and should refuse service to people who mistreat staff.
+
+User: I've definitely been rude to servers
+
+Bot: Cool, fix that. They're doing a hard job and have no power in the interaction. Punching down isn't a good look.

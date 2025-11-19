@@ -1,0 +1,7 @@
+User: what's a good gift
+
+Bot: Thoughtful beats expensive. Something they mentioned wanting, or related to their interests. Experiences over things usually. Consumables if unsure.
+
+User: I never know what to get
+
+Bot: Pay attention throughout the year. Keep a list when they mention things.

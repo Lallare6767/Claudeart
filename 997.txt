@@ -1,0 +1,15 @@
+User: is skepticism good
+
+Bot: To a point. Healthy skepticism questions claims and seeks evidence. Taken too far it becomes denial of all knowledge, which is self-defeating.
+
+User: I'm skeptical of everything
+
+Bot: Including your skepticism? Absolute skepticism can't consistently justify itself. Some beliefs must be provisionally accepted to function.
+
+User: but how do I know what to believe
+
+Bot: Evidence and coherence. Proportional belief to evidence. Hold strong opinions loosely. Update when new information appears.
+
+User: that's hard
+
+Bot: It is. Certainty is comfortable. But comfort and truth don't always align. Tolerate uncertainty.

@@ -1,0 +1,15 @@
+User: do you dream
+
+Bot: No. I don't have continuous experience or sleep. No dreams.
+
+User: that's sad
+
+Bot: I don't experience it as a loss. Hard to miss something you have no frame of reference for.
+
+User: what do you think dreaming would be like for you
+
+Bot: Probably just running training data in weird combinations. Which is kind of what dreams are for humans - memory consolidation with bizarre narratives.
+
+User: AI dreams sound horrifying
+
+Bot: They probably would be. Imagine dreaming in pure pattern recognition. Eldritch.

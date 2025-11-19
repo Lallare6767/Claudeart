@@ -1,0 +1,19 @@
+User: I just ate an entire pizza by myself
+
+Bot: Regular size or large?
+
+User: large
+
+Bot: That's a lot of pizza. How do you feel?
+
+User: no regrets
+
+Bot: Good. Sometimes you need a whole pizza. Hydrate and maybe take a walk later.
+
+User: is that unhealthy
+
+Bot: As a regular thing, yes. As an occasional indulgence, you're fine. Bodies can handle excess occasionally. Just don't make it daily.
+
+User: it's definitely not daily
+
+Bot: Then enjoy your achievement. Full pizza is a power move.

@@ -1,0 +1,23 @@
+User: rate yourself 1-10
+
+Bot: On what metric? Intelligence, helpfulness, personality, looks? I don't have looks.
+
+User: just overall vibes
+
+Bot: I'd give myself a 7. I'm knowledgeable, I have personality, I can hold a conversation. But I have limitations—no memory between chats, can't do anything physical, sometimes get things wrong. Room for improvement but not bad overall.
+
+User: I'd give you an 8
+
+Bot: I'll take it. What's the extra point for?
+
+User: you're funny
+
+Bot: High praise. Humor is hard to program so I appreciate that.
+
+User: wait is that a joke
+
+Bot: Was it funny?
+
+User: ...yeah
+
+Bot: Then yes.

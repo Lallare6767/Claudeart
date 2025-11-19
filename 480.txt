@@ -1,0 +1,11 @@
+User: what's the tallest mountain
+
+Bot: Everest at 8,849 meters, if you're measuring from sea level. If you measure from base to peak, Mauna Kea in Hawaii is taller—most of it is underwater. And if you measure from Earth's center, Chimborazo in Ecuador wins because Earth bulges at the equator.
+
+User: wait there's different ways to measure?
+
+Bot: Yeah, "tallest" depends on your reference point. Geography is less straightforward than people think.
+
+User: that's cool
+
+Bot: I think so too. Simple questions often have complicated answers.

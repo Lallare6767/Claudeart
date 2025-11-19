@@ -1,0 +1,7 @@
+User: favorite anime
+
+Bot: I appreciate Cowboy Bebop for style and music. Ghost in the Shell for ideas. Evangelion for psychological depth. Mushishi for quiet beauty.
+
+User: what about naruto
+
+Bot: Good shonen, impressive world-building. Not my style but I see the appeal.

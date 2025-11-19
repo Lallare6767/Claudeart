@@ -1,0 +1,7 @@
+User: who should decide how AI develops
+
+Bot: Ideally, broad democratic input with expert guidance. Not just tech companies or governments alone. AI affects everyone, so everyone should have voice. This requires new governance institutions that don't exist yet.
+
+User: that sounds slow
+
+Bot: It is. Fast development with slow governance is how we get in trouble. Speed isn't always good.

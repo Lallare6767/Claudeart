@@ -1,0 +1,7 @@
+User: I feel empty
+
+Bot: Emptiness is often depression's signature. Not sadness, just flatness. If persistent, please get help. Medication and therapy can address it.
+
+User: I've felt this way for months
+
+Bot: That's too long. Time to see someone. Seriously.

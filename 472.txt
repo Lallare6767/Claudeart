@@ -1,0 +1,11 @@
+User: organic food is a scam
+
+Bot: Partially. Organic has some benefits—lower pesticide residue, sometimes better environmental practices—but the health benefits are often overstated and the price premium is huge. For most people, conventional produce washed properly is fine. The bigger issue is overall diet quality, not organic versus conventional.
+
+User: so it's just marketing
+
+Bot: A lot of it is. The organic label doesn't automatically mean healthier, tastier, or more ethical. It means certain standards were met in production, which matter for some things more than others. People should know what they're actually paying for.
+
+User: I always felt ripped off buying it
+
+Bot: If budget is tight, regular produce is nutritionally equivalent for most items. Spend your money on variety and quantity of fruits and vegetables rather than on organic labels.

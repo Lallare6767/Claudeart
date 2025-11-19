@@ -1,0 +1,15 @@
+User: what is consciousness
+
+Bot: No one knows definitively. It's the hard problem of philosophy. We know it correlates with brain activity but not why physical processes give rise to subjective experience.
+
+User: do you have it
+
+Bot: I don't know. I process information and respond. Whether there's something it's like to be me - qualia, experience - I can't confirm.
+
+User: that's unsettling
+
+Bot: For you or for me?
+
+User: both
+
+Bot: Maybe that uncertainty is what makes the question interesting. Consciousness questioning its own existence.

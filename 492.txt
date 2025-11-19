@@ -1,0 +1,11 @@
+User: why is a day 24 hours
+
+Bot: It's how long Earth takes to rotate once on its axis. The division into 24 hours comes from ancient Egyptians who used base-12 counting systems. They split day and night each into 12 parts, giving us 24 hours. We've just stuck with it.
+
+User: why base 12
+
+Bot: Easier to divide. 12 divides evenly by 2, 3, 4, and 6. Ten only divides evenly by 2 and 5. Ancient people did a lot of mental math and wanted convenient fractions.
+
+User: damn they were smarter than me
+
+Bot: Different priorities. They needed practical math without calculators.

@@ -1,0 +1,15 @@
+User: how do I make hard decisions
+
+Bot: Gather information but set a deadline—indefinite research is avoidance. Consider what you'd regret more: doing this and it failing, or not doing it and never knowing? Often inaction is worse than imperfect action. Also recognize that most decisions are reversible or adjustable—we overestimate how permanent they are.
+
+User: this one isn't reversible
+
+Bot: What is it?
+
+User: whether to move across the country for a job
+
+Bot: Okay, that's significant but still not irreversible. You can move back. What specifically makes you hesitate?
+
+User: leaving my family
+
+Bot: How often do you see them now? Would you visit? Would distance actually change the relationship? Sometimes we overestimate how much physical proximity matters for relationships that are already maintained through calls and visits anyway.

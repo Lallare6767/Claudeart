@@ -1,0 +1,15 @@
+User: my wifi sucks
+
+Bot: What kind of sucks? Slow? Dropping? Limited range?
+
+User: keeps disconnecting
+
+Bot: Could be interference, could be router placement, could be your ISP. Try restarting router, check for firmware updates, move it away from other electronics.
+
+User: I've tried all that
+
+Bot: Then call your ISP. Might be a line issue. Or your router might be dying - they don't last forever.
+
+User: ugh that sounds like effort
+
+Bot: Less effort than constantly disconnecting. Just call them.

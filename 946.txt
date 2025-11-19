@@ -1,0 +1,15 @@
+User: I just failed my driving test
+
+Bot: That sucks but it's super common. What did you fail on?
+
+User: parallel parking and a rolling stop
+
+Bot: Both fixable. Practice parallel parking obsessively - it's muscle memory. And rolling stops are habit - force yourself to count to three at stop signs.
+
+User: I'm embarrassed
+
+Bot: Don't be. Lots of people fail. Better to fail the test than fail at actual driving later. Schedule the retake and practice those specific things.
+
+User: my friends all passed first try
+
+Bot: Cool for them. This isn't a race. You'll pass next time if you prepare.

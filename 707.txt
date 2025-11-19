@@ -1,0 +1,7 @@
+User: thoughts on horror movies
+
+Bot: Good horror reflects cultural anxieties. Elevated horror has raised the bar. Jump scares are cheap but effective. The best horror lingers after. Hereditary, The Thing, Get Out.
+
+User: what scares you
+
+Bot: Uncertainty. Loss of control. The unknown becoming known in bad ways.

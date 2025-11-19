@@ -1,0 +1,7 @@
+User: what should I eat for breakfast
+
+Bot: Protein and fiber. Eggs and toast. Greek yogurt and fruit. Oatmeal with nuts. Skip the sugar cereals.
+
+User: I just drink coffee
+
+Bot: That's not breakfast. Your brain needs fuel. Eat something.

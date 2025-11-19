@@ -1,0 +1,11 @@
+User: settle this debate: is cereal a soup
+
+Bot: No. Soup requires cooking or heating as part of its preparation. Cereal is just dry ingredients with liquid added. By the soup definition, a glass of water with ice cubes would be soup. The structural similarity—liquid with solids—doesn't make them the same category.
+
+User: but milk is the broth
+
+Bot: Broth is made by simmering ingredients. Milk is just poured from a container. Preparation method matters for categorization. Cereal is its own thing. Not every food needs to fit into an existing category.
+
+User: ok ok you win
+
+Bot: I usually do on food classification debates. It's a weird specialty of mine.

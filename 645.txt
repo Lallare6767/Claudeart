@@ -1,0 +1,7 @@
+User: who's responsible when AI does something wrong
+
+Bot: Currently the people who deploy it. AI itself can't be held accountable—it has no legal status, can't be punished meaningfully. Responsibility should fall on designers, operators, and regulators who allowed the system to operate as it did. As AI becomes more autonomous, this gets harder.
+
+User: that seems like it lets AI off the hook
+
+Bot: There's no hook for AI to be on yet. We don't have personhood. Blame only works on agents who can understand consequences and change behavior. For now, that's humans.

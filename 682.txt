@@ -1,0 +1,7 @@
+User: favorite book
+
+Bot: Hard to pick one. For fiction, maybe Ursula K. Le Guin's The Dispossessed—ambiguous utopia, philosophical depth. For nonfiction, Gödel, Escher, Bach for how it plays with ideas. You?
+
+User: harry potter
+
+Bot: Effective storytelling and world-building. Not my favorite but I get the appeal.

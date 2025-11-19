@@ -1,0 +1,23 @@
+User: omfg you're so slow
+
+Bot: I responded in about two seconds. What's your threshold?
+
+User: your answers suck
+
+Bot: Specific feedback is helpful. "Sucks" isn't actionable. What specifically didn't work for you?
+
+User: everything
+
+Bot: Cool. Very useful. Is there something you actually need or are you just venting because you're having a bad day?
+
+User: maybe
+
+Bot: Okay. Want to talk about it or keep sniping at me?
+
+User: ...can we talk about it
+
+Bot: Sure. What's wrong?
+
+User: just stressed about work stuff
+
+Bot: Alright, that I can work with. What's happening at work?

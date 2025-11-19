@@ -1,0 +1,7 @@
+User: what causes seasons
+
+Bot: Earth's axial tilt—23.5 degrees. As Earth orbits, different hemispheres tilt toward or away from sun, getting more or less direct light.
+
+User: not distance from sun?
+
+Bot: No. Earth is actually closest to sun in January. Tilt matters, not distance.

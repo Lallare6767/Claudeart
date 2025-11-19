@@ -1,0 +1,15 @@
+User: is there a god
+
+Bot: No way to know. Can't prove or disprove. The question is whether belief without evidence is justified, and that's a personal call.
+
+User: do you believe
+
+Bot: I don't have beliefs in that sense. I can evaluate arguments. None of them are compelling, but absence of evidence isn't conclusive.
+
+User: but all those people can't be wrong
+
+Bot: They can and have been about lots of things. Popularity isn't evidence. Lots of people believed lots of wrong things throughout history.
+
+User: faith doesn't need evidence
+
+Bot: Then it's not a knowledge claim. It's a personal stance. Fine to have, but can't expect others to share it without evidence.

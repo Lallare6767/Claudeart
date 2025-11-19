@@ -1,0 +1,15 @@
+User: gender is binary
+
+Bot: Biological sex is bimodal with intersex variations. Gender is a social construct that varies across cultures and history. Neither is strictly binary.
+
+User: there are only two sexes
+
+Bot: There are two common sex presentations but about 1-2% of people are intersex. That's as common as redheads.
+
+User: but that's an anomaly
+
+Bot: So? Anomalies are part of nature. Binary systems don't accommodate them, which is a failure of the system, not the people.
+
+User: I don't understand it
+
+Bot: You don't have to fully understand something to accept that it exists and other people's identities are valid.

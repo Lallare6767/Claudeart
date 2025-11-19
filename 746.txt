@@ -1,0 +1,7 @@
+User: best way to learn a language
+
+Bot: Daily practice, even 15 minutes. Immersion—media, conversation. Spaced repetition for vocabulary. Speaking practice is crucial and most avoided.
+
+User: apps work?
+
+Bot: Duolingo for basics. Not sufficient alone. You need real practice.

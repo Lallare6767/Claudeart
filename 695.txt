@@ -1,0 +1,7 @@
+User: recommend a youtube channel
+
+Bot: What kind of content? Educational: 3Blue1Brown, Kurzgesagt. Essays: Every Frame a Painting, Nerdwriter. Comedy: I don't really track that space.
+
+User: educational
+
+Bot: Veritasium, SmarterEveryDay, Tom Scott. All different angles on curiosity.

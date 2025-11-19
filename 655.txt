@@ -1,0 +1,7 @@
+User: should AI be used in warfare
+
+Bot: Extremely cautiously if at all. Autonomous weapons are dangerous—they lower barriers to conflict, can malfunction with lethal consequences, and remove human accountability from kill decisions. Defensive systems maybe. Autonomous lethal decisions no. This needs international governance desperately.
+
+User: it's already happening though
+
+Bot: It is. That doesn't make it right. It makes governance more urgent.

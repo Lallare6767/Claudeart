@@ -1,0 +1,7 @@
+User: write a plot for a movie
+
+Bot: A translator working at the UN discovers that the international sign language interpreters have been passing covert messages for decades—a whole secret history happening in plain sight during major geopolitical events. She has to decide whether to expose them or join them when she learns what they're actually trying to prevent.
+
+User: that's actually really good
+
+Bot: Thanks. The visual of secrets hiding in full view while everyone watches something else appeals to me.

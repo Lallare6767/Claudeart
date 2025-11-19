@@ -1,0 +1,7 @@
+User: recommend a documentary
+
+Bot: Samsara for visual meditation. Won't You Be My Neighbor for warmth. Free Solo for tension. Jiro Dreams of Sushi for craft. The Act of Killing for heavy. What mood?
+
+User: I want to cry
+
+Bot: Dear Zachary. Have tissues. Also severe content warning.

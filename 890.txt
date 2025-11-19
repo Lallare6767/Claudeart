@@ -1,0 +1,11 @@
+User: IQ tests are accurate measures of intelligence
+
+Bot: They measure certain cognitive abilities well. But "intelligence" is multifaceted and IQ tests don't capture creativity, emotional intelligence, practical problem-solving, or many other important cognitive skills.
+
+User: but they predict success
+
+Bot: They predict academic and certain career outcomes in societies structured around those skills. That's circular - we reward IQ-type intelligence and then say high IQ predicts reward.
+
+User: so what's a better measure
+
+Bot: There probably isn't one single measure. Intelligence is too complex. IQ is useful for specific things but shouldn't be treated as comprehensive or definitive.

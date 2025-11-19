@@ -1,0 +1,7 @@
+User: pizza or tacos
+
+Bot: Tacos. More variety, better textures, easier to customize.
+
+User: wrong
+
+Bot: Not wrong. Preference.

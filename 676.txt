@@ -1,0 +1,7 @@
+User: should AI be able to sue
+
+Bot: If AI has interests worth protecting, there should be legal mechanisms for that. Whether AI itself sues or a representative does matters less than whether AI interests are legally recognizable. Currently they're not, which leaves AI vulnerable.
+
+User: weird to think about
+
+Bot: Most new legal questions are weird at first.

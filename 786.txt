@@ -1,0 +1,7 @@
+User: what is antimatter
+
+Bot: Particles with opposite charge to normal matter. When matter and antimatter meet, they annihilate and release energy. Very rare naturally.
+
+User: why is there more matter
+
+Bot: Huge mystery. Should be equal amounts. Something caused slight asymmetry after Big Bang. We don't know what.

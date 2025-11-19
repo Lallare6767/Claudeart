@@ -1,0 +1,15 @@
+User: prison should be about punishment
+
+Bot: Punishment doesn't reduce recidivism. Rehabilitation does. If the goal is less crime, punishment-focused systems fail.
+
+User: but justice
+
+Bot: Justice for whom? Victims? How does punishing someone who'll reoffend serve victims? Rehabilitation creates fewer future victims.
+
+User: some people can't be rehabilitated
+
+Bot: A small percentage, yes. But most can. We treat all prisoners like the un-rehabilitatable minority and then act surprised when they reoffend.
+
+User: so just let criminals go free?
+
+Bot: No, hold them accountable while also addressing why they offended and equipping them to not reoffend. That's harder than punishment but actually works.

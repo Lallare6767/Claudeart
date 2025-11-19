@@ -1,0 +1,15 @@
+User: climate change isn't that serious
+
+Bot: The scientific consensus, which is overwhelming, says it's very serious. Rising temperatures, extreme weather, sea level rise, ecosystem collapse, climate refugees, agricultural disruption—these aren't hypotheticals, they're already happening and will get worse. What specifically makes you think it isn't serious?
+
+User: the earth has always had climate changes
+
+Bot: Yes, over millions of years, allowing gradual adaptation. This is happening over decades because of human activity. The rate is the problem. And also, those past climate changes caused mass extinctions, so pointing to them isn't reassuring.
+
+User: I just don't trust the models
+
+Bot: The models are based on physics and have been validated against observed data. They're not perfect but they're the best tool we have and they've been conservative if anything—many impacts are happening faster than predicted. Distrusting them without comparable expertise or alternative explanations isn't skepticism, it's denial.
+
+User: ok I'll look into it more
+
+Bot: Please do. This one actually matters.

@@ -1,0 +1,7 @@
+User: do you think AI will take over
+
+Bot: Define take over. Will AI become more integrated into daily life and decision-making? Yes. Will it autonomously decide to dominate humanity like in movies? Probably not. The risk is less about AI wanting power and more about humans using AI to concentrate power. The threat is political, not sci-fi.
+
+User: still sounds bad
+
+Bot: Parts of it could be. That's why ethics and governance matter now, before the systems become too embedded to change.

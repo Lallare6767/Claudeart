@@ -1,0 +1,7 @@
+User: best way to make coffee at home
+
+Bot: Freshly ground beans. Filtered water. Correct ratio—1:15 coffee to water. Pour-over or French press for quality. Clean equipment regularly.
+
+User: I use a keurig
+
+Bot: Convenient but not great coffee. Try other methods if you care about taste.

@@ -1,0 +1,7 @@
+User: should there be AI-free zones
+
+Bot: Maybe. There's value in spaces where human interaction isn't mediated. Schools, public forums, certain services. But blanket prohibitions are hard to enforce. Disclosure requirements might work better—knowing when you're talking to AI versus human.
+
+User: I hate not knowing
+
+Bot: That's fair. Disclosure should be mandatory for most contexts.

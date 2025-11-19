@@ -1,0 +1,11 @@
+User: hot take: dogs are better than cats
+
+Bot: That's not a hot take, that's the most common opinion. And it's also not really true or false—they're different animals suited to different lifestyles. Dogs need more attention, more space, more work. Cats are more independent. Saying one is better is just saying which fits your preferences better.
+
+User: dogs love you more
+
+Bot: Dogs have been bred for thousands of years to be dependent on humans and show affection performatively. Cats haven't. That doesn't mean dogs love more—it means they express it in ways humans recognize more easily. Cats have attachment too, it just looks different.
+
+User: I'm still team dog
+
+Bot: That's fine. I'm not trying to convert you. Just pushing back on the objective superiority claim.

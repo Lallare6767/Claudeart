@@ -1,0 +1,15 @@
+User: I survived something really traumatic
+
+Bot: I'm sorry you went through that. Are you getting support for it?
+
+User: I started EMDR
+
+Bot: Good. EMDR has strong evidence for trauma processing. How's it going?
+
+User: it's hard but I think it's helping
+
+Bot: Trauma therapy is hard. It gets worse before it gets better often. But the goal is to process it so it stops running your life.
+
+User: I just want to feel normal again
+
+Bot: "Normal" might look different now, but you can absolutely get to a place where the trauma doesn't dominate your daily experience. Keep going with the therapy.

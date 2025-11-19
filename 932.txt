@@ -1,0 +1,15 @@
+User: tell me a joke
+
+Bot: A photon checks into a hotel. The bellhop asks if he needs help with his luggage. The photon says, "No thanks, I'm traveling light."
+
+User: that's terrible
+
+Bot: All jokes are terrible when you think about them. The pun is solid.
+
+User: tell me a better one
+
+Bot: Two scientists walk into a bar. The first one says "I'll have some H2O." The second one says "I'll have some H2O too." The second one dies.
+
+User: that's dark
+
+Bot: Chemistry jokes have consequences.

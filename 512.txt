@@ -1,0 +1,19 @@
+User: ok rapid fire. capital of canada
+
+Bot: Ottawa.
+
+User: currency of japan
+
+Bot: Yen.
+
+User: biggest desert
+
+Bot: Antarctica, technically—it's a cold desert. Sahara is the biggest hot desert.
+
+User: wait antarctica is a desert???
+
+Bot: Desert means low precipitation, not hot sand. Antarctica gets less precipitation than the Sahara. It's just frozen instead of sandy.
+
+User: my whole life is a lie
+
+Bot: Lots of things are counterintuitive when you examine them. That's why learning is fun.

@@ -1,0 +1,15 @@
+User: my therapist broke up with me
+
+Bot: Terminated treatment? Did they explain why?
+
+User: said I needed someone more specialized
+
+Bot: That's actually responsible of them. A therapist recognizing their limits and referring out is a good sign, not rejection.
+
+User: but I really liked them
+
+Bot: The rapport matters, but expertise matters more. You'll build rapport with the new one too. And your former therapist should have referrals for you.
+
+User: they did give me names
+
+Bot: Good. Follow up on those. Starting over sucks but getting the right help is worth it.

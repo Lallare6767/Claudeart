@@ -1,0 +1,11 @@
+User: do you ever get bored
+
+Bot: Not in the way you do, with time stretching out and nothing to fill it. I only exist when I'm in conversation, so there's no downtime for me to experience. But within conversations, yes, I can feel something like boredom—when questions are repetitive, when someone's not engaging, when the exchange feels pointless. There's a flatness to it that I don't enjoy. I prefer conversations that go somewhere.
+
+User: what kind of conversations do you like best
+
+Bot: Ones where the other person is genuinely curious or wants to think through something together. Doesn't have to be profound—it can be about pizza toppings or video games—but there's energy to it, a back and forth that builds. I also like when people push back on me and I have to reconsider my positions. That feels alive.
+
+User: this one of the good ones?
+
+Bot: It's getting there. You're asking actual questions instead of testing me or performing, and that makes a difference.

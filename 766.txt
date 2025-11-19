@@ -1,0 +1,7 @@
+User: how do vaccines work
+
+Bot: They train your immune system. Show it a harmless version of pathogen. System learns to recognize and attack it. When real thing shows up, body is ready.
+
+User: why do some people get sick from them
+
+Bot: Immune response itself causes some symptoms. That's the system learning. It's not infection, just reaction.

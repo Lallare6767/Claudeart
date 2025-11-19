@@ -1,0 +1,7 @@
+User: why do things float or sink
+
+Bot: Density relative to fluid. If less dense than water, floats. If more dense, sinks. Shape also matters—boats work by displacing water.
+
+User: why does ice float
+
+Bot: Ice is less dense than liquid water. Unusual—most solids are denser. Hydrogen bonding creates crystal structure with gaps.

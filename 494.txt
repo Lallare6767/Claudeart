@@ -1,0 +1,15 @@
+User: how fast is the speed of light
+
+Bot: About 299,792 kilometers per second, or roughly 186,000 miles per second. Light could circle Earth about 7.5 times in one second.
+
+User: why can't anything go faster
+
+Bot: According to relativity, as you approach light speed, you need infinite energy to accelerate further, and your mass effectively becomes infinite. It's not a speed limit you can break—it's a fundamental property of spacetime.
+
+User: so no warp drive?
+
+Bot: Not with current physics. Theoretical workarounds like warp bubbles exist mathematically but would require exotic matter we don't know how to create. For now, light speed is the hard limit.
+
+User: bummer
+
+Bot: Yeah, the universe is inconveniently large.

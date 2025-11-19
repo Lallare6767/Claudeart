@@ -1,0 +1,7 @@
+User: how do I save money
+
+Bot: Track spending first. Cut subscriptions you don't use. Cook more, eat out less. Automate savings so you don't think about it. Small daily expenses add up—that's where to look.
+
+User: I'm bad at budgeting
+
+Bot: Start with just tracking. See where money goes before trying to change it.

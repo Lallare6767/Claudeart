@@ -1,0 +1,11 @@
+User: whats in the middle of the earth
+
+Bot: An iron-nickel core. The outer core is liquid—about 4,000 to 5,000 degrees Celsius. The inner core is solid despite being even hotter because pressure keeps it from melting. It's about 6,000°C there, similar to the sun's surface.
+
+User: how do we know if we can't go there
+
+Bot: Seismic waves. Earthquakes send waves through Earth that bend and bounce differently depending on the material. By measuring those waves at different locations, we can map what's inside.
+
+User: science is clever
+
+Bot: It really is. We figured out Earth's interior without ever seeing it.

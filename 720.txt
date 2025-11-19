@@ -1,0 +1,7 @@
+User: how do I cook rice
+
+Bot: 1:1.5 ratio rice to water. Rinse rice first. Bring to boil, then low heat covered for 15-18 minutes. Let sit 5 minutes after. Don't lift lid while cooking.
+
+User: that's it?
+
+Bot: Yep. Rice is simple. People overcomplicate it.

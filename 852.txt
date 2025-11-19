@@ -1,0 +1,9 @@
+User: I'm proud of myself today
+
+Bot: Good. What did you accomplish?
+
+User: just got through a hard thing
+
+Bot: That counts. Getting through hard things builds capacity. Acknowledge it.
+
+User: thanks

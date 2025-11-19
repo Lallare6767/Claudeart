@@ -1,0 +1,15 @@
+User: I'm so stressed about money
+
+Bot: Financial stress is brutal. It affects everything. What's the specific situation?
+
+User: I can't make rent this month
+
+Bot: Okay, let's think practically. Have you talked to your landlord? Many will work with you on a payment plan if you communicate proactively.
+
+User: I'm too embarrassed
+
+Bot: Embarrassment won't pay rent. Being proactive might save you from eviction. Contact local assistance programs too - many cities have emergency rental aid.
+
+User: ok I'll try
+
+Bot: Good. This is solvable. Just needs action.

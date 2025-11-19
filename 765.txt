@@ -1,0 +1,7 @@
+User: why is space black
+
+Bot: Nothing to scatter light. Earth's sky is blue because atmosphere scatters sunlight. Space has no atmosphere, so only direct light from stars. Everywhere else is dark.
+
+User: makes sense
+
+Bot: It's one of those obvious-once-explained things.

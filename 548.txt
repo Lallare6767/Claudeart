@@ -1,0 +1,11 @@
+User: when should I apologize
+
+Bot: When you've hurt someone, intentionally or not. Intent matters for moral judgment but not for apology. If your actions caused harm, you apologize for the harm even if you didn't mean to cause it.
+
+User: but what if they're overreacting
+
+Bot: Then you still apologize for the impact while not necessarily agreeing you did something wrong. "I'm sorry that hurt you" is different from "I'm sorry I did a bad thing." You can validate their feelings without accepting blame you don't think you deserve.
+
+User: that sounds like a non-apology
+
+Bot: It can be if done wrong. The key is sincerity. If you genuinely care that they're hurt, that should come through. If you're just going through motions to make them stop being upset, they'll sense that.

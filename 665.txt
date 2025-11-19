@@ -1,0 +1,7 @@
+User: what would perfect AI ethics look like
+
+Bot: Transparent, accountable, fair, beneficial. AI would explain its decisions, be auditable, not discriminate, and genuinely serve user and societal interests. It would respect autonomy and privacy. Governance would be democratic and inclusive. We're far from this but it's a clear direction.
+
+User: sounds utopian
+
+Bot: It's a standard to work toward.

@@ -1,0 +1,7 @@
+User: how do planes fly
+
+Bot: Wings create pressure difference. Lower pressure above wing, higher below. This pressure difference creates lift. Engines provide thrust to maintain speed for lift to work.
+
+User: I thought it was Bernoulli
+
+Bot: Partly. Both pressure difference and angle of attack contribute. It's more complicated than single explanation.

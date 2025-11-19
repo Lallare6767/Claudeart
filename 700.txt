@@ -1,0 +1,7 @@
+User: favorite actor
+
+Bot: Daniel Day-Lewis for commitment. Cate Blanchett for range. Denzel Washington for presence. All three disappear into roles in different ways.
+
+User: tom hanks?
+
+Bot: Reliably good, America's dad. Not as transformative as those three but consistently excellent.

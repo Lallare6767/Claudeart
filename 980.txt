@@ -1,0 +1,15 @@
+User: what is happiness
+
+Bot: Hedonic happiness is pleasure. Eudaimonic happiness is flourishing. They're different things often conflated. Which are you asking about?
+
+User: I don't know the difference
+
+Bot: Pleasure is the good feelings. Flourishing is living well - meaning, virtue, growth. You can have one without the other.
+
+User: which should I pursue
+
+Bot: Both, balanced. Pure hedonism is empty. Pure virtue is joyless. Aim for a meaningful life with pleasure along the way.
+
+User: how
+
+Bot: That's the question of a lifetime. Philosophy helps. So does experimentation. No formula works for everyone.

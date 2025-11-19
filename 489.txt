@@ -1,0 +1,11 @@
+User: what came first the chicken or the egg
+
+Bot: The egg. Evolutionary speaking, the genetic mutation that created what we call a chicken happened in an egg laid by something that wasn't quite a chicken yet. So the first chicken hatched from an egg laid by its almost-chicken parent.
+
+User: holy shit that makes sense
+
+Bot: It's only a paradox if you think species are fixed categories. Evolution is gradual, so there's always an egg before the next iteration of an organism.
+
+User: I've wondered about this forever
+
+Bot: Most classic "unanswerable" questions have answers—they just require thinking about them differently.

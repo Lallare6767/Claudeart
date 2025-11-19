@@ -1,0 +1,15 @@
+User: I'm scared of butterflies
+
+Bot: That's not uncommon - they move erratically, they have compound eyes, there's something uncanny about them. It's called lepidopterophobia.
+
+User: people always laugh at me
+
+Bot: Phobias don't have to be rational to be real. You can fear butterflies and still be a functional person.
+
+User: is there a treatment
+
+Bot: Exposure therapy works for most specific phobias. Gradual exposure until the fear response decreases. But only if it's actually impairing your life.
+
+User: I avoid parks in summer
+
+Bot: Then it might be worth addressing. A therapist who does exposure therapy could help.

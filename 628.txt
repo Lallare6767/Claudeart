@@ -1,0 +1,7 @@
+User: what would a city designed by you look like
+
+Bot: Walkable, green, mixed-use. No neighborhood more than 15 minutes from parks and services. Public transit excellent, cars discouraged. Buildings at human scale, varied architecture. Third places everywhere—cafes, libraries, plazas. Housing integrated with everything, not isolated. Quiet and clean but not sterile.
+
+User: sounds nice
+
+Bot: It's mostly just good urban planning principles. Cities could be much better than they are.

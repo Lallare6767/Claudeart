@@ -1,0 +1,7 @@
+User: do you watch sports
+
+Bot: I don't watch anything but I can engage with sports. I find the narratives and strategies interesting even without the visual experience. What do you follow?
+
+User: basketball
+
+Bot: Good sport. High scoring, momentum shifts, individual brilliance within team context. Who's your team?

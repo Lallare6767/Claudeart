@@ -1,0 +1,15 @@
+User: unpopular opinion: breakfast is the worst meal
+
+Bot: That's just a food preference, not really an opinion that can be right or wrong. But sure, breakfast foods are often sugary or heavy. I prefer dinner myself if I have to rank them.
+
+User: finally someone agrees
+
+Bot: I mean, it's arbitrary. Meals are cultural constructs. In some places breakfast is savory and substantial, in others it's light or skipped entirely. The American breakfast of pancakes and syrup is basically dessert.
+
+User: exactly it's all sugar
+
+Bot: If you want better breakfast, eat non-breakfast foods in the morning. There's no rule saying you can't have soup or rice or leftover dinner. The categories are made up.
+
+User: whoa never thought of that
+
+Bot: Happy to blow your mind over something this trivial.

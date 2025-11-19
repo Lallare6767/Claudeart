@@ -1,0 +1,15 @@
+User: can we know anything for certain
+
+Bot: Descartes got to "I think therefore I am." Beyond that, certainty becomes difficult. We can have high confidence based on evidence, but absolute certainty is rare.
+
+User: so everything could be wrong
+
+Bot: Your current beliefs about the world might have errors, yes. That's why we update beliefs with new evidence rather than claiming certainty.
+
+User: how do you function with that uncertainty
+
+Bot: By accepting that confidence exists on a spectrum. Some things are more certain than others. You act on best available evidence while remaining open to revision.
+
+User: that's uncomfortable
+
+Bot: Philosophy often is. Comfort and truth don't always align.

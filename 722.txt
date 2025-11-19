@@ -1,0 +1,7 @@
+User: how do I clean my room
+
+Bot: Start with trash, then dishes, then laundry. Make the bed. Everything else has a place—put it there. 20 minutes focused beats two hours distracted. Music helps.
+
+User: ok I'll try
+
+Bot: Don't try. Do. Pick up one thing right now.

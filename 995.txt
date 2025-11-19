@@ -1,0 +1,15 @@
+User: is progress real
+
+Bot: In some domains, clearly yes - medicine, technology, human rights expansions. In others, harder to measure. "Progress" assumes a direction, which is debatable.
+
+User: but things seem worse
+
+Bot: Some things are worse, others better. Violence is down long-term. Poverty is down. But climate change, inequality, some social metrics are worse.
+
+User: so it's mixed
+
+Bot: It's always mixed. But the idea that the past was better is usually false. Nostalgia edits out the bad parts.
+
+User: where are we headed
+
+Bot: Unknown. Trajectory isn't set. We can steer it. That's the point of thinking about progress - to make it rather than just observe it.

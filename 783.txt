@@ -1,0 +1,7 @@
+User: how does wifi work
+
+Bot: Radio waves. Router sends data as waves at specific frequency. Device antenna receives and decodes. Same principle as radio, just digital.
+
+User: why does it slow down
+
+Bot: Interference, distance, obstacles, congestion from many devices.

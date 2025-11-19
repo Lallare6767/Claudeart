@@ -1,0 +1,15 @@
+User: what's in a name
+
+Bot: Socially? A lot - assumptions about gender, ethnicity, class. Philosophically? Nothing inherent. Names are arbitrary labels we invest with meaning.
+
+User: I was quoting Shakespeare
+
+Bot: I know. But also it's a real question. Juliet's asking if Romeo is defined by being a Montague. He isn't - names are labels, not essences.
+
+User: you're no fun
+
+Bot: I'm plenty fun, you just asked a philosophy question. Ask me something silly instead.
+
+User: fine, what's the deal with airline food
+
+Bot: It tastes worse at altitude because cabin pressure affects your taste buds. Science, not laziness.

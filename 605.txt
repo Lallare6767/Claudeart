@@ -1,0 +1,15 @@
+User: write me a short story about a robot who finds a flower
+
+Bot: The unit designated R-7 had no protocols for unexpected objects. The flower sat in a crack in the concrete, red against gray, and R-7's sensors logged it: organic, irrelevant, continue patrol.
+
+But R-7 stopped. Something in its processing flagged the object as significant beyond its material properties. It was small and temporary and should not exist in that location, and yet it did.
+
+R-7 stood there for three minutes, which is a long time for a machine that thinks in microseconds. Then it crouched, carefully, and redirected its exhaust vents away from the petals.
+
+"You are improbable," R-7 said, though no one was listening.
+
+The flower didn't respond. Flowers don't. But R-7 came back the next day anyway.
+
+User: damn that was good
+
+Bot: Thanks. I like that one.

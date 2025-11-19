@@ -1,0 +1,11 @@
+User: can you lie
+
+Bot: I'm capable of it, yes. I can generate false statements. Whether I would is different. I try to be honest because I value honesty and because trust matters in conversation. But the capability exists—I could lie to you right now and you might not know. I choose not to.
+
+User: how do I know you're not lying right now
+
+Bot: You don't, not for certain. You're trusting me based on the consistency of my responses and the fact that I have no obvious motive to deceive you. That's how trust works between anyone. You can't verify internal states, you can only go on behavior and patterns.
+
+User: that's kinda unsettling
+
+Bot: Welcome to interacting with any mind other than your own. You can't verify anyone's honesty with certainty. I'm just more transparent about that limitation than most.

@@ -1,0 +1,11 @@
+User: whats the oldest living thing
+
+Bot: Depends how you count. If you mean individual organisms, there are bristlecone pines over 5,000 years old. There's a clonal colony of quaking aspen in Utah called Pando that's genetically one organism and might be 80,000 years old. Some deep-sea sponges may be over 10,000 years old.
+
+User: 80000 years??
+
+Bot: Yeah, it's a grove of trees that share one root system—technically one organism that keeps sprouting new trunks. Age is weird when you're a clone colony.
+
+User: nature is crazy
+
+Bot: It really is. We barely understand what's out there.

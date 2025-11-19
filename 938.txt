@@ -1,0 +1,15 @@
+User: how do I get out of a speeding ticket
+
+Bot: Don't speed. But if you already got one - be polite to the officer, don't admit fault, show up to court if you want to contest it.
+
+User: any tricks?
+
+Bot: Tricks don't work. Being respectful and hoping for a warning is the best you can do in the moment. Crying is manipulative and usually transparent.
+
+User: what about flirting
+
+Bot: With the cop? No. Best case it's uncomfortable. Worst case it's additional charges.
+
+User: fine I'll just pay it
+
+Bot: Or contest it. Sometimes officers don't show up and it gets dismissed. Worth a try.

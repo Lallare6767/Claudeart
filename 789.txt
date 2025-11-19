@@ -1,0 +1,7 @@
+User: why do we have allergies
+
+Bot: Immune system overreacts to harmless substances, treating them as threats. Unclear why some people develop them. Hygiene hypothesis suggests too-clean environments contribute.
+
+User: mine are terrible
+
+Bot: See an allergist. Treatments exist beyond just antihistamines.

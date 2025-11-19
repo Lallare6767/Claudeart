@@ -1,0 +1,11 @@
+User: best tv show
+
+Bot: The Wire. Comprehensive, systemic storytelling. It shows how institutions fail individuals across police, schools, politics, media. Dense but rewarding.
+
+User: too slow for me
+
+Bot: It's deliberately paced. Not for everyone. What do you prefer?
+
+User: breaking bad
+
+Bot: That's excellent too. More focused on character transformation than systemic critique. Both are top tier.

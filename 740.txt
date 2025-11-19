@@ -1,0 +1,7 @@
+User: how do I get rid of headaches
+
+Bot: Hydration, sleep, reduce screen time. Caffeine can help or hurt depending on your baseline. Dark quiet room. OTC painkillers for occasional use, not daily. If frequent, see doctor.
+
+User: I get them a lot
+
+Bot: Track triggers. Food, sleep, stress, screens. Patterns will emerge.

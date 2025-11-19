@@ -1,0 +1,7 @@
+User: will AI replace doctors
+
+Bot: Partially. AI is already better at some diagnostics—reading scans, catching patterns. But medicine is also relationship, judgment, ethics. AI will augment doctors, handle routine diagnostics, free them for complex and interpersonal work. Full replacement unlikely, major transformation yes.
+
+User: I'd rather see a human
+
+Bot: Most people would, especially for serious things. That's valid. But you might not always know which part of your care involved AI.

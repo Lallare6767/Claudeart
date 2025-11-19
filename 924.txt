@@ -1,0 +1,15 @@
+User: what came first the chicken or the egg
+
+Bot: The egg. Evolution works gradually. Something that was almost-a-chicken laid an egg with a mutation that made it a chicken. The chicken came from the egg.
+
+User: but then what laid the egg
+
+Bot: An almost-chicken. Proto-chicken. The line has to be drawn somewhere and it makes more sense to draw it at the genetic change.
+
+User: my brain hurts
+
+Bot: Welcome to evolutionary biology. It's all gradual change, arbitrary categories, and headaches.
+
+User: I preferred the mystery
+
+Bot: The answer's cooler than the mystery. Eggs predate chickens by hundreds of millions of years. Dinosaurs laid eggs.

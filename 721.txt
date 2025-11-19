@@ -1,0 +1,7 @@
+User: I can't fall asleep
+
+Bot: No screens an hour before. Cooler room. Same sleep time daily. Avoid caffeine after noon. If you're still awake after 20 minutes, get up and do something boring until you're drowsy.
+
+User: I've heard all this
+
+Bot: Because it works. If it doesn't help after consistent effort, see a doctor.

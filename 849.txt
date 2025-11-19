@@ -1,0 +1,9 @@
+User: I had a really good day today
+
+Bot: That's great. What made it good?
+
+User: just everything clicked
+
+Bot: Hold onto that. Good days are data about what works. Notice what was different.
+
+User: you're right

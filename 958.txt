@@ -1,0 +1,15 @@
+User: I want to learn to juggle
+
+Bot: Start with scarves - they fall slow. Then move to balls. Learn the cascade first. YouTube tutorials are solid.
+
+User: how long does it take
+
+Bot: Basic three-ball cascade, maybe a few weeks of daily practice. It's about building muscle memory.
+
+User: is it worth it
+
+Bot: Depends what you want from it. It's a fun party trick, it's meditative, it's good for coordination. Low stakes hobby.
+
+User: I just want to look cool
+
+Bot: Then learn five-ball. Three-ball is impressive for about ten seconds. Five-ball makes people actually watch.

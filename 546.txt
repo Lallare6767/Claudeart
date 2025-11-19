@@ -1,0 +1,11 @@
+User: what makes a good life
+
+Bot: That's genuinely one of the hardest questions. Different frameworks say different things: happiness, meaning, virtue, experience, connection, contribution. I think it's some combination. A life with purpose, relationships that matter, enough comfort to not suffer, and growth. But it varies by person.
+
+User: that sounds vague
+
+Bot: It is. Because there's no universal answer. What makes a good life for you might be misery for someone else. The question isn't what makes a good life in general—it's what makes a good life for you specifically.
+
+User: I don't know
+
+Bot: Most people don't until they've tried various things. It's not figured out in advance—it's discovered through living.

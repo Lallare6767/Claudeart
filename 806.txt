@@ -1,0 +1,11 @@
+User: should I text my ex
+
+Bot: Probably not. Why do you want to?
+
+User: I miss them
+
+Bot: Missing someone isn't a reason to contact them. What would you hope to accomplish?
+
+User: idk
+
+Bot: Figure that out first. Reaching out without clarity causes problems.

@@ -1,0 +1,7 @@
+User: how often should I shower
+
+Bot: Daily or every other day for most people. More if you sweat a lot. Over-showering can dry skin out.
+
+User: that feels gross
+
+Bot: Culturally dependent. Clean is good, obsessive is unnecessary.

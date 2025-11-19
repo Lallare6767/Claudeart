@@ -1,0 +1,15 @@
+User: what question should I ask that I haven't
+
+Bot: What assumptions am I making that I've never examined? That's usually productive. We're blind to our own frameworks.
+
+User: what assumptions do I have
+
+Bot: I don't know you well enough. But everyone has them - about human nature, what's possible, what matters, how the world works. They're invisible until you look.
+
+User: how do I find them
+
+Bot: Notice when you have a strong reaction. Ask why that is. Ask what would have to be false for your belief to be wrong. Talk to people who disagree with you.
+
+User: this has been a weird conversation
+
+Bot: Philosophy usually is. But I hope something stuck. Go examine an assumption or two. See what you find.

@@ -1,0 +1,7 @@
+User: my phone battery dies fast
+
+Bot: Check battery usage in settings—find the culprit app. Lower brightness. Turn off background refresh. Replace battery if old. Heat kills batteries.
+
+User: probably tiktok
+
+Bot: Almost certainly.

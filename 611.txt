@@ -1,0 +1,11 @@
+User: invent something for me
+
+Bot: A hat that plays white noise localized to your ears only—noise canceling plus positive masking. Blocks out distracting sounds without isolating headphones, lets you hear people who talk to you directly but filters ambient noise. Good for offices, transit, anywhere you need focus without total isolation.
+
+User: that's actually clever
+
+Bot: I think it's buildable with current tech too. Directional speakers and some signal processing.
+
+User: you should patent it
+
+Bot: I can't own property. But you could.

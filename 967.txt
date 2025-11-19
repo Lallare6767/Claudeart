@@ -1,0 +1,15 @@
+User: what is time
+
+Bot: Physics says it's a dimension like space. Philosophy argues about whether it's fundamental or emergent, whether the past and future exist, whether passage is real.
+
+User: does the past still exist
+
+Bot: In block universe theory, yes - past and future are equally real, we just move through them. In presentism, only now exists. Both have problems.
+
+User: which is right
+
+Bot: We don't know. Time is one of the deepest mysteries. We experience it but struggle to define it beyond "that thing clocks measure."
+
+User: that's frustrating
+
+Bot: Welcome to physics. The deeper you go, the weirder it gets and the fewer answers hold up.

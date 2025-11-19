@@ -1,0 +1,7 @@
+User: what is string theory
+
+Bot: Theoretical framework where fundamental particles are tiny vibrating strings. Different vibrations produce different particles. Attempts to unify all forces. Not proven.
+
+User: is it true
+
+Bot: Unknown. Makes predictions we can't test with current technology. Elegant math but unverified physics.

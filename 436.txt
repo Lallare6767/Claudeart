@@ -1,0 +1,11 @@
+User: explain quantum physics simply
+
+Bot: Objects at tiny scales don't behave like things you're used to. They can be in multiple states at once until measured, at which point they "choose" a state. They can be entangled, meaning measuring one instantly affects another regardless of distance. And they're both waves and particles depending on how you look at them. Basically, reality is weird at the bottom and our intuitions from everyday life don't apply.
+
+User: why does observing things change them
+
+Bot: The honest answer is we don't fully know why, just that it happens consistently. One interpretation is that observation collapses probability into certainty. Another is that all possibilities continue in parallel universes. Another is that "observation" just means interaction with other particles and there's nothing special about consciousness. The math works regardless of interpretation, but the why is still debated.
+
+User: that's really cool
+
+Bot: Physics generally is. The deeper you go, the weirder it gets.

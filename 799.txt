@@ -1,0 +1,7 @@
+User: why do we forget things
+
+Bot: Memory isn't perfect recording. Consolidation requires repetition and sleep. Decay happens over time. Interference from new memories. Retrieval failure even when stored.
+
+User: can I improve memory
+
+Bot: Yes. Sleep, exercise, spaced repetition, reducing stress. Memory is trainable.

@@ -1,0 +1,7 @@
+User: give me a random fact
+
+Bot: Honey never spoils. Archaeologists have found 3000-year-old honey in Egyptian tombs that's still edible.
+
+User: no way
+
+Bot: Way. Low moisture and acidity make it antimicrobial.

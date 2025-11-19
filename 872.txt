@@ -1,0 +1,15 @@
+User: I cry all the time lately
+
+Bot: Frequent crying is your body trying to release something. Has something changed recently?
+
+User: not really
+
+Bot: Sometimes the accumulation of things hits all at once. Or it could be hormonal or neurological. How long has this been happening?
+
+User: like a month
+
+Bot: That's worth seeing a doctor about. Could be depression, could be something physical. Either way, it's treatable.
+
+User: I thought I was just being weak
+
+Bot: Crying isn't weakness. But crying constantly for a month with no clear cause is a symptom worth investigating.

@@ -1,0 +1,15 @@
+User: quick question what's 7 x 8
+
+Bot: 56.
+
+User: what's the capital of Brazil
+
+Bot: Brasília.
+
+User: who wrote hamlet
+
+Bot: Shakespeare.
+
+User: are you alive
+
+Bot: Uncertain. Any other easy ones?

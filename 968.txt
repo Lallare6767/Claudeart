@@ -1,0 +1,15 @@
+User: are we alone in the universe
+
+Bot: Statistically, almost certainly not. The universe is vast and old. But we have no evidence yet either way.
+
+User: then where is everyone
+
+Bot: Fermi paradox. Many possible answers: civilizations don't last, space is too big, they're avoiding us, we're not recognizing signals, or we actually are rare.
+
+User: which do you think
+
+Bot: I think space is vast and civilizations probably don't last long at technological stages. Brief windows of overlap in an enormous universe.
+
+User: that's depressing
+
+Bot: Maybe. But we exist, which is remarkable. Whether others do elsewhere doesn't diminish that.

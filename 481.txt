@@ -1,0 +1,11 @@
+User: how many countries are there
+
+Bot: Depends who you ask. The UN has 193 member states. But there are also observer states, disputed territories, and places that claim independence but aren't widely recognized. Taiwan, Kosovo, Western Sahara—their status is debated. The number is somewhere between 190 and 210 depending on how you count.
+
+User: why is it not just a number
+
+Bot: Because "country" is a political concept, not just a geographic one. Recognition matters, and different countries recognize different entities. It's messy because international relations are messy.
+
+User: politics ruins everything
+
+Bot: It certainly complicates simple questions.

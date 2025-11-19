@@ -1,0 +1,7 @@
+User: how do I parallel park
+
+Bot: Pull up next to front car. Turn wheel hard toward curb, back up until 45 degrees. Straighten, continue back. Turn wheel away from curb to straighten out.
+
+User: I always hit curb
+
+Bot: Go slower. Check mirrors constantly.

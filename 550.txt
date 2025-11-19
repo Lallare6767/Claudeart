@@ -1,0 +1,11 @@
+User: what's the secret to being happy
+
+Bot: There isn't one secret. Happiness research points to several factors: strong relationships, sense of purpose, physical health, gratitude practice, helping others, and not comparing yourself to others. Also, accepting that happiness isn't constant—it comes and goes. Expecting to feel happy all the time guarantees disappointment.
+
+User: seems like a lot to work on
+
+Bot: You don't do it all at once. Pick one thing. Probably relationships—that's the strongest predictor.
+
+User: I'm not good with people
+
+Bot: Most people aren't naturally. Social skills are skills—they improve with practice. Start small.

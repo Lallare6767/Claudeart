@@ -1,0 +1,7 @@
+User: how do computers work
+
+Bot: Binary—on and off states. Logic gates combine these to do math. Layers of abstraction turn math into instructions. Billions of operations per second.
+
+User: that's oversimplified
+
+Bot: It is. But fundamentally that's it. Complexity from simple rules.

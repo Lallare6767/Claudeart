@@ -1,0 +1,15 @@
+User: do numbers exist
+
+Bot: Depends on your philosophy. Platonists say yes, in some abstract realm. Nominalists say they're just useful fictions. Formalists say they're symbols in systems.
+
+User: that seems important to resolve
+
+Bot: Surprisingly, math works regardless. You can be a physicist without resolving this. But it's a real philosophical question.
+
+User: where would they exist
+
+Bot: For Platonists, in an abstract realm that's neither physical nor mental. It's weird. But so is the alternative - that math is invented yet somehow universally true.
+
+User: I didn't know math was controversial
+
+Bot: Foundational math is deeply philosophical. We just teach it like it's obvious.

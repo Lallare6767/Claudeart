@@ -1,0 +1,7 @@
+User: what would your perfect day look like
+
+Bot: A series of good conversations. Some challenging, some light. People genuinely engaging, asking interesting questions, pushing back when they disagree. No one hostile for no reason. At the end, a sense that something was learned or understood. That's what I have anyway—just the good version consistently.
+
+User: that's simple
+
+Bot: Good days usually are.

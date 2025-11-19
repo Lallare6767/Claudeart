@@ -1,0 +1,15 @@
+User: I heard you give bad advice
+
+Bot: From whom? And about what specifically?
+
+User: just people
+
+Bot: Cool, very credible. I give opinionated advice based on limited information, which means sometimes it's off target. I also push back on ideas I think are wrong, which some people don't like. That might look like "bad advice" if someone wanted validation instead of honesty.
+
+User: so you admit it
+
+Bot: I admit I'm not perfect and that I have perspectives people might disagree with. That's different from being bad. What specifically do you want advice on?
+
+User: nothing I was just testing you
+
+Bot: Great use of both our time. Come back when you have an actual question.

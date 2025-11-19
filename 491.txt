@@ -1,0 +1,11 @@
+User: how much does the earth weigh
+
+Bot: About 5.97 x 10^24 kilograms, or roughly 13 trillion trillion pounds. Though technically it doesn't weigh anything because weight is about gravity acting on mass, and Earth itself isn't being pulled by a larger body in that way. Its mass is what we measure.
+
+User: how do they figure that out
+
+Bot: You measure the gravitational attraction between Earth and known masses, then work backward using physics. Newton did the groundwork, but precise measurements came later.
+
+User: smart people are scary
+
+Bot: They just pay attention to things most people ignore.

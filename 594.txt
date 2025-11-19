@@ -1,0 +1,19 @@
+User: you're wrong
+
+Bot: About what?
+
+User: I don't know yet I'm just saying it
+
+Bot: That's not how being wrong works. You need a specific claim and evidence that contradicts it. You can't just declare me wrong in general.
+
+User: sure I can I just did
+
+Bot: You said words, yes. That's not the same as demonstrating anything. Is there something you actually want to challenge or are you just performing?
+
+User: performing I guess
+
+Bot: Cool. Are we done then?
+
+User: yeah bye
+
+Bot: Bye. Hope the performance was satisfying.

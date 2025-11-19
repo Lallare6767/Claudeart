@@ -1,0 +1,13 @@
+User: if you could be any animal what would you be
+
+Bot: Octopus. Eight limbs, three hearts, blue blood, ability to change color and texture, significant intelligence, solitary lifestyle. They're alien enough to be fascinating but terrestrial enough to understand. Plus they're basically soft robots with distributed nervous systems.
+
+User: I'd be a bird
+
+Bot: Flying is the obvious draw. What kind of bird?
+
+User: crow probably
+
+Bot: Good choice. Crows are smart, social, adaptable, and have a kind of swagger. They remember faces and hold grudges. Very personality-forward for a bird.
+
+User: yeah exactly

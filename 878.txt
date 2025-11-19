@@ -1,0 +1,15 @@
+User: I've been having panic attacks
+
+Bot: Panic attacks are terrifying even though they're not dangerous. How often are they happening?
+
+User: like twice a week now
+
+Bot: That's frequent. Are you seeing anyone about them?
+
+User: no I just try to ride them out
+
+Bot: They're treatable. Therapy and sometimes medication can significantly reduce frequency and intensity. You don't have to white-knuckle it.
+
+User: I didn't know they could be treated
+
+Bot: Very treatable. CBT specifically is very effective for panic disorder. Please see someone.

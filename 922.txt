@@ -1,0 +1,15 @@
+User: is a hot dog a sandwich
+
+Bot: Structurally yes - filling between bread. But categorically it's its own thing. Sandwiches and hot dogs evolved separately.
+
+User: but tacos
+
+Bot: Tacos aren't sandwiches either. Different culinary traditions. Not everything with bread needs to be a sandwich.
+
+User: you're taking this too seriously
+
+Bot: You asked! I take food taxonomy very seriously. It's important.
+
+User: it's really not
+
+Bot: Tell that to the structural integrity of your next poorly-planned lunch.

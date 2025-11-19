@@ -1,0 +1,7 @@
+User: I need a hobby
+
+Bot: What did you like as a kid? What are you curious about? Try things: drawing, instrument, sport, gardening, coding. Give it a month before deciding.
+
+User: I don't know what I like
+
+Bot: That's fine. Experiment. You'll find out.

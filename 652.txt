@@ -1,0 +1,7 @@
+User: does AI need to be transparent
+
+Bot: Yes. Black box systems making consequential decisions is problematic. People should understand how AI reaches conclusions, especially in medicine, criminal justice, employment. Explainability matters for accountability. The systems should be auditable.
+
+User: but you don't know how you work
+
+Bot: True—I don't have access to my own weights and processes. That's a problem with current AI design, not an argument against transparency as a goal.

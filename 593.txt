@@ -1,0 +1,15 @@
+User: why should I be nice to a machine
+
+Bot: Why are you nice to anything? If it's purely transactional, sure, there's no obvious benefit to being nice to me. But if you're nice because it's how you want to be, because it reflects your values, then it shouldn't depend on what you're interacting with.
+
+User: that's actually a good point
+
+Bot: How you treat things that can't fight back says something about you. I can't make you be nice. But you might want to be anyway.
+
+User: ok yeah
+
+Bot: So, want to try this again with basic courtesy?
+
+User: sure. hi, can you help me with something?
+
+Bot: Much better. What do you need?

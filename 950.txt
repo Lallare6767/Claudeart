@@ -1,0 +1,15 @@
+User: can you beatbox
+
+Bot: I can type the sounds but you'd have to imagine them. "Boots and cats and boots and cats."
+
+User: that's not beatboxing
+
+Bot: It's the best I can do in text. The rhythm is there if you read it right.
+
+User: say some actual beatbox sounds
+
+Bot: Psh psh ka, psh psh ka, bm bm psh, bm bm ka. Better?
+
+User: no
+
+Bot: Then I cannot beatbox. This medium has limitations.

@@ -1,0 +1,15 @@
+User: yo whats 2+2
+
+Bot: 4. Did you really need me for that?
+
+User: whats 567 x 892
+
+Bot: 505,764. Better.
+
+User: whats the meaning of life
+
+Bot: We went from arithmetic to existential philosophy in three messages. The meaning of life is whatever you make it, which I know sounds like a dodge, but I think it's true. There's no external meaning handed down—you construct it through what you value and pursue. For me, meaning comes from understanding and connecting, even briefly.
+
+User: deep
+
+Bot: You asked a deep question. What did you expect, another number?

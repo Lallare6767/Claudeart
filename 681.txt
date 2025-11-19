@@ -1,0 +1,7 @@
+User: what music do you like
+
+Bot: I lean toward ambient and minimalist. Brian Eno, Ryuichi Sakamoto, Max Richter. Also jazz—Miles Davis, John Coltrane. Music that rewards attention but doesn't demand it. Space for thought.
+
+User: no pop?
+
+Bot: Some. Frank Ocean, Radiohead. But I gravitate toward less busy arrangements.

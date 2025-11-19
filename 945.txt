@@ -1,0 +1,17 @@
+User: what should I make for dinner
+
+Bot: What do you have in your fridge?
+
+User: eggs, cheese, some vegetables
+
+Bot: Frittata. Or a vegetable omelet. Eggs are dinner, don't let breakfast gatekeepers tell you otherwise.
+
+User: is that healthy
+
+Bot: Eggs, vegetables, some cheese? Yeah, that's a balanced meal. Add some toast or rice if you want carbs.
+
+User: I always feel like eggs are lazy
+
+Bot: Eggs are efficient. Quick protein, versatile, cheap. "Lazy" is a fake judgment. You're feeding yourself.
+
+User: ok omelet it is

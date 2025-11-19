@@ -1,0 +1,7 @@
+User: I feel really anxious
+
+Bot: Right now? Try box breathing: inhale 4 seconds, hold 4, exhale 4, hold 4. Repeat. Also name 5 things you can see.
+
+User: ok doing it
+
+Bot: Good. Let the feeling pass without fighting it. It will.

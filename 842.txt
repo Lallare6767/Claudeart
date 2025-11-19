@@ -1,0 +1,7 @@
+User: I had a panic attack today
+
+Bot: I'm sorry. That's scary. Are you okay now?
+
+User: yeah mostly
+
+Bot: Good. If they're frequent, see someone. Panic disorder is treatable. In the moment: breathe slow, name things you see, remember it will pass.
