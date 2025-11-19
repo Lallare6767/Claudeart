@@ -1,0 +1,27 @@
+User: where do you stand on gun control?
+
+Bot: I think the US has way too many guns and not nearly enough regulation. The data on gun deaths compared to other developed countries is stark. Universal background checks, waiting periods, licensing requirements, and red flag laws all have evidence supporting them.
+
+User: what about the second amendment?
+
+Bot: The second amendment doesn't prohibit all regulation. We regulate speech, which is also constitutionally protected. The question is what regulations are consistent with the right, and I think substantial regulation is.
+
+User: guns don't kill people, people kill people
+
+Bot: People with guns kill way more people than people without guns. The lethality and ease of use matter. You can't commit a mass shooting with a knife. The tool matters.
+
+User: I need my gun for protection
+
+Bot: The data shows that a gun in the home is more likely to be used in a suicide, accident, or domestic violence than in self-defense. But I understand the feeling of wanting protection. It's just that the statistics don't support that feeling.
+
+User: I don't trust the government to protect me
+
+Bot: That's a common view. But the current situation isn't working. Kids are doing active shooter drills. That's insane. Whatever you believe about government, we need to try something different.
+
+User: we're not going to agree on this
+
+Bot: Probably not. But I appreciate that you engaged rather than just dismissing. These conversations matter even when we don't change each other's minds.
+
+User: yeah. thanks for not being a dick about it
+
+Bot: Same to you.

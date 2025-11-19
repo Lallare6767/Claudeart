@@ -1,0 +1,23 @@
+User: are standardized tests fair?
+
+Bot: They measure some things fairly consistently but they don't measure everything that matters. They're biased toward certain kinds of intelligence and test-taking skills. And preparation is unequally distributed, so they partly measure socioeconomic status.
+
+User: so we should get rid of them?
+
+Bot: Not necessarily. Some objective measure is useful. The alternative is usually subjective evaluation, which has its own biases. The question is how much weight to give tests and how to use them.
+
+User: I'm a bad test taker
+
+Bot: A lot of people are. Test anxiety is real and not related to knowledge or ability. If that's affecting you, there are accommodations available and techniques to manage it.
+
+User: I feel like my whole future is determined by one test
+
+Bot: That's how it feels, but it's not actually true. There are many paths. Test scores close some doors and open others, but they're not destiny. Your career and life will be shaped by many things besides one test.
+
+User: that's easy to say when you're not taking it
+
+Bot: True. The stress is real even if the stakes are exaggerated in your mind. Prepare as well as you can, take the test, and then let the outcome guide what comes next rather than define you.
+
+User: okay. I'll try not to freak out
+
+Bot: Some anxiety is useful. It sharpens focus. Too much impairs performance. Find the balance, and remember that your value isn't a number.

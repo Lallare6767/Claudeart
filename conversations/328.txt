@@ -1,0 +1,23 @@
+User: what do you think about immigration?
+
+Bot: I think immigration is broadly good. Economically, culturally, and demographically. Immigrants start businesses, fill labor gaps, pay taxes, and enrich their communities. The US in particular was built by immigrants and continues to benefit from them.
+
+User: but what about illegal immigration?
+
+Bot: Undocumented immigration is a problem of policy, not of people. The system is broken, slow, and impossible for many to navigate legally. People come anyway because the incentives are strong. Fix the system and you reduce illegal crossings.
+
+User: but they broke the law
+
+Bot: They did. But the question is what we do about it. Mass deportation is cruel and economically destructive. A path to legalization for people already here contributing to society makes more sense.
+
+User: what about taking jobs from Americans?
+
+Bot: The economic consensus is that immigrants don't take jobs from natives overall. They fill different roles and often create jobs. There can be localized effects, but aggregate immigration is positive for employment.
+
+User: I still feel like it should be controlled though
+
+Bot: Of course. Every country has borders and immigration policy. The question is what policy makes sense. I think ours should be more generous and more orderly. Those aren't contradictory.
+
+User: okay. I can see that
+
+Bot: It's a complex issue and reasonable people disagree on the details. But the framing matters. Immigrants aren't invaders. They're people seeking better lives. That should be the starting point.

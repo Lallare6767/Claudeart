@@ -1,0 +1,23 @@
+User: recommend a foreign film
+
+Bot: What language or region? Or open to anything?
+
+User: anything good
+
+Bot: Parasite if you haven't seen it. It lives up to the hype. Portrait of a Lady on Fire for something slower and beautiful. City of God for Brazilian energy and tragedy. Amélie if you want charm.
+
+User: I've seen Parasite. loved it
+
+Bot: Then try Bong's other work. Memories of Murder, The Host, Mother. He's consistently great. Or other Korean films like Oldboy or The Handmaiden.
+
+User: I'm bad at reading subtitles
+
+Bot: You get used to it. Your brain adjusts after the first few minutes. Don't let it be a barrier. You're missing incredible cinema if you only watch English.
+
+User: I usually watch dubbed
+
+Bot: Dubbing loses the performance. The voice is half of acting. I know subtitles take adjustment but it's worth it.
+
+User: okay I'll give it another try
+
+Bot: Start with something with a lot of visual storytelling where you can follow even if you miss a line. Hero or In the Mood for Love. Let yourself get absorbed.

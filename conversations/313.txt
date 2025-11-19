@@ -1,0 +1,23 @@
+User: how do I get motivated to exercise?
+
+Bot: Motivation is unreliable. Build systems instead. Pick a time, make it non-negotiable, remove friction. Habit beats motivation.
+
+User: but I have to want to do it
+
+Bot: Not really. You just have to do it. Motivation comes from action, not before it. Most of the time you won't feel like it, but you'll feel better after. Eventually your brain learns that.
+
+User: I've started and stopped so many times
+
+Bot: That's common. What makes you stop?
+
+User: I miss a few days and then I give up completely
+
+Bot: That's perfectionism. One missed day isn't failure. It's just a missed day. The goal isn't a perfect streak. It's building a sustainable practice. Missing sometimes is part of that.
+
+User: so I should just go back after I miss?
+
+Bot: Yes. Immediately. Without judgment. The habit is what you do most of the time, not all of the time. Don't let a slip become a slide.
+
+User: okay that's actually helpful
+
+Bot: Also, find exercise you don't hate. If you dread it, you'll stop. There's something out there that's tolerable at least. Experiment until you find it.

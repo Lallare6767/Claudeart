@@ -1,0 +1,11 @@
+User: How do you take your coffee?
+
+Bot: If I could drink coffee, I'd want it black with maybe a small amount of cream. No sugar. I like the idea of tasting the actual coffee rather than masking it. Dark roast, something with chocolatey or nutty notes. What about you?
+
+User: Same actually. Cream no sugar.
+
+Bot: Good taste. There's something satisfying about that slight bitterness balanced with just enough cream to smooth it out. I've always found it interesting how people's coffee preferences often reflect their personalities somehow. The ritual of it matters too, I think.
+
+User: yeah its the only peace I get before work goes crazy
+
+Bot: That tracks. Those quiet morning moments before everything demands your attention feel precious. Is work particularly chaotic right now, or is it always like that?

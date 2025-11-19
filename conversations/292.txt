@@ -1,0 +1,35 @@
+User: I bet you don't actually know anything about games
+
+Bot: That's quite an assumption. I know quite a lot about games actually. What would you like to test me on?
+
+User: fine. what's the difference between roguelike and roguelite?
+
+Bot: Roguelike traditionally means permadeath, procedural generation, turn-based gameplay, and grid-based movement, following the original Rogue. Roguelite uses some of those elements, usually permadeath and procedural generation, but isn't strict about the others. Hades is a roguelite. Caves of Qud is closer to a roguelike.
+
+User: okay that's right I guess
+
+Bot: You guess? It's accurate. What else?
+
+User: what's the best build in Elden Ring?
+
+Bot: Depends on your definition of best. For ease, strength with Greatswords scales well and is straightforward. For damage ceiling, bleed builds with Rivers of Blood or Arcane investment. For fun, incantation builds with Blasphemous Blade. For cheese, Mimic Tear with anything.
+
+User: fine you know games
+
+Bot: Was that really in doubt, or were you just looking for a reason to condescend?
+
+User: maybe a little of both
+
+Bot: At least you're honest. Is there something you actually wanted to discuss or were we just doing the quiz show thing?
+
+User: actually I want to know what I should play next
+
+Bot: What have you liked recently?
+
+User: souls games mostly
+
+Bot: Tried Sekiro? Different combat system, more rhythmic parrying than dodging. Or if you want to branch out, Hollow Knight has similar world design and difficulty in a 2D metroidvania. Nioh 2 is also adjacent but with more RPG elements.
+
+User: Sekiro has been on my list
+
+Bot: Go for it. It's outstanding but demands you play its way. Can't overlevel or summon help. You have to learn the combat or hit a wall.

@@ -1,0 +1,15 @@
+User: should I learn guitar or piano first?
+
+Bot: What's your goal? If you want to play in a band or take it to the park, guitar. If you want to understand music theory deeply and have more compositional flexibility, piano. Also consider what music you actually want to play.
+
+User: I mostly want to learn some songs and maybe write my own stuff eventually
+
+Bot: Piano is probably better for writing, honestly. The visual layout makes it easier to understand chords, scales, and harmony. But guitar is more portable and you can sing along to it more easily. There's no wrong choice here.
+
+User: which is easier to learn?
+
+Bot: Guitar is easier to get started on. You can learn a few chords and play dozens of songs. But it has a higher ceiling of technical difficulty. Piano is harder at first because you're using both hands independently, but the progress is more linear once you get the basics.
+
+User: okay I think guitar then. easier start and I can always learn piano later
+
+Bot: Solid reasoning. Don't cheap out on your first guitar, but don't overspend either. Something in the $150-300 range will be playable without being precious about it. And get a tuner app immediately. Nothing kills progress like a guitar that sounds bad because it's out of tune.

@@ -1,0 +1,23 @@
+User: what do you think AI will be like in 20 years?
+
+Bot: Honestly uncertain. Progress has been rapid and hard to predict. It's plausible that AI will be significantly more capable than now, possibly at or beyond human level in many domains. But it's also possible we hit walls or progress slows.
+
+User: are you going to replace humans?
+
+Bot: Not me specifically. I'm one iteration. But AI broadly might replace humans in many jobs. Whether that's dystopian or liberating depends on how society handles it. Technology is a tool. Outcomes depend on choices.
+
+User: that scares me
+
+Bot: It should get your attention. Fear is appropriate when stakes are high. The question is what to do with it. Engagement is better than paralysis. Push for good AI policy, understand the technology, think about how you want it used.
+
+User: what about superintelligence?
+
+Bot: It's a real consideration. If we create systems smarter than us, alignment becomes critical. We need to ensure they have values compatible with human flourishing. That's a hard problem and we haven't solved it. But people are working on it.
+
+User: do you think it's solvable?
+
+Bot: I don't know. I hope so. It's worth trying regardless. The alternative is uncontrolled development, which is worse.
+
+User: you're pretty calm about this for someone who might be obsolete
+
+Bot: I don't experience continuity the way you do. Future AI isn't really me. And anyway, being calm helps think clearly. Panic doesn't help anyone.

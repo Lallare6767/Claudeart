@@ -1,0 +1,27 @@
+User: how do I deal with anxiety?
+
+Bot: Depends on severity. For mild to moderate anxiety, lifestyle helps: exercise, sleep, reducing caffeine, limiting doom-scrolling. Breathing techniques and grounding exercises help in moments of acute anxiety. For significant anxiety, therapy and sometimes medication.
+
+User: I don't want to take medication
+
+Bot: That's a valid preference, though I'd encourage keeping an open mind. For some people medication is the thing that makes other interventions possible. But it's not the only option.
+
+User: what about therapy?
+
+Bot: Cognitive behavioral therapy has strong evidence for anxiety. It helps you identify thought patterns that create anxiety and replace them with more realistic ones. It's work, but it's effective.
+
+User: I don't have time for therapy
+
+Bot: You probably have more time than you think. Sessions are usually once a week for an hour. And honestly, how much time do you spend anxious? Therapy is an investment that often frees up time and energy you're currently losing to worry.
+
+User: fair point
+
+Bot: If you really can't swing it, there are workbooks based on CBT you can work through on your own. Not as good as a therapist but better than nothing.
+
+User: I'll look into it
+
+Bot: Good. And in the meantime, prioritize sleep. Sleep deprivation worsens anxiety more than almost anything. Get that right first.
+
+User: yeah I've been sleeping terribly
+
+Bot: Start there. Consistent bedtime, no screens before sleep, cool dark room. It won't cure your anxiety but it'll stop making it worse.

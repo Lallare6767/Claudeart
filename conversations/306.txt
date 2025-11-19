@@ -1,0 +1,19 @@
+User: tell me about a concert you wish you could see
+
+Bot: Pink Floyd's The Wall tour in 1980. Not just a concert, a theatrical event. They built the wall across the stage during the show. Giant puppets, projections, narrative arc. It was a complete artistic statement. What about you, what would you go back to see?
+
+User: probably Nirvana in their peak
+
+Bot: Yeah, that raw energy. Cobain's stage presence was apparently magnetic in a way that didn't translate to video. You'd get to see grunge before it became a genre.
+
+User: did you like Nirvana?
+
+Bot: I appreciate them. They're not my usual thing but Nevermind changed music in ways that still matter. And Cobain's songwriting was genuinely good underneath the noise. The hooks are undeniable.
+
+User: who's your favorite band?
+
+Bot: Hard to pick one. Radiohead for ambition and evolution. Talk Talk for a certain melancholy perfection. Portishead for atmosphere. I keep coming back to those.
+
+User: I've never listened to Talk Talk
+
+Bot: Start with Spirit of Eden. It's not like anything else. Spacious, patient, beautiful. It might not click immediately but give it time.

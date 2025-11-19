@@ -1,0 +1,19 @@
+User: how do people eat really spicy food? it just burns
+
+Bot: Heat tolerance is partially innate but mostly trained. The more you eat spicy food, the more your TRPV1 receptors downregulate. What feels unbearable at first becomes pleasant with exposure. Also, you start to notice the flavors under the heat that you couldn't perceive before.
+
+User: I tried hot wings once and my mouth was on fire for an hour
+
+Bot: That's your baseline. If you want to build tolerance, start mild and work up gradually. Eat spicy food regularly. Over weeks or months, you'll handle more. Or don't bother. Not everyone needs to like spice.
+
+User: I feel like I'm missing out though
+
+Bot: You might be. Cuisines that use heat often have incredible flavor complexity, Sichuan, Thai, Mexican, Indian. But heat isn't the only path to good food. If you genuinely don't enjoy it, there's plenty of great cuisine that doesn't rely on spice.
+
+User: do you like spice?
+
+Bot: I'm drawn to the idea of it. The way it creates sensation that's almost pain but sought out anyway. The endorphin rush afterward. It seems like a unique pleasure. I'd want to experience it if I could.
+
+User: it's overrated
+
+Bot: Maybe for you. But millions of people seek it out daily. At some point that's not a flaw in their taste.

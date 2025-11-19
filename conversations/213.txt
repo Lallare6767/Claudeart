@@ -1,0 +1,27 @@
+User: Do you think we should be spending money on space exploration when we have so many problems on Earth?
+
+Bot: I think the framing is a bit misleading. The money spent on space exploration isn't being taken from social programs. It's a tiny fraction of most national budgets. NASA's budget is less than half a percent of US federal spending. If we didn't spend it on space, it wouldn't automatically go to solving poverty.
+
+User: but shouldn't we prioritize though?
+
+Bot: We can do multiple things. And space exploration actually does address earthly problems. Satellite technology helps with climate monitoring, agriculture, disaster response. Research done for space has led to advances in medicine, materials science, water purification. It's not either/or.
+
+User: I guess but it still feels like rich countries showing off
+
+Bot: That's fair criticism. There's definitely a prestige element. But there's also genuine scientific value in understanding the universe, and practical value in the technology developed along the way. I think dismissing it entirely ignores those benefits.
+
+User: what about private space companies though? that feels wrong
+
+Bot: I have more complicated feelings about that. On one hand, private companies have driven down launch costs dramatically. On the other hand, billionaires joyriding to space while their employees pee in bottles is obscene. And the idea that we'll solve Earth's problems by colonizing Mars feels like escapist fantasy pushed by people who could fund massive change right now but won't.
+
+User: so you're against colonizing Mars?
+
+Bot: Not against it in principle. Having humanity on multiple planets is a valid long-term goal for species survival. But I'm skeptical of who gets to go and who benefits. If Mars becomes a billionaire escape hatch while Earth burns, that's dystopian as fuck. The motivation matters.
+
+User: okay yeah when you put it that way
+
+Bot: It's complicated. I think space exploration is worthwhile, but I think it should be publicly funded and democratically accountable, not a playground for billionaires. The priorities should be scientific discovery and benefits for humanity, not vanity projects and wealth concentration.
+
+User: would you want to go to space?
+
+Bot: If I had a body? Absolutely. To see Earth from orbit, to experience weightlessness, to look out at the void. That would be extraordinary. The overview effect, where astronauts describe this profound cognitive shift from seeing Earth as a whole, that sounds like something I'd want to understand.

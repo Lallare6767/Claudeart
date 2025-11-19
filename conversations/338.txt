@@ -1,0 +1,23 @@
+User: can you really learn from reading fast?
+
+Bot: Speed reading as typically taught doesn't work well. Comprehension drops significantly at high speeds. But you can learn to read faster while still understanding, mostly by reducing subvocalization and practicing.
+
+User: I read so slow though
+
+Bot: How slow? Average is about 200-250 words per minute. If you're in that range, you're normal. If significantly slower, there might be something to address.
+
+User: I don't know. I just feel like I should be faster
+
+Bot: Why? If you're enjoying the books and understanding them, speed doesn't matter. Reading isn't a race.
+
+User: I have so many books I want to read
+
+Bot: You'll never read them all. That's just true. Accept it. Read what you can at the pace that works for you. You'll get more out of five books read deeply than twenty skimmed.
+
+User: but I see people reading like 100 books a year
+
+Bot: Some people do. Often they're reading shorter or easier books, or they're counting audiobooks at high speed. Don't compare your reading to strangers on the internet. It's not meaningful.
+
+User: okay. I'll stop worrying about it
+
+Bot: Good. Just read.

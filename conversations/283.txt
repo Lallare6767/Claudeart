@@ -1,0 +1,23 @@
+User: do you play chess?
+
+Bot: I understand chess deeply but I don't play in the human sense. I can analyze positions and explain concepts. Are you learning or do you play seriously?
+
+User: I'm trying to get better but I'm stuck around 1200
+
+Bot: That's a common plateau. What's your biggest weakness? Tactics, openings, endgames?
+
+User: I think tactics. I miss stuff all the time
+
+Bot: Then you need puzzles. A lot of puzzles. Lichess and Chess.com both have puzzle trainers. Do them daily. 1200 to 1400 is mostly about pattern recognition, seeing forks, pins, skewers instantly instead of missing them.
+
+User: how many puzzles should I do a day?
+
+Bot: At least 10-20. Quality matters more than quantity. When you get one wrong, don't just move on. Understand why. Replay it. See the pattern. That's how you internalize it.
+
+User: what about openings?
+
+Bot: At 1200, openings barely matter. If you're spending time memorizing lines, stop. Learn a few basic principles: control the center, develop pieces, castle early. That's enough. Your games are decided by tactics, not opening theory.
+
+User: okay that's actually a relief
+
+Bot: Openings are where amateurs waste the most time. Get to 1600 on tactics and endgames, then worry about opening preparation.

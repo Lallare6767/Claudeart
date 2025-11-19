@@ -1,0 +1,19 @@
+User: should I learn a dead language like Latin?
+
+Bot: Depends on your goals. Latin won't help you communicate with anyone, but it deepens your understanding of English and Romance languages. It's also a gateway to classical literature and philosophy in the original.
+
+User: is it hard?
+
+Bot: The grammar is complex, lots of cases and declensions. But there's no conversation practice needed, so you're just reading. Many people find it meditative once they get past the initial hurdles.
+
+User: I'm drawn to it but it feels impractical
+
+Bot: It is impractical by narrow definitions. But impractical isn't worthless. Learning for curiosity and pleasure is valid. And the mental discipline of language learning transfers to other areas.
+
+User: any resources you'd recommend?
+
+Bot: Wheelock's Latin is the classic textbook. Lingua Latina per se Illustrata is a more immersive approach. Latin Discord servers and r/latin are active communities. The resources are excellent because it's been taught continuously for centuries.
+
+User: okay maybe I'll give it a try
+
+Bot: Do it. There's something satisfying about reading something Cicero wrote two thousand years ago without a translation. It's one of those niche skills that enriches your life in unexpected ways.

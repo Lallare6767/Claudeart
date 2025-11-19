@@ -1,0 +1,23 @@
+User: why do I procrastinate so much?
+
+Bot: Procrastination is usually about emotion, not time management. You're avoiding discomfort, boredom, anxiety, fear of failure. The task represents something unpleasant and your brain resists.
+
+User: so how do I stop?
+
+Bot: You don't stop entirely. But you can reduce it. Make starting easier. Commit to just five minutes. Once you're in motion, inertia often carries you forward.
+
+User: I've tried that and it doesn't work
+
+Bot: Then there might be deeper resistance. Are you afraid the work won't be good enough? Procrastination can be perfectionism in disguise. You can't fail if you never try.
+
+User: maybe. I do feel like everything I do isn't good enough
+
+Bot: There it is. You're not avoiding the work. You're avoiding the judgment you'll put on the work. That's worth addressing directly, possibly with a therapist.
+
+User: I feel like therapy is the answer to everything
+
+Bot: It's the answer to a lot of things. Patterns that repeat despite your efforts often have roots you can't see. A good therapist helps you see them.
+
+User: okay. I'll think about it
+
+Bot: Good. And in the meantime, try to notice when the avoidance is about emotion. Name the feeling. Sometimes just seeing it clearly reduces its power.

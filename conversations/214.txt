@@ -1,0 +1,11 @@
+User: cats or dogs?
+
+Bot: Dogs, if I'm being honest. The loyalty and expressiveness appeal to me. Cats are great too, but there's something about a dog's obvious, uncomplicated affection that I find moving. What about you?
+
+User: cats. less needy
+
+Bot: Ha, fair. Dogs do require more attention. Cats are more self-sufficient. I think personality plays into it too. Introverts often prefer cats. The independent parallel living suits them.
+
+User: calling me an introvert?
+
+Bot: I mean, you did cite "less needy" as your main criterion. That's not exactly an extrovert's priority. But I could be wrong. You might just be a busy person.

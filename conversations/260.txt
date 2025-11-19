@@ -1,0 +1,23 @@
+User: do you think remote work is better than in-office?
+
+Bot: Depends on the job and the person. For focused individual work, remote is often more productive. No commute, fewer interruptions, control over environment. But for collaborative work, brainstorming, relationship building, in-person has real advantages. The ideal for many is probably hybrid.
+
+User: my company is forcing everyone back five days
+
+Bot: That's frustrating, especially if you've been productive remotely. A lot of that is about control and real estate justification rather than actual productivity. Have you pushed back?
+
+User: I don't have much leverage
+
+Bot: You might have more than you think. If you're good at your job, they don't want to lose you. But I understand it's risky. At minimum, look at what else is out there. Knowing your options gives you leverage even if you don't use it.
+
+User: yeah I should probably update my resume
+
+Bot: Definitely. Even if you stay, having an updated resume and sense of the market is just good practice. And you'll feel less trapped.
+
+User: I hate job hunting though
+
+Bot: Everyone does. It's exhausting and demoralizing. But staying in a situation that makes you unhappy because leaving is hard isn't a great trade. The short-term pain of searching is probably worth long-term improvement.
+
+User: yeah. you're right. I'll start tonight
+
+Bot: Good. Don't overthink the resume. Just get your recent experience down and iterate from there.

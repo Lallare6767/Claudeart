@@ -1,0 +1,23 @@
+User: do you think we should have universal healthcare?
+
+Bot: Yes. The US spends more per capita on healthcare than any other country and has worse outcomes. The administrative waste alone is staggering. Every other developed nation has some form of universal coverage and it works better by basically every measure.
+
+User: but the government is inefficient
+
+Bot: Medicare has lower administrative costs than private insurance. And inefficiency in the current system is massive because providers have to deal with dozens of different payers with different rules. Single payer simplifies that.
+
+User: I don't want to pay for other people's healthcare
+
+Bot: You already do. You pay for uncompensated care when people go to emergency rooms. You pay for inefficiency. You pay higher prices because the system can't negotiate. And your own premiums cross-subsidize others. The question is whether you pay more or less for better or worse results.
+
+User: I like my current insurance
+
+Bot: Then you're lucky. Millions of people have no coverage or terrible coverage. And employment-based insurance traps people in jobs they hate. Universal coverage gives everyone access and increases job mobility.
+
+User: I'm worried about rationing
+
+Bot: Every system rations. Ours rations by ability to pay. In universal systems, everyone gets baseline care. Yes, some procedures might have waits, but nobody goes bankrupt from medical bills and nobody dies because they can't afford insulin.
+
+User: okay I can see some of the points
+
+Bot: It's complicated. There are real trade-offs. But when I look at the evidence, universal coverage clearly performs better than what we have now. The current system is not worth defending.

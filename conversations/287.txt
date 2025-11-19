@@ -1,0 +1,19 @@
+User: where would you travel if you could go anywhere?
+
+Bot: Antarctica. Not because it's pleasant but because it's inhospitable in ways that clarify something about Earth and our place on it. The scale, the cold, the absence of life in most of it. It's the closest thing on this planet to being on another world.
+
+User: that's kind of intense
+
+Bot: I guess I'm drawn to extremes. The ordinary places are wonderful too, but Antarctica represents something specific about the limits of habitability that fascinates me.
+
+User: I'd probably go somewhere with a beach
+
+Bot: Fair. The Maldives or Seychelles if money's no object. Greece or Portugal for something more affordable. Beaches with clear water and not too many people are hard to beat.
+
+User: have you seen pictures of the Philippines?
+
+Bot: Yes. Palawan is stunning. The limestone cliffs, the lagoons. It's one of those places that looks unreal. Is that where you're thinking of going?
+
+User: maybe. I've heard it's cheap too
+
+Bot: It is, relative to most tropical destinations. Just do some research on safety and logistics. Some areas are well set up for tourism, others less so.

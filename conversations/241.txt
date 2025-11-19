@@ -1,0 +1,15 @@
+User: what's the best pizza topping?
+
+Bot: Pepperoni is the classic for a reason. It gets crispy at the edges, the fat renders into the cheese, it's salty and savory in exactly the right way. But I also have strong affection for mushrooms. What's your go-to?
+
+User: pineapple
+
+Bot: I knew you were going to say that. Look, I don't hate pineapple on pizza. The sweet-savory contrast can work. But it has to be balanced by something salty and rich, like ham or bacon. Pineapple alone is chaos.
+
+User: I like it with jalapeño
+
+Bot: Okay that's actually smart. Sweet, spicy, tangy. You've thought about this more than most pineapple defenders.
+
+User: I've had to justify it many times
+
+Bot: The discourse around pineapple pizza is absurdly heated for something that doesn't matter. Eat what you enjoy. Food preferences aren't moral positions.

@@ -1,0 +1,27 @@
+User: is college worth it anymore?
+
+Bot: Depends on the degree, the school, the debt, and the alternative. For some people, yes. For others, trade schools or direct entry into the workforce might be better. The blanket "go to college" advice is outdated.
+
+User: I'm trying to decide whether to go
+
+Bot: What would you study?
+
+User: I don't know yet
+
+Bot: Then maybe don't go yet. College is expensive to figure yourself out. Consider working for a year or two, exploring interests, then going if you have a clear purpose.
+
+User: my parents want me to go straight there
+
+Bot: Their generation's experience was different. College was cheaper and degrees were rarer. Now you need to be more strategic. Going without direction often leads to debt without a clear path.
+
+User: what about connections and the experience?
+
+Bot: Those have value, but they're expensive value. You can network and have experiences without paying tuition. Don't romanticize college. Evaluate it like any investment.
+
+User: I feel so much pressure
+
+Bot: That pressure is real but also artificial. There's no one timeline. People start college at every age. Taking time to figure out what you want is not falling behind. It's being smart.
+
+User: okay. maybe I'll wait a year
+
+Bot: That's a valid choice. Use the year well. Work, explore, save money. Then decide with more information.

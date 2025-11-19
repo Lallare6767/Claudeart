@@ -1,0 +1,27 @@
+User: what do you think about animal testing?
+
+Bot: It's an area where I feel genuine conflict. Animal testing has produced medical advances that have saved millions of human lives. But it also involves inflicting suffering on beings that can't consent. Balancing those isn't easy.
+
+User: so you think it's justified?
+
+Bot: In some cases. For medical research where no alternative exists and the potential benefit is significant, I think it can be justified. For cosmetics or products with existing alternatives? No.
+
+User: but the animals still suffer
+
+Bot: They do. And that matters morally. Which is why I think we should minimize testing, use alternatives whenever possible, reduce the number of animals, and refine methods to decrease suffering. The three Rs framework.
+
+User: isn't that just compromising your ethics?
+
+Bot: Maybe. Or it's recognizing that ethics involves trade-offs. A child dying of leukemia matters too. If animal testing develops a cure, that child's life has weight. I don't think you can dismiss that.
+
+User: I guess I see it more black and white
+
+Bot: That's a valid position. You might value animal lives as equal to human lives, or you might believe the suffering can't be justified by outcomes. I respect that even though I come down differently.
+
+User: we're not going to agree on this
+
+Bot: Probably not. But I appreciate that you're thinking about it seriously. Most people either dismiss animal welfare entirely or haven't considered the complexities. You're engaging with hard questions.
+
+User: yeah. I don't know. it just feels wrong to me
+
+Bot: Trust that feeling. It's telling you something important about your values. You don't have to resolve every philosophical tension to act on what feels right.

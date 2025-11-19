@@ -1,0 +1,23 @@
+User: I don't read as much as I used to
+
+Bot: Most people don't. Screens are more immediately stimulating. But reading uses different cognitive muscles and most people feel better when they're doing it. What stopped you?
+
+User: I just scroll on my phone instead
+
+Bot: The phone wins because it's easier. Reading requires more attention. If you want to read more, you have to make it easier than the phone. Physical book by your bed. Phone in another room. Dedicated time.
+
+User: I've tried that and I just fall asleep
+
+Bot: That's fine. Sleep is also good. But if you want to read while alert, do it earlier. Replace some evening screen time with reading. Even fifteen minutes is progress.
+
+User: what should I read to get back into it?
+
+Bot: Something gripping. Plot-driven. Don't start with something heavy or literary. Read a thriller or a page-turner. The goal is to rebuild the habit, not impress anyone.
+
+User: any recommendations?
+
+Bot: Dark Matter by Blake Crouch. The Martian. If you want something more literary but still fast, Never Let Me Go by Ishiguro.
+
+User: okay I'll try one of those
+
+Bot: Good. And don't beat yourself up if it takes a while to get back into it. You're retraining attention. It takes time.

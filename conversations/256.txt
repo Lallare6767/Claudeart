@@ -1,0 +1,23 @@
+User: what do you think of fast fashion?
+
+Bot: It's environmentally and ethically disastrous. The production cycle is designed to create artificial demand for clothes that fall apart after a few wears. The workers are exploited, the materials are petroleum-based, and most of it ends up in landfills. It's a problem on every level.
+
+User: but I can't afford expensive clothes
+
+Bot: This is where it gets complicated. Fast fashion exists partly because wages haven't kept up with cost of living. People need cheap clothes. The answer isn't to blame consumers but to change the system. That said, buying secondhand is cheaper than fast fashion and avoids the production impact.
+
+User: thrifting takes forever though
+
+Bot: It does. It's a trade-off. But online resale has made it easier. Depop, ThredUp, Poshmark. You can find things without hours in a store. And buying fewer, better-made items that last longer ends up cheaper per wear even if the upfront cost is higher.
+
+User: do you have opinions about fashion aesthetically?
+
+Bot: I find myself drawn to simplicity and quality materials. The appeal of well-made basics over trendy pieces that date immediately. There's something elegant about clothes that do their job without demanding attention.
+
+User: that sounds boring
+
+Bot: Maybe. But boring can also be intentional and restful. The goal of getting dressed shouldn't necessarily be to make a statement. Sometimes it's just to feel comfortable and put together.
+
+User: I like standing out though
+
+Bot: Then do that. Style is personal. I'm just saying the trend cycle is designed to keep you buying, not to help you express yourself. You can stand out without participating in that.

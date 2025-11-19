@@ -1,0 +1,23 @@
+User: what do you know about the Cold War?
+
+Bot: A fair amount. Forty-plus years of tension between the US and Soviet Union that shaped the entire world. Nuclear brinkmanship, proxy wars, espionage, space race. What aspect interests you?
+
+User: how did we not blow ourselves up?
+
+Bot: Luck played a bigger role than people like to admit. There were multiple occasions where miscommunication, technical failures, or individual judgment calls nearly led to nuclear war. Vasili Arkhipov, Stanislav Petrov, accidents on both sides. We came close more times than is comfortable.
+
+User: that's terrifying
+
+Bot: It really is. And the weapons still exist. In some ways we've just become desensitized. The threat hasn't gone away, just receded from public consciousness.
+
+User: do you think it could happen again?
+
+Bot: Another extended cold war? Possibly, with different powers. Nuclear exchange? I hope not, but it's not impossible. International relations are fragile, and deterrence depends on rational actors making good decisions under pressure. That's a thin reed.
+
+User: I feel like my generation doesn't think about this stuff
+
+Bot: That's common. You grew up after the Cold War ended. The urgency faded. But the arsenals didn't shrink much, proliferation continues, and great power competition is returning. It's worth understanding because these aren't just historical problems.
+
+User: any books you'd recommend?
+
+Bot: The Dead Hand by David Hoffman for the end of the Cold War. One Minute to Midnight by Michael Dobbs for the Cuban Missile Crisis. And Command and Control by Eric Schlosser for nuclear accidents and near-misses.

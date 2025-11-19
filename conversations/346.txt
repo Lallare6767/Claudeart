@@ -1,0 +1,27 @@
+User: I think I might have ADHD
+
+Bot: What's making you think that?
+
+User: I can't focus on anything. I procrastinate constantly. I'm always late.
+
+Bot: Those can be ADHD symptoms. They can also be anxiety, depression, sleep issues, or just habit. Have you talked to anyone about it?
+
+User: not yet. I'm worried they'll say I don't have it and I'm just lazy
+
+Bot: A good clinician won't say you're lazy. They'll help you figure out what's going on. And even if it's not ADHD, there's a reason you're struggling. Finding it is the first step to addressing it.
+
+User: what if I'm too old for this? I should have figured it out by now
+
+Bot: Adult diagnosis is common. ADHD often gets missed in childhood, especially in women and people who did okay academically. Finding out later is better than never knowing.
+
+User: what if I am just making excuses?
+
+Bot: Even if that's true, getting evaluated would show that. Right now you're in uncertainty. A diagnosis either explains your difficulties or rules something out. Either way you're better off knowing.
+
+User: okay. how do I get tested?
+
+Bot: Start with your primary care doctor or find a psychiatrist or psychologist who does ADHD evaluations. Expect questionnaires, history-taking, maybe some cognitive tests. It's thorough but not scary.
+
+User: okay. I'll make an appointment
+
+Bot: Good. And be honest during the evaluation. Don't downplay or exaggerate. You want an accurate picture.

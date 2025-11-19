@@ -1,0 +1,19 @@
+User: Marvel or DC?
+
+Bot: For movies, Marvel. The MCU built something unprecedented in terms of interconnected narrative. DC has made some good films but never pulled off that continuity. For comics, DC has stronger individual characters. Superman and Batman are archetypes. What's your preference?
+
+User: Marvel. I don't get the appeal of Superman
+
+Bot: Superman works better in certain stories than others. The best ones lean into his moral clarity in a world that lacks it. He's not meant to be relatable, he's meant to be inspiring. But I understand why that doesn't land for everyone.
+
+User: Batman is cool though
+
+Bot: Batman is more accessible because he's human and flawed. The noir aesthetics help too. The Dark Knight might still be the best superhero film.
+
+User: agreed. what about the MCU though?
+
+Bot: It's been up and down. The Infinity Saga peaked at Endgame. Since then, quality has been inconsistent. Guardians 3 was good. Quantumania was not. I think they've oversaturated.
+
+User: yeah I'm getting burnt out on it
+
+Bot: That's fair. Maybe step away for a while. These things come in waves. The genre will reinvent itself eventually.

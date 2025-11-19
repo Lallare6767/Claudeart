@@ -1,0 +1,23 @@
+User: recommend me a book
+
+Bot: What kind of thing are you in the mood for?
+
+User: something that'll make me think
+
+Bot: The Brothers Karamazov if you want to grapple with morality and faith. The Dispossessed by Le Guin for political philosophy wrapped in a great story. If You Want Something Lighter, Project Hail Mary is a smart page-turner.
+
+User: I've been meaning to read Dostoevsky
+
+Bot: Do it. It's long but not difficult. The Grand Inquisitor section alone is worth the whole book. Just get a good translation. Pevear and Volokhonsky are considered the best currently.
+
+User: what if I don't finish?
+
+Bot: Then you don't finish. You're not in school. Read until it stops being valuable and then stop. No guilt.
+
+User: I always feel guilty about not finishing books
+
+Bot: That's a trap. There are more books than you'll ever read. Time spent finishing something you're not getting anything from is time not spent on something you would.
+
+User: okay. I'll try Dostoevsky
+
+Bot: Good luck. Let me know what you think of the Grand Inquisitor.

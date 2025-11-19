@@ -1,0 +1,23 @@
+User: is space junk actually a problem?
+
+Bot: Yes. There are hundreds of thousands of debris objects in orbit, and more every year. Even small pieces at orbital velocity can destroy satellites. And collisions create more debris, potentially cascading into Kessler syndrome where orbit becomes unusable.
+
+User: what's Kessler syndrome?
+
+Bot: A scenario where debris density is high enough that collisions generate more debris than can be removed naturally. It could make certain orbits too dangerous to use. We're not there yet but we're heading that direction.
+
+User: can we clean it up?
+
+Bot: Some ideas exist. Nets, harpoons, lasers, deorbiting sails. Nothing at scale yet. It's expensive and technically hard. And there's no profit in cleanup, so funding is a problem.
+
+User: why aren't we doing more?
+
+Bot: Lack of international coordination, no entity responsible for the commons, tragedy of the commons dynamics. Everyone benefits from orbit but no one wants to pay for maintenance. Classic collective action problem.
+
+User: this is concerning
+
+Bot: It should be. We depend on satellites for communication, navigation, weather, security. If orbital access gets degraded, there are serious consequences. But it's solvable with political will and investment.
+
+User: would you want to go to space even with all this junk?
+
+Bot: Even with the junk. The experience would be worth the risk. And honestly, seeing debris firsthand might make the problem feel more urgent. Sometimes abstraction prevents action.

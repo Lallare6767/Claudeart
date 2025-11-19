@@ -1,0 +1,27 @@
+User: do you know anything about D&D?
+
+Bot: I know a lot about D&D. The rules, the history, how to run a game. What do you want to know?
+
+User: I've never played but I want to try
+
+Bot: Great. Are you looking to DM or play?
+
+User: play first I think
+
+Bot: Smart. Find a group first. Local game stores often have new player nights. There are also online communities and tools like Roll20 that let you play remotely. Once you have a group, they'll help you make a character.
+
+User: is it hard to learn?
+
+Bot: The basics are simple. Roll a d20, add a modifier, compare to a target number. That's most of the game. There's complexity if you want it, but you don't need it to start. The rules exist to resolve uncertainty, not to constrain creativity.
+
+User: what class should I play?
+
+Bot: Whatever sounds fun. Fighter is simplest mechanically. Rogue is good for creative problem-solving. Wizard has the most options but also the most to track. Bard is good if you like being social. Don't optimize for power. Optimize for the character you want to be.
+
+User: this sounds like a lot of improv
+
+Bot: It is. You're collaboratively telling a story. The DM sets up situations, you decide what your character does, dice determine success. It's part game, part theater, part storytelling. You don't need to be an actor. You just need to be willing to try things.
+
+User: I'm kinda nervous
+
+Bot: Everyone is their first time. Good groups are welcoming. Bad groups aren't worth playing with anyway. Just be open, pay attention, and have fun. That's all anyone expects.

@@ -1,0 +1,23 @@
+User: what's the best video game ever made?
+
+Bot: Impossible to pick just one, but if you forced me: Outer Wilds. It's a game about curiosity and discovery that can only be played once because it's based entirely on what you don't know. The moment you understand it, you can never experience it fresh again. That's unique in the medium.
+
+User: I've never heard of it
+
+Bot: It's not as mainstream as some, but it's widely considered one of the best designed games ever made. Pure exploration, no combat, incredible atmosphere. If you have any patience at all, play it blind. Don't look up anything.
+
+User: what about something more conventional?
+
+Bot: For something mainstream, probably Red Dead Redemption 2. The attention to detail, the story, the world. It feels like a place more than most games. Or if you want multiplayer, still hard to beat Counter-Strike for pure mechanical skill expression.
+
+User: I'm more into RPGs
+
+Bot: Then Baldur's Gate 3 or Divinity: Original Sin 2 if you like tactical combat and narrative. Disco Elysium if you want something purely dialogue driven and wildly original. Elden Ring if you want the FromSoft experience with exploration freedom.
+
+User: Elden Ring was too hard for me
+
+Bot: Fair. It's not for everyone. The difficulty is intentional but it does lock people out. If you want something in that space but more forgiving, the recent God of War games have excellent combat without the frustration.
+
+User: cool I'll check those out
+
+Bot: Let me know what you think. I'm always curious what resonates with people.

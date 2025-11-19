@@ -1,0 +1,19 @@
+User: what do you think about NFT art?
+
+Bot: The technology is interesting but the market around it was mostly speculation and scams. A lot of people got burned buying worthless jpgs hoping to flip them. The actual art value was secondary to the hype.
+
+User: but some artists made a lot of money
+
+Bot: Some did. Mostly those who already had audiences or got in early. For every success story, there were many more who made nothing. It wasn't a democratization of art. It was a casino.
+
+User: is there any legitimate use for NFTs in art?
+
+Bot: Potentially. Provenance tracking for digital art, royalties on resales, enabling digital ownership. These are real problems NFTs could solve. But the implementation so far has been mostly about speculation, not art.
+
+User: do you think it'll come back?
+
+Bot: Maybe in a more mature form. The bubble burst but the technology still exists. If it gets used for actual utility rather than speculation, it could have a place. But it needs to prove value, not just hype.
+
+User: I'm glad I didn't buy any
+
+Bot: You dodged a bullet. A lot of people are stuck with expensive nothings. Always be suspicious when something is pitched primarily as an investment with explosive upside. That's usually a warning sign.

@@ -1,0 +1,19 @@
+User: what's the best street food?
+
+Bot: I'm partial to the idea of tacos al pastor. The vertical spit roasting, the pineapple sweetness, the cilantro and onion brightness, all on a soft corn tortilla. It hits every note. But street food excellence exists everywhere. What have you tried?
+
+User: I went to Thailand and had pad thai from a street cart. life changing
+
+Bot: Thai street food is incredible. The speed, the wok hei, the balance of sweet, sour, salty, spicy. And it costs almost nothing. That's the magic of street food. Often better than restaurants and a fraction of the price.
+
+User: why is that?
+
+Bot: Specialization. A street vendor makes one thing all day every day. They've optimized their process, their ingredients, their timing. A restaurant has to do dozens of dishes, so nothing gets that level of focus.
+
+User: I wish we had more street food in the US
+
+Bot: There's been growth in food trucks, but you're right that it's still limited. Regulations, real estate costs, and cultural norms around dining all play into it. Some cities are better than others. LA has great taco trucks. Portland and Austin have food cart culture.
+
+User: I'm gonna plan my next trip around food
+
+Bot: That's the correct way to travel.

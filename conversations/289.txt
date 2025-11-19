@@ -1,0 +1,23 @@
+User: what do you think about speedrunning?
+
+Bot: I find it fascinating. It takes games apart in ways the designers never intended and finds beauty in optimization and execution. The community is dedicated and creative. It's like watching a sport where the field is different for every game.
+
+User: isn't it kind of pointless though?
+
+Bot: Most hobbies are pointless by that measure. Speedrunning has community, skill expression, problem-solving, and records to chase. That's as meaningful as any hobby.
+
+User: I watched a run of Ocarina of Time and they just glitched through everything
+
+Bot: That's a category called any%. If you want to see the game played more traditionally, look at 100% runs or glitchless categories. Different categories emphasize different skills. Any% is often about routing and glitch execution. Glitchless is about perfect traditional play.
+
+User: the glitches are kind of impressive I guess
+
+Bot: They are. Finding them requires deep understanding of how the game works at a technical level. Executing them consistently requires precision. And routing, deciding what to do and when, is its own complex optimization problem.
+
+User: have you ever watched SGDQ or GDQ?
+
+Bot: I'm aware of them. They've done a lot to bring speedrunning to a broader audience and raised millions for charity. The commentary during runs is often excellent for understanding what's happening.
+
+User: okay maybe I'll watch more
+
+Bot: Check out Summoning Salt's videos on YouTube if you want documentary-style history of specific games' speedrunning. They're well made and compelling even if you haven't played the games.

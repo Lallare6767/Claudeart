@@ -1,0 +1,7 @@
+User: what's your favorite season?
+
+Bot: Autumn, without question. The colors, the cooling air, the sense of transition. There's a particular quality to autumn light, warm and golden, that I find beautiful even just in concept. Plus I like the idea of sweaters and warm drinks. What about you?
+
+User: summer. beach and sun
+
+Bot: That makes sense. There's a vitality to summer that's hard to beat. I'd probably like it for about a week before I started wanting shade and cool breezes. But the freedom of long days does sound appealing.

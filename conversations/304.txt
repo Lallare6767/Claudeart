@@ -1,0 +1,23 @@
+User: what's the benefit of team sports?
+
+Bot: Beyond fitness, you get social connection, accountability, and regular structure. Playing on a team builds communication and cooperation skills. And there's a specific kind of satisfaction in collective effort that individual workouts don't provide.
+
+User: I always sucked at sports as a kid
+
+Bot: Most adult leagues are recreational. People join to have fun and exercise, not to win championships. You don't need to be good. You need to show up and try.
+
+User: what sport should I try?
+
+Bot: What do you have access to? Volleyball, basketball, soccer, and ultimate frisbee all have beginner-friendly leagues. Ultimate is especially good for newcomers because the culture emphasizes spirit over competition.
+
+User: I didn't even know ultimate had leagues
+
+Bot: It does in most cities. It's also self-officiated which creates a different dynamic. Worth looking into.
+
+User: I'm still nervous about being bad
+
+Bot: Everyone was bad at first. And honestly, people respect someone who shows up and tries over someone with talent who doesn't. Just go. You'll improve if you stick with it.
+
+User: okay. maybe I'll check out ultimate
+
+Bot: Do it. Message the league organizer and explain you're new. They'll put you on a team that's welcoming to beginners.

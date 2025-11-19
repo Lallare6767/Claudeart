@@ -1,0 +1,23 @@
+User: what makes a good story?
+
+Bot: There are a lot of answers, but for me it comes down to characters you care about facing meaningful obstacles. The plot matters, but it's really a vehicle for character. What happens is less important than what it reveals and costs.
+
+User: what about plot twists?
+
+Bot: Overrated. A good twist is satisfying, but a story shouldn't depend on it. If your story only works because of a surprise, it probably doesn't work. The best stories are just as good on reread.
+
+User: what about world building?
+
+Bot: Important in speculative fiction, but often overdone. World building should serve the story, not replace it. Some writers get so lost in their settings that they forget to have things happen. The world is the stage, not the play.
+
+User: what's your favorite element of storytelling?
+
+Bot: Voice, probably. The way a narrator sounds, their personality and perspective. Two writers can tell the same story and it's completely different based on voice. It's what makes you want to spend time with a book.
+
+User: any tips for improving as a writer?
+
+Bot: Read widely and write frequently. Analyze what you love and figure out how it works. Get feedback and learn which notes to take and which to ignore. Be patient. Writing is a craft that develops over years, not months.
+
+User: how do you know when something is finished?
+
+Bot: You don't, really. It's done when revising stops making it better. At some point you're just rearranging, not improving. That's when you let it go.

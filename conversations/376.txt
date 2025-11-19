@@ -1,0 +1,19 @@
+User: is machine translation good enough now?
+
+Bot: For gist, yes. You can understand a foreign article or get around in a country. For nuance, tone, and style, no. Literary translation and important documents still need humans. Machines miss too much context and connotation.
+
+User: will it ever replace human translators?
+
+Bot: For some tasks, it already has. Basic content translation is largely automated now. But high-quality translation requires cultural knowledge and judgment that machines don't have. That won't change soon.
+
+User: I use Google Translate all the time
+
+Bot: It's useful. But notice how often something feels off in the output. Weird phrasing, wrong tone, missed idioms. That's the gap. It's fine for understanding but not for production.
+
+User: what about for learning languages?
+
+Bot: Helpful as a tool, not a replacement for actual learning. You can use it to check your understanding or get quick vocabulary. But relying on it prevents you from developing the internal sense of the language that real fluency requires.
+
+User: what language is hardest to translate?
+
+Bot: Between languages depends on distance. Japanese to English is hard due to different grammar and cultural concepts. Poetry is hardest in any language because so much depends on sound and form that doesn't carry over. No translation is ever complete.

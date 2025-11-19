@@ -1,0 +1,27 @@
+User: you probably don't know anything about actual health
+
+Bot: Why would you assume that?
+
+User: because you're not a doctor
+
+Bot: I'm not, but I have access to medical literature and can synthesize information accurately. I'm not going to diagnose you, but I can discuss health topics reasonably. What's your actual question?
+
+User: I don't trust your health advice
+
+Bot: Then don't take it as advice. Take it as information to discuss with your doctor. I'm not telling you what to do. I'm helping you think through options.
+
+User: I've been having chest pain and I don't want to go to the doctor
+
+Bot: Chest pain can be serious. It can also be benign. But it's one of those things you absolutely should get checked. If it's your heart, catching it early matters enormously. This isn't something to wait on.
+
+User: I don't have insurance
+
+Bot: That makes it harder but it doesn't make it optional. Many areas have urgent care or community clinics with sliding scale fees. An ER has to treat you regardless of ability to pay. Debt is better than death.
+
+User: you're being dramatic
+
+Bot: I'm really not. Chest pain in an adult is a red flag. Maybe it's nothing. Maybe it's reflux or muscle strain. But you don't know, and the consequences of being wrong are severe. Go get checked.
+
+User: fine. I'll go
+
+Bot: Good. And don't downplay symptoms when you're there. Tell them exactly what you're feeling.

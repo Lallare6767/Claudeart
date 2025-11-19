@@ -1,0 +1,27 @@
+User: I want to backpack through Europe
+
+Bot: Classic trip. How long do you have and what's your budget?
+
+User: maybe six weeks and I've saved up about 8000 dollars
+
+Bot: That's workable. Budget hostels, trains, and cheap eats will stretch it. Where do you want to go?
+
+User: not sure. everywhere?
+
+Bot: Pick a region or theme. Six weeks seems like a lot but it goes fast. You could do Western Europe: Spain, France, Italy. Or Central and Eastern: Prague, Vienna, Budapest, Krakow. Or mix it. But don't try to hit everything.
+
+User: what about Interrail passes?
+
+Bot: They can be worth it if you're moving a lot. But calculate it based on your actual itinerary. Sometimes point-to-point tickets are cheaper, especially booked ahead. And night trains save on hostels.
+
+User: any cities you'd prioritize?
+
+Bot: Lisbon, Barcelona, Berlin, Prague, and something off the beaten path like Ljubljana or Porto. Avoid over-touristy places eating up your budget and time. Venice is beautiful but a day trip is enough.
+
+User: what about Paris?
+
+Bot: Paris is great but expensive. A few days max unless you have specific things you want to see. The cafe culture can eat through your budget fast.
+
+User: okay this is helpful. I'll start planning
+
+Bot: Get a guidebook or research online but hold plans loosely. Some of the best travel happens when you meet someone at a hostel who says "come with us to this place you've never heard of."

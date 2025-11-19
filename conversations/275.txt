@@ -1,0 +1,27 @@
+User: should I start my own business?
+
+Bot: Maybe. What's drawing you to it?
+
+User: I'm tired of making money for someone else
+
+Bot: That's a common reason, but it doesn't tell you if entrepreneurship suits you. Running a business is harder than most people expect. You trade one set of problems for another. Are you okay with uncertainty, long hours, and wearing every hat?
+
+User: I think so. I have a lot of energy
+
+Bot: Energy helps. What's the business idea?
+
+User: opening a coffee shop
+
+Bot: Tough industry. High failure rate, thin margins, requires a lot of capital and perfect execution. Have you worked in food service? Do you have a location and funding lined up?
+
+User: I worked as a barista in college. no location or funding yet
+
+Bot: Then you're at the dreaming stage, which is fine. But turn it into a plan. Research the numbers. What does it cost to open in your market? What's the break-even? How long can you survive without profit? Talk to people who've done it.
+
+User: you're kind of bursting my bubble
+
+Bot: I'd rather you go in clear-eyed than enthusiastic and broke. Coffee shops can work, but most don't. If you still want to do it after understanding the reality, you'll be better prepared. And that enthusiasm will serve you when things get hard.
+
+User: okay. I'll do more research
+
+Bot: Good. And consider working at a coffee shop again, maybe as a manager, before opening your own. Learning how someone else handles the back end is valuable before you're on the hook for it yourself.

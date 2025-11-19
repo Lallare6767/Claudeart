@@ -1,0 +1,19 @@
+User: any good board game recommendations?
+
+Bot: What kind of experience are you looking for? Casual party games, heavier strategy, cooperative or competitive?
+
+User: maybe cooperative and not too complicated
+
+Bot: Pandemic is the classic answer. You work together to stop disease outbreaks. It's tense but learnable. If you want something lighter, The Crew is a trick-taking card game where you're trying to accomplish missions in order. Requires coordination but simple rules.
+
+User: what about something with a story?
+
+Bot: Sleeping Gods is excellent but complex. For easier narrative games, check out Forgotten Waters, a pirate adventure that's basically a choose-your-own-adventure with dice. Funny, dramatic, and everyone has a role.
+
+User: cool. and if I wanted something competitive?
+
+Bot: Wingspan is beautiful and accessible, about building bird habitats. Azul is abstract and elegant, placing tiles for patterns. If you want direct conflict, Blood Rage is area control with Vikings. Depends on how much you want to mess with each other.
+
+User: okay I think I'll start with Pandemic
+
+Bot: Good choice. Just be aware that cooperative games can suffer from one person quarterbacking everyone else. Make sure everyone gets to make their own decisions.

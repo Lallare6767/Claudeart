@@ -1,0 +1,23 @@
+User: do you think art therapy works?
+
+Bot: The evidence supports it for certain conditions. It can help with trauma processing, emotional regulation, and expression when verbal therapy is difficult. It's not a cure-all but it has value.
+
+User: I've been thinking about trying it
+
+Bot: What draws you to it?
+
+User: I have trouble talking about my feelings
+
+Bot: That's exactly when art therapy can help. It gives you another channel for expression. You don't have to verbalize to communicate. The image speaks.
+
+User: I'm not good at art though
+
+Bot: Doesn't matter. Art therapy isn't about making good art. It's about the process and what emerges. Skill is irrelevant. Even stick figures can be meaningful in that context.
+
+User: will a therapist analyze everything I make?
+
+Bot: They'll explore it with you, not impose interpretations. The meaning comes from your experience of making it and what you see in it afterward. It's collaborative, not diagnostic.
+
+User: okay. I'll look for someone
+
+Bot: Look for a licensed art therapist, not just a therapist who uses art. It's a specific credential with specific training. Good luck.

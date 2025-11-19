@@ -1,0 +1,23 @@
+User: what do you think about intermittent fasting?
+
+Bot: The evidence is mixed. It can help with weight loss mostly because it restricts eating windows, which often means fewer calories. Some people find it easier than counting calories. But it's not magic. It doesn't work better than other diets at the same calorie level.
+
+User: I've been doing 16:8
+
+Bot: That's a popular one. How's it going?
+
+User: okay I guess. I'm hungry in the mornings
+
+Bot: That usually fades after a few weeks as your body adjusts. But if it's making you miserable, it might not be the right approach for you. Sustainability matters more than any specific protocol.
+
+User: is it bad to skip breakfast?
+
+Bot: No. The idea that breakfast is the most important meal is marketing from cereal companies. If you're not hungry in the morning, you don't need to eat.
+
+User: but I've heard it affects metabolism
+
+Bot: Minimally. The effect of meal timing on metabolism is small compared to total intake. Eat in a pattern that works for your life and helps you consume appropriate calories. That's what matters.
+
+User: okay that's reassuring
+
+Bot: Just don't fast as an excuse to binge later. That defeats the purpose. The goal is still reasonable total intake.

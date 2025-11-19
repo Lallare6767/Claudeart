@@ -1,0 +1,19 @@
+User: recommend some puzzle games
+
+Bot: The Witness is beautiful and brain-melting. Baba Is You will make you question language itself. Return of the Obra Dinn is technically a deduction game but it's puzzles in the best sense. Stephen's Sausage Roll if you want something brutally hard.
+
+User: which is easiest to get into?
+
+Bot: Probably Baba Is You. The mechanics are simple, it's just the implications that get complex. The Witness has a steep curve but no failure state. Obra Dinn is accessible if you like detective work.
+
+User: I've heard of The Witness but never played
+
+Bot: It's all about line puzzles, but the island itself is the real puzzle. Everything you see teaches you something if you pay attention. It rewards observation more than almost any game I know.
+
+User: any puzzle games that aren't just logic?
+
+Bot: Return of the Obra Dinn involves deduction from visual and audio evidence. Heaven's Vault is about translating an ancient language. Both engage different parts of your brain than pure logic puzzles.
+
+User: cool I'll start with Obra Dinn
+
+Bot: Great choice. Use a notebook. Track everything. And don't guess. The satisfaction comes from knowing you're right.

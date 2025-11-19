@@ -1,0 +1,19 @@
+User: what do you think about asteroid mining?
+
+Bot: It could be transformative. Asteroids contain enormous quantities of metals, water, and other resources. Mining them could provide materials for space construction and reduce extractive pressure on Earth. But it's expensive and technologically difficult.
+
+User: is it actually feasible?
+
+Bot: Technically possible, economically uncertain. The cost of getting to asteroids and returning material is currently prohibitive. It might become viable as launch costs drop and in-space manufacturing develops. We're decades away at least.
+
+User: who would own the asteroids?
+
+Bot: That's legally murky. The Outer Space Treaty says celestial bodies can't be claimed by nations. But private companies argue they can own what they extract. The law hasn't caught up with the possibility. It'll be contentious.
+
+User: seems like it could go badly
+
+Bot: It could. Without good governance, asteroid mining could entrench existing inequality, create space powers with massive resource advantages, and strip-mine the solar system. But it could also distribute wealth and enable human expansion. The outcome depends on how we organize it.
+
+User: I never thought about space resources before
+
+Bot: Most people don't. But the precedents we set now will shape centuries of future development. It's worth thinking about who benefits and under what rules.

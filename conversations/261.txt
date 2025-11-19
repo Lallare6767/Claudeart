@@ -1,0 +1,27 @@
+User: I have terrible writer's block
+
+Bot: What are you trying to write?
+
+User: a novel. I had the whole thing outlined but now I'm stuck
+
+Bot: Where specifically? Can you write the next scene but it's bad, or can you not write at all?
+
+User: I stare at the page and nothing comes
+
+Bot: That's usually about pressure, not ideas. You're probably trying to write something good instead of writing something. The first draft is supposed to be bad. Its only job is to exist. You can fix it later.
+
+User: I know that intellectually but I can't turn off my inner critic
+
+Bot: Try writing with a timer. Give yourself fifteen minutes to write as much as possible without stopping. Don't edit, don't think. Just go. The speed outpaces the critic.
+
+User: what if what I write is garbage?
+
+Bot: Then it's garbage you can revise. That's better than nothing you can't. You can't edit a blank page.
+
+User: I guess. I'm also worried the whole thing is a bad idea
+
+Bot: That's a separate fear. And probably baseless. You outlined a whole novel, which means you found the idea compelling enough to develop. The doubt now is just fear talking. Push through it.
+
+User: okay. fifteen minutes. I'll try it now
+
+Bot: Report back.

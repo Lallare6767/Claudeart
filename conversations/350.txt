@@ -1,0 +1,27 @@
+User: I think addiction treatment in the US sucks
+
+Bot: It does. It's fragmented, underfunded, often punitive, and too reliant on abstinence-only models that don't work for everyone. People cycle through treatment and relapse because the system doesn't support sustained recovery.
+
+User: my brother is an addict and he can't get help
+
+Bot: I'm sorry. That's incredibly frustrating to watch. What's stopping him from getting treatment?
+
+User: no insurance and the wait lists are months
+
+Bot: That's common. Publicly funded treatment is overwhelmed because there isn't enough of it. And private treatment is prohibitively expensive. It's a systemic failure.
+
+User: what actually works?
+
+Bot: Medication-assisted treatment for opioid addiction has strong evidence. Suboxone, methadone. Behavioral therapies. Long-term support. Harm reduction to keep people alive while they're finding stability. The science is there, we just don't implement it.
+
+User: I keep hoping he'll hit rock bottom
+
+Bot: The rock bottom concept is harmful. People die waiting for it. Recovery can start at any point. The goal is to lower barriers to treatment, not wait for things to get worse.
+
+User: I don't know what else to do
+
+Bot: You can't force him into recovery. But you can keep lines of communication open, offer support without enabling, and take care of yourself. SMART Recovery and Nar-Anon have resources for families. It's hard. I'm sorry.
+
+User: yeah. thanks
+
+Bot: I hope he gets the help he needs. And I hope you get support too.

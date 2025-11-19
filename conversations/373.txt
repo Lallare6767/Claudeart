@@ -1,0 +1,19 @@
+User: are emojis ruining language?
+
+Bot: No. Language has always evolved. Emojis add a layer of emotional and tonal information that text lacks. They're not replacing words, they're supplementing them. Writing is getting more expressive, not less.
+
+User: but people can't write properly anymore
+
+Bot: People said that about texting, telephones, even printing. Each generation thinks the next is degrading language. Writing skill varies but it's always varied. Emojis aren't the cause of poor writing.
+
+User: I feel like they're childish
+
+Bot: That's a cultural association that might fade. In Japan, they've been used professionally for years. Context matters. Using them with friends is different from using them in formal documents. Most people know the difference.
+
+User: will formal writing ever have emojis?
+
+Bot: Probably not in the way we think of formal writing now. But formality itself is context-dependent. A Slack message to your team might appropriately have emojis where a legal brief wouldn't. The register shifts based on medium and audience.
+
+User: I still don't like them
+
+Bot: That's fine. You don't have to use them. But they're not going away, and resisting them on principle doesn't make you more sophisticated. It just limits your expressive range in certain contexts.

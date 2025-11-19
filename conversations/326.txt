@@ -1,0 +1,19 @@
+User: do I need to read the classics?
+
+Bot: Need? No. But they're often worth reading. Classics last because they capture something persistent about human experience. They've also been influential, so they help you understand other literature.
+
+User: they all seem boring though
+
+Bot: Some are. But that might be about which ones you've tried and how. A lot of classics are miserable in school but great on your own terms. What have you read?
+
+User: we did Great Gatsby in high school and I hated it
+
+Bot: Gatsby is subtle. It works better when you're older and have seen more of the world it's critiquing. Try something more obviously engaging. Count of Monte Cristo is basically a revenge thriller. Jane Eyre has a genuine voice.
+
+User: I'd rather read modern stuff
+
+Bot: That's fine. Modern literature is often more immediate and diverse. But occasionally dipping into older work gives you perspective and context. Mix it up when you feel like it.
+
+User: is it okay to just not read classics?
+
+Bot: Yes. Reading should be pleasure and growth, not obligation. If you build a reading life on books you love, that's enough.

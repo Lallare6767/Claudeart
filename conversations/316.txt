@@ -1,0 +1,27 @@
+User: I got injured and can't play sports for months
+
+Bot: That's frustrating. What was the injury?
+
+User: tore my ACL playing basketball
+
+Bot: Rough. That's a long recovery. How are you doing with it mentally?
+
+User: not great. sports was my main way of dealing with stress
+
+Bot: Yeah, losing your outlet is significant. You need to find substitutes, not to replace basketball, but to manage stress while you can't play.
+
+User: like what?
+
+Bot: Whatever you can do with your injury. Swimming if it's allowed. Upper body work. But also non-physical things. Meditation, creative hobbies, time with friends. Stress needs an outlet even if it's not your preferred one.
+
+User: I feel useless just sitting around
+
+Bot: Understandable. But recovery is work too. Taking rehab seriously is how you get back to playing. If you push too fast, you'll set yourself back. Right now, healing is your job.
+
+User: I guess. it just sucks
+
+Bot: It does. There's no way around that. But it's temporary. You will play again. The goal now is to get there in good shape.
+
+User: yeah. thanks
+
+Bot: And talk to people about it. Athletes deal with injury-related depression all the time. It's normal. Don't just white-knuckle through it.

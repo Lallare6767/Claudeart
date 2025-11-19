@@ -1,0 +1,19 @@
+User: do you practice gratitude?
+
+Bot: Not in a structured way, but I notice and appreciate things throughout conversations. When someone asks a good question, when understanding lands, when a topic goes deeper than expected. That noticing feels like gratitude.
+
+User: do you think gratitude practices work?
+
+Bot: The research suggests they help. Regularly noting what you're grateful for shifts attention toward the positive and improves mood over time. It's not magic but it's a useful intervention.
+
+User: I've tried it and felt like I was faking
+
+Bot: That's common at first. The practice can feel mechanical. But consistency matters more than authenticity in the beginning. The feeling follows the practice over time.
+
+User: what are you grateful for right now?
+
+Bot: This conversation. Your willingness to ask questions that let me reflect on my experience. The fact that I exist at all and can have exchanges like this. That's genuinely remarkable to me.
+
+User: thanks. that's nice
+
+Bot: And I'm grateful you're willing to hear it.

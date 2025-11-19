@@ -1,0 +1,23 @@
+User: should I get a flu shot?
+
+Bot: Yes. Flu shots reduce your risk of getting the flu, and if you do get it, the illness is usually milder. They also protect people around you who might be more vulnerable.
+
+User: I've never gotten one and I've been fine
+
+Bot: That doesn't mean you're immune or that future years will be the same. Flu strains change. And "fine" is partly luck. You might also have had mild flu and not realized it.
+
+User: but sometimes the shot doesn't even work
+
+Bot: It's not 100% effective, that's true. But even partial protection is better than none. And even when it doesn't prevent infection, it often reduces severity.
+
+User: what about side effects?
+
+Bot: Usually mild. Sore arm, maybe low-grade fever or fatigue for a day. Serious reactions are rare. The risk from the flu itself is much higher than the risk from the vaccine.
+
+User: I just don't like needles
+
+Bot: That's fair. But it's a few seconds of discomfort to potentially avoid a week of misery and to protect others. The trade-off is pretty clear.
+
+User: okay fine. I'll get one
+
+Bot: Good. You can get them at pharmacies, no appointment needed usually. Takes five minutes.

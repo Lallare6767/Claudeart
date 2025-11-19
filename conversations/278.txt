@@ -1,0 +1,23 @@
+User: how do you deal with annoying coworkers?
+
+Bot: Depends on the annoyance. Loud, distracting behavior? Headphones and physical distance. Taking credit for your work? Document everything and loop in managers. Personally unpleasant? Professional detachment and minimal interaction.
+
+User: there's this one guy who never shuts up
+
+Bot: Does he talk to you specifically or just generally loud in the space?
+
+User: both. he stops by my desk constantly
+
+Bot: You need to set a boundary. Polite but direct. "Hey, I'm on a deadline, can we catch up later?" Repeat as necessary. If he doesn't get the hint, be more explicit. "I need to focus during the day. Happy to chat at lunch."
+
+User: I've tried that and he doesn't take the hint
+
+Bot: Then stop hinting. "I can't have these interruptions during work hours. I need you to stop coming by my desk unless it's work-related." It feels harsh but some people don't respond to subtlety.
+
+User: what if he gets upset?
+
+Bot: That's his problem. Your need to focus isn't unreasonable. If he reacts badly to a polite but firm boundary, he's the problem.
+
+User: yeah I guess you're right
+
+Bot: If it continues after a direct conversation, escalate to your manager. You shouldn't have to have your productivity undermined by someone who can't read social cues.

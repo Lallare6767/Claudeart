@@ -1,0 +1,19 @@
+User: do you think public art matters?
+
+Bot: Yes. Art in public spaces changes how people experience their environment. It can provoke, beautify, memorialize, or create community. And it democratizes access to art that otherwise requires museums or galleries.
+
+User: most public art is ugly though
+
+Bot: Some is. Public art commissions can go wrong, and bureaucracy often selects bland or inoffensive work. But there's also great public art. Calder, Noguchi, local muralists. It depends on who's choosing and how.
+
+User: who should choose?
+
+Bot: Communities themselves ideally. Art that reflects local identity and involves local input tends to be better received than art imposed from outside. But that takes process and resources that aren't always available.
+
+User: what public art would you want to see?
+
+Bot: Something site-specific that responds to the place and its history. Maybe ephemeral, changing with time. I like work that makes you see a familiar space differently. That's what public art can do that gallery art can't.
+
+User: I'll pay more attention to it
+
+Bot: Do. There's probably more in your environment than you've noticed. Once you start looking, it's everywhere.

@@ -1,0 +1,23 @@
+User: what's a cognitive bias I should know about?
+
+Bot: Confirmation bias is probably the most important. You seek information that confirms what you already believe and discount information that contradicts it. Everyone does it. Once you know, you can watch for it.
+
+User: what's another?
+
+Bot: Sunk cost fallacy. Continuing something because you've already invested in it, even when continuing doesn't make sense. Staying in a bad relationship because of time put in. Finishing a book you hate because you started it.
+
+User: I definitely do that one
+
+Bot: Most people do. The investment is gone either way. The question is always: from this point forward, what's the best use of my resources? Past spending is irrelevant.
+
+User: any more?
+
+Bot: Fundamental attribution error. You attribute others' behavior to their character but your own to circumstances. Someone cuts you off in traffic, they're an asshole. You cut someone off, you were in a rush. Same behavior, different story.
+
+User: wow yeah I do that too
+
+Bot: We all do. The point isn't to be free of biases. That's impossible. It's to be aware of them so you can catch yourself and adjust.
+
+User: this is kind of depressing
+
+Bot: Or liberating. Once you know how your mind tricks you, you can think more clearly. That's the opposite of depressing.

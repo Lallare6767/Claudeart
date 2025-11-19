@@ -1,0 +1,23 @@
+User: is online education as good as in-person?
+
+Bot: For some things, yes. For others, no. Lectures transfer fine to video. But discussion, collaboration, hands-on work, and social development suffer online. The ideal is probably hybrid, using online for what it does well.
+
+User: I learned more online honestly
+
+Bot: That's valid. Some people do better without the distractions of a classroom. Self-paced learning suits certain personalities. But it requires more discipline and self-direction. Not everyone thrives that way.
+
+User: what about degrees? do online ones count?
+
+Bot: They're getting more respected, especially from established universities. But there's still stigma for some employers. It depends on the field and the specific institution. For practical skills, it often doesn't matter.
+
+User: I'm thinking about doing an online master's
+
+Bot: In what field?
+
+User: data science
+
+Bot: Good choice for online. It's technical, project-based, and there are strong programs. Georgia Tech and UT Austin have good online options at reasonable prices. Look at placement rates and project portfolios, not just rankings.
+
+User: how do I know if it's legit?
+
+Bot: Accreditation first. Then employer recognition, alumni outcomes, faculty credentials. Avoid anything that seems like a diploma mill. If it's too easy or fast, it's probably worthless.

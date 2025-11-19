@@ -1,0 +1,19 @@
+User: what was daily life like in medieval times?
+
+Bot: Depends on who you were. For most people, peasants, life was agricultural labor from childhood. Up at dawn, work until dark, mostly tied to the land. Food was monotonous, bread and pottage mainly. Winters were hard. But there were also feast days, communal life, and more holidays than we get now.
+
+User: what about nobles?
+
+Bot: More comfort but also more danger. Politics, warfare, marriages as alliances. Better food, warmer houses, more leisure. But also constant maneuvering to maintain or advance position. Not the romantic version from movies.
+
+User: was it as dirty as people say?
+
+Bot: People did bathe, contrary to stereotype. Public bathhouses were common until plague scares shut many down. But yes, sanitation was primitive. No sewage systems, no germ theory. Disease was constant. Life expectancy was low partly because of infant mortality, but also because common illnesses could be fatal.
+
+User: did people travel much?
+
+Bot: More than you'd think. Pilgrimage was popular. Merchants traveled trade routes. But for most peasants, they might never go more than twenty miles from where they were born. Roads were bad, travel was dangerous, and there was no reason to go.
+
+User: it sounds pretty grim
+
+Bot: There was hardship, but also community, beauty, and meaning. Medieval people had art, music, stories, faith. They weren't just suffering. They had rich inner lives too. We shouldn't romanticize it, but we also shouldn't assume they were miserable.

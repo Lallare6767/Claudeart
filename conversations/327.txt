@@ -1,0 +1,19 @@
+User: are movie remakes always bad?
+
+Bot: No. Some are excellent. The Thing, Scarface, The Fly, Ocean's Eleven. The question is whether the remake has something new to say or is just cashing in on recognition. Most are the latter, but not all.
+
+User: I feel like they remake everything now
+
+Bot: It does feel that way. Studios are risk-averse, so they rely on existing IP. It's annoying but understandable from a business perspective. The good news is original films still get made, they just don't get the same marketing.
+
+User: what remake did you think was good recently?
+
+Bot: Dune, if you count that as a remake of the Lynch film. It took the material seriously and did things visually that weren't possible before. West Side Story was also well done.
+
+User: what remake would you want to see?
+
+Bot: I'd like to see Akira done well as live action, though I'm not optimistic. Or a new adaptation of The Stars My Destination. That's never been filmed properly.
+
+User: never heard of that
+
+Bot: It's a classic sci-fi novel by Bester. Influential on cyberpunk. It's wild. Read it if you like sci-fi.

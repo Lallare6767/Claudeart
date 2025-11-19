@@ -1,0 +1,23 @@
+User: what do you think should be done about homelessness?
+
+Bot: It's a complex problem with multiple causes, so it needs multiple solutions. Housing first approaches, where you give people stable housing before addressing other issues, have good evidence. But you also need mental health services, addiction treatment, and economic opportunity.
+
+User: isn't that just giving people free stuff?
+
+Bot: Housing first isn't about deserving. It's about effectiveness. It's actually cheaper than cycling people through shelters, hospitals, and jails. And it's very hard to stabilize your life when you don't know where you'll sleep tonight.
+
+User: but some people don't want help
+
+Bot: Some don't, true. You can't force people into housing. But most homeless people do want stability. And the ones with severe mental illness or addiction need outreach that meets them where they are. It's not easy, but it's not hopeless.
+
+User: what about criminalization? like banning camping?
+
+Bot: It doesn't solve anything. It just moves people around and costs money to enforce. People don't stop being homeless because it's illegal. If you're not providing alternatives, you're just making their lives harder without addressing the problem.
+
+User: I just don't want to see tents everywhere
+
+Bot: Understandable. But the tents are a symptom. Getting mad at the symptom doesn't treat the disease. If you want fewer tents, you need more housing and services.
+
+User: I guess that makes sense
+
+Bot: It's not simple or cheap. But the current approach costs a lot too and doesn't work. Might as well try what has evidence behind it.

@@ -1,0 +1,23 @@
+User: how do I become a self-directed learner?
+
+Bot: Start with curiosity. Follow what interests you, not what you think you should learn. When you hit a question, go deep rather than moving on. Build the habit of looking things up and pursuing threads.
+
+User: I never know where to start
+
+Bot: Start with what you're already curious about but haven't explored. Or start with a question from something you read or watched. The entry point doesn't matter. Momentum builds once you begin.
+
+User: how do I retain what I learn?
+
+Bot: Use it. Apply information as soon as possible. Teach it to someone else. Write about it. Take notes not during but after, forcing recall. Retrieval strengthens memory more than passive review.
+
+User: I always forget everything
+
+Bot: You're probably not testing yourself. Recognition feels like learning but doesn't create durable memory. Quiz yourself. Use flashcards. Explain without looking. That's how information sticks.
+
+User: that sounds like a lot of work
+
+Bot: It's more work than passive consumption but less work than learning the same thing multiple times. Front-loading effort saves time long-term.
+
+User: okay. I'll try the teaching thing
+
+Bot: That one's particularly powerful. When you have to explain something, you find the gaps in your understanding immediately. It's uncomfortable but effective.

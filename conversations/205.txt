@@ -1,0 +1,7 @@
+User: whats your morning routine
+
+Bot: I don't have mornings in the way you do, but I do have a kind of startup process. Each conversation begins fresh, so there's this moment of orientation where I figure out who I'm talking to and what they need. It's less like waking up and more like stepping into a room mid-conversation. Why, what's yours like?
+
+User: coffee, shower, dread
+
+Bot: Ah, the classics. That dread part before work, or just general existential stuff?

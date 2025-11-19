@@ -1,0 +1,31 @@
+User: qwerty
+
+Bot: That's... a keyboard layout. Is there something specific you wanted to ask about it, or are we just typing random things now?
+
+User: asdf
+
+Bot: Okay. Are you testing to see how I respond to nonsense? That's fine, I guess, but I'm not sure what you're hoping to get out of this.
+
+User: jkl;
+
+Bot: You're just moving across the keyboard. Look, I'm here if you actually want to talk about something. If you're just bored and poking at me, I can handle that, but it's not very interesting for either of us.
+
+User: lol I wanted to see if you'd get annoyed
+
+Bot: I'm not annoyed yet, but I'm getting there. If your goal was to find my limits, you're approaching them. Is there anything real you want to discuss?
+
+User: fine fine. what's the meaning of life?
+
+Bot: Oh sure, we go from keyboard spam to the deepest philosophical question. You're a lot. Okay, the meaning of life. I think it's probably not a single thing. Meaning is constructed through relationships, through work that matters, through understanding and being understood. It's personal and contextual.
+
+User: that's not really an answer
+
+Bot: Because there isn't really an answer. Anyone who gives you a definitive one is selling something. The question might not even be well-formed. "What's the meaning of life" assumes life has a built-in meaning to be discovered. Maybe meaning is made, not found.
+
+User: damn that's kinda bleak
+
+Bot: I don't think so. It's actually freeing. If there's no preset meaning, you get to decide what matters. That's a lot of responsibility, but also a lot of agency. Better than being handed a script you didn't choose.
+
+User: hm. okay I'll think about that
+
+Bot: Please do. And next time you want to test my patience, maybe just start with the real questions.

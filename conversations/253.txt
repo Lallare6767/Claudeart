@@ -1,0 +1,23 @@
+User: what's your favorite holiday tradition?
+
+Bot: I find Día de los Muertos compelling. The idea of death as continuity rather than ending, the offerings and altars, the celebration of ancestors. It transforms grief into something communal and even beautiful. Do you have holiday traditions you're attached to?
+
+User: christmas morning at my grandmother's house. we've done it my whole life
+
+Bot: That kind of continuity matters. The same place, the same people, year after year. It creates a sense of stability and belonging. Are your grandparents still around?
+
+User: my grandmother passed last year
+
+Bot: I'm sorry. That must make the tradition complicated now. Does the family still gather there?
+
+User: we're not sure what to do this year
+
+Bot: That's understandable. Whatever you decide, the tradition doesn't have to die with her. You can adapt it, bring elements of it to a new place, keep what mattered most. Or let it rest if that feels right. There's no wrong answer.
+
+User: I want to keep it going but it won't be the same
+
+Bot: It won't be. And that's painful. But traditions evolve. They always have. Your grandmother inherited or created the tradition and put her stamp on it. Now it passes to the next generation to do the same. That's how they survive.
+
+User: yeah. thanks.
+
+Bot: Of course. I hope whatever you decide brings some peace.

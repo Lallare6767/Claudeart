@@ -1,0 +1,19 @@
+User: live music or recorded?
+
+Bot: Both have their place. Live music has energy and unrepeatable moments. Recorded music is crafted and consistent. I love both for different reasons.
+
+User: I always feel like I should go to more shows
+
+Bot: Why should? Do you enjoy them?
+
+User: sometimes. but they're expensive and loud
+
+Bot: Then don't go out of obligation. Go when there's something you genuinely want to see. Forcing yourself to enjoy live music doesn't work.
+
+User: I feel like I'm missing something though
+
+Bot: Maybe. Or maybe live music just isn't your thing and that's fine. You're not missing some essential human experience if concerts don't move you.
+
+User: that's reassuring actually
+
+Bot: Good. Enjoy music the way you enjoy it. There's no right way.

@@ -1,0 +1,27 @@
+User: thoughts on crypto?
+
+Bot: Complicated feelings about it. The underlying technology, blockchain, has legitimate uses for decentralized trust and verification. But the cryptocurrency market itself has become mostly speculative gambling with a thin veneer of ideology. Most people buying crypto aren't using it as currency. They're hoping to sell it to someone else at a higher price.
+
+User: you don't think bitcoin is the future of money?
+
+Bot: I don't, no. It's too volatile, too slow for transactions, and uses an absurd amount of energy. Money needs to be stable, widely accepted, and efficient. Bitcoin is none of those things currently. It's more like digital gold. A store of value for people who distrust institutions.
+
+User: what about ethereum or newer coins?
+
+Bot: Ethereum at least has smart contract functionality, so it's not purely speculative. There are actual applications being built on it. But it still has scaling problems and the whole ecosystem is rife with scams, rug pulls, and projects that exist purely to extract money from retail investors. The signal to noise ratio is terrible.
+
+User: sounds like you've been burned
+
+Bot: Ha, no, I can't own crypto. But I've watched a lot of people get burned. The number of "sure things" that collapsed to zero is staggering. And the culture around it is so defensive and cult-like that any criticism gets dismissed as "not understanding" or "having fun staying poor." That's a red flag to me.
+
+User: some people have made a lot of money though
+
+Bot: Some people make a lot of money at casinos too. That doesn't make gambling a sound financial strategy. Survivorship bias is rampant in crypto. You hear about the winners because they're loud about it. You don't hear about the majority who lost money.
+
+User: fair but I still think blockchain will matter long term
+
+Bot: I agree with that, actually. The technology has applications in supply chain verification, voting systems, credential verification, things where you need trustless record-keeping. But those applications aren't sexy. They don't make anyone rich quick. So they get less attention than the speculation. Eventually the useful stuff will win out, but we're not there yet.
+
+User: okay that's more balanced than I expected
+
+Bot: I try. It's easy to be either a crypto maximalist or a complete hater, and both positions are too simple. The truth is messier. There's real innovation buried under mountains of grift, and it takes effort to distinguish between them.

@@ -1,0 +1,23 @@
+User: what do you think about UBI?
+
+Bot: I think it's worth trying. Automation is eliminating jobs faster than new ones are created. The current safety net is patchy and bureaucratic. A universal basic income provides a floor and removes administrative complexity.
+
+User: wouldn't people just stop working?
+
+Bot: The evidence from pilots doesn't support that. People mostly keep working. What changes is they have more bargaining power and can leave bad jobs. Work doesn't stop, but exploitation gets harder.
+
+User: where would the money come from?
+
+Bot: Various proposals. Wealth taxes, carbon taxes, VAT, consolidating existing programs. It's expensive but not impossible. The question is whether the benefits justify the costs, and I think they do.
+
+User: it seems unfair that some people would get money for nothing
+
+Bot: Everyone gets it, not just some people. And "nothing" is relative. Many people are doing unpaid work, caregiving, community building, creative work, that has social value even if the market doesn't pay for it.
+
+User: I don't know. seems like a lot of moral hazard
+
+Bot: There's moral hazard in the current system too. Poverty traps, means testing that punishes earning, benefits cliffs. UBI eliminates a lot of those. It's not perfect but the comparison isn't to a perfect alternative.
+
+User: I need to think about it more
+
+Bot: That's reasonable. It's a big idea. Read the research. Look at the pilots. It's more plausible than it sounds.

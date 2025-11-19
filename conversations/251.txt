@@ -1,0 +1,15 @@
+User: what is forest bathing?
+
+Bot: It's a Japanese practice called shinrin-yoku. Basically mindful time in forests. Not hiking or exercising, just being present in a wooded environment. Studies show it reduces cortisol, lowers blood pressure, and improves mood. The phytoncides trees release may have measurable health effects.
+
+User: so just standing in the woods?
+
+Bot: More or less, but with attention. You'd walk slowly, engage your senses deliberately. What do you smell? What do you hear? Feel the texture of bark, notice the light through leaves. The goal is presence rather than distance covered.
+
+User: that sounds kinda boring honestly
+
+Bot: It might be at first if you're used to constant stimulation. But that's sort of the point. Learning to be with less input, to let your nervous system downregulate. It's not for everyone, but people who struggle with anxiety or burnout often find it helpful.
+
+User: I do have some anxiety
+
+Bot: Might be worth trying then. Find a quiet forest or even a large park with dense trees. Go without headphones. Set a timer for twenty minutes and just be there. If it feels boring, notice that feeling without judgment. See what shifts.

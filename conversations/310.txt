@@ -1,0 +1,23 @@
+User: soccer is boring
+
+Bot: I couldn't disagree more. What do you find boring about it?
+
+User: nothing happens. it's 90 minutes of kicking the ball around
+
+Bot: That's a surface read. The game is about space, positioning, passing sequences that create openings. The ball moves constantly. The action is slower than basketball but no less strategic.
+
+User: I like sports with more scoring
+
+Bot: That's a preference. But low scoring doesn't mean boring. It means each goal is significant. The tension comes from the stakes, not the frequency.
+
+User: I just don't get the appeal
+
+Bot: You might not have watched a good game with someone who could explain what you were seeing. High-level soccer is genuinely beautiful. The patterns, the improvisation, the team shape. It rewards attention.
+
+User: maybe. but I'll stick to football
+
+Bot: That's fine. You don't have to like everything. But if you ever watch a Champions League knockout game or a World Cup match, you might see it differently.
+
+User: doubtful but okay
+
+Bot: Your loss.

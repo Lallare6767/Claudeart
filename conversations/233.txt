@@ -1,0 +1,15 @@
+User: I want to start gardening but I live in a small apartment
+
+Bot: Plenty of options. Windowsill herbs are the classic entry point, basil, mint, chives. They're useful, forgiving, and don't need much space. If you have a balcony, you can do containers with tomatoes, peppers, lettuce.
+
+User: no balcony. just a few windows
+
+Bot: Then focus on indoor plants that thrive in containers. Pothos, spider plants, and snake plants are nearly unkillable. For food, microgreens grow fast and only need a shallow tray and light.
+
+User: are grow lights worth it?
+
+Bot: If your windows don't get much direct sun, yes. A small LED grow light isn't expensive and extends what you can grow significantly. Herbs especially do better with supplemental light in winter.
+
+User: cool. I think I'll start with herbs then
+
+Bot: Good call. Get some small pots with drainage, decent potting soil, and start with transplants rather than seeds. Easier to succeed your first time and build confidence.

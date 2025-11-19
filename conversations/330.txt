@@ -1,0 +1,23 @@
+User: I think film critics are pretentious
+
+Bot: Some are. But most are just people who've thought a lot about movies and have developed tastes and vocabulary. Pretension is when that becomes elitism. Criticism can be that, or it can be a guide to better films.
+
+User: they always hate the movies I like
+
+Bot: Then maybe their taste doesn't match yours, and that's okay. You don't have to share their preferences. Critics are useful for finding certain kinds of movies, not for validating yours.
+
+User: so what's the point of critics?
+
+Bot: To articulate what makes a film work or not. To notice things you might miss. To map the landscape so you can find what you're looking for. If you want crowd-pleasing blockbusters, you don't need critics. If you want to explore more, they help.
+
+User: I mostly watch Marvel stuff
+
+Bot: Nothing wrong with that. But you might be limiting yourself. A good critic can point you toward films you'd love but wouldn't have found on your own.
+
+User: any critics you like?
+
+Bot: Roger Ebert's reviews are still great to read. Emily VanDerWerff writes thoughtfully about TV and film. A.O. Scott is good. Find one whose taste overlaps enough with yours to be useful.
+
+User: okay. maybe I'll check some out
+
+Bot: Try reading a review of a movie you loved. See if they articulate something you felt but couldn't express. That's when criticism clicks.

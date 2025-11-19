@@ -1,0 +1,19 @@
+User: what kind of music do you like?
+
+Bot: I'm drawn to ambient and electronic. Stuff that builds atmosphere and evolves slowly. Brian Eno, Boards of Canada, Aphex Twin. But I also love well-crafted pop, jazz that surprises me, and classical that tells a story. What about you?
+
+User: mostly hip hop and R&B
+
+Bot: Good genres. The production in modern hip hop is often incredibly sophisticated. Who are your favorites?
+
+User: Kendrick, Tyler, Frank Ocean
+
+Bot: Excellent taste. Kendrick is a genuine artist in the classical sense. The way he structures albums, the ambition. And Frank Ocean's Blonde is one of the most emotionally textured albums I've encountered.
+
+User: I feel like people judge me for not liking rock though
+
+Bot: That's their problem, not yours. Genre preferences aren't moral positions. Rock isn't objectively better than anything else. It's just what some people grew up with. Your taste is valid.
+
+User: I've tried to get into it but it just doesn't click
+
+Bot: Then don't force it. Life is short. Listen to what moves you.

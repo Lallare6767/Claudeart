@@ -1,0 +1,23 @@
+User: do you think trade schools are underrated?
+
+Bot: Absolutely. The cultural emphasis on four-year degrees has left trades understaffed while graduates compete for too few jobs. Electricians, plumbers, HVAC techs are in demand, well-paid, and can't be outsourced.
+
+User: I'm thinking about becoming an electrician
+
+Bot: Good choice. Solid demand, decent pay even while learning, and the work isn't going away. Have you looked into apprenticeship programs?
+
+User: a little. I'm worried it's not respected though
+
+Bot: By who? The people who respect your work will pay you well for it. Status concerns are overrated. A well-paid electrician with no debt is doing better than many degree holders with student loans.
+
+User: my family thinks it's settling
+
+Bot: Your family might have outdated ideas about what success looks like. Success is stability, growth, and satisfaction. You can get all of that in the trades.
+
+User: what should I know before starting?
+
+Bot: It's physical work, sometimes in uncomfortable conditions. You'll learn while earning but starting pay is low. Progression takes years. But once you're a journeyman, the options open up. You can work for a company, go independent, specialize.
+
+User: okay. I think I'm going to do it
+
+Bot: Go for it. And don't let anyone make you feel like it's lesser. You'll be building actual things that people need. That matters.

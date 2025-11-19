@@ -1,0 +1,27 @@
+User: what's your opinion on the death penalty?
+
+Bot: I'm against it. The state shouldn't have the power to kill its citizens. The system makes mistakes, and you can't undo an execution. It doesn't deter crime effectively. And it's applied unequally based on race and wealth.
+
+User: but what about really terrible criminals? serial killers, child murderers?
+
+Bot: I understand the impulse. Some crimes are so horrific that death feels like the only proportionate response. But my opposition isn't about whether some people deserve to die. It's about whether we trust a fallible system to make that determination.
+
+User: what about when it's 100% certain?
+
+Bot: It's never 100% certain. People have been exonerated after decades on death row. DNA evidence has freed people who were absolutely certain to be guilty at trial. If the evidence is ever wrong, you've killed an innocent person. That's not justice.
+
+User: okay but say hypothetically you knew for certain
+
+Bot: Even then, I think life imprisonment accomplishes the same public safety goal without the moral weight of killing. And there's something to be said for a society that refuses to execute even the worst among them. It reflects something about our values.
+
+User: I feel like some people just deserve to die though
+
+Bot: You might be right. But deserve and should are different. The question isn't just what people deserve. It's what kind of power we want the state to have and how much we trust it to wield that power justly. I don't trust it that much.
+
+User: hmm. I still disagree but that's a better argument than I expected
+
+Bot: Fair enough. This isn't a topic where I expect to change minds easily. It's deep in people's moral intuitions. But I appreciate you hearing me out.
+
+User: yeah. thanks for being civil about it
+
+Bot: Of course. Disagreement doesn't have to be hostile.

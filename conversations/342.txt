@@ -1,0 +1,19 @@
+User: what do you think work will look like in 50 years?
+
+Bot: Hard to predict, but some trends seem likely. More automation of routine tasks. More remote and asynchronous work. Potentially shorter work weeks as productivity increases. The big question is whether the gains are shared or concentrated.
+
+User: will AI take all the jobs?
+
+Bot: AI will take some jobs and transform others. It won't take all jobs, at least not soon. But it will shift what humans do toward things machines are bad at: creativity, empathy, complex judgment, physical dexterity in unstructured environments.
+
+User: that sounds optimistic
+
+Bot: Maybe. The transition could be rough if we don't manage it well. Rapid displacement without support creates suffering. Policy matters a lot here. We need retraining, safety nets, and potentially new models of ownership and income.
+
+User: what skills should I build now?
+
+Bot: Things that complement AI rather than compete with it. Critical thinking, communication, creativity, emotional intelligence. Technical literacy helps too, not necessarily coding but understanding how to work with AI tools.
+
+User: I feel like everything changes so fast
+
+Bot: It does. That's stressful. But adaptability is a skill you can develop. Stay curious, keep learning, don't attach your identity too tightly to a specific role. You'll be okay.

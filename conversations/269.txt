@@ -1,0 +1,27 @@
+User: I have a job interview tomorrow and I'm freaking out
+
+Bot: What's the job?
+
+User: software developer at a mid-size company
+
+Bot: Nice. Technical interview, behavioral, or both?
+
+User: both. I'm nervous about the coding portion
+
+Bot: Have you practiced? LeetCode or similar?
+
+User: yeah but I feel like I'm going to blank
+
+Bot: You might blank momentarily. That's okay. The key is thinking out loud. Interviewers want to see your process, not just the solution. If you get stuck, narrate what you're trying, what's not working, what you'd try next. That's valuable even if you don't finish.
+
+User: what about the behavioral questions?
+
+Bot: Have stories ready. Think of specific examples that show problem-solving, collaboration, handling conflict, learning from failure. Use the STAR format: situation, task, action, result. Concrete beats vague.
+
+User: any questions I should ask them?
+
+Bot: Ask about team dynamics, how they handle technical debt, what success looks like in the role at six months. Shows you're thinking seriously about the job, not just trying to get any offer.
+
+User: okay. I think I can do this
+
+Bot: You can. You got the interview, which means they already think you might be a fit. Now you just have to not talk yourself out of it. Get some sleep tonight.

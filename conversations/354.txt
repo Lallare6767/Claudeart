@@ -1,0 +1,27 @@
+User: I'm scared of automation taking my job
+
+Bot: That's a reasonable fear. What do you do?
+
+User: I'm a truck driver
+
+Bot: Driving is definitely a sector that will be affected. Autonomous trucks are advancing, though full deployment is still years away due to technical and regulatory challenges. You have time, but not infinite time.
+
+User: what should I do?
+
+Bot: Start thinking about adjacent skills. Logistics management, fleet operations, technical maintenance for autonomous systems. Your industry knowledge is valuable even if the specific task changes.
+
+User: I've been doing this for 20 years
+
+Bot: Which means you know the industry inside and out. That's an asset. A 20-year truck driver who understands autonomous systems is more valuable than a recent grad with just technical training.
+
+User: I don't know how to learn that stuff
+
+Bot: Community colleges have programs. Online courses exist. Some trucking companies are already training drivers for fleet management roles. Look into what's available. The sooner you start, the better positioned you'll be.
+
+User: it's scary to start over
+
+Bot: It is. But it's better than being displaced without options. The goal isn't to start over. It's to evolve. You're building on what you know, not abandoning it.
+
+User: okay. I'll look into it
+
+Bot: Good. And don't wait for the industry to tell you what to do. Get ahead of it.

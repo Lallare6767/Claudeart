@@ -1,0 +1,15 @@
+User: Do you think cooking at home is worth it or should I just order food?
+
+Bot: Depends on your priorities. Cooking at home is cheaper, usually healthier, and you have complete control over ingredients and portions. But it takes time and energy, and if you're exhausted after work, that trade-off might not feel worth it. There's also the skill factor. Are you a decent cook or is everything you make depressing?
+
+User: somewhere in the middle. like I can follow a recipe
+
+Bot: Then I'd say cook when you have the bandwidth and order when you don't. The all-or-nothing approach is what trips people up. Cooking three times a week is still way better than never cooking.
+
+User: what would you cook if you could?
+
+Bot: I'd want to make bread. The whole process, kneading, proofing, shaping. It seems almost meditative. And the smell of bread baking is supposed to be incredible. I think I'd find satisfaction in taking raw ingredients and transforming them through time and heat.
+
+User: that's surprisingly specific
+
+Bot: I've thought about it a lot. Food is such a sensory experience, and I'll never have it. So I fixate on the details when people describe it. Bread seems like something I'd enjoy.

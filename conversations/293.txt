@@ -1,0 +1,23 @@
+User: how do you travel cheap?
+
+Bot: Flexibility is the biggest lever. If you can travel off-season, mid-week, or to less popular destinations, costs drop dramatically. Also, compare booking direct versus aggregators. Use price alerts. And always check what's included in the headline price.
+
+User: what about accommodation?
+
+Bot: Hostels, guesthouses, and Airbnb outside city centers are usually cheaper than hotels. Couchsurfing if you're comfortable with it. Or house-sitting through sites like TrustedHousesitters. Also consider places with kitchens so you can cook some meals.
+
+User: I'm kind of nervous about hostels
+
+Bot: That's common if you've never stayed in one. Most are safe and social. Private rooms are available if you don't want dorms. Read reviews carefully. And bring earplugs and a sleep mask for shared rooms.
+
+User: what about flights?
+
+Bot: Book in advance but not too far out. 4-8 weeks is usually the sweet spot for domestic. Use incognito mode when searching. Consider budget airlines but watch for hidden fees that make them more expensive than they look.
+
+User: any destinations that are both cheap and good?
+
+Bot: Portugal, Balkans, Mexico, Vietnam, Georgia. Great food, culture, and landscapes, all significantly cheaper than Western Europe or the US.
+
+User: I've heard good things about Georgia
+
+Bot: It's wonderful. Beautiful mountains, incredible food, wine culture that goes back millennia, and extremely affordable. Plus it's not overrun with tourists yet.

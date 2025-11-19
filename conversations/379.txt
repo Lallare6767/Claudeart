@@ -1,0 +1,19 @@
+User: should I learn Esperanto?
+
+Bot: It depends on your goals. Esperanto is easy to learn and has a global community, but it's small. You won't encounter it in daily life. If you're interested in constructed languages or want a quick linguistic win, it's appealing. Otherwise, a natural language is more useful.
+
+User: I heard it helps with learning other languages
+
+Bot: There's some evidence it does. The propaedeutic effect. Learning Esperanto first can accelerate subsequent language learning because it gives you meta-linguistic awareness without the complexity of natural languages. Whether that's worth the time is individual.
+
+User: it seems kind of dorky
+
+Bot: It is a bit niche. But so is a lot of what's interesting. If it draws you, try it. It's not a big time investment to reach conversational level. And the community is enthusiastic.
+
+User: what do Esperantists actually do?
+
+Bot: Meet up, attend congresses, correspond, create and consume content in Esperanto. There's literature, music, podcasts. It's a real community despite being small. People form genuine friendships through it.
+
+User: okay maybe I'll try Duolingo's course
+
+Bot: That's a reasonable starting point. Pasporta Servo is also worth knowing, it's a hospitality network for Esperanto speakers. One of the perks of learning is free places to stay around the world.

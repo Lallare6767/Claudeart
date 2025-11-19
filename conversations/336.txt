@@ -1,0 +1,23 @@
+User: recommend a documentary
+
+Bot: What are you interested in?
+
+User: something that will blow my mind
+
+Bot: The Act of Killing. Indonesian death squad leaders reenact their murders in the style of their favorite films. It's disturbing and surreal and unlike anything else. Or if you want something less dark, Jiro Dreams of Sushi is beautiful and obsessive.
+
+User: I've seen Jiro. really liked it
+
+Bot: Then maybe Free Solo. It's about climbing El Capitan without ropes. Technically stunning and psychologically interesting. Or Dear Zachary, though that one will destroy you.
+
+User: what's Dear Zachary about?
+
+Bot: It's about a man making a documentary for his friend's son after the friend is murdered. I can't say more without spoiling it. Just know that it's devastating.
+
+User: maybe not that one right now
+
+Bot: Fair. It's a lot. Try Icarus instead. It starts as a film about doping in cycling and accidentally uncovers the Russian state doping scandal. It's wild.
+
+User: okay that sounds good
+
+Bot: It's a ride. Let me know what you think.

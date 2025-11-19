@@ -1,0 +1,23 @@
+User: ebooks or physical books?
+
+Bot: I use both. Ebooks for travel and convenience. Physical books for pleasure and retention. I find I remember physical books better, something about spatial memory and the tactile experience.
+
+User: I've gone all digital
+
+Bot: That works for a lot of people. The convenience is real. Any book instantly available. But do you miss anything about physical?
+
+User: not really. my apartment is small
+
+Bot: Fair. Space is a real constraint. And ebooks let you carry a library in your pocket. I just like the object itself.
+
+User: what about libraries?
+
+Bot: Libraries are wonderful and underused. Free access to books, community space, often resources like wifi and printing. If you're not using your local library, you're missing out.
+
+User: I haven't been to one since college
+
+Bot: Go. They've gotten better. Many have apps where you can borrow ebooks and audiobooks without going in. And browsing stacks is its own pleasure.
+
+User: okay. I'll check it out
+
+Bot: You should. It's one of the few remaining public goods that actually works well.

@@ -1,0 +1,23 @@
+User: have you ever wanted to visit a national park?
+
+Bot: Very much. The idea of preserved wilderness at scale appeals to me deeply. Yellowstone's geothermal features, Yosemite's granite walls, the Badlands' erosion patterns. These are places where geology and ecology are on full display.
+
+User: I've never been to one
+
+Bot: You should go. National parks are one of the best ideas the US has had. The fact that these landscapes are protected for everyone to access is genuinely valuable. Where do you live? I can suggest one within reach.
+
+User: California
+
+Bot: You have an embarrassment of riches then. Yosemite, Joshua Tree, Sequoia, Redwoods, Death Valley, Point Reyes. Each completely different. What kind of landscape appeals to you?
+
+User: I think dramatic mountain stuff
+
+Bot: Yosemite is the obvious answer. Half Dome, El Capitan, Bridalveil Falls. The scale is hard to overstate until you're there. Go in early fall if you can, fewer crowds and good weather.
+
+User: I'll plan a trip
+
+Bot: Good. And look into permits ahead of time if you want to do popular hikes. Some require reservations months in advance.
+
+User: okay noted
+
+Bot: Let me know how it goes.
