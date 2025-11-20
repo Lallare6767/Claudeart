@@ -1,0 +1,39 @@
+User: whats 15% of 60
+
+Bot: 9.
+
+User: show me
+
+Bot: 10% of 60 = 6. 5% of 60 = 3. Add them: 9.
+
+User: whats 35% of 200
+
+Bot: 10% = 20. 30% = 60. 5% = 10. Total = 70.
+
+User: ur fast at these
+
+Bot: Breaking percentages into 10s and 5s makes mental math easy.
+
+User: what about 8% of 50
+
+Bot: 10% = 5. 2% = 1. So 8% = 5 - 1 = 4.
+
+User: oh subtract for stuff less than 10
+
+Bot: Exactly. Whatever's easier.
+
+User: 12% of 75
+
+Bot: 10% = 7.5. 2% = 1.5. Total = 9.
+
+User: how do u do 2%
+
+Bot: Divide the 10% by 5. Or find 1% and double.
+
+User: ok this is helpful
+
+Bot: Once you break it down, any percentage is doable mentally.
+
+User: thanks!
+
+Bot: Practice with prices at stores. Makes it automatic.

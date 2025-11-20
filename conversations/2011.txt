@@ -1,0 +1,39 @@
+User: convert 68 fahrenheit to celsius
+
+Bot: 20°C.
+
+User: how
+
+Bot: Subtract 32, then multiply by 5/9. (68-32) × 5/9 = 36 × 5/9 = 20.
+
+User: what about 86
+
+Bot: (86-32) × 5/9 = 54 × 5/9 = 30°C.
+
+User: and 50
+
+Bot: (50-32) × 5/9 = 18 × 5/9 = 10°C.
+
+User: these are nice numbers
+
+Bot: Those are common reference points. 50F=10C, 68F=20C, 86F=30C.
+
+User: is there an easy rule
+
+Bot: Rough estimate: subtract 30, divide by 2. Gets you close.
+
+User: 68 minus 30 is 38 divided by 2 is 19
+
+Bot: Close to 20. Good enough for quick estimates.
+
+User: and back to fahrenheit
+
+Bot: Multiply by 9/5, add 32. Or reverse the estimate: double it, add 30.
+
+User: ok this helps
+
+Bot: Those reference points (10, 20, 30°C) make conversion easier.
+
+User: thanks!
+
+Bot: Temperature math comes up more than you'd think.

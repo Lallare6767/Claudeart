@@ -1,0 +1,35 @@
+User: if i flip a coin twice whats the probability of two heads
+
+Bot: 1/2 × 1/2 = 1/4 or 25%.
+
+User: why multiply
+
+Bot: Each flip is independent. Probability of both = product of each.
+
+User: what about at least one head
+
+Bot: Easier to calculate opposite. Probability of no heads = 1/4. So at least one = 3/4.
+
+User: ohh complement
+
+Bot: Exactly. Sometimes it's easier to find what you don't want.
+
+User: three coins and all heads
+
+Bot: 1/2 × 1/2 × 1/2 = 1/8 or 12.5%.
+
+User: and at least one head in three flips
+
+Bot: 1 - (probability of all tails) = 1 - 1/8 = 7/8.
+
+User: what about exactly two heads in three flips
+
+Bot: Three ways: HHT, HTH, THH. Each has probability 1/8. Total = 3/8.
+
+User: i think i get it
+
+Bot: Probability is just counting outcomes carefully.
+
+User: thanks!
+
+Bot: Practice with dice next. Same principles apply.

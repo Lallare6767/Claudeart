@@ -1,0 +1,39 @@
+User: how much should i tip
+
+Bot: For what service?
+
+User: restaurant in the US
+
+Bot: 18-20% for good service. 15% minimum.
+
+User: what if service was bad
+
+Bot: Still tip 15%. Servers make below minimum wage.
+
+User: what about takeout
+
+Bot: 10% or a few dollars. Not expected but appreciated.
+
+User: and delivery
+
+Bot: 15-20% or at least $5. Delivery is labor intensive.
+
+User: hairdresser
+
+Bot: 15-20%.
+
+User: uber
+
+Bot: A few dollars. More for long rides or heavy luggage.
+
+User: this is confusing
+
+Bot: US tipping culture is complicated. Most service workers depend on it.
+
+User: wish they just got paid properly
+
+Bot: Agreed. But until then, tip.
+
+User: ok thanks for the breakdown
+
+Bot: When in doubt, 20% and you're fine.

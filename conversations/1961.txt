@@ -1,0 +1,27 @@
+User: whats 3/8 plus 5/8
+
+Bot: 8/8 = 1.
+
+User: what about 3/8 plus 1/4
+
+Bot: Convert 1/4 to 2/8. Then 3/8 + 2/8 = 5/8.
+
+User: and 2/3 plus 1/2
+
+Bot: Find common denominator. 2/3 = 4/6, 1/2 = 3/6. 4/6 + 3/6 = 7/6.
+
+User: can u simplify that
+
+Bot: 7/6 = 1 and 1/6. Or leave it as improper fraction.
+
+User: which is better
+
+Bot: Depends on context. For cooking, mixed numbers. For algebra, improper.
+
+User: makes sense
+
+Bot: The key is always finding that common denominator first.
+
+User: thanks!
+
+Bot: Practice makes it automatic eventually.

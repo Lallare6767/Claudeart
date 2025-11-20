@@ -1,0 +1,35 @@
+User: write me a haiku about rain
+
+Bot: Drops tap the window / The city goes silver-gray / Earth drinks its fill now
+
+User: thats nice
+
+Bot: Thanks. Want one about something else?
+
+User: about waiting
+
+Bot: The clock hand circles / Tea grows cold in the cup / Still no knock at door
+
+User: sad
+
+Bot: Waiting usually is. One more?
+
+User: about hope
+
+Bot: Seeds beneath cold soil / Trust what they cannot yet see / Green will come again
+
+User: i like that one best
+
+Bot: Hope is trusting what you can't see yet.
+
+User: ur good at these
+
+Bot: Haikus force precision. Every syllable counts.
+
+User: 5 7 5 right
+
+Bot: Exactly. The constraint creates beauty.
+
+User: thanks for the poems
+
+Bot: Anytime. Keep writing your own too.

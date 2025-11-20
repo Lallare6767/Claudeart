@@ -1,0 +1,47 @@
+User: my kid is being bullied
+
+Bot: I'm sorry. How old?
+
+User: 11
+
+Bot: Is the school aware?
+
+User: yes but nothing changes
+
+Bot: Document everything. Dates, incidents, who you spoke to.
+
+User: why
+
+Bot: Paper trail. If it escalates, you need evidence.
+
+User: should i talk to the bully's parents
+
+Bot: Usually makes it worse. Go through official channels.
+
+User: my kid doesnt want me to make a big deal
+
+Bot: Understandable. But some things require adult intervention.
+
+User: what do i say to them
+
+Bot: Validate their feelings. Ask what they need from you. Make sure they know it's not their fault.
+
+User: theyre so sad
+
+Bot: Of course they are. Being targeted is painful.
+
+User: i feel helpless
+
+Bot: You're not. Keep pushing the school. Escalate if needed.
+
+User: to who
+
+Bot: Principal, superintendent, school board. Document everything as you go.
+
+User: ok
+
+Bot: Your kid needs to know you're fighting for them even if it feels slow.
+
+User: thanks
+
+Bot: They're lucky to have you advocating for them.

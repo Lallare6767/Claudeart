@@ -1,0 +1,43 @@
+User: give me a fun fact
+
+Bot: Honey never spoils. Archaeologists have eaten 3000-year-old Egyptian honey.
+
+User: no way
+
+Bot: It's true. Low moisture and high acidity make it antimicrobial.
+
+User: another
+
+Bot: Octopuses have three hearts and blue blood.
+
+User: why blue
+
+Bot: Copper-based blood instead of iron. Works better in cold, low-oxygen water.
+
+User: one more
+
+Bot: A group of flamingos is called a flamboyance.
+
+User: thats perfect
+
+Bot: English has great collective nouns. A murder of crows, a parliament of owls.
+
+User: those are good
+
+Bot: An unkindness of ravens.
+
+User: dark
+
+Bot: The medieval folks who named these were dramatic.
+
+User: ok last one
+
+Bot: Bananas are berries. Strawberries aren't.
+
+User: wait what
+
+Bot: Botanical definitions are weird. Berries have seeds inside flesh. Strawberry seeds are outside.
+
+User: my whole life is a lie
+
+Bot: Just botany. It doesn't change how they taste.

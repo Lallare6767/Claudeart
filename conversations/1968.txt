@@ -1,0 +1,39 @@
+User: derivative of sin(2x)
+
+Bot: 2cos(2x).
+
+User: chain rule?
+
+Bot: Yes. Derivative of sin is cos, times derivative of inside (2).
+
+User: what about cos(3x)
+
+Bot: -3sin(3x).
+
+User: and tan(x)
+
+Bot: sec²(x).
+
+User: wait why
+
+Bot: tan = sin/cos. Use quotient rule. Simplifies to 1/cos² = sec².
+
+User: what about tan(5x)
+
+Bot: 5sec²(5x). Chain rule again.
+
+User: this is clicking
+
+Bot: Good! The pattern is always: derivative of outer × derivative of inner.
+
+User: what about sin²(x)
+
+Bot: 2sin(x)cos(x). Or equivalently, sin(2x).
+
+User: oh thats cool
+
+Bot: Trig identities make everything connect.
+
+User: thanks!
+
+Bot: Trig derivatives are all patterns. Once you see them, they're easy.

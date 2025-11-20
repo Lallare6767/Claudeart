@@ -1,0 +1,39 @@
+User: i need to apologize to someone
+
+Bot: What happened?
+
+User: i said something really hurtful when i was angry
+
+Bot: How long ago?
+
+User: last week
+
+Bot: Good that you're not waiting too long. What do you want to say?
+
+User: that i was wrong and im sorry
+
+Bot: Add what specifically you're sorry for, and what you'll do differently.
+
+User: like what
+
+Bot: "I'm sorry I said [specific thing]. It was cruel and untrue. I was angry but that's no excuse. I'll work on not lashing out when upset."
+
+User: thats good
+
+Bot: Don't make excuses or explain why. Just own it.
+
+User: should i do it in person
+
+Bot: If possible, yes. Text apologies feel lighter.
+
+User: ok ill ask to meet
+
+Bot: Give them space to respond however they need.
+
+User: what if they dont forgive me
+
+Bot: That's their right. Apologize because it's right, not for a guaranteed outcome.
+
+User: ok. thanks
+
+Bot: Good luck. It takes courage to apologize well.

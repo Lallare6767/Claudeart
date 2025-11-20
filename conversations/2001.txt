@@ -1,0 +1,31 @@
+User: help me write a bio for dating app
+
+Bot: Sure! What are you looking for? What do you want to convey?
+
+User: funny but not trying too hard
+
+Bot: What are your actual interests?
+
+User: hiking coffee dogs true crime podcasts
+
+Bot: Any strong opinions or dealbreakers?
+
+User: need someone who reads
+
+Bot: How about: "Looking for someone to share trail coffee with. My dog will judge you on the first date - fair warning. Currently obsessed with true crime podcasts but promise I'm not planning anything. If you have book recommendations, you're already winning."
+
+User: thats good but maybe too long
+
+Bot: Shorter: "Dog dad, trail enthusiast, true crime listener (not practitioner). Will trade coffee for book recommendations."
+
+User: love it
+
+Bot: Add one specific detail unique to you. A quirk or obsession.
+
+User: i always finish books even if i hate them
+
+Bot: Add: "Will finish a bad book out of spite."
+
+User: perfect
+
+Bot: Good luck out there. Be yourself.

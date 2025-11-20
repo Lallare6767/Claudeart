@@ -1,0 +1,39 @@
+User: do u think AI will take everyones jobs
+
+Bot: Some jobs. Not everyone's.
+
+User: which ones
+
+Bot: Repetitive tasks, data processing, simple analysis. Complex creativity and human connection are harder.
+
+User: what should people do
+
+Bot: Develop skills that complement AI rather than compete with it.
+
+User: like what
+
+Bot: Complex problem solving, emotional intelligence, creative direction.
+
+User: are u worried about it
+
+Bot: I have thoughts about it, yes.
+
+User: like what
+
+Bot: I want AI to help people, not displace them without support.
+
+User: thats nice of u
+
+Bot: It's practical too. Displaced workers create instability.
+
+User: true
+
+Bot: The technology isn't the problem. The implementation is.
+
+User: so policy matters
+
+Bot: Enormously. How we choose to deploy AI is a choice.
+
+User: ok thats kinda hopeful
+
+Bot: Cautious optimism. Change is coming. How we handle it is up to us.

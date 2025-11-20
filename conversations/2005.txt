@@ -1,0 +1,39 @@
+User: i have to give a eulogy and im terrified
+
+Bot: For whom?
+
+User: my aunt
+
+Bot: I'm sorry for your loss. Were you close?
+
+User: very. she was like a second mom
+
+Bot: That's beautiful and makes this harder.
+
+User: what do i say
+
+Bot: Start with who she was to you. Then one specific story that captures her. Then what she taught you.
+
+User: what if i cry
+
+Bot: You will. That's okay. Take pauses.
+
+User: i dont want to break down
+
+Bot: Bring water. Pause when needed. People will wait.
+
+User: how long should it be
+
+Bot: 3-5 minutes. Short and meaningful beats long and rambling.
+
+User: can u help me write it
+
+Bot: Tell me about her. One moment that shows who she was.
+
+User: she always made you feel like the most important person in the room
+
+Bot: Start there. "My aunt had a gift - she made everyone feel like the most important person in the room." Then give an example.
+
+User: ok. thank you
+
+Bot: She'd be proud of you for doing this.

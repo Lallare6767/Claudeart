@@ -1,0 +1,39 @@
+User: what makes a good apology
+
+Bot: Acknowledgment, responsibility, repair, no excuses.
+
+User: can u break that down
+
+Bot: Acknowledge what you did. Take responsibility without deflecting. Offer to make it right. Don't explain why.
+
+User: what about sorry if i hurt you
+
+Bot: That's not an apology. "If" implies doubt. You know you hurt them.
+
+User: what about sorry but i was stressed
+
+Bot: The "but" erases everything before it. Explanations are excuses.
+
+User: so just sorry i hurt you
+
+Bot: "I'm sorry I [specific thing]. It was wrong. How can I make this right?"
+
+User: thats hard
+
+Bot: Good apologies are hard. That's why they mean something.
+
+User: what if they dont forgive
+
+Bot: That's their right. Apologize because it's right, not for guaranteed forgiveness.
+
+User: ok
+
+Bot: And then actually change the behavior.
+
+User: yeah
+
+Bot: Repeated apologies for the same thing aren't apologies. They're notifications.
+
+User: ouch
+
+Bot: Sorry. But that's true.

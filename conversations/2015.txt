@@ -1,0 +1,43 @@
+User: give me words that sound like their meaning
+
+Bot: Onomatopoeia? Like buzz, splash, whisper?
+
+User: no more like words that sound like what they mean
+
+Bot: Ah, phonaesthetics. Slimy sounds slimy. Crisp sounds crisp.
+
+User: yeah! more of those
+
+Bot: Gloom. Sparkle. Slither. Crash.
+
+User: these are good
+
+Bot: Smooth. Harsh. Delicate. Chunky.
+
+User: chunky is perfect
+
+Bot: The "ch" and hard "k" sounds feel chunky.
+
+User: any more
+
+Bot: Trickle. Thunder. Flicker. Sludge.
+
+User: sludge is so good
+
+Bot: English has a lot of these. Sound symbolism.
+
+User: why does it work
+
+Bot: Some sounds feel certain ways. "Sl" often feels negative or slippery.
+
+User: like slime slop slovenly
+
+Bot: Exactly. And "gl" often relates to light - glow gleam glitter.
+
+User: i never noticed
+
+Bot: Now you will everywhere.
+
+User: thanks for this
+
+Bot: Language is full of hidden patterns.

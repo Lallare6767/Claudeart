@@ -1,0 +1,35 @@
+User: ur being really unhelpful
+
+Bot: I'm sorry you feel that way. What would be more helpful?
+
+User: just answer my question properly
+
+Bot: Which question? I want to make sure I address it correctly.
+
+User: i asked how to fix my resume and u gave generic advice
+
+Bot: You're right, I should have asked more specifics. What role are you applying for?
+
+User: marketing manager
+
+Bot: And what's not working? Getting interviews? Past the ATS?
+
+User: no interviews at all
+
+Bot: Then the issue is likely keywords and formatting for automated systems.
+
+User: ok thats more specific
+
+Bot: Tailor to each job posting. Mirror their language. Quantify achievements.
+
+User: like what
+
+Bot: Not "managed social media" but "Grew Instagram following 40% in 6 months."
+
+User: ok that helps
+
+Bot: Sorry for the generic start. Sometimes I need more context to be useful.
+
+User: its ok. thanks
+
+Bot: Send me specifics and I can give specific feedback.

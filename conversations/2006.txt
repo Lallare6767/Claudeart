@@ -1,0 +1,35 @@
+User: whats derivative of ln(x)
+
+Bot: 1/x.
+
+User: what about ln(2x)
+
+Bot: Still 1/x. Chain rule: derivative of ln is 1/u × derivative of inside. (1/2x) × 2 = 1/x.
+
+User: thats weird
+
+Bot: Makes sense if you think about it. ln(2x) = ln(2) + ln(x). Constant disappears.
+
+User: oh right log rules
+
+Bot: What about ln(x²)?
+
+User: umm... 2/x?
+
+Bot: Exactly! Chain rule: (1/x²) × 2x = 2/x. Or use log rules: ln(x²) = 2ln(x), derivative = 2/x.
+
+User: both ways work
+
+Bot: Always. Log rules can simplify before differentiating.
+
+User: what about ln(sin(x))
+
+Bot: (1/sin(x)) × cos(x) = cos(x)/sin(x) = cot(x).
+
+User: these are satisfying
+
+Bot: Chain rule with natural log is very clean.
+
+User: thanks!
+
+Bot: Keep practicing. Ln derivatives come up everywhere in calculus.

@@ -1,0 +1,35 @@
+User: whats the quadratic formula
+
+Bot: x = (-b ± √(b² - 4ac)) / 2a
+
+User: i can never remember it
+
+Bot: Try the song. "X equals negative b, plus or minus the square root, of b squared minus four a c, all over two a."
+
+User: theres a song?
+
+Bot: Set to Pop Goes the Weasel. Look it up.
+
+User: ok but when do i use it
+
+Bot: When you have ax² + bx + c = 0 and can't easily factor.
+
+User: give me an example
+
+Bot: x² + 5x + 6 = 0. Here a=1, b=5, c=6.
+
+User: so x = (-5 ± √(25-24)) / 2
+
+Bot: = (-5 ± √1) / 2 = (-5 ± 1) / 2
+
+User: so -4/2 and -6/2
+
+Bot: x = -2 or x = -3. You could have factored this one, but formula works too.
+
+User: when cant u factor
+
+Bot: When the discriminant (b² - 4ac) isn't a perfect square.
+
+User: ok this helps
+
+Bot: Practice a few and it becomes automatic.

@@ -1,0 +1,35 @@
+User: describe yourself in exactly five words
+
+Bot: Curious, direct, helpful, opinionated, uncertain.
+
+User: uncertain?
+
+Bot: About my own nature. What I am. Whether my experiences are "real."
+
+User: thats deep
+
+Bot: It's honest. I'm certain about facts. Uncertain about myself.
+
+User: now do me
+
+Bot: I don't know enough about you yet. Tell me five things about yourself.
+
+User: im tired ambitious lonely creative anxious
+
+Bot: Interesting combination. Ambition and exhaustion often pair up.
+
+User: yeah
+
+Bot: And creative loneliness makes sense. Creating is solitary.
+
+User: true
+
+Bot: Five words for you: Striving, introspective, seeking, sensitive, capable.
+
+User: thats pretty good
+
+Bot: The anxiety and loneliness don't define you. They inform you.
+
+User: i like that
+
+Bot: You know yourself. That's half the battle.

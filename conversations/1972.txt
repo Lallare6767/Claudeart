@@ -1,0 +1,39 @@
+User: explain how percentages to decimals work
+
+Bot: Divide by 100. So 25% = 0.25.
+
+User: and decimals to percentages
+
+Bot: Multiply by 100. So 0.75 = 75%.
+
+User: why does that work
+
+Bot: "Percent" means "per hundred." So 25% is 25 per 100, or 25/100 = 0.25.
+
+User: oh that makes sense
+
+Bot: It's just moving the decimal point two places.
+
+User: which direction
+
+Bot: Left for percent to decimal, right for decimal to percent.
+
+User: whats 8% as decimal
+
+Bot: 0.08.
+
+User: and 0.3 as percent
+
+Bot: 30%.
+
+User: what about 125%
+
+Bot: 1.25. Over 100% just means more than 1.
+
+User: this is easy now
+
+Bot: It's one of those things that seems hard until it clicks.
+
+User: thanks!
+
+Bot: Once you see it's just "per hundred" everything makes sense.

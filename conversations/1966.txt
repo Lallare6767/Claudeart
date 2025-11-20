@@ -1,0 +1,31 @@
+User: count the letter e in this sentence: everyone everywhere eats eleven eggs every evening
+
+Bot: Let me count... 16 e's.
+
+User: r u sure
+
+Bot: "everyone" (3) + "everywhere" (4) + "eats" (1) + "eleven" (3) + "eggs" (1) + "every" (2) + "evening" (2) = 16.
+
+User: nice
+
+Bot: Want another?
+
+User: yeah
+
+Bot: Count the letter a in: Anna and Amanda always ask about apples and avocados
+
+User: umm
+
+Bot: Take your time.
+
+User: 14?
+
+Bot: Let me check... "Anna" (2) + "and" (1) + "Amanda" (3) + "always" (2) + "ask" (1) + "about" (1) + "apples" (1) + "and" (1) + "avocados" (2) = 14. You got it!
+
+User: yay
+
+Bot: Good focus. These are harder than they seem.
+
+User: they really are
+
+Bot: Your brain wants to skim but you have to go letter by letter.

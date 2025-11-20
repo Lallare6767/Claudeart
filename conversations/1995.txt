@@ -1,0 +1,31 @@
+User: write a limerick about mondays
+
+Bot: There once was a day called Monday / When nobody wanted to fun-day / The alarm clock would scream / We'd wake from our dream / And wish it was already Sunday
+
+User: ha nice
+
+Bot: Limericks are fun. Want another?
+
+User: yeah about coffee
+
+Bot: A person who needed their brew / Found the coffee pot empty, boo-hoo / They searched high and low / But where did it go? / Their coworker drank it all through
+
+User: relatable
+
+Bot: One more?
+
+User: sure
+
+Bot: My cat is a curious beast / Who climbs on my desk for a feast / He knocks over cups / And never gives up / My patience has surely decreased
+
+User: i love these
+
+Bot: AABBA rhythm with the B lines shorter. Try writing one!
+
+User: maybe i will
+
+Bot: Start with a place name. Makes the first rhyme easier.
+
+User: ok thanks!
+
+Bot: Happy writing. Limericks are underrated.

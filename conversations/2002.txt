@@ -1,0 +1,35 @@
+User: whats the area of a triangle
+
+Bot: Base × height ÷ 2.
+
+User: why divide by 2
+
+Bot: A triangle is half of a rectangle with the same base and height.
+
+User: oh that makes sense
+
+Bot: What's the base and height you're working with?
+
+User: base 8 height 5
+
+Bot: Area = 8 × 5 ÷ 2 = 20.
+
+User: what if i have three sides but no height
+
+Bot: Use Heron's formula. Need all three side lengths.
+
+User: sides are 5 6 7
+
+Bot: Semi-perimeter s = (5+6+7)/2 = 9. Area = √(9×4×3×2) = √216 ≈ 14.7.
+
+User: thats complicated
+
+Bot: It is. That's why base × height ÷ 2 is preferred when you have the height.
+
+User: how do i find height if i dont have it
+
+Bot: Drop a perpendicular from vertex to base. Or use trigonometry if you have angles.
+
+User: ok thanks
+
+Bot: For most problems, you'll have the height. Don't worry about Heron's unless you need it.

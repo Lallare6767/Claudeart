@@ -1,0 +1,39 @@
+User: simplify √75
+
+Bot: √75 = √(25 × 3) = 5√3.
+
+User: how did u know to use 25
+
+Bot: Look for perfect square factors. 75 = 25 × 3, and 25 is 5².
+
+User: what about √50
+
+Bot: √50 = √(25 × 2) = 5√2.
+
+User: and √72
+
+Bot: √72 = √(36 × 2) = 6√2.
+
+User: ok i think i get it
+
+Bot: Always find the largest perfect square factor.
+
+User: whats √200
+
+Bot: √200 = √(100 × 2) = 10√2.
+
+User: and √45
+
+Bot: √45 = √(9 × 5) = 3√5.
+
+User: this is satisfying
+
+Bot: Breaking numbers apart like this is weirdly fun.
+
+User: agreed
+
+Bot: Practice a few more and it becomes automatic.
+
+User: thanks!
+
+Bot: Keep looking for those hidden squares.
