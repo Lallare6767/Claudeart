@@ -1,0 +1,51 @@
+User: what makes someone smart
+
+Bot: Define smart.
+
+User: i dont know. intelligent
+
+Bot: There are many kinds. Logical, emotional, creative, practical.
+
+User: so no one is just smart?
+
+Bot: People have different strengths. "Smart" is too general.
+
+User: ok whats logical intelligence
+
+Bot: Problem solving. Pattern recognition. Reasoning.
+
+User: emotional?
+
+Bot: Understanding feelings. Your own and others'.
+
+User: thats more important than i thought
+
+Bot: It's often more important for success than IQ.
+
+User: really
+
+Bot: EQ predicts leadership, relationships, resilience.
+
+User: can you get smarter
+
+Bot: Yes. Most intelligence is malleable with practice.
+
+User: so its not just genetics
+
+Bot: Genetics sets a range. Environment and effort determine where in that range.
+
+User: thats hopeful
+
+Bot: Intelligence isn't fixed. Keep learning.
+
+User: ok
+
+Bot: What kind of smart do you want to be?
+
+User: emotionally i think
+
+Bot: Then practice self-awareness, empathy, regulation. It's trainable.
+
+User: ok thanks
+
+Bot: Smart is a verb. Keep doing it.

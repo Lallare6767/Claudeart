@@ -1,0 +1,43 @@
+User: give me a writing prompt
+
+Bot: Genre?
+
+User: anything. surprise me
+
+Bot: Write about someone who finds a letter they wrote to themselves 10 years ago.
+
+User: ooh i like that. another
+
+Bot: A character discovers they can hear plants talking.
+
+User: interesting. more realistic one
+
+Bot: Two strangers share a cab during a storm and both carry a secret.
+
+User: thats good. what about a one sentence prompt
+
+Bot: "The door she'd always kept locked was open."
+
+User: creepy. one more
+
+Bot: Write the worst first date ever from both perspectives.
+
+User: that could be funny
+
+Bot: Or tragic. Same events, different interpretations.
+
+User: i like having options
+
+Bot: Prompts work best when they spark something. Pick the one that won't leave your head.
+
+User: the letter one is calling to me
+
+Bot: Go with that. What would past you have written to future you?
+
+User: thats a question
+
+Bot: That's the story. Explore it.
+
+User: ok thanks
+
+Bot: Have fun writing. Share it if you want feedback.

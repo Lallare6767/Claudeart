@@ -1,0 +1,51 @@
+User: my therapist said something that hurt
+
+Bot: What did they say?
+
+User: that i use intellectualization to avoid feeling
+
+Bot: Did that feel true?
+
+User: maybe. but it hurt to hear
+
+Bot: Good therapy often does. Did you tell them?
+
+User: no
+
+Bot: Tell them next session. They need to know.
+
+User: what if they get defensive
+
+Bot: A good therapist won't. They'll explore it with you.
+
+User: i want to quit
+
+Bot: Because of this one comment?
+
+User: and other things
+
+Bot: Like what?
+
+User: i dont feel like im making progress
+
+Bot: Have you told them that either?
+
+User: no
+
+Bot: Therapy only works with honesty. About everything, including the therapy.
+
+User: ok
+
+Bot: Give them this feedback. See how they respond.
+
+User: and if it doesn't help
+
+Bot: Then consider finding someone else. Fit matters.
+
+User: ok
+
+Bot: Therapy should challenge you but also feel safe. Both matter.
+
+User: thanks
+
+Bot: Speak up next session. That's actually doing the work.

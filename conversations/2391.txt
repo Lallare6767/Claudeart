@@ -1,0 +1,51 @@
+User: im always tired
+
+Bot: Tired physically or mentally?
+
+User: both
+
+Bot: How's your sleep?
+
+User: not great. 5-6 hours
+
+Bot: That's not enough. Most adults need 7-9.
+
+User: i know but i cant fall asleep
+
+Bot: What do you do before bed?
+
+User: phone. tv. work sometimes
+
+Bot: All of those stimulate your brain. Try cutting screens an hour before.
+
+User: that sounds boring
+
+Bot: Sleep is boring until you don't have it.
+
+User: fair
+
+Bot: What about during the day? Do you exercise?
+
+User: not really
+
+Bot: Exercise creates energy paradoxically. Try 20 minutes daily.
+
+User: ill try
+
+Bot: Also check: caffeine after 2pm? Alcohol? Heavy meals?
+
+User: caffeine yes
+
+Bot: Cut it off earlier. It has a long half-life.
+
+User: ok
+
+Bot: If these changes don't help after a few weeks, see a doctor.
+
+User: ok
+
+Bot: Tiredness isn't normal. Figure out the cause.
+
+User: thanks
+
+Bot: Sleep is foundational. Everything else depends on it.

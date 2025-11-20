@@ -1,0 +1,47 @@
+User: what is an independent variable
+
+Bot: The variable you change or control in an experiment.
+
+User: and dependent
+
+Bot: The variable you measure. It depends on the independent one.
+
+User: example
+
+Bot: Testing how fertilizer affects plant growth. Fertilizer is independent. Growth is dependent.
+
+User: why those names
+
+Bot: Dependent depends on independent. The outcome relies on what you changed.
+
+User: how do i remember
+
+Bot: Independent = Input. Dependent = Result.
+
+User: what about graphing
+
+Bot: Independent on x-axis. Dependent on y-axis.
+
+User: why
+
+Bot: Y depends on X. That's the convention.
+
+User: what about control variables
+
+Bot: Things you keep constant so they don't affect results.
+
+User: like
+
+Bot: Same soil, same light, same water. Only fertilizer changes.
+
+User: so you can isolate the effect
+
+Bot: Exactly. Good experimental design.
+
+User: thanks this is clear now
+
+Bot: Science is just careful questioning. Variables help you be precise.
+
+User: cool
+
+Bot: Practice identifying them in studies. It's a useful skill.

@@ -1,0 +1,47 @@
+User: what is a function in math
+
+Bot: Rule that assigns each input exactly one output.
+
+User: like a machine
+
+Bot: Exactly. Put in x, get out f(x).
+
+User: example
+
+Bot: f(x) = 2x + 3. If x = 4, f(4) = 2(4) + 3 = 11.
+
+User: what about f(0)
+
+Bot: f(0) = 2(0) + 3 = 3.
+
+User: and f(-1)
+
+Bot: f(-1) = 2(-1) + 3 = -2 + 3 = 1.
+
+User: can a function have two outputs for one input
+
+Bot: No. That would violate the definition.
+
+User: so x² is a function but √x isnt?
+
+Bot: x² is a function. Each x gives one x². √x is typically restricted to positive root to be a function.
+
+User: vertical line test
+
+Bot: Yes. If vertical line hits graph twice, not a function.
+
+User: domain and range
+
+Bot: Domain: all valid inputs. Range: all possible outputs.
+
+User: for f(x) = 1/x
+
+Bot: Domain: all real numbers except 0. Range: all real except 0.
+
+User: because cant divide by zero
+
+Bot: Exactly.
+
+User: thanks
+
+Bot: Functions are fundamental. Know them well for all higher math.

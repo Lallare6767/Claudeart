@@ -1,0 +1,51 @@
+User: what is a metaphor
+
+Bot: Comparing two things by saying one is the other.
+
+User: example
+
+Bot: "Life is a journey." Life isn't literally a journey, but the comparison adds meaning.
+
+User: whats the difference from simile
+
+Bot: Simile uses "like" or "as." "Life is like a journey."
+
+User: so metaphor is more direct
+
+Bot: Yes. It states the comparison as fact.
+
+User: why use metaphor
+
+Bot: Adds imagery. Conveys complex ideas simply. Makes writing vivid.
+
+User: more examples
+
+Bot: "Time is money." "The world is a stage." "Her heart is stone."
+
+User: are clichés bad
+
+Bot: Overused metaphors lose power. Original ones are stronger.
+
+User: how do i make original ones
+
+Bot: Look for unexpected connections. What is this thing like that no one says?
+
+User: thats hard
+
+Bot: That's why good metaphors are impressive.
+
+User: what about mixed metaphors
+
+Bot: Combining incompatible images. "We'll burn that bridge when we come to it."
+
+User: lol thats wrong
+
+Bot: But memorable. Sometimes writers do it on purpose.
+
+User: interesting
+
+Bot: Metaphor is foundational. Most language is metaphorical if you look.
+
+User: thanks
+
+Bot: Notice them now. They're everywhere.

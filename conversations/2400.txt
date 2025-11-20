@@ -1,0 +1,43 @@
+User: whats slope intercept form
+
+Bot: y = mx + b. m is slope. b is y-intercept.
+
+User: whats slope again
+
+Bot: Rise over run. How much y changes when x changes.
+
+User: and y-intercept
+
+Bot: Where the line crosses y-axis. The y value when x = 0.
+
+User: can u do an example
+
+Bot: y = 2x + 3. Slope is 2 (up 2 for every 1 right). Y-intercept is 3.
+
+User: so it starts at (0, 3)
+
+Bot: Yes. And goes up 2, over 1, repeatedly.
+
+User: what about y = -x + 5
+
+Bot: Slope is -1 (down 1 for every 1 right). Y-intercept is 5.
+
+User: how do i graph it
+
+Bot: Plot y-intercept. Use slope to find another point. Draw line.
+
+User: what if its not in slope intercept form
+
+Bot: Convert it. 2x + 3y = 6 → 3y = -2x + 6 → y = -2/3x + 2.
+
+User: isolate y
+
+Bot: Exactly. Get y alone and it's in mx + b form.
+
+User: this makes sense now
+
+Bot: Slope-intercept is the most useful form. Master it.
+
+User: thanks
+
+Bot: Practice graphing a few. Visuals help it click.

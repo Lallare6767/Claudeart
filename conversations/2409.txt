@@ -1,0 +1,55 @@
+User: explain fractions
+
+Bot: Parts of a whole. Numerator over denominator.
+
+User: whats numerator
+
+Bot: Top number. How many parts you have.
+
+User: and denominator
+
+Bot: Bottom number. Total parts the whole is divided into.
+
+User: so 3/4 means
+
+Bot: Three out of four equal parts.
+
+User: how do i add fractions
+
+Bot: Same denominator: add numerators. 1/4 + 2/4 = 3/4.
+
+User: different denominators
+
+Bot: Find common denominator first. 1/2 + 1/3 = 3/6 + 2/6 = 5/6.
+
+User: multiply fractions?
+
+Bot: Multiply across. 2/3 × 3/4 = 6/12 = 1/2.
+
+User: divide?
+
+Bot: Flip and multiply. 2/3 ÷ 4/5 = 2/3 × 5/4 = 10/12 = 5/6.
+
+User: why flip
+
+Bot: Division is multiplication by reciprocal. That's the rule.
+
+User: how do i simplify
+
+Bot: Divide numerator and denominator by common factors. 6/12 → both ÷ 6 → 1/2.
+
+User: ok this helps
+
+Bot: Fractions are everywhere. Cooking, building, music.
+
+User: music?
+
+Bot: Time signatures. 4/4, 3/4. Fractions of a measure.
+
+User: cool
+
+Bot: Practice. Fractions are foundational.
+
+User: thanks
+
+Bot: Good luck. Fractions become intuitive with use.

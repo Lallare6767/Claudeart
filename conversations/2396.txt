@@ -1,0 +1,43 @@
+User: help me with semicolons
+
+Bot: Semicolons connect related independent clauses. Two complete sentences joined without and/but.
+
+User: example
+
+Bot: "I went to the store; it was closed."
+
+User: both could be sentences alone
+
+Bot: Exactly. "I went to the store. It was closed." Also correct but different feel.
+
+User: whats the difference
+
+Bot: Semicolon shows closer connection. The clauses are more related.
+
+User: when else
+
+Bot: Lists with internal commas. "Cities I've visited: Paris, France; Tokyo, Japan; Cairo, Egypt."
+
+User: oh to avoid confusion
+
+Bot: Right. Commas within items, semicolons between items.
+
+User: common mistakes?
+
+Bot: Using semicolon before "however" but after comes the mistake.
+
+User: what?
+
+Bot: Correct: "I was tired; however, I kept working." The however has comma after.
+
+User: not "I was tired, however, I kept working"?
+
+Bot: That's a comma splice. Run-on sentence. Common error.
+
+User: ooh i do that
+
+Bot: Many people do. Now you know.
+
+User: thanks
+
+Bot: Semicolons are sophisticated. Use them well and writing improves.

@@ -1,0 +1,47 @@
+User: do i need to go to college
+
+Bot: Depends on your goals. What do you want to do?
+
+User: not sure yet
+
+Bot: Then maybe wait before spending money.
+
+User: everyone says i should go
+
+Bot: Everyone is wrong sometimes.
+
+User: what are the alternatives
+
+Bot: Trade school. Apprenticeships. Self-study. Work experience.
+
+User: would i be behind
+
+Bot: Behind what? There's no race.
+
+User: everyone my age
+
+Bot: Many people with degrees end up in jobs that don't require them.
+
+User: so its a waste
+
+Bot: Not necessarily. Depends on the field and the person.
+
+User: what fields need it
+
+Bot: Medicine. Law. Engineering. Academia. Sciences.
+
+User: and what doesnt
+
+Bot: Tech often hires for skills. Trades. Arts. Entrepreneurship.
+
+User: how do i decide
+
+Bot: Research specific paths. Not "should I go to college" but "what do I need to get where I want."
+
+User: i dont know where i want
+
+Bot: Then figure that out first. College isn't a default.
+
+User: ok thanks
+
+Bot: Take time to decide. It's a big investment.

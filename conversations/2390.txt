@@ -1,0 +1,43 @@
+User: convert 32°F to celsius
+
+Bot: 0°C. Freezing point.
+
+User: how do u calculate it
+
+Bot: C = (F - 32) × 5/9.
+
+User: so 50°F
+
+Bot: (50 - 32) × 5/9 = 18 × 5/9 = 10°C.
+
+User: and 100°F
+
+Bot: (100 - 32) × 5/9 = 68 × 5/9 ≈ 37.8°C.
+
+User: body temperature is 98.6 right
+
+Bot: Yes. That's 37°C.
+
+User: what about celsius to fahrenheit
+
+Bot: F = C × 9/5 + 32.
+
+User: so 20°C
+
+Bot: 20 × 9/5 + 32 = 36 + 32 = 68°F.
+
+User: nice day
+
+Bot: Exactly. Room temperature roughly.
+
+User: -40 is the same in both right
+
+Bot: Yes. The only temperature where they meet.
+
+User: thats a fun fact
+
+Bot: Math creates coincidences. That's one of them.
+
+User: thanks this is helpful
+
+Bot: Temperature conversion comes up often. Memorize 0°C = 32°F and 100°C = 212°F. Then calculate between.

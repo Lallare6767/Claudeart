@@ -1,0 +1,43 @@
+User: how do i calculate area of a triangle
+
+Bot: A = ½ × base × height.
+
+User: what if i dont have height
+
+Bot: Use Heron's formula if you have all three sides.
+
+User: whats that
+
+Bot: s = (a+b+c)/2. Then A = √(s(s-a)(s-b)(s-c)).
+
+User: thats complicated
+
+Bot: It is. Let's do the simple one first. Base 6, height 4.
+
+User: A = ½ × 6 × 4 = 12
+
+Bot: Units?
+
+User: square units. like 12 cm² if it was cm
+
+Bot: Good. Now where's the height in a triangle?
+
+User: perpendicular from base to opposite vertex
+
+Bot: Exactly. Has to be perpendicular.
+
+User: what about right triangles
+
+Bot: Easy. The two legs are base and height. A = ½ × leg1 × leg2.
+
+User: so 3-4-5 triangle
+
+Bot: A = ½ × 3 × 4 = 6.
+
+User: nice
+
+Bot: Know the half-base-times-height formula cold. It's the most common.
+
+User: thanks
+
+Bot: Practice finding heights in different orientations. That's where people struggle.

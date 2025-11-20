@@ -1,0 +1,51 @@
+User: what is a prime number
+
+Bot: Number divisible only by 1 and itself.
+
+User: like 7
+
+Bot: Yes. 7 = 1 × 7 only.
+
+User: is 1 prime
+
+Bot: No. By definition, primes must have exactly two divisors. 1 has one.
+
+User: ok. is 2 prime
+
+Bot: Yes. The only even prime.
+
+User: why only one
+
+Bot: All other evens are divisible by 2.
+
+User: list some primes
+
+Bot: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29...
+
+User: do they go forever
+
+Bot: Yes. Infinite primes. Proved by Euclid.
+
+User: how do u check if somethings prime
+
+Bot: Test divisibility by primes up to square root.
+
+User: so for 29
+
+Bot: √29 ≈ 5.4. Check 2, 3, 5. None divide 29. Prime.
+
+User: what about 91
+
+Bot: √91 ≈ 9.5. Check 2, 3, 5, 7. 91 = 7 × 13. Not prime.
+
+User: tricky
+
+Bot: That's a common trap. 91 looks prime but isn't.
+
+User: why do primes matter
+
+Bot: Cryptography. Security. They're foundational in number theory.
+
+User: cool
+
+Bot: Primes are surprisingly important. Know them well.

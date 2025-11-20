@@ -1,0 +1,47 @@
+User: explain scientific notation
+
+Bot: A way to write very big or small numbers. a × 10^n where 1 ≤ a < 10.
+
+User: example
+
+Bot: 5,000,000 = 5 × 10^6.
+
+User: and small numbers
+
+Bot: 0.00003 = 3 × 10^-5.
+
+User: why negative exponent
+
+Bot: Negative means divide. 10^-5 = 1/100,000.
+
+User: how do i convert
+
+Bot: Move decimal until one digit before it. Count moves. That's the exponent.
+
+User: so 72,000,000
+
+Bot: 7.2 × 10^7. Moved decimal 7 places left.
+
+User: and 0.0000089
+
+Bot: 8.9 × 10^-6. Moved 6 places right.
+
+User: how do i multiply them
+
+Bot: Multiply a's, add exponents. (2 × 10^3)(3 × 10^4) = 6 × 10^7.
+
+User: and divide
+
+Bot: Divide a's, subtract exponents.
+
+User: when is this useful
+
+Bot: Science. Astronomy. Chemistry. Anywhere numbers get huge or tiny.
+
+User: ok thanks
+
+Bot: Practice converting back and forth. It becomes intuitive.
+
+User: will do
+
+Bot: Scientific notation tames extreme numbers. Essential skill.

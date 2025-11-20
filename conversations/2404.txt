@@ -1,0 +1,51 @@
+User: i think im depressed
+
+Bot: What makes you think that?
+
+User: sad all the time. no energy. nothing sounds fun
+
+Bot: How long?
+
+User: few weeks
+
+Bot: Any changes that triggered it?
+
+User: breakup. job stress
+
+Bot: Those are significant stressors.
+
+User: should i see someone
+
+Bot: Yes. These symptoms warrant professional support.
+
+User: what kind of professional
+
+Bot: Start with your doctor. They can rule out physical causes and refer you.
+
+User: is it definitely depression
+
+Bot: I can't diagnose. But what you're describing is worth getting evaluated.
+
+User: im scared
+
+Bot: Of what specifically?
+
+User: being officially depressed
+
+Bot: The label doesn't change the experience. It just opens doors for help.
+
+User: i guess
+
+Bot: Would you avoid a doctor if your leg was broken?
+
+User: no
+
+Bot: Same thing. Brain needs care too.
+
+User: ok ill make an appointment
+
+Bot: Good. That takes courage.
+
+User: thanks
+
+Bot: You're doing the right thing. Help exists.

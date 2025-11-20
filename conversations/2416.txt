@@ -1,0 +1,43 @@
+User: can we play would you rather
+
+Bot: Sure. You go first or me?
+
+User: you start
+
+Bot: Would you rather be able to fly or be invisible?
+
+User: fly. invisibility seems lonely
+
+Bot: Interesting. Most people choose invisible.
+
+User: ur turn to answer. live without music or without movies
+
+Bot: Without movies. Music is more integrated into daily life.
+
+User: agree. ok would u rather know how u die or when u die
+
+Bot: When. Knowing how would make me avoid everything.
+
+User: good point. never be able to lie or never trust anyone
+
+Bot: Never lie. Being unable to trust sounds miserable.
+
+User: same. would u rather be famous but miserable or unknown but happy
+
+Bot: Unknown and happy. Fame seems like a trap.
+
+User: definitely. one more. always be 10 minutes late or 20 minutes early
+
+Bot: 20 minutes early. Being late is disrespectful.
+
+User: thats a strong answer
+
+Bot: Time affects others. I take it seriously.
+
+User: fair. this was fun
+
+Bot: It reveals how people think. Good game.
+
+User: thanks
+
+Bot: Anytime. Would you rather never play again or... just kidding.

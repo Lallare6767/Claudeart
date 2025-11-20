@@ -1,0 +1,47 @@
+User: what is circumference
+
+Bot: Distance around a circle. C = 2πr or C = πd.
+
+User: whats the difference
+
+Bot: Same thing. Diameter is twice the radius. d = 2r.
+
+User: example
+
+Bot: Circle with radius 5. C = 2π(5) = 10π ≈ 31.4.
+
+User: what if diameter is 8
+
+Bot: C = π(8) = 8π ≈ 25.1.
+
+User: when do i use which formula
+
+Bot: Use what you're given. Radius → 2πr. Diameter → πd.
+
+User: and area?
+
+Bot: A = πr². Different formula.
+
+User: example
+
+Bot: Radius 5. A = π(25) = 25π ≈ 78.5.
+
+User: why is π everywhere
+
+Bot: It's the ratio of circumference to diameter. Universal for circles.
+
+User: all circles?
+
+Bot: All circles. That's what makes it special.
+
+User: what is π exactly
+
+Bot: 3.14159... It's irrational. Goes on forever without repeating.
+
+User: weird
+
+Bot: Beautiful. Circles are mathematically perfect.
+
+User: thanks
+
+Bot: Know 2πr and πr². Those solve most circle problems.

@@ -1,0 +1,43 @@
+User: what is percent change
+
+Bot: How much something changed relative to original. (New - Old) / Old × 100.
+
+User: example
+
+Bot: Price went from $50 to $60. Change is (60-50)/50 × 100 = 20% increase.
+
+User: what if it decreased
+
+Bot: From $60 to $50. (50-60)/60 × 100 = -16.7%.
+
+User: why not 20% both ways
+
+Bot: Different bases. 10 out of 50 vs 10 out of 60.
+
+User: oh
+
+Bot: Percent change is always relative to the original.
+
+User: so population went from 1000 to 1500
+
+Bot: (1500-1000)/1000 × 100 = 50% increase.
+
+User: and stock goes from 200 to 150
+
+Bot: (150-200)/200 × 100 = -25%.
+
+User: got it
+
+Bot: Real world: sales reports, investments, health metrics all use this.
+
+User: why not just say "went up 10"
+
+Bot: Absolute change doesn't show proportional impact. 10 out of 1000 vs 10 out of 100.
+
+User: good point
+
+Bot: Context matters. Percent change provides that.
+
+User: thanks
+
+Bot: Practice with real numbers. You'll use this constantly.

@@ -1,0 +1,47 @@
+User: help me find the mean of 5 7 8 12 18
+
+Bot: Add them up and divide by count.
+
+User: 5+7+8+12+18 = 50
+
+Bot: And how many numbers?
+
+User: 5
+
+Bot: So mean = 50/5 = 10.
+
+User: easy. now median
+
+Bot: Middle number when sorted. Already sorted: 5, 7, 8, 12, 18.
+
+User: so 8
+
+Bot: Correct. Third out of five.
+
+User: what if there were 6 numbers
+
+Bot: Average of the two middle ones.
+
+User: like 5 7 8 12 18 20
+
+Bot: Middle two are 8 and 12. Median = (8+12)/2 = 10.
+
+User: same as mean here
+
+Bot: Coincidence. They're often different.
+
+User: mode?
+
+Bot: Most frequent. Your original set has no mode—all appear once.
+
+User: if i added another 8
+
+Bot: Then 8 would be the mode.
+
+User: ok this is clear now
+
+Bot: Mean for average. Median for middle. Mode for most common.
+
+User: thanks
+
+Bot: Use the right one for the context. Each tells different story.

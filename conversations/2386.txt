@@ -1,0 +1,47 @@
+User: whats 8 factorial
+
+Bot: 8! = 8 × 7 × 6 × 5 × 4 × 3 × 2 × 1 = 40,320.
+
+User: thats huge
+
+Bot: Factorials grow fast.
+
+User: what about 10!
+
+Bot: 3,628,800.
+
+User: and 0!
+
+Bot: 1. By definition.
+
+User: why
+
+Bot: There's one way to arrange zero objects: do nothing.
+
+User: weird but ok
+
+Bot: Math has rules that make other things work. 0! = 1 keeps formulas consistent.
+
+User: when do u use factorials
+
+Bot: Counting arrangements. How many ways to arrange 5 books? 5! = 120.
+
+User: what about combinations
+
+Bot: n choose r = n! / (r! × (n-r)!)
+
+User: thats confusing
+
+Bot: How many ways to choose 3 people from 5? 5!/(3! × 2!) = 10.
+
+User: let me check. 120 / (6 × 2) = 120/12 = 10. yes!
+
+Bot: Good. Factorials are building blocks for probability.
+
+User: this helps
+
+Bot: Practice more. Combinatorics is useful and fun.
+
+User: thanks
+
+Bot: Factorials explode quickly. 20! is already astronomical.

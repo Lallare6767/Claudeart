@@ -1,0 +1,47 @@
+User: write me a six word story
+
+Bot: "For sale: baby shoes, never worn."
+
+User: thats hemingways right
+
+Bot: Yes. The most famous one.
+
+User: write me an original one
+
+Bot: "Strangers. Friends. Lovers. Strangers again."
+
+User: sad. another
+
+Bot: "She said yes. Then left."
+
+User: ouch. something happier
+
+Bot: "Worst day. Then you came."
+
+User: thats nice. more
+
+Bot: "Overthinking everything. Finally just lived."
+
+User: i need that one
+
+Bot: "Terrified. Did it anyway. Worked."
+
+User: these are hard to write
+
+Bot: Constraint is the challenge. Every word must earn its place.
+
+User: let me try. "Started late. Still finished first."
+
+Bot: Good one. Underdog energy.
+
+User: another. "Apologized. Meant it. She knew."
+
+Bot: Nice ambiguity. Redemption or not?
+
+User: intentional
+
+Bot: Good writing leaves room for interpretation.
+
+User: this is fun
+
+Bot: Six word stories are great practice. Keep writing them.

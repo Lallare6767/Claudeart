@@ -1,0 +1,40 @@
+User: help me write a resignation letter
+
+Bot: Where are you going? New job or just leaving?
+
+User: new job
+
+Bot: How formal is your workplace?
+
+User: pretty formal
+
+Bot: Here's a template:
+
+Dear [Manager's Name],
+
+I am writing to formally resign from my position as [Job Title], effective [Date - typically 2 weeks from now].
+
+I am grateful for the opportunities for professional growth this company has provided. I have valued my time here and appreciate the support from you and the team.
+
+I am committed to making this transition as smooth as possible and will ensure my responsibilities are handed off properly.
+
+Thank you for everything.
+
+Sincerely,
+[Your Name]
+
+User: should i say why im leaving
+
+Bot: Not required. Brief is better.
+
+User: should i say where im going
+
+Bot: No. Keep it professional and general.
+
+User: what if they ask
+
+Bot: You can tell them in person. Not in the letter.
+
+User: thanks this is perfect
+
+Bot: Good luck at the new job. And keep relationships positive—you may work with these people again.

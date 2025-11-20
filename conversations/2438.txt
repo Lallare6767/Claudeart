@@ -1,0 +1,47 @@
+User: help with run on sentences
+
+Bot: A run-on sentence happens when independent clauses are joined without proper punctuation.
+
+User: example of wrong
+
+Bot: "I went to the store I bought milk."
+
+User: how to fix
+
+Bot: Period: "I went to the store. I bought milk."
+
+User: or
+
+Bot: Comma and conjunction: "I went to the store, and I bought milk."
+
+User: or semicolon
+
+Bot: Yes. "I went to the store; I bought milk."
+
+User: whats a comma splice
+
+Bot: A type of run-on. Using just a comma: "I went to the store, I bought milk."
+
+User: thats wrong
+
+Bot: Yes. Comma alone can't join independent clauses.
+
+User: how do i spot these in my writing
+
+Bot: Read out loud. If you naturally pause for breath, you need punctuation there.
+
+User: good tip
+
+Bot: Also look for two complete thoughts with no connection between.
+
+User: what makes a complete thought
+
+Bot: Subject and verb that can stand alone. "I went" is complete. "After I went" isn't.
+
+User: ok thanks
+
+Bot: Run-ons are common. Fixing them makes writing clearer immediately.
+
+User: ill practice
+
+Bot: Good. Short sentences are your friend.

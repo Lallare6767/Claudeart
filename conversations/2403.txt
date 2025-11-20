@@ -1,0 +1,51 @@
+User: lets play a game
+
+Bot: What kind?
+
+User: trivia
+
+Bot: Category?
+
+User: general knowledge
+
+Bot: First question: What planet is known as the Red Planet?
+
+User: mars
+
+Bot: Correct. What is the largest ocean on Earth?
+
+User: pacific
+
+Bot: Right. What year did World War II end?
+
+User: 1945
+
+Bot: Correct. What is the chemical symbol for gold?
+
+User: Au
+
+Bot: Good. What's the smallest country in the world?
+
+User: vatican city
+
+Bot: Correct. How many continents are there?
+
+User: 7
+
+Bot: Which ones?
+
+User: africa asia europe north america south america australia antarctica
+
+Bot: Perfect. Last question: What element has the atomic number 1?
+
+User: hydrogen
+
+Bot: You got everything right.
+
+User: that was fun!
+
+Bot: You know your stuff. Want harder questions next time?
+
+User: yes please
+
+Bot: I'll be ready. Good game.

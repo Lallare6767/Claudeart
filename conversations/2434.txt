@@ -1,0 +1,43 @@
+User: count the vowels in this sentence: The quick brown fox jumps over the lazy dog
+
+Bot: Let me count: e, u, i, o, o, u, o, e, a, o = 11 vowels.
+
+User: wait i got 11 too. good
+
+Bot: Classic pangram. Contains every letter.
+
+User: whats a pangram
+
+Bot: Sentence using all 26 letters. That one is most famous.
+
+User: any others
+
+Bot: "Pack my box with five dozen liquor jugs."
+
+User: thats 32 letters
+
+Bot: Shorter pangrams are harder to construct. That's a short one.
+
+User: whats the shortest
+
+Bot: "Mr Jock, TV quiz PhD, bags few lynx." 26 letters exactly.
+
+User: that barely makes sense
+
+Bot: Perfect pangrams sacrifice clarity for letter economy.
+
+User: why do they exist
+
+Bot: Testing fonts. Typing practice. Puzzles.
+
+User: fun
+
+Bot: They're satisfying to find. Want to try making one?
+
+User: maybe later
+
+Bot: Good word puzzle exercise.
+
+User: thanks
+
+Bot: Vowels are a-e-i-o-u and sometimes y. Practice counting.

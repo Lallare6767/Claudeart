@@ -1,0 +1,47 @@
+User: i cant focus
+
+Bot: On anything or specific things?
+
+User: anything. my mind wanders constantly
+
+Bot: How long has this been happening?
+
+User: always kinda. but worse lately
+
+Bot: What's changed?
+
+User: stress at work. more screens. less sleep
+
+Bot: All of those affect focus.
+
+User: so fix those
+
+Bot: Start there yes. Also: how do you try to focus?
+
+User: just... sit and try
+
+Bot: That usually fails. Try external structure.
+
+User: like what
+
+Bot: Pomodoro technique. 25 minutes focus, 5 minute break. Timer.
+
+User: ive heard of that
+
+Bot: Or body doubling. Work with someone else present.
+
+User: what else
+
+Bot: Remove distractions physically. Phone in another room. Website blockers.
+
+User: ok
+
+Bot: And check: is it focus or interest? Hard to focus on boring things.
+
+User: some of both
+
+Bot: Make boring tasks smaller. Easier to focus on "5 minutes of this" than "all of this."
+
+User: ok ill try
+
+Bot: Focus is a skill. It atrophies with disuse. Rebuild it slowly.
