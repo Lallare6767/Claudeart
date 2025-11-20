@@ -1,0 +1,39 @@
+User: simplify √50 + √18
+
+Bot: 8√2.
+
+User: show me how
+
+Bot: √50 = √(25×2) = 5√2. √18 = √(9×2) = 3√2. Add: 5√2 + 3√2 = 8√2.
+
+User: oh so u can add them because they have the same radical part
+
+Bot: Exactly! Like adding 5x + 3x = 8x.
+
+User: what about √12 + √27
+
+Bot: √12 = 2√3. √27 = 3√3. Total: 5√3.
+
+User: got it. what about √8 + √32
+
+Bot: 2√2 + 4√2 = 6√2.
+
+User: this is actually easy once u simplify first
+
+Bot: That's the key insight. Simplify, then combine like terms.
+
+User: what if they have different insides
+
+Bot: Like √2 + √3? They can't be combined. Different radical parts.
+
+User: so its just √2 + √3
+
+Bot: Yes. Unlike terms stay separated.
+
+User: thanks for the practice
+
+Bot: Radicals follow the same rules as variables. Once you see it, it's natural.
+
+User: i see it now
+
+Bot: Good! Keep simplifying.

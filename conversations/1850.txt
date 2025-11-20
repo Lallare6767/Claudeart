@@ -1,0 +1,43 @@
+User: help me write a bio for dating app
+
+Bot: Sure! What are your main interests and what vibe do you want?
+
+User: hiking and cooking. funny but not trying too hard
+
+Bot: "I'll make you dinner if you make me laugh. Weekend hiker, weeknight cook. Looking for someone to share trails and meals with."
+
+User: ooh thats good
+
+Bot: It shows interests without being a list and sounds like a real person.
+
+User: should i mention my job
+
+Bot: Briefly if it's interesting or not at all. Unless you're looking for career compatibility.
+
+User: its kind of boring
+
+Bot: Then leave it out. Lead with personality.
+
+User: what about height
+
+Bot: Your call. Some people filter by it, some don't care.
+
+User: what should i not say
+
+Bot: No "I never know what to write here." No lists of requirements. No negativity.
+
+User: i was gonna start with that first one
+
+Bot: Everyone does. It wastes space and shows no effort.
+
+User: ok ok
+
+Bot: Also avoid: sarcasm is my love language, love to laugh, looking for a partner in crime.
+
+User: those are all overused?
+
+Bot: Extremely. Stand out by being specific and genuine.
+
+User: thanks this helps a lot
+
+Bot: Good luck out there. Be yourself and someone will like it.

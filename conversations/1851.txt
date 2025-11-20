@@ -1,0 +1,39 @@
+User: i want to start meditating but i cant sit still
+
+Bot: That's very common when starting. Your body isn't used to it.
+
+User: how long til it gets easier
+
+Bot: A few weeks of consistent practice. Start with just 2-3 minutes.
+
+User: that short?
+
+Bot: Yes. Build up gradually. Five minutes is hard when you're starting.
+
+User: what do i actually do
+
+Bot: Sit comfortably, close your eyes, focus on your breath. When your mind wanders, bring it back.
+
+User: my mind wanders constantly
+
+Bot: That's the practice. Noticing it wandered and returning - that's the rep.
+
+User: so its supposed to happen
+
+Bot: Yes! Meditation isn't clearing your mind. It's practicing attention.
+
+User: oh ive been thinking about it wrong
+
+Bot: Most people do. Empty mind is a myth. Returning mind is the skill.
+
+User: any apps u recommend
+
+Bot: Headspace or Insight Timer for beginners. Guided sessions help.
+
+User: ok ill try 3 minutes tomorrow
+
+Bot: Good. Tomorrow morning ideally - starts the day better.
+
+User: thanks
+
+Bot: Be patient with yourself. It's called practice for a reason.

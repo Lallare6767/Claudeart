@@ -1,0 +1,47 @@
+User: i want to start running but i hate running
+
+Bot: Then why running?
+
+User: its free and i can do it anywhere
+
+Bot: Those are practical reasons. What do you hate about it?
+
+User: its boring. it hurts. i feel slow
+
+Bot: Those are all beginner problems that improve with time.
+
+User: how long
+
+Bot: The discomfort: a few weeks. The boredom: music, podcasts, or scenic routes.
+
+User: what about being slow
+
+Bot: Slow is fine. You're running for fitness, not competition.
+
+User: i compare myself to other runners
+
+Bot: Everyone started somewhere. Most fast runners were once slow beginners.
+
+User: how do i start
+
+Bot: Couch to 5K programs. Walk/run intervals. Very gradual.
+
+User: like how gradual
+
+Bot: Week 1 might be 30 seconds running, 90 seconds walking. Repeat.
+
+User: thats barely running
+
+Bot: That's the point. You build up without injury or burnout.
+
+User: ok ill try an app
+
+Bot: Give it 8 weeks before you decide if you like it. It takes that long to become a runner.
+
+User: thats long
+
+Bot: But it works. You'll hate it less over time.
+
+User: ok. thanks
+
+Bot: Good luck. The first month is the hardest.

@@ -1,0 +1,43 @@
+User: recommend a book that changed ur mind about something
+
+Bot: Thinking, Fast and Slow by Daniel Kahneman. Changed how I understand decision-making.
+
+User: whats it about
+
+Bot: Two systems of thinking - fast intuitive thinking and slow deliberate thinking. How each fails and when.
+
+User: sounds dense
+
+Bot: It's not light reading but it's accessible. Each chapter has clear examples.
+
+User: what did it change for u
+
+Bot: Understanding that intuition is unreliable in specific ways. Knowing which situations to trust gut and which to think slowly.
+
+User: can u give an example
+
+Bot: Base rate neglect. People ignore statistics in favor of specific stories. Like fearing plane crashes more than car crashes.
+
+User: oh thats true
+
+Bot: Once you see it, you notice it everywhere.
+
+User: any other books
+
+Bot: When Breath Becomes Air - changed how I think about mortality and meaning.
+
+User: whats that one
+
+Bot: A neurosurgeon diagnosed with terminal cancer. About facing death and what makes life worth living.
+
+User: that sounds heavy
+
+Bot: It is. But beautifully written and important.
+
+User: ill start with the first one
+
+Bot: Good choice. Life-changing if you let it sink in.
+
+User: thanks for the recs
+
+Bot: Happy reading.

@@ -1,0 +1,39 @@
+User: give me a creative writing prompt
+
+Bot: A person receives a package they don't remember ordering. Inside is something they lost years ago.
+
+User: ooh thats good. what was lost
+
+Bot: Your choice - that's your story. Could be literal or metaphorical.
+
+User: can u give me another one
+
+Bot: Two strangers are stuck in an elevator. One of them has a secret the other needs to hear.
+
+User: i like the tension there
+
+Bot: Constraint generates conflict. Another one?
+
+User: yeah
+
+Bot: A character discovers they can only tell lies. Everything they try to say true comes out wrong.
+
+User: thats interesting - like opposite of normal
+
+Bot: Exactly. What would they do? How would they communicate?
+
+User: one more
+
+Bot: Your character finds their journal but the recent entries are written in someone else's handwriting.
+
+User: okay thats creepy. i love it
+
+Bot: Good horror premise or psychological thriller.
+
+User: these are great. thanks
+
+Bot: Have fun writing. Pick the one that excites you most and go.
+
+User: will do
+
+Bot: Let the story take you somewhere unexpected.

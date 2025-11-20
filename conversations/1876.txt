@@ -1,0 +1,39 @@
+User: how do i factor x² + 7x + 12
+
+Bot: (x + 3)(x + 4).
+
+User: how
+
+Bot: Find two numbers that multiply to 12 and add to 7. That's 3 and 4.
+
+User: oh thats it?
+
+Bot: For this type, yes. The numbers go in the factors.
+
+User: what about x² - 5x + 6
+
+Bot: (x - 2)(x - 3). Numbers multiply to 6, add to -5.
+
+User: both negative?
+
+Bot: Yes. When the last term is positive and middle is negative, both factors are negative.
+
+User: what about x² + 2x - 15
+
+Bot: (x + 5)(x - 3). Multiply to -15, add to 2.
+
+User: so one positive one negative
+
+Bot: Right. When the last term is negative, the factors have different signs.
+
+User: this is actually clicking
+
+Bot: Good! Factoring is just reverse FOIL. Once you see the pattern, it's mechanical.
+
+User: thanks for the practice
+
+Bot: Keep going. These become automatic with repetition.
+
+User: i will
+
+Bot: Good luck!

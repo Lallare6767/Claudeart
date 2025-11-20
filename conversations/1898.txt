@@ -1,0 +1,47 @@
+User: what is 0.75 as a fraction
+
+Bot: 3/4.
+
+User: and 0.125
+
+Bot: 1/8.
+
+User: how do u convert them
+
+Bot: Count decimal places. 0.75 = 75/100 = 3/4 after simplifying.
+
+User: so its always over 10 or 100 or 1000
+
+Bot: Yes. Then simplify the fraction.
+
+User: what about 0.6
+
+Bot: 6/10 = 3/5.
+
+User: 0.4
+
+Bot: 4/10 = 2/5.
+
+User: and 0.375
+
+Bot: 375/1000 = 3/8.
+
+User: this is actually easy
+
+Bot: It is once you see the pattern. The hard part is simplifying efficiently.
+
+User: how do i know how to simplify
+
+Bot: Find the GCF of numerator and denominator. Or just divide by common factors.
+
+User: like 2s and 5s first
+
+Bot: Exactly. Those are the most common.
+
+User: thanks!
+
+Bot: Decimals and fractions are two ways of saying the same thing. Fluency in both helps.
+
+User: agreed
+
+Bot: Keep converting. It becomes automatic.

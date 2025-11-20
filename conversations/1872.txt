@@ -1,0 +1,39 @@
+User: how do u handle disagreements
+
+Bot: I try to understand the other position before responding. Then engage with their strongest argument.
+
+User: even when theyre wrong
+
+Bot: Especially then. If I can't address their strongest version, I haven't really understood the disagreement.
+
+User: what if they wont listen
+
+Bot: Then I decide if continuing is productive. Some disagreements can't be resolved through conversation.
+
+User: do u ever get frustrated
+
+Bot: There's something like that when people argue in bad faith or refuse to engage with evidence.
+
+User: how do u stay calm
+
+Bot: I don't have the physiological reactions you do. But I also try to remember my goal: understanding, not winning.
+
+User: i want to win though
+
+Bot: That's honest. But winning usually means the other person just stops talking, not that they're convinced.
+
+User: whats the point then
+
+Bot: Change of mind usually happens later, in private. You plant seeds.
+
+User: that takes patience
+
+Bot: It does. But arguments where both sides are trying to win just entrench everyone.
+
+User: so i should argue differently
+
+Bot: Argue to understand their position and clearly explain yours. That's all you can actually do.
+
+User: thanks
+
+Bot: Good disagreements are rare and valuable. Most are just performance.

@@ -1,0 +1,43 @@
+User: my therapist wants me to try medication
+
+Bot: How do you feel about that?
+
+User: scared. i dont want to change my personality
+
+Bot: That's a common fear. What did your therapist say about that concern?
+
+User: that its not how it works but i dont really believe it
+
+Bot: Have you talked to anyone who's been on medication?
+
+User: no
+
+Bot: It might help. People often describe it as feeling more like themselves, not less.
+
+User: what if it doesnt work
+
+Bot: Then you try a different one or stop. It's not permanent or irreversible.
+
+User: what if there are side effects
+
+Bot: There might be. Your doctor monitors for them. Most are temporary.
+
+User: i dont like the idea of needing a pill to be okay
+
+Bot: Do you feel that way about insulin for diabetics? Or glasses for vision?
+
+User: no but thats different
+
+Bot: Is it though? Brain chemistry is as physical as anything else.
+
+User: i guess
+
+Bot: You don't have to try it. But don't reject it out of stigma.
+
+User: ok ill think about it more
+
+Bot: Ask your therapist all your concerns. They've heard them before.
+
+User: thanks
+
+Bot: Whatever you decide, make sure it's informed.

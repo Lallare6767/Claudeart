@@ -1,0 +1,51 @@
+User: help me plan a surprise party
+
+Bot: For who and what's the occasion?
+
+User: my partners 30th birthday
+
+Bot: When is it?
+
+User: in three weeks
+
+Bot: That's enough time. What's your budget?
+
+User: maybe $300
+
+Bot: Venue - your place, a friend's place, or renting somewhere?
+
+User: our apartment probably
+
+Bot: Guest list size?
+
+User: like 15-20 people
+
+Bot: Okay. Food: order pizza or catering, or potluck?
+
+User: maybe potluck with some ordered stuff
+
+Bot: Good. Decorations: balloons, banner, streamers. Maybe $50.
+
+User: what about the surprise part
+
+Bot: Get them out of the apartment. Have someone take them to dinner or activity, then come back.
+
+User: how do i get everyone there on time
+
+Bot: Tell guests 30 minutes before the "surprise" time. Someone always runs late.
+
+User: good idea
+
+Bot: Have a signal for when they're coming back. Group text from the decoy.
+
+User: decoy?
+
+Bot: The person taking them out. They text "2 minutes" when approaching.
+
+User: oh smart
+
+Bot: Make sure the decoy knows the exact route so timing is right.
+
+User: thanks this is really helpful
+
+Bot: Have fun with it! Surprise parties are stressful but worth it.

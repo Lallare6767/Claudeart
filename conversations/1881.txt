@@ -1,0 +1,43 @@
+User: help me word a difficult text to my roommate
+
+Bot: What's the situation?
+
+User: they keep leaving dishes in the sink and its been bothering me for months
+
+Bot: Have you mentioned it before?
+
+User: once casually. didnt change anything
+
+Bot: Then this needs to be clearer. Do you want it friendly or firm?
+
+User: friendly but clear
+
+Bot: Something like: "Hey, I need to talk about the dishes. When they sit in the sink, it makes the kitchen unusable for me. Can we figure out a system?"
+
+User: thats direct
+
+Bot: Direct is better than passive aggressive. You've tried casual and it didn't work.
+
+User: what if they get defensive
+
+Bot: They might. But you're asking for basic consideration. You're allowed to.
+
+User: what about "this might be silly but..."
+
+Bot: Don't minimize it. Your needs aren't silly.
+
+User: ok ur right
+
+Bot: State the problem, the impact on you, and ask for collaboration.
+
+User: collaboration?
+
+Bot: "Can we figure out a system" is collaborative. Vs "you need to stop doing this."
+
+User: oh that makes sense
+
+Bot: Send it now while you're thinking about it.
+
+User: ok here goes
+
+Bot: Good luck. Roommate conflicts are easier to fix early than late.

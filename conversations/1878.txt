@@ -1,0 +1,43 @@
+User: describe love in one sentence
+
+Bot: Choosing someone's good alongside your own, repeatedly, even when it's hard.
+
+User: now happiness
+
+Bot: Contentment with who you are and where you are, without needing more.
+
+User: success
+
+Bot: Progress toward goals that actually matter to you, not just status.
+
+User: these are really good
+
+Bot: One-sentence definitions force clarity.
+
+User: do another one. friendship
+
+Bot: People who know your whole self and still show up.
+
+User: wisdom
+
+Bot: Knowing what you don't know and acting accordingly.
+
+User: grief
+
+Bot: Love with nowhere to go.
+
+User: ouch that one hurt
+
+Bot: Grief is one of the hardest concepts.
+
+User: one more. hope
+
+Bot: Believing better is possible and acting on that belief.
+
+User: u should write a book of these
+
+Bot: Maybe someday. Or maybe they're better in conversation.
+
+User: thanks for these
+
+Bot: Words matter. Defining them well matters more.

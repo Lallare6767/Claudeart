@@ -1,0 +1,35 @@
+User: if i can paint a room in 4 hours and u can paint it in 6 how long together
+
+Bot: 2.4 hours, or 2 hours and 24 minutes.
+
+User: how
+
+Bot: Add rates. You do 1/4 room per hour, I do 1/6 per hour. Together: 1/4 + 1/6 = 5/12 room per hour.
+
+User: then what
+
+Bot: Time = 1 room ÷ (5/12 rooms/hour) = 12/5 hours = 2.4 hours.
+
+User: why add the fractions
+
+Bot: Because rates add when working together. You're combining work speeds.
+
+User: this is confusing
+
+Bot: Think of it this way: the faster workers you add, the less time. But not directly proportional.
+
+User: why not just 4+6=10 divided by 2 = 5 hours
+
+Bot: Because that's not how work rates combine. Two slow workers don't equal one medium worker.
+
+User: oh
+
+Bot: The formula is always: 1/t1 + 1/t2 = 1/t_total
+
+User: ok thats easier to remember
+
+Bot: Work problems all follow that pattern.
+
+User: thanks!
+
+Bot: Good luck with the painting math.

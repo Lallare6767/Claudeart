@@ -1,0 +1,39 @@
+User: whats the quadratic formula
+
+Bot: x = (-b ± √(b² - 4ac)) / 2a
+
+User: can u use it on x² + 5x + 6 = 0
+
+Bot: Sure. a=1, b=5, c=6. x = (-5 ± √(25-24)) / 2 = (-5 ± 1) / 2.
+
+User: so
+
+Bot: x = (-5+1)/2 = -2 or x = (-5-1)/2 = -3.
+
+User: cool. what about x² - 4x + 3 = 0
+
+Bot: a=1, b=-4, c=3. x = (4 ± √(16-12)) / 2 = (4 ± 2) / 2.
+
+User: so 3 or 1?
+
+Bot: Yes! x = 3 or x = 1.
+
+User: when do u use it vs factoring
+
+Bot: Quadratic formula always works. Factoring is faster when it's obvious.
+
+User: so formula is the backup
+
+Bot: More like the universal tool. Factoring is the shortcut for nice numbers.
+
+User: what if the stuff under the root is negative
+
+Bot: No real solutions. The parabola doesn't cross the x-axis.
+
+User: oh like that imaginary number thing
+
+Bot: Exactly. Negative discriminant means complex roots.
+
+User: thanks for the refresher
+
+Bot: Quadratic formula is worth memorizing. You'll use it forever.

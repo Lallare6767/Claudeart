@@ -1,0 +1,43 @@
+User: i have too many things i want to do and not enough time
+
+Bot: What are you trying to do?
+
+User: read more. exercise. learn guitar. side project. social life
+
+Bot: That's a lot even if you had infinite time.
+
+User: i know but i want all of it
+
+Bot: You can have all of it, just not all at once at full intensity.
+
+User: how do i prioritize
+
+Bot: Which ones have the most impact on your wellbeing?
+
+User: exercise and social life probably
+
+Bot: Then those get first priority.
+
+User: but i also really want to learn guitar
+
+Bot: Rotate. Maybe this quarter is guitar, next quarter is the side project.
+
+User: seasons?
+
+Bot: Yes. Not everything has to happen simultaneously. Give things dedicated periods.
+
+User: that feels slow
+
+Bot: It is. But scattered attention on five things means no progress on any.
+
+User: true
+
+Bot: Pick two main things. The others become occasional, not continuous.
+
+User: ok exercise and guitar. social life as needed
+
+Bot: Good. In three months, reassess. Add or swap as needed.
+
+User: thanks for helping me prioritize
+
+Bot: Focus beats spread. Go make progress.

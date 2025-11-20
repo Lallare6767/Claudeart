@@ -1,0 +1,39 @@
+User: how do i know if i need therapy
+
+Bot: Some signs: persistent sadness, anxiety affecting daily life, relationships suffering, feeling stuck, trauma you haven't processed.
+
+User: i have some of those
+
+Bot: Then it's probably worth trying.
+
+User: but i dont know if its bad enough
+
+Bot: You don't have to be in crisis to benefit. Most people go for tune-ups, not emergencies.
+
+User: wont they think my problems are small
+
+Bot: Therapists hear everything from mild stress to severe trauma. Your problems are valid.
+
+User: what do i say in the first session
+
+Bot: They'll guide you. Generally: what brought you here, your history, your goals.
+
+User: goals?
+
+Bot: What you want to change. "Feel less anxious" or "improve relationships" or "understand myself better."
+
+User: i dont have a specific goal
+
+Bot: "I'm not sure what I need, just that I'm not okay" is enough to start.
+
+User: ok maybe ill try it
+
+Bot: You don't have to commit. One session to see if it helps.
+
+User: how do i find one
+
+Bot: Insurance list, Psychology Today, or ask your doctor for referrals.
+
+User: ok thanks
+
+Bot: Good luck. Taking care of your mental health is smart, not weak.

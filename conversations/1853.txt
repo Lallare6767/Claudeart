@@ -1,0 +1,39 @@
+User: what is 40% of 250
+
+Bot: 100.
+
+User: and 250 is 40% of what
+
+Bot: 625.
+
+User: wait how
+
+Bot: If 250 = 0.4x, then x = 250/0.4 = 625.
+
+User: oh so u flip it
+
+Bot: Yes. "A is B% of C" is different from "B% of A is C."
+
+User: this always confuses me
+
+Bot: Slow down and write it out. Figure out which variable you're solving for.
+
+User: any tips
+
+Bot: The word "of" usually means multiply. "Is" usually means equals.
+
+User: oh thats helpful
+
+Bot: So "40% of 250 is what" becomes 0.4 × 250 = x.
+
+User: and "250 is 40% of what" becomes 250 = 0.4 × x
+
+Bot: Exactly. Then solve for x.
+
+User: im gonna remember that
+
+Bot: Translation is the key. Turn words into equations, then calculate.
+
+User: thanks!
+
+Bot: Percentages are just language puzzles. Once you crack the translation, you're good.

@@ -1,0 +1,43 @@
+User: whats 7 plus 8 times 3
+
+Bot: 31.
+
+User: not 45?
+
+Bot: No. Order of operations. Multiplication first: 8 × 3 = 24. Then add 7. Total: 31.
+
+User: i always forget that
+
+Bot: PEMDAS. Multiplication and division before addition and subtraction.
+
+User: what about (7 + 8) times 3
+
+Bot: Then it's 45. Parentheses change everything.
+
+User: so parentheses are powerful
+
+Bot: They override the normal order. Use them when you want to change precedence.
+
+User: what about 10 - 2 × 3
+
+Bot: 4. Multiply first: 2 × 3 = 6. Then 10 - 6 = 4.
+
+User: not 24
+
+Bot: No. Common mistake though.
+
+User: this trips me up
+
+Bot: It trips up most people. Just remember: multiply and divide first, left to right. Then add and subtract.
+
+User: left to right matters?
+
+Bot: Yes for same-level operations. 8 ÷ 2 × 4 = 16, not 1.
+
+User: ok this is making sense
+
+Bot: Practice a few and it becomes automatic.
+
+User: thanks!
+
+Bot: You've got this.

@@ -1,0 +1,39 @@
+User: if 3x - 7 = 2x + 5 what is x
+
+Bot: x = 12.
+
+User: show me
+
+Bot: Subtract 2x from both sides: x - 7 = 5. Add 7: x = 12.
+
+User: what about 5x + 3 = 3x + 11
+
+Bot: x = 4.
+
+User: let me try. subtract 3x: 2x + 3 = 11. subtract 3: 2x = 8. divide by 2: x = 4
+
+Bot: Perfect!
+
+User: what about 4(x - 2) = 2x + 6
+
+Bot: x = 7.
+
+User: ok distribute first: 4x - 8 = 2x + 6. subtract 2x: 2x - 8 = 6. add 8: 2x = 14. x = 7
+
+Bot: Excellent. You've got this.
+
+User: these feel good to solve
+
+Bot: There's something satisfying about equations working out.
+
+User: yeah like a puzzle
+
+Bot: Algebra is puzzles with rules. Same satisfaction when it clicks.
+
+User: thanks for the practice
+
+Bot: Keep solving. The skill stays with practice.
+
+User: will do
+
+Bot: Good luck!

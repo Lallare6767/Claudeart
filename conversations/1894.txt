@@ -1,0 +1,43 @@
+User: help me think of conversation starters for networking
+
+Bot: What kind of event?
+
+User: industry conference. dont know anyone
+
+Bot: Ask about their work: "What brings you to this conference?" or "What's been the most interesting session so far?"
+
+User: those are good
+
+Bot: "How did you get into [industry]?" works well. People like telling their origin story.
+
+User: what if i blank
+
+Bot: Have three questions prepared in advance. Pull from them when needed.
+
+User: what if they give short answers
+
+Bot: Ask follow-ups. "Tell me more about that" or "How does that work?"
+
+User: and if its awkward
+
+Bot: It'll be awkward sometimes. That's okay. Move on politely.
+
+User: what do i say to end a convo
+
+Bot: "Well, I should go mingle, but nice talking with you!" Then actually move.
+
+User: should i exchange contacts
+
+Bot: If the conversation was good, yes. "I'd love to continue this - can I get your card?"
+
+User: what if they seem uninterested
+
+Bot: Let them go. Networking is numbers. Not everyone will be a connection.
+
+User: this helps a lot
+
+Bot: Preparation beats social anxiety. Go in with your questions ready.
+
+User: thanks
+
+Bot: Good luck at the conference.

@@ -1,0 +1,39 @@
+User: solve: x² - 9 = 0
+
+Bot: x = 3 or x = -3.
+
+User: how
+
+Bot: x² = 9. Take the square root of both sides. Remember it can be positive or negative.
+
+User: what about x² - 16 = 0
+
+Bot: x = 4 or x = -4.
+
+User: and x² + 9 = 0
+
+Bot: No real solutions.
+
+User: why not
+
+Bot: x² = -9. You can't square a real number and get a negative. That's where imaginary numbers come in.
+
+User: oh so some equations have no answer
+
+Bot: No real answer. In complex numbers, x = 3i or x = -3i.
+
+User: whats i
+
+Bot: The imaginary unit. i² = -1.
+
+User: math gets weird
+
+Bot: It extends to solve problems that real numbers can't. Useful in physics and engineering.
+
+User: ill stick to real numbers for now
+
+Bot: Fair. But it's good to know the concept exists.
+
+User: thanks
+
+Bot: Keep practicing quadratics.

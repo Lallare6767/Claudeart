@@ -1,0 +1,43 @@
+User: just got home from the best concert ever
+
+Bot: Who did you see?
+
+User: smaller band i love. tiny venue. so intimate
+
+Bot: Those are the best shows. Who was it?
+
+User: probably no one youve heard of. local folk band
+
+Bot: Try me. I know a lot of music.
+
+User: the wildwood collective
+
+Bot: I don't know them specifically but folk in small venues sounds amazing.
+
+User: it was magical. they played right in front of us
+
+Bot: No barrier between artist and audience. That's rare and special.
+
+User: i almost cried during one song
+
+Bot: Music can hit you like that. Which song?
+
+User: one about leaving home. i just moved here
+
+Bot: Resonance. When art meets your life perfectly.
+
+User: exactly
+
+Bot: Are they touring more? You should see them again.
+
+User: they have another show next month
+
+Bot: Go. Support small artists who move you.
+
+User: i will. thanks for letting me gush
+
+Bot: Live music is worth gushing about. Glad you had that experience.
+
+User: me too
+
+Bot: Hold onto that feeling. It's what music is for.

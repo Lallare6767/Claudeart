@@ -1,0 +1,43 @@
+User: what 6 letter word has three consecutive double letters
+
+Bot: Bookkeeper.
+
+User: wait thats 10 letters
+
+Bot: You're right! Let me reconsider... there's no common 6-letter word with three consecutive double letters.
+
+User: i think the riddle might be broken
+
+Bot: Possibly. Or the answer is something obscure. Do you know the answer?
+
+User: the internet says committee but thats 9 letters
+
+Bot: Another wrong answer floating around. The riddle might be misremembered.
+
+User: thats frustrating
+
+Bot: A lot of riddles get garbled in transmission. Like the "bank" riddle with multiple wrong versions.
+
+User: what riddle is that
+
+Bot: "Where can you deposit money but not withdraw it?" with various incorrect answers.
+
+User: so some riddles are just bad
+
+Bot: Some are. They sound clever but don't actually work.
+
+User: lol at least i know now
+
+Bot: Test riddles before you share them. Save yourself embarrassment.
+
+User: good advice
+
+Bot: Want a riddle that actually works?
+
+User: sure
+
+Bot: I can be cracked, made, told, and played. What am I? A joke.
+
+User: nice. that one works
+
+Bot: Quality over quantity with riddles.

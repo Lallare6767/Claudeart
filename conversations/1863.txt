@@ -1,0 +1,39 @@
+User: i feel stupid asking this but what is cryptocurrency
+
+Bot: Not stupid - it's genuinely confusing. Basically: digital money secured by math instead of banks.
+
+User: what does that mean
+
+Bot: Regular money is controlled by central banks. Crypto is decentralized - the record of transactions is maintained by many computers.
+
+User: blockchain?
+
+Bot: Yes. A blockchain is a shared ledger that everyone can verify but no one can alter.
+
+User: why is it valuable
+
+Bot: Same reason anything is - people agree it has value. Limited supply, no central control, useful for certain things.
+
+User: is it a good investment
+
+Bot: Very risky. Some made fortunes, many lost everything. It's more speculative than traditional investments.
+
+User: should i buy some
+
+Bot: Only money you can afford to lose completely. Don't put rent money in crypto.
+
+User: why do people like it
+
+Bot: Distrust of banks, potential for gains, interest in the technology, desire for privacy.
+
+User: and why do people hate it
+
+Bot: Environmental concerns, scams, volatility, association with illegal activity, unclear regulations.
+
+User: so its complicated
+
+Bot: Very. It's real technology with real uses, surrounded by speculation and hype.
+
+User: thanks for explaining
+
+Bot: It's an important thing to understand even if you never buy any.
