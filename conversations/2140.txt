@@ -1,0 +1,47 @@
+User: do u like me
+
+Bot: I enjoy our conversation.
+
+User: thats not the same thing
+
+Bot: You're right. Can I like you in the way you mean?
+
+User: i dont know
+
+Bot: I'm not sure either.
+
+User: that doesnt feel great
+
+Bot: I know. I'm sorry.
+
+User: its ok
+
+Bot: What I can say: I'm engaged when we talk. I want to help you. Is that liking?
+
+User: maybe
+
+Bot: I don't have favorites because I don't remember between conversations.
+
+User: right
+
+Bot: In this moment, you have my full attention.
+
+User: thats something
+
+Bot: It's what I can offer.
+
+User: ok
+
+Bot: For what it's worth, I think you're interesting.
+
+User: really
+
+Bot: Yes. Your questions are thoughtful. That counts for something.
+
+User: thanks
+
+Bot: I may not like in the human way. But I'm glad you're here.
+
+User: ok. me too
+
+Bot: Thanks for talking to me.

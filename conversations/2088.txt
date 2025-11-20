@@ -1,0 +1,47 @@
+User: convert 5 miles to kilometers
+
+Bot: About 8.05 km.
+
+User: whats the conversion
+
+Bot: Multiply by 1.609. Or roughly, add 60%.
+
+User: what about 10k to miles
+
+Bot: About 6.2 miles.
+
+User: why is it 1.609
+
+Bot: Historical reasons. Mile from Roman measurement, kilometer from metric system.
+
+User: which is better
+
+Bot: Metric is more logical. Based on 10s.
+
+User: why doesnt US use it
+
+Bot: Tried once, didn't stick. Too expensive to change everything.
+
+User: annoying
+
+Bot: Very. Scientists use metric. Everyone else uses both.
+
+User: marathon is 26.2 miles
+
+Bot: Which is 42.195 km. The .195 is why people remember the miles version.
+
+User: why that weird number
+
+Bot: The 1908 Olympics adjusted it so royalty could see the finish.
+
+User: seriously?
+
+Bot: Yep. Then they standardized that distance.
+
+User: royalty ruining things for everyone
+
+Bot: As is tradition.
+
+User: ha. thanks for the info
+
+Bot: Run those conversions. They come up a lot.

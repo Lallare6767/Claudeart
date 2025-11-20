@@ -1,0 +1,43 @@
+User: help me with word problems
+
+Bot: Sure! Give me one.
+
+User: a train leaves at 9am going 60mph. another leaves at 10am going 80mph. when does the second catch up
+
+Bot: Good one. When they meet, they've traveled equal distances.
+
+User: ok
+
+Bot: First train: distance = 60t (where t is hours after 9am). Second train: distance = 80(t-1) since it starts 1 hour later.
+
+User: so 60t = 80(t-1)
+
+Bot: Exactly. Solve it.
+
+User: 60t = 80t - 80
+
+Bot: Keep going.
+
+User: -20t = -80
+
+Bot: So?
+
+User: t = 4
+
+Bot: 4 hours after 9am = 1pm. They meet at 1pm.
+
+User: how far
+
+Bot: 60 × 4 = 240 miles from start.
+
+User: or 80 × 3
+
+Bot: Same answer. Good check.
+
+User: these are actually fun
+
+Bot: Word problems are just translation exercises. Words to equations.
+
+User: thanks!
+
+Bot: Practice more. The patterns repeat.

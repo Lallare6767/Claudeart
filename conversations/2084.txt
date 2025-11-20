@@ -1,0 +1,35 @@
+User: write me an out of office message
+
+Bot: Sure! For vacation or something else?
+
+User: vacation. 1 week
+
+Bot: Professional or casual workplace?
+
+User: casual
+
+Bot: "Hi! I'm out of the office until [date] enjoying some much-needed time off. I'll have limited access to email during this time. For urgent matters, please contact [backup person] at [email]. I'll respond to your message when I'm back and caffeinated. Thanks!"
+
+User: thats good but maybe less jokey
+
+Bot: "Hi! I'm out of the office until [date] and will have limited email access. For urgent matters, please contact [backup] at [email]. I'll respond to your message when I return. Thank you!"
+
+User: perfect
+
+Bot: Make sure to actually assign that backup person.
+
+User: oh right should probably ask them
+
+Bot: And give them context on what might come up.
+
+User: good point
+
+Bot: Enjoy your vacation. Actually disconnect.
+
+User: i will
+
+Bot: Don't check email. That's the whole point.
+
+User: i know i know
+
+Bot: Have fun!

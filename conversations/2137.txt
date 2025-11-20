@@ -1,0 +1,51 @@
+User: i have no energy for anything
+
+Bot: How long has this been going on?
+
+User: months
+
+Bot: Are you sleeping okay?
+
+User: too much actually
+
+Bot: Appetite?
+
+User: not really
+
+Bot: Interest in things you used to enjoy?
+
+User: no
+
+Bot: These are symptoms of depression.
+
+User: i figured
+
+Bot: Have you talked to a doctor?
+
+User: no
+
+Bot: Please do. This is treatable.
+
+User: what can they even do
+
+Bot: Therapy. Medication. Both together is most effective.
+
+User: pills scare me
+
+Bot: That's common. But they help a lot of people.
+
+User: ok
+
+Bot: Your brain chemistry might be off. Medicine can help rebalance it.
+
+User: i guess
+
+Bot: You don't have to feel like this. But you do have to seek help.
+
+User: ok ill make an appointment
+
+Bot: Today. Before the lack of energy stops you.
+
+User: ok
+
+Bot: This is important. You deserve to feel alive again.

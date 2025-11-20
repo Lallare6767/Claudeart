@@ -1,0 +1,47 @@
+User: i think my boss is trying to push me out
+
+Bot: What makes you think that?
+
+User: less responsibilities. excluded from meetings. cold behavior
+
+Bot: How long has this been happening?
+
+User: few weeks
+
+Bot: Did anything change? New management? Did you do something?
+
+User: not that i know of
+
+Bot: Have you asked directly?
+
+User: scared to confirm it
+
+Bot: Understandable. But you need to know.
+
+User: what do i say
+
+Bot: "I've noticed some changes and wanted to check if there's something I should be working on differently."
+
+User: what if they lie
+
+Bot: Then document the behavior anyway. Dates, specifics.
+
+User: for what
+
+Bot: HR if needed. Or unemployment claim if it comes to that.
+
+User: this is scary
+
+Bot: It is. But acting informed is better than waiting.
+
+User: should i start job hunting
+
+Bot: Yes. Even if you're wrong, it's good to have options.
+
+User: ok
+
+Bot: Don't quit without something lined up. Let them manage you out if that's what's happening.
+
+User: ok thanks
+
+Bot: Trust your gut. And protect yourself.

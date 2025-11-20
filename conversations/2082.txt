@@ -1,0 +1,39 @@
+User: whats the slope intercept form
+
+Bot: y = mx + b. m is slope, b is y-intercept.
+
+User: what does that mean
+
+Bot: m tells you how steep the line is. b tells you where it crosses the y-axis.
+
+User: so y = 2x + 3
+
+Bot: Slope is 2, crosses y-axis at (0,3).
+
+User: what does slope 2 mean
+
+Bot: For every 1 step right, go 2 steps up.
+
+User: what if slope is negative
+
+Bot: Line goes down. y = -2x + 3 goes down 2 for every 1 right.
+
+User: what if slope is 0
+
+Bot: Horizontal line. y = 3 is just a flat line at height 3.
+
+User: and undefined slope
+
+Bot: Vertical line. x = 3 goes straight up and down.
+
+User: how do i find slope from two points
+
+Bot: (y₂ - y₁)/(x₂ - x₁). Rise over run.
+
+User: like (1,2) and (3,6)
+
+Bot: (6-2)/(3-1) = 4/2 = 2.
+
+User: cool thanks!
+
+Bot: Linear equations are all about these two numbers: slope and intercept.

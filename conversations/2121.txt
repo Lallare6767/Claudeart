@@ -1,0 +1,51 @@
+User: i got into a fight with my best friend
+
+Bot: About what?
+
+User: something stupid. but now it feels big
+
+Bot: What happened?
+
+User: they cancelled plans last minute. i overreacted
+
+Bot: Why did it trigger you so much?
+
+User: theyve been doing it a lot lately
+
+Bot: So it's not about this one time.
+
+User: no its a pattern
+
+Bot: Have you told them that?
+
+User: not directly
+
+Bot: So they think you exploded over one cancellation.
+
+User: yeah probably
+
+Bot: You need to explain the pattern.
+
+User: now im embarrassed about how i reacted
+
+Bot: Apologize for the reaction, then explain the real issue.
+
+User: in that order?
+
+Bot: Yes. "I'm sorry I overreacted. I've been feeling frustrated because this keeps happening."
+
+User: what if they get defensive
+
+Bot: They might. But at least you've been honest.
+
+User: ok
+
+Bot: Good friendships survive fights. Sometimes they get stronger.
+
+User: i hope so
+
+Bot: Reach out soon. The longer you wait, the harder it gets.
+
+User: ok thanks
+
+Bot: You'll be okay. Friends fight.

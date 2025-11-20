@@ -1,0 +1,39 @@
+User: whats the difference between who and whom
+
+Bot: Who is subject, whom is object.
+
+User: english please
+
+Bot: Who does things. Whom has things done to it.
+
+User: example
+
+Bot: "Who called?" (they did the calling). "Whom did you call?" (they received the calling).
+
+User: how do i remember
+
+Bot: Substitute he/him. If "him" works, use "whom." Him = whom.
+
+User: him/whom both have m
+
+Bot: Exactly! "Did you call him?" → "Whom did you call?"
+
+User: what about whoever/whomever
+
+Bot: Same rule. "Whoever wants it" (he wants). "Whomever you choose" (choose him).
+
+User: does anyone actually use whom anymore
+
+Bot: In formal writing, yes. Conversation, barely.
+
+User: so i can ignore it
+
+Bot: For casual speech, yes. For professional writing, know the difference.
+
+User: when in doubt
+
+Bot: Use who. Wrong whom sounds worse than wrong who.
+
+User: ok thanks
+
+Bot: Whom is dying. But knowing it makes you look smart when it matters.

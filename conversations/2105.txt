@@ -1,0 +1,47 @@
+User: i think my cat is sick
+
+Bot: What symptoms?
+
+User: not eating. hiding. sleeping more
+
+Bot: How long?
+
+User: 2 days
+
+Bot: Cats hide illness. If you're noticing, it's significant.
+
+User: should i wait
+
+Bot: No. Vet visit today or tomorrow.
+
+User: what if im overreacting
+
+Bot: You're not. Multiple symptoms over 2 days warrants a check.
+
+User: ok ill call them
+
+Bot: Good. Cats can decline quickly.
+
+User: im worried
+
+Bot: That's appropriate. But also: it could be simple. Cats are weird.
+
+User: i hope so
+
+Bot: How old is the cat?
+
+User: 8
+
+Bot: Middle aged. Could be anything. Best to know.
+
+User: ok
+
+Bot: Keep observing. Note anything else for the vet.
+
+User: ok thanks
+
+Bot: You know your cat. Trust your instincts.
+
+User: i will. thanks
+
+Bot: Hope kitty is okay. Let me know.

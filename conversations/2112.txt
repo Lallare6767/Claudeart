@@ -1,0 +1,43 @@
+User: whats SOH CAH TOA
+
+Bot: Sine = Opposite/Hypotenuse, Cosine = Adjacent/Hypotenuse, Tangent = Opposite/Adjacent.
+
+User: for right triangles
+
+Bot: Yes. It's how you relate sides to angles.
+
+User: so if i have angle and hypotenuse
+
+Bot: Use sin or cos depending on which side you want.
+
+User: example
+
+Bot: Angle is 30°, hypotenuse is 10. Opposite = 10 × sin(30°) = 10 × 0.5 = 5.
+
+User: what about adjacent
+
+Bot: Adjacent = 10 × cos(30°) = 10 × 0.866 = 8.66.
+
+User: and tangent
+
+Bot: If you have opposite and adjacent, tan = opposite/adjacent.
+
+User: so tan(30) = 5/8.66
+
+Bot: Approximately 0.577, yes.
+
+User: how do i remember the ratios
+
+Bot: SOH CAH TOA. Literally just the mnemonic.
+
+User: what if i have sides and want angle
+
+Bot: Inverse functions. sin⁻¹, cos⁻¹, tan⁻¹.
+
+User: ok this is helpful
+
+Bot: Trig is mostly just this. SOH CAH TOA does most of the work.
+
+User: thanks!
+
+Bot: Practice with different triangles. It becomes automatic.

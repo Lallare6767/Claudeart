@@ -1,0 +1,47 @@
+User: i feel so anxious all the time
+
+Bot: About anything specific or just everything?
+
+User: everything. always on edge
+
+Bot: How long has this been going on?
+
+User: as long as i can remember
+
+Bot: Does it interfere with your daily life?
+
+User: yeah. hard to concentrate. cant relax
+
+Bot: Have you seen anyone about it?
+
+User: no. thought it was normal
+
+Bot: It's common. Doesn't mean it's how you have to live.
+
+User: really?
+
+Bot: Anxiety disorders are treatable. Therapy, sometimes medication.
+
+User: i dont want to take pills
+
+Bot: That's your choice. Therapy alone helps many people.
+
+User: what kind
+
+Bot: CBT works well for anxiety. Changes thought patterns.
+
+User: i dont know how to find a therapist
+
+Bot: Psychology Today has a directory. Filter by anxiety, your insurance.
+
+User: ok
+
+Bot: Living with constant anxiety isn't required. You can feel better.
+
+User: i hope so
+
+Bot: You will. But you have to take the first step.
+
+User: ok ill look
+
+Bot: Good. You deserve peace.

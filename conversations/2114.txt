@@ -1,0 +1,43 @@
+User: help me say something kind to someone who is grieving
+
+Bot: Who are they grieving?
+
+User: their mom
+
+Bot: Recent?
+
+User: last week
+
+Bot: Here's what works: "I'm so sorry. I'm thinking of you. I'm here if you need anything."
+
+User: that feels generic
+
+Bot: Add something specific about their mom if you knew her.
+
+User: i met her once
+
+Bot: "Your mom was so warm when I met her. I'm so sorry for your loss."
+
+User: what if i didnt know her
+
+Bot: "I know how much she meant to you. I'm so sorry."
+
+User: anything to avoid saying
+
+Bot: Don't say "they're in a better place" or "everything happens for a reason."
+
+User: why not
+
+Bot: Sounds like you're minimizing their pain. Even if you believe it.
+
+User: what about offering specific help
+
+Bot: Good. "Can I bring you dinner Tuesday?" Better than "let me know if you need anything."
+
+User: ok
+
+Bot: And just... be present. Sometimes sitting with someone is enough.
+
+User: ok thanks
+
+Bot: They're lucky to have someone who cares enough to ask this.

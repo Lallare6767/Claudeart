@@ -1,0 +1,47 @@
+User: explain absolute value
+
+Bot: Distance from zero. Always positive or zero.
+
+User: so |-5| = 5
+
+Bot: Yes. And |5| = 5.
+
+User: both the same
+
+Bot: Because distance is the same, just different directions.
+
+User: what about |0|
+
+Bot: 0. No distance from itself.
+
+User: when do u use it
+
+Bot: Whenever you care about magnitude, not direction.
+
+User: like what
+
+Bot: Error calculations. Distance problems. Inequalities.
+
+User: solve |x| = 3
+
+Bot: x = 3 or x = -3. Both are 3 units from zero.
+
+User: what about |x - 2| = 5
+
+Bot: x - 2 = 5 or x - 2 = -5. So x = 7 or x = -3.
+
+User: why the minus 2
+
+Bot: It shifts the center. You're measuring distance from 2, not 0.
+
+User: oh
+
+Bot: |x - a| = b means x is b units away from a.
+
+User: that makes sense
+
+Bot: Absolute value is geometric. Visualize it on a number line.
+
+User: thanks!
+
+Bot: Keep practicing equations. The two-case approach works every time.

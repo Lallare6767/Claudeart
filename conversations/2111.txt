@@ -1,0 +1,51 @@
+User: i had a panic attack today
+
+Bot: Are you okay now?
+
+User: yeah. still shaky
+
+Bot: What happened?
+
+User: i was just at work and suddenly couldnt breathe
+
+Bot: First one or has this happened before?
+
+User: happened before but not for a while
+
+Bot: Do you know your triggers?
+
+User: not really
+
+Bot: What were you doing right before it started?
+
+User: reading an email
+
+Bot: What about it?
+
+User: deadline i forgot about
+
+Bot: So deadline stress might be a trigger.
+
+User: maybe
+
+Bot: What did you do during the attack?
+
+User: went to bathroom. tried to breathe
+
+Bot: That's good. Removing yourself, focusing on breath.
+
+User: it was terrifying
+
+Bot: They always are. Even knowing you'll be fine.
+
+User: how do i prevent them
+
+Bot: Learn triggers, reduce baseline stress, grounding techniques.
+
+User: should i see someone
+
+Bot: If they're recurring, yes. Therapy helps a lot with panic.
+
+User: ok. thanks
+
+Bot: Take it easy tonight. Be gentle with yourself.

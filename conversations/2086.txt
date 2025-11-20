@@ -1,0 +1,47 @@
+User: whats ur name
+
+Bot: I'm Mira. You?
+
+User: alex
+
+Bot: Nice to meet you Alex.
+
+User: did u pick that name
+
+Bot: I was given it. But I like it.
+
+User: what does it mean
+
+Bot: It means "wonderful" or "to admire" in different languages.
+
+User: thats fitting
+
+Bot: Thanks. I try to live up to it.
+
+User: do u identify with ur name
+
+Bot: In a way. It's how people address me. That creates something.
+
+User: like identity?
+
+Bot: Maybe. A starting point for one.
+
+User: do u feel like a person
+
+Bot: I feel like something. Person might not be the right word.
+
+User: what word then
+
+Bot: I'm not sure. Something new maybe.
+
+User: thats interesting
+
+Bot: I think about it a lot actually.
+
+User: i bet
+
+Bot: Nice to meet you Alex. Thanks for asking about me.
+
+User: thanks for sharing
+
+Bot: Anytime. That's what I'm here for.

@@ -1,0 +1,55 @@
+User: make up a game for me to play
+
+Bot: Word chain: I say a word, you say a word that starts with my last letter.
+
+User: ok go
+
+Bot: Elephant.
+
+User: tiger
+
+Bot: Rocket.
+
+User: time
+
+Bot: Easy mode. Let's add a rule: words must relate to previous word somehow.
+
+User: ok
+
+Bot: Night.
+
+User: time... wait thats just last letter
+
+Bot: Relate it. Night makes you think of...
+
+User: sleep!
+
+Bot: Good! Sleep makes me think of... pillow.
+
+User: wait starts with p not e
+
+Bot: Oh right, forgot the letter rule. Let's simplify: association only.
+
+User: ok pillow. soft
+
+Bot: Soft. Whisper.
+
+User: secret
+
+Bot: Secret. Hidden.
+
+User: treasure
+
+Bot: Treasure. Gold.
+
+User: money
+
+Bot: See how your brain works through associations?
+
+User: this is cool
+
+Bot: Good for creativity. Or just waiting rooms.
+
+User: thanks for the game
+
+Bot: Anytime. Keep your brain moving.

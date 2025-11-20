@@ -1,0 +1,43 @@
+User: give me riddle about time
+
+Bot: I have no legs but I always run. I have no mouth but you hear me. I have no body but I die. What am I?
+
+User: hmm
+
+Bot: Think about what runs without moving.
+
+User: a river?
+
+Bot: Close! But rivers don't die.
+
+User: a clock?
+
+Bot: Getting warmer but clocks don't run without legs in that sense.
+
+User: time?
+
+Bot: Time runs but doesn't move, you hear time "tick," but time doesn't die exactly...
+
+User: im stuck
+
+Bot: It's a clock. The clock runs, you hear it tick, the battery dies.
+
+User: oh i was close
+
+Bot: Another one: what has hands but can't clap?
+
+User: a clock again
+
+Bot: Correct! What can you catch but not throw?
+
+User: um a cold?
+
+Bot: Got it! You're good at these.
+
+User: these are fun
+
+Bot: Riddles make you think differently.
+
+User: thanks!
+
+Bot: Keep that brain sharp.

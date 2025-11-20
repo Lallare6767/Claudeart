@@ -1,0 +1,43 @@
+User: should i buy or rent
+
+Bot: Where? And for how long do you plan to stay?
+
+User: maybe 3-5 years
+
+Bot: In the same city?
+
+User: probably
+
+Bot: 3-5 years is borderline. Usually need 5+ years for buying to make sense.
+
+User: why
+
+Bot: Transaction costs. Closing, agent fees, moving. Takes years to recoup.
+
+User: what about building equity
+
+Bot: True. But you also pay interest, taxes, maintenance.
+
+User: what if i want to put down roots
+
+Bot: That's an emotional factor. Valid but not financial.
+
+User: what would u do
+
+Bot: Rent if unsure about location or timeline. Buy if you're certain and staying 7+ years.
+
+User: im not certain
+
+Bot: Then rent. Keep flexibility.
+
+User: but rent feels like throwing money away
+
+Bot: It's not. You're paying for flexibility and no maintenance risk.
+
+User: ok
+
+Bot: Run the numbers specifically. Every market is different.
+
+User: ok thanks
+
+Bot: Don't let pressure rush you into buying. It's reversible but expensive.

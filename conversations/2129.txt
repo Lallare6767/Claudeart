@@ -1,0 +1,39 @@
+User: what is the law of cosines
+
+Bot: c² = a² + b² - 2ab×cos(C). Used for any triangle, not just right ones.
+
+User: when do i use it
+
+Bot: When you have two sides and the included angle. Or all three sides.
+
+User: its like pythagorean but for all triangles
+
+Bot: Exactly! When C = 90°, cos(90°) = 0, so it reduces to a² + b² = c².
+
+User: oh cool
+
+Bot: Give me an example to solve.
+
+User: sides 5 and 7 angle between them 60 degrees
+
+Bot: c² = 25 + 49 - 2(5)(7)cos(60°) = 74 - 70(0.5) = 74 - 35 = 39.
+
+User: so c = √39
+
+Bot: About 6.24.
+
+User: what about law of sines
+
+Bot: a/sin(A) = b/sin(B) = c/sin(C). Different use case.
+
+User: when
+
+Bot: When you have angle-side-angle or two angles and a side.
+
+User: these are confusing
+
+Bot: Practice will sort them out. Cosines for SAS, sines for ASA/AAS.
+
+User: thanks!
+
+Bot: Beyond basic trig but very useful. Keep practicing.

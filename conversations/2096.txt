@@ -1,0 +1,47 @@
+User: count the words in this sentence: the quick brown fox jumped over the lazy dog near the old barn
+
+Bot: 14 words.
+
+User: whats the 8th word
+
+Bot: "the" (the second one, before "lazy").
+
+User: and the 11th
+
+Bot: "the" again (before "old").
+
+User: lots of thes
+
+Bot: Articles add up. What's the 5th word?
+
+User: fox?
+
+Bot: Let me count: the (1), quick (2), brown (3), fox (4), jumped (5).
+
+User: oh jumped
+
+Bot: Right. Try another: what's the middle word?
+
+User: 14 words so... 7th?
+
+Bot: Yes. What is it?
+
+User: over
+
+Bot: Perfect. These are good attention exercises.
+
+User: give me another sentence
+
+Bot: Count the words: learning happens best when curiosity drives the questions we ask ourselves daily
+
+User: um 1 2 3 4 5 6 7 8 9 10 11 12
+
+Bot: 12 words. What's the 9th?
+
+User: questions
+
+Bot: Nailed it.
+
+User: these are harder than they seem
+
+Bot: That's the point. Focus practice.

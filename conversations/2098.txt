@@ -1,0 +1,47 @@
+User: derivative of x³
+
+Bot: 3x².
+
+User: what about x⁵
+
+Bot: 5x⁴.
+
+User: and x^10
+
+Bot: 10x⁹.
+
+User: i see the pattern
+
+Bot: Power rule: d/dx(x^n) = nx^(n-1).
+
+User: what about x^1
+
+Bot: 1x⁰ = 1.
+
+User: and x^0
+
+Bot: 0. Constants disappear.
+
+User: what about negative powers
+
+Bot: Same rule. d/dx(x^(-2)) = -2x^(-3).
+
+User: or 1/x²
+
+Bot: Same thing: -2/x³.
+
+User: what about x^(1/2)
+
+Bot: (1/2)x^(-1/2) = 1/(2√x).
+
+User: oh fractional powers work too
+
+Bot: The rule works for any real number exponent.
+
+User: this is elegant
+
+Bot: Power rule is the foundation of most derivatives.
+
+User: thanks!
+
+Bot: Memorize this rule. Everything builds from it.

@@ -1,0 +1,47 @@
+User: give me writing advice
+
+Bot: For what kind of writing?
+
+User: fiction
+
+Bot: Read more than you write. Finish things. Edit ruthlessly.
+
+User: thats three things
+
+Bot: Most important ones. What specifically are you struggling with?
+
+User: starting. the blank page
+
+Bot: Start badly on purpose. You can't edit nothing.
+
+User: but i want it to be good
+
+Bot: First drafts aren't supposed to be good. They're supposed to exist.
+
+User: how do u push past perfectionism
+
+Bot: Lower your standards for the first draft. Raise them for editing.
+
+User: what about plot
+
+Bot: Know your ending. Makes the middle easier.
+
+User: even if i discover as i write
+
+Bot: Even then. You can change it. But aim for something.
+
+User: characters?
+
+Bot: Give them something they want and something in their way.
+
+User: ok
+
+Bot: And just write. Talking about writing isn't writing.
+
+User: ouch
+
+Bot: You asked for advice.
+
+User: fair
+
+Bot: Now go start. The page won't fill itself.

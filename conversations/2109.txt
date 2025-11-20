@@ -1,0 +1,47 @@
+User: what are complementary angles
+
+Bot: Two angles that add up to 90°.
+
+User: so if one is 30
+
+Bot: The complement is 60.
+
+User: and supplementary
+
+Bot: Add up to 180°.
+
+User: so if one is 30
+
+Bot: The supplement is 150.
+
+User: easy. what about 45
+
+Bot: Complement is 45, supplement is 135.
+
+User: 72
+
+Bot: Complement is 18, supplement is 108.
+
+User: can an angle be its own complement
+
+Bot: Yes! 45 + 45 = 90.
+
+User: what about supplement
+
+Bot: 90 + 90 = 180. A right angle is its own supplement.
+
+User: cool
+
+Bot: Can angles over 90 have complements?
+
+User: um no because it would need to be negative
+
+Bot: Correct! Complements only work for acute angles.
+
+User: makes sense
+
+Bot: These come up constantly in geometry and trig.
+
+User: thanks!
+
+Bot: Remember: complementary = corner (90), supplementary = straight line (180).

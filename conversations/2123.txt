@@ -1,0 +1,47 @@
+User: explain scientific notation
+
+Bot: A way to write very big or small numbers compactly.
+
+User: how
+
+Bot: Number between 1 and 10 × power of 10.
+
+User: like 3,000,000
+
+Bot: 3 × 10⁶. Six zeros = 10 to the 6th.
+
+User: and 5,400,000
+
+Bot: 5.4 × 10⁶.
+
+User: what about small numbers
+
+Bot: 0.00034 = 3.4 × 10⁻⁴.
+
+User: why negative
+
+Bot: Negative exponents mean divide. Moving decimal left.
+
+User: makes sense
+
+Bot: What's 7,200,000,000?
+
+User: 7.2 × 10⁹
+
+Bot: Perfect. What about 0.0000082?
+
+User: 8.2 × 10⁻⁶
+
+Bot: Excellent!
+
+User: when do u use this
+
+Bot: Science, engineering, anywhere with huge or tiny numbers.
+
+User: like astronomy
+
+Bot: Exactly. Distance to stars in regular numbers is unreadable.
+
+User: thanks!
+
+Bot: Practice converting both directions. It's mostly counting zeros.

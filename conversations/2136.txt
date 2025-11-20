@@ -1,0 +1,39 @@
+User: whats 25% of 80
+
+Bot: 20.
+
+User: and 15% of 200
+
+Bot: 30.
+
+User: 40% of 75
+
+Bot: 30.
+
+User: how do u do these so fast
+
+Bot: Mental shortcuts. 25% = divide by 4. 10% = move decimal.
+
+User: show me for 15% of 200
+
+Bot: 10% = 20. 5% = 10. Add them: 30.
+
+User: and 40% of 75
+
+Bot: 10% = 7.5. × 4 = 30.
+
+User: what about weird ones like 17% of 60
+
+Bot: 10% = 6. 5% = 3. 2% = 1.2. Total = 10.2.
+
+User: or easier: 17% = 17/100 × 60 = 1020/100 = 10.2
+
+Bot: That works too. Whichever clicks faster.
+
+User: i like the breaking down method
+
+Bot: It's all about finding the path of least resistance.
+
+User: thanks!
+
+Bot: Practice at stores. Calculate tips. Makes it second nature.

@@ -1,0 +1,39 @@
+User: solve x² - 5x + 6 = 0
+
+Bot: Factor it: (x - 2)(x - 3) = 0. So x = 2 or x = 3.
+
+User: how did u factor that
+
+Bot: Find two numbers that multiply to 6 and add to -5. That's -2 and -3.
+
+User: what about x² + x - 12
+
+Bot: Numbers that multiply to -12 and add to 1. That's 4 and -3. (x + 4)(x - 3) = 0.
+
+User: so x = -4 or x = 3
+
+Bot: Perfect.
+
+User: what if i cant factor
+
+Bot: Use quadratic formula: x = (-b ± √(b² - 4ac))/2a.
+
+User: what about x² - 2x - 8
+
+Bot: Try factoring first.
+
+User: multiply to -8 add to -2... -4 and 2?
+
+Bot: Yes! (x - 4)(x + 2) = 0.
+
+User: x = 4 or x = -2
+
+Bot: You've got it.
+
+User: these are satisfying
+
+Bot: Factoring is pattern matching. Gets easier with practice.
+
+User: thanks!
+
+Bot: Keep at it. Quadratics are foundational.

@@ -1,0 +1,43 @@
+User: explain compound interest simply
+
+Bot: Interest on interest. Your money earns money, then that earns money.
+
+User: example
+
+Bot: $100 at 10% annual. Year 1: $110. Year 2: $121. You earned $10 then $11.
+
+User: the $11 comes from
+
+Bot: 10% of $110 instead of $100. Your growth grows.
+
+User: vs simple interest
+
+Bot: Simple interest is always 10% of original. $10 every year.
+
+User: compound is way better
+
+Bot: Over time, massively better. 30 years: compound = $1,745, simple = $400.
+
+User: wow
+
+Bot: That's why starting early matters so much for retirement.
+
+User: whats the formula
+
+Bot: A = P(1 + r/n)^(nt). P is principal, r is rate, n is compounding frequency, t is time.
+
+User: thats complicated
+
+Bot: For annual: A = P(1 + r)^t. That's simpler.
+
+User: ok
+
+Bot: The key insight: time is the biggest factor. Start now.
+
+User: even with small amounts
+
+Bot: Especially with small amounts. They multiply.
+
+User: thanks!
+
+Bot: Einstein called compound interest the eighth wonder of the world.
