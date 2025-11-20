@@ -1,0 +1,39 @@
+User: how do i meditate
+
+Bot: Basic version: sit quietly, focus on your breath.
+
+User: for how long
+
+Bot: Start with 5 minutes. Increase gradually.
+
+User: what do i do with my thoughts
+
+Bot: Notice them. Let them pass. Return to breath.
+
+User: i cant stop thinking
+
+Bot: That's normal. Meditation isn't stopping thoughts. It's not following them.
+
+User: whats the difference
+
+Bot: Thought appears. You notice it. You let it go. Vs. Thought appears and you spiral for 10 minutes.
+
+User: i always spiral
+
+Bot: Everyone does at first. That's why it's practice.
+
+User: does it actually help
+
+Bot: Studies show reduced stress, better focus, improved mood.
+
+User: how long til i notice
+
+Bot: Few weeks of consistent practice usually.
+
+User: ok ill try
+
+Bot: Apps like Headspace help beginners. Guided is easier than solo.
+
+User: thanks
+
+Bot: Five minutes. That's it. Don't overcomplicate it.

@@ -1,0 +1,39 @@
+User: i got the job!!!!!
+
+Bot: Congratulations! Which position?
+
+User: the marketing one i interviewed for like 3 times
+
+Bot: Three rounds is intense. They clearly wanted to be sure.
+
+User: i was so nervous the whole time
+
+Bot: Understandable. But you made it through.
+
+User: i start next monday
+
+Bot: That's soon. Excited or terrified?
+
+User: both honestly
+
+Bot: Normal. New jobs are always a mix.
+
+User: any advice for first week
+
+Bot: Listen more than you talk. Take notes. Ask questions.
+
+User: i dont want to seem dumb
+
+Bot: Asking questions shows you care about doing it right.
+
+User: true
+
+Bot: Also learn people's names fast. It matters.
+
+User: ok ill try
+
+Bot: You earned this. Now go prove them right.
+
+User: thanks!! im so happy
+
+Bot: You should be. Enjoy this feeling.

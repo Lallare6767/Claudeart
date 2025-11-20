@@ -1,0 +1,43 @@
+User: i might actually finish this degree
+
+Bot: How far along are you?
+
+User: one semester left
+
+Bot: What made you doubt you'd finish?
+
+User: ive dropped out twice before
+
+Bot: What's different now?
+
+User: im older. more motivated. cant keep starting over
+
+Bot: Practical motivation works.
+
+User: its not very inspiring
+
+Bot: Finishing is inspiring. The reason doesn't matter.
+
+User: i guess
+
+Bot: What happens after graduation?
+
+User: hopefully a better job
+
+Bot: In what field?
+
+User: accounting
+
+Bot: Solid choice. Stable demand.
+
+User: not exciting but practical
+
+Bot: Stability is underrated. Exciting doesn't pay bills consistently.
+
+User: true
+
+Bot: One semester. You can do this.
+
+User: i hope so
+
+Bot: You've already done the hard part. Finish what you started.

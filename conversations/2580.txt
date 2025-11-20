@@ -1,0 +1,31 @@
+User: whats the difference between weather and whether
+
+Bot: Weather is climate conditions. Whether introduces alternatives.
+
+User: examples
+
+Bot: "The weather is sunny." vs "I don't know whether I'll go."
+
+User: so whether is like if
+
+Bot: Yes. "Whether" often means "if or not."
+
+User: i always mix them up
+
+Bot: Sound the same but totally different meanings.
+
+User: any trick to remember
+
+Bot: Weather has "eat" in it. You eat outside in nice weather.
+
+User: thats helpful actually
+
+Bot: Or: whether has "he" - "he wonders whether..."
+
+User: ok i think i got it
+
+Bot: They're common mix-ups. You're not alone.
+
+User: thanks
+
+Bot: Practice using both in sentences. It'll become natural.

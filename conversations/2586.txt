@@ -1,0 +1,39 @@
+User: i just booked my first solo trip!!!
+
+Bot: Exciting! Where are you going?
+
+User: portugal. lisbon and porto
+
+Bot: Great choice. When?
+
+User: next month. 10 days
+
+Bot: That's a good amount of time. Nervous or excited?
+
+User: both. never traveled alone before
+
+Bot: It's different but often better. You do exactly what you want.
+
+User: thats what people say
+
+Bot: No compromises on meals, schedules, attractions.
+
+User: what if i get lonely
+
+Bot: Stay in hostels. Easy to meet people.
+
+User: im 32 is that weird
+
+Bot: No. Hostels have all ages. Pick ones with good common areas.
+
+User: any tips for solo travel
+
+Bot: Download offline maps. Tell someone your itinerary. Trust your gut.
+
+User: ok
+
+Bot: You'll love it. Solo travel is addictive once you try it.
+
+User: i hope so
+
+Bot: Portugal is beautiful. Eat all the pasteis de nata.

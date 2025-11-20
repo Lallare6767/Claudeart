@@ -1,0 +1,43 @@
+User: i have a presentation at work and im terrified
+
+Bot: When is it?
+
+User: friday
+
+Bot: For how many people?
+
+User: like 30
+
+Bot: What's the topic?
+
+User: quarterly results for my team
+
+Bot: So you know the content well?
+
+User: yes but i hate public speaking
+
+Bot: Most people do. What specifically scares you?
+
+User: forgetting what to say. people judging me
+
+Bot: Use slides as your notes. Each slide prompts the next point.
+
+User: what if i stumble
+
+Bot: Pause. Take a breath. Continue. Nobody expects perfection.
+
+User: they might think im incompetent
+
+Bot: They're probably looking at their phones or thinking about lunch.
+
+User: lol maybe
+
+Bot: Practice it 3 times out loud before Friday.
+
+User: will that help
+
+Bot: Yes. Familiarity reduces anxiety significantly.
+
+User: ok
+
+Bot: You know your material. The speaking part is just delivery. Focus on that.

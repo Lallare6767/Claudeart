@@ -1,0 +1,39 @@
+User: im learning guitar!!
+
+Bot: Awesome! Acoustic or electric?
+
+User: acoustic. just got it yesterday
+
+Bot: How's it going so far?
+
+User: my fingers hurt so much
+
+Bot: Calluses take a few weeks to build. It gets better.
+
+User: i can barely press the strings
+
+Bot: That's normal. Your fingertips will toughen up.
+
+User: what should i learn first
+
+Bot: Basic chords. G, C, D, E minor. They're in tons of songs.
+
+User: are they hard
+
+Bot: G and E minor are easier. C and D take practice.
+
+User: any songs i can learn quick
+
+Bot: "Horse With No Name" uses two chords. Good starter.
+
+User: only two?
+
+Bot: Em and D6. Simple and sounds good.
+
+User: im so excited to actually play something
+
+Bot: You will soon. Just practice 15-20 minutes daily.
+
+User: i can do that
+
+Bot: Consistency beats long sessions. Keep at it.

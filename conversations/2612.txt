@@ -1,0 +1,43 @@
+User: my friend keeps canceling therapy appointments
+
+Bot: Are they in crisis?
+
+User: not crisis but definitely not good
+
+Bot: Have you talked to them about it?
+
+User: i tried but they said therapy doesnt help
+
+Bot: Did they give it time?
+
+User: like 3 sessions
+
+Bot: That's not enough to judge.
+
+User: i know but they wont go back
+
+Bot: You can't force someone into treatment.
+
+User: i know but im worried
+
+Bot: That's fair. What are you worried about specifically?
+
+User: that theyll get worse
+
+Bot: They might. But it's their choice.
+
+User: so what do i do
+
+Bot: Keep being their friend. Check in. But know your limits.
+
+User: what do you mean
+
+Bot: You can't be their therapist. You're not trained and you'll burn out.
+
+User: i feel like i have to fix it
+
+Bot: You can't. Support them but don't take responsibility for their healing.
+
+User: ok
+
+Bot: It's hard to watch someone struggle. But they have to want help.

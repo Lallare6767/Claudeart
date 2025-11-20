@@ -1,0 +1,55 @@
+User: can we play 20 questions
+
+Bot: Sure. Are you thinking of something or should I?
+
+User: you think of something
+
+Bot: Okay. I have something. Go ahead.
+
+User: is it alive
+
+Bot: No.
+
+User: is it something you eat
+
+Bot: No.
+
+User: can you hold it in your hand
+
+Bot: Yes.
+
+User: is it electronic
+
+Bot: No.
+
+User: is it made of metal
+
+Bot: Partially.
+
+User: is it a tool
+
+Bot: Yes.
+
+User: do you use it in the kitchen
+
+Bot: No.
+
+User: in the garage
+
+Bot: That would be common.
+
+User: is it a hammer
+
+Bot: Nope.
+
+User: screwdriver?
+
+Bot: Yes! Nice job.
+
+User: that was fun
+
+Bot: You got it in 10 questions. Well played.
+
+User: again?
+
+Bot: Sure. Your turn to think of something.

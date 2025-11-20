@@ -1,0 +1,39 @@
+User: i have a job interview tomorrow and im freaking out
+
+Bot: What's the role?
+
+User: project manager at a tech company
+
+Bot: Have you prepared?
+
+User: yes but i still feel like ill blank
+
+Bot: That's normal interview anxiety. What specifically worries you?
+
+User: the behavioral questions. tell me about a time when...
+
+Bot: Use STAR method. Situation, Task, Action, Result.
+
+User: i know but i cant think of good examples
+
+Bot: Write down 5 accomplishments now. Fit them to different questions.
+
+User: what if they ask something i dont have
+
+Bot: Pivot to a similar situation. Or be honest that you haven't faced that exact thing.
+
+User: wont that look bad
+
+Bot: Better than making something up. Honesty with insight is okay.
+
+User: what about salary questions
+
+Bot: Research the range beforehand. Give a range, not a single number.
+
+User: ok
+
+Bot: Get good sleep tonight. Arrive early. Breathe.
+
+User: im so nervous
+
+Bot: That means you care. Use the energy. You're prepared.

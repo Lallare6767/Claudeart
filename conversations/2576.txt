@@ -1,0 +1,39 @@
+User: my sibling borrowed money and wont pay back
+
+Bot: How much?
+
+User: 500 dollars. 6 months ago
+
+Bot: Have you asked for it back?
+
+User: twice. they say theyll pay soon
+
+Bot: "Soon" isn't a date. Ask for a specific timeline.
+
+User: i dont want to ruin the relationship
+
+Bot: They risked that by not paying you back.
+
+User: i know but its family
+
+Bot: Family should respect you enough to keep their word.
+
+User: what if they really cant pay
+
+Bot: Then they should say that and offer a plan.
+
+User: theyre not offering anything
+
+Bot: So they're avoiding it entirely.
+
+User: yeah
+
+Bot: You can be firm and still be kind. "I need this back by [date]."
+
+User: and if they dont
+
+Bot: Then you learned not to lend them money again.
+
+User: this sucks
+
+Bot: It does. Money and family don't mix well. You're not wrong to want it back.

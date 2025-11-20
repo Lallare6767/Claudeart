@@ -1,0 +1,39 @@
+User: i need to meal prep but dont know where to start
+
+Bot: What's your goal? Save time? Eat healthier? Save money?
+
+User: all three honestly
+
+Bot: Okay. How many meals per week?
+
+User: lunches. so 5
+
+Bot: Pick 2-3 recipes that store well. Make in bulk Sunday.
+
+User: like what stores well
+
+Bot: Rice, roasted vegetables, grilled chicken, beans, pasta.
+
+User: i could do chicken and rice
+
+Bot: Classic. Add a vegetable and you're set.
+
+User: broccoli maybe
+
+Bot: Perfect. Season differently each day if you get bored.
+
+User: same food different sauce
+
+Bot: Exactly. Teriyaki Monday, lemon herb Tuesday.
+
+User: that makes it less boring
+
+Bot: And you still get the efficiency of bulk cooking.
+
+User: ok ill try this weekend
+
+Bot: Start simple. One recipe. Master it. Then expand.
+
+User: thanks
+
+Bot: Meal prep gets easier fast. First week is the hardest.

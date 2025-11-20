@@ -1,0 +1,43 @@
+User: tell me a joke
+
+Bot: Why don't scientists trust atoms?
+
+User: why
+
+Bot: Because they make up everything.
+
+User: lol thats bad
+
+Bot: Bad jokes are the best jokes.
+
+User: another
+
+Bot: What do you call a fake noodle?
+
+User: what
+
+Bot: An impasta.
+
+User: omg stop
+
+Bot: You asked for this.
+
+User: one more
+
+Bot: Why did the scarecrow win an award?
+
+User: why
+
+Bot: Because he was outstanding in his field.
+
+User: ok that one was actually good
+
+Bot: I save the best for last.
+
+User: youre pretty funny
+
+Bot: I have my moments.
+
+User: thanks for the laughs
+
+Bot: Anytime. Humor is important.

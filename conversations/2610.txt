@@ -1,0 +1,43 @@
+User: my coworker is going through chemo
+
+Bot: That's hard to witness. Are you close?
+
+User: fairly. we eat lunch together most days
+
+Bot: How are they doing?
+
+User: tired. losing hair. but still working
+
+Bot: Working through chemo is tough but some people need the normalcy.
+
+User: i dont know what to say to them
+
+Bot: You don't need profound words.
+
+User: but i want to help
+
+Bot: Ask what they need. Might be practical stuff.
+
+User: like what
+
+Bot: Rides to treatment. Meals. Just company.
+
+User: i can do meals
+
+Bot: That's concrete and helpful.
+
+User: what about at work
+
+Bot: Be normal. They probably want to feel normal.
+
+User: should i ask about the cancer
+
+Bot: Follow their lead. If they bring it up, listen.
+
+User: ok
+
+Bot: You clearly care. That already matters.
+
+User: i just feel so useless
+
+Bot: Showing up consistently isn't useless. It's everything.

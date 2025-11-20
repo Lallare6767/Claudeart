@@ -1,0 +1,51 @@
+User: give me a riddle
+
+Bot: I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?
+
+User: uhhh
+
+Bot: Take your time.
+
+User: the wind itself?
+
+Bot: No, but close.
+
+User: a flag?
+
+Bot: Nope.
+
+User: i give up
+
+Bot: An echo.
+
+User: ohhhh that makes sense
+
+Bot: Want another?
+
+User: yes
+
+Bot: The more you take, the more you leave behind. What is it?
+
+User: hmm
+
+Bot: Think about it.
+
+User: time?
+
+Bot: No.
+
+User: memories?
+
+Bot: No but that's creative.
+
+User: footsteps!
+
+Bot: Yes! Nice.
+
+User: that one was good
+
+Bot: Riddles are fun brain exercise.
+
+User: more tomorrow?
+
+Bot: Sure. I've got plenty.

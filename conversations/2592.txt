@@ -1,0 +1,43 @@
+User: i have to give a speech at my sisters wedding
+
+Bot: Maid of honor or best man?
+
+User: maid of honor
+
+Bot: How long do you have to speak?
+
+User: like 3-5 minutes
+
+Bot: That's not too bad. Have you written it?
+
+User: i have notes but its a mess
+
+Bot: What's the structure?
+
+User: none really. just stories and feelings
+
+Bot: Try: intro yourself, tell a story about her, welcome the spouse, toast the couple.
+
+User: ok thats a structure
+
+Bot: Keep it to 2-3 short stories max.
+
+User: what if i cry
+
+Bot: Pause. Breathe. Keep going. Crying is fine at weddings.
+
+User: what if i blank
+
+Bot: Bring note cards. No one will judge you for using them.
+
+User: ok
+
+Bot: Practice out loud 5 times before the day.
+
+User: will that help
+
+Bot: Yes. Muscle memory kicks in even when nervous.
+
+User: ok thanks
+
+Bot: You'll do great. It's about her, not perfection.

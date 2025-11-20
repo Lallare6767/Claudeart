@@ -1,0 +1,39 @@
+User: my therapist is retiring
+
+Bot: That's hard. How long have you worked with them?
+
+User: 5 years
+
+Bot: Five years is a significant relationship. Are they giving referrals?
+
+User: yeah but its not the same
+
+Bot: No it won't be. You'll have to rebuild trust with someone new.
+
+User: i hate starting over
+
+Bot: Understandable. You made a lot of progress with this one.
+
+User: what if the new one isnt as good
+
+Bot: They'll be different. Maybe better in some ways, worse in others.
+
+User: i dont want different
+
+Bot: I know. But people retire. It's not about you.
+
+User: still feels like abandonment
+
+Bot: Those feelings make sense. Have you told your therapist that?
+
+User: no
+
+Bot: You should. That's exactly what therapy is for.
+
+User: ok i will
+
+Bot: Change is hard. But you've done hard things before.
+
+User: thanks
+
+Bot: Good luck with the transition. It'll take time but you'll be okay.

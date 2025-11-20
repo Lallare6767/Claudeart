@@ -1,0 +1,39 @@
+User: i got into my top choice grad school!!!!
+
+Bot: Congratulations! What program?
+
+User: clinical psychology phd
+
+Bot: That's incredibly competitive. You should be proud.
+
+User: i applied to 12 schools
+
+Bot: And how many acceptances?
+
+User: just this one but it was my first choice
+
+Bot: That's all you need. When do you start?
+
+User: fall semester
+
+Bot: Are you relocating?
+
+User: yeah moving across the country
+
+Bot: Big change. Excited about that too?
+
+User: terrified and excited
+
+Bot: Normal for grad school. It's a whole new chapter.
+
+User: i worked so hard for this
+
+Bot: Years of work paid off. You earned this spot.
+
+User: thank you
+
+Bot: Dr. [Your name] has a nice ring to it.
+
+User: omg stop haha
+
+Bot: Get used to it. You're on your way.

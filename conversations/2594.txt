@@ -1,0 +1,43 @@
+User: i think my kid is being bullied
+
+Bot: What have you noticed?
+
+User: doesnt want to go to school. stopped talking about friends.
+
+Bot: How old?
+
+User: 10
+
+Bot: Have you asked directly?
+
+User: yes but she wont tell me much
+
+Bot: That's common. Kids feel shame about being bullied.
+
+User: what do i do
+
+Bot: Talk to the teacher. Ask if they've noticed anything.
+
+User: what if school doesnt help
+
+Bot: Document everything. Escalate to principal if needed.
+
+User: should i talk to the other kids parents
+
+Bot: Not usually a good idea. Go through school first.
+
+User: im so worried about her
+
+Bot: That's understandable. She needs to know you're on her side.
+
+User: how do i show that
+
+Bot: Listen without judgment. Don't promise to fix everything immediately.
+
+User: what if it gets worse
+
+Bot: Then you escalate further. But start with teacher this week.
+
+User: ok thanks
+
+Bot: She's lucky to have a parent paying attention. Keep watching.

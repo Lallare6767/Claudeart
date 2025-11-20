@@ -1,0 +1,53 @@
+User: lets play word association
+
+Bot: Sure. I say a word, you say the first thing that comes to mind?
+
+User: yeah
+
+Bot: Ocean.
+
+User: waves
+
+Bot: Crash.
+
+User: car
+
+Bot: Road.
+
+User: trip
+
+Bot: Vacation.
+
+User: beach
+
+Bot: Sand.
+
+User: castle
+
+Bot: King.
+
+User: crown
+
+Bot: Jewels.
+
+User: expensive
+
+Bot: Taste.
+
+User: food
+
+Bot: Delicious.
+
+User: that was fun
+
+Bot: It's interesting where associations lead.
+
+User: totally random paths
+
+Bot: But they make sense when you trace them back.
+
+User: ocean to food in 10 steps
+
+Bot: The brain is weird.
+
+User: agreed

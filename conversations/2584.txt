@@ -1,0 +1,35 @@
+User: how do i know if i need new tires
+
+Bot: Check tread depth. Penny test works.
+
+User: whats that
+
+Bot: Put penny in tread, Lincoln's head down. If you see all of his head, tires are worn.
+
+User: what if i see some of his head
+
+Bot: Then you have some life left but monitor them.
+
+User: anything else to check
+
+Bot: Look for cracks, bulges, or uneven wear.
+
+User: uneven wear means what
+
+Bot: Could be alignment or suspension issues.
+
+User: one tire looks more worn than others
+
+Bot: Get alignment checked. That's not normal.
+
+User: how often should i replace them
+
+Bot: Usually every 50,000-70,000 miles depending on type.
+
+User: i have no idea my mileage
+
+Bot: Check your records or ask at an oil change place.
+
+User: ok thanks
+
+Bot: Don't drive on bald tires. It's dangerous, especially in rain.
