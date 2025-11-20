@@ -1,0 +1,31 @@
+User: i need help writing a sick day email
+
+Bot: Sure. Real sick or fake sick?
+
+User: real. i have a bad cold
+
+Bot: Keep it brief: "I'm not feeling well today and will be taking a sick day. I'll monitor email if anything urgent comes up, but will otherwise rest and plan to be back tomorrow."
+
+User: should i describe my symptoms
+
+Bot: No. "Not feeling well" is enough. Oversharing details is uncomfortable for everyone.
+
+User: what if they need me for something important
+
+Bot: The "I'll monitor email" covers you. If something urgent happens, you can respond minimally. But don't offer too much availability or sick days become work-from-home days.
+
+User: good point
+
+Bot: Also - don't apologize excessively. "Sorry to leave you in a lurch" once is fine. Multiple apologies signals guilt for taking care of yourself.
+
+User: i do that
+
+Bot: Sick days are part of your compensation. You're not stealing. You're using what you're entitled to.
+
+User: ur right
+
+Bot: Send the email, then actually rest. Checking in constantly isn't resting.
+
+User: ok sending now. thanks
+
+Bot: Feel better. Rest is how you get better faster, not guilt.

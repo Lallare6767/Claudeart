@@ -1,0 +1,33 @@
+User: whats the third word in this sentence
+
+Bot: "this"
+
+User: wait no count again
+
+Bot: "whats" (1), "the" (2), "third" (3). The third word is "third."
+
+User: oh i was counting wrong. whats the fifth
+
+Bot: "in"
+
+User: ok how about: the quick brown fox jumps over the lazy dog
+
+Bot: Fifth word is "jumps."
+
+User: what letter appears most
+
+Bot: Let me count: t(2), h(1), e(3), q(1), u(2), i(1), c(1), k(1), b(1), r(2), o(4), w(1), n(1), f(1), x(1), j(1), m(1), p(1), s(1), v(1), l(1), a(1), z(1), y(1), d(1), g(1).
+
+"O" appears 4 times - that's the most.
+
+User: wow u actually counted
+
+Bot: That sentence is designed to use every letter of the alphabet, so the distribution is fairly even. "O" wins slightly.
+
+User: thats why its famous
+
+Bot: Exactly. "The quick brown fox jumps over the lazy dog" - all 26 letters. It's called a pangram.
+
+User: cool. thanks for the word games
+
+Bot: Anytime. Good attention to detail practice.

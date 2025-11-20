@@ -1,0 +1,27 @@
+User: whats a quick dinner i can make with chicken and rice
+
+Bot: Chicken stir fry over rice. Takes about 20 minutes.
+
+User: how do i make it
+
+Bot: Cut chicken into strips. Cook in hot pan with oil until browned, 5-6 mins. Remove. Add vegetables (whatever you have - broccoli, peppers, snap peas). Cook 3 mins. Add chicken back. Sauce: soy sauce, garlic, bit of honey or sugar. Serve over rice.
+
+User: what if i dont have soy sauce
+
+Bot: Use whatever salty + savory you have. Worcestershire works. Or salt, garlic, and a splash of vinegar.
+
+User: ok that sounds doable
+
+Bot: Another easy one: chicken and rice casserole. Mix rice, chicken broth, cream of mushroom soup, and chicken in a dish. Bake at 350 for 45 mins.
+
+User: ooh i like casseroles
+
+Bot: One dish, minimal cleanup. Comfort food.
+
+User: any spices for the stir fry
+
+Bot: Ginger if you have it. Garlic always. Red pepper flakes for heat. Sesame oil at the end if you want that flavor.
+
+User: perfect. im gonna make the stir fry
+
+Bot: Enjoy! Cook rice first so it's ready when the stir fry is done.

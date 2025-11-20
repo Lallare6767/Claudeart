@@ -1,0 +1,45 @@
+User: solve for x: 2x + 5 = 17
+
+Bot: x = 6.
+
+User: show steps
+
+Bot: 2x + 5 = 17
+Subtract 5 from both sides: 2x = 12
+Divide both sides by 2: x = 6
+
+User: ok harder: 3x - 7 = 2x + 4
+
+Bot: x = 11.
+
+Steps:
+3x - 7 = 2x + 4
+Subtract 2x from both sides: x - 7 = 4
+Add 7 to both sides: x = 11
+
+User: nice. one with fractions: x/3 + 2 = 5
+
+Bot: x = 9.
+
+Steps:
+x/3 + 2 = 5
+Subtract 2: x/3 = 3
+Multiply by 3: x = 9
+
+User: ok last one: 2(x + 3) = 16
+
+Bot: x = 5.
+
+Steps:
+2(x + 3) = 16
+Distribute: 2x + 6 = 16
+Subtract 6: 2x = 10
+Divide by 2: x = 5
+
+User: these are actually making more sense
+
+Bot: Algebra is just following rules consistently. Same operations both sides, isolate the variable.
+
+User: thanks!
+
+Bot: Keep practicing. It becomes automatic.

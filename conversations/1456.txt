@@ -1,0 +1,31 @@
+User: i said something mean and i feel terrible
+
+Bot: What did you say and to whom?
+
+User: told my friend their new business idea was stupid. in front of other people
+
+Bot: Why did you say it like that?
+
+User: i was frustrated about something else and took it out on them
+
+Bot: Have you apologized?
+
+User: not yet. i dont know what to say
+
+Bot: Be direct: "I'm sorry. What I said was mean and I shouldn't have said it, especially in front of others. Your idea doesn't deserve that, and you definitely don't."
+
+User: what if they dont forgive me
+
+Bot: Then you deal with that. But not apologizing guarantees the damage stays. Apologizing gives it a chance to heal.
+
+User: should i explain i was frustrated
+
+Bot: Briefly, but don't make it an excuse. "I was frustrated about something unrelated and took it out on you. That's an explanation, not an excuse."
+
+User: ok. i really feel awful
+
+Bot: That's appropriate. You hurt someone you care about. The guilt means your values are intact.
+
+User: im gonna call them now
+
+Bot: Good. The sooner the better. And mean it.

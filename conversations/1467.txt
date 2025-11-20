@@ -1,0 +1,31 @@
+User: what should i get my partner for our anniversary
+
+Bot: How long have you been together and what's your budget?
+
+User: 3 years. maybe $100-200
+
+Bot: What do they like? Experiences, physical gifts, practical things?
+
+User: experiences usually. they dont care about stuff
+
+Bot: Perfect. Concert tickets, cooking class together, weekend trip to somewhere nearby, nice dinner with the works.
+
+User: cooking class sounds fun actually. we both like food
+
+Bot: Great idea. It's doing something together rather than just giving something. That fits "experiences" well.
+
+User: any specific type
+
+Bot: Pick a cuisine you both want to learn - Italian, sushi, Thai. Or a specific technique like pasta-making or cocktails.
+
+User: we love thai food
+
+Bot: Thai cooking class it is. Make an evening of it - class, then drinks after to talk about it.
+
+User: thats actually perfect
+
+Bot: Add a small thoughtful item if you want - a nice cookbook or spice set to remember it. But the class is the main gift.
+
+User: ok im gonna book it. thanks!
+
+Bot: They'll love it. Three years - that's worth celebrating well.

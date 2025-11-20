@@ -1,0 +1,35 @@
+User: ugh my flight got delayed 4 hours
+
+Bot: That's rough. Where are you headed?
+
+User: home from a work trip. was supposed to land at 6 now its 10
+
+Bot: Does anyone need to pick you up?
+
+User: ya my partner. they rearranged their whole evening
+
+Bot: Frustrating for both of you. Any lounge access or food vouchers?
+
+User: they gave us a $15 food credit lol
+
+Bot: The airline minimum effort. At least you can get something to eat.
+
+User: i guess. just wanted to be home
+
+Bot: Understandable. Work trips are exhausting and the travel home is supposed to be the relief.
+
+User: exactly
+
+Bot: Find a spot to sit, get comfortable, maybe watch something on your phone. Make the wait as bearable as possible.
+
+User: ya i downloaded some shows before i left
+
+Bot: Smart. Airports are tolerable with entertainment and bad without.
+
+User: true. ok i should eat something
+
+Bot: Good plan. Four hours is long - might as well take care of yourself.
+
+User: thanks for listening to me complain
+
+Bot: Travel complaints are always valid. Hope the rest of the trip is smooth.

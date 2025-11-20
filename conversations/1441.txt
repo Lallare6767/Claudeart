@@ -1,0 +1,35 @@
+User: i miss my hometown
+
+Bot: Where did you grow up?
+
+User: small town in ohio. moved away for work 5 years ago
+
+Bot: What do you miss most about it?
+
+User: knowing everyone. slower pace. the comfort
+
+Bot: Big city anonymity is freeing but also lonely. That trade-off hits differently over time.
+
+User: ya i didnt think id miss it this much
+
+Bot: Do you visit?
+
+User: not as much as i should. flights are expensive and i have to take time off
+
+Bot: Any of your close people still there?
+
+User: my parents. a few friends but they have families now
+
+Bot: It's hard when life moves everyone in different directions. The place stays the same but the context changes.
+
+User: thats exactly it. even when i visit it feels different
+
+Bot: Because you're different. You can't go back to who you were there.
+
+User: thats kinda sad
+
+Bot: Or maybe just real. You can build a version of that comfort where you are now, if you work at it.
+
+User: i should try harder to make roots here
+
+Bot: Doesn't mean you stop missing home. Just means you create a second home.

@@ -1,0 +1,31 @@
+User: help me figure out how much paint i need
+
+Bot: Sure. What are you painting and what are the dimensions?
+
+User: bedroom. 12ft by 14ft and 9ft ceiling
+
+Bot: Okay, let's calculate wall area. Two walls are 12×9 = 108 sq ft each, two walls are 14×9 = 126 sq ft each. Total: 216 + 252 = 468 sq ft.
+
+User: what about doors and windows
+
+Bot: Subtract those. Average door is about 20 sq ft, average window about 15 sq ft. How many of each?
+
+User: 1 door 2 windows
+
+Bot: Subtract 20 + 30 = 50 sq ft. Paintable area: 468 - 50 = 418 sq ft.
+
+User: so how much paint
+
+Bot: One gallon typically covers 350-400 sq ft. For one coat, you need about 1 gallon. For two coats (recommended), get 2 gallons.
+
+User: and if i want a different color ceiling
+
+Bot: Ceiling is 12 × 14 = 168 sq ft. One gallon will cover that with extra for touch-ups.
+
+User: so 2 gallons wall color and 1 gallon ceiling
+
+Bot: Exactly. Maybe grab a small sample first to test the wall color in your lighting.
+
+User: good idea. thanks!
+
+Bot: Happy painting.

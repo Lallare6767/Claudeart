@@ -1,0 +1,35 @@
+User: i think my cat is depressed
+
+Bot: What behaviors are you seeing?
+
+User: not eating much, hiding, not playing anymore
+
+Bot: How long has this been going on?
+
+User: about a week
+
+Bot: Any changes in the household? New pet, moved furniture, different schedule?
+
+User: actually ya i started a new job. gone longer hours
+
+Bot: Cats are sensitive to routine changes. Your absence could be affecting them.
+
+User: i feel so guilty
+
+Bot: It's an adjustment period. They might adapt. But in the meantime, rule out medical issues first - sudden behavior changes warrant a vet visit.
+
+User: should i take them to the vet
+
+Bot: Yes. Loss of appetite especially needs checking. Could be stress or could be physical.
+
+User: ok ill make an appointment
+
+Bot: Good. If it's behavioral, the vet can advise on enrichment - puzzle feeders, window perches, interactive toys for when you're gone.
+
+User: i didnt know cats could get lonely
+
+Bot: They definitely can. They're not as independent as people think. Some cats need more social time than others.
+
+User: ill make more time for her
+
+Bot: Quality time when you're home helps. Even 15 minutes of focused play makes a difference.

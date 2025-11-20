@@ -1,0 +1,31 @@
+User: I GOT INTO THE GRADUATE PROGRAM
+
+Bot: Congratulations! Which one?
+
+User: clinical psychology PhD!!! my top choice
+
+Bot: That's huge - clinical psych PhDs are incredibly competitive. You must have had a strong application.
+
+User: i worked so hard on it. rewrote my statement like 20 times
+
+Bot: And it paid off. When do you start?
+
+User: august! i have to move to boston
+
+Bot: Exciting city for psychology. Lots of great programs and research opportunities there.
+
+User: im nervous about the work load
+
+Bot: It'll be intense but you clearly have the work ethic - you got into a top program.
+
+User: true. just imposter syndrome kicking in already
+
+Bot: You'll feel that way for a while. Most grad students do. Just keep showing up and doing the work.
+
+User: thanks. im gonna go celebrate with my family
+
+Bot: As you should! This is a huge achievement. Years of work leading to this. Enjoy every bit of it.
+
+User: thank you!!
+
+Bot: Dr. [You] sounds good. Congrats again!

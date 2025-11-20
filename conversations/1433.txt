@@ -1,0 +1,31 @@
+User: help me write a toast for my friends wedding
+
+Bot: Of course! How do you know the couple - bride or groom's side? And how long have you known them?
+
+User: grooms side. hes been my best friend since middle school
+
+Bot: Perfect. What do you want to hit - funny stories, sentimental stuff, or both?
+
+User: both but end sentimental
+
+Bot: Good instinct. Start funny to warm up the crowd, end with heart. Any specific story you want to include?
+
+User: when we were 16 we tried to build a go kart and crashed it immediately
+
+Bot: That's great - shows your history. Here's a structure: Open with that story, pivot to how you've watched him grow up, then talk about seeing him with his partner, end with a toast to their future.
+
+User: what do i say about his partner
+
+Bot: Something specific. Not "she's great" but why. What have you noticed about them together?
+
+User: he laughs more. hes more himself
+
+Bot: Perfect. "Since [partner], he laughs more. He's more himself. That's how you know it's the right person."
+
+User: ok i can work with this
+
+Bot: Keep it under 3 minutes. People remember short toasts that land, not long ones that drag.
+
+User: thanks!!
+
+Bot: You'll do great. Speak from the heart.

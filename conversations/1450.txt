@@ -1,0 +1,31 @@
+User: give me a word that describes me based on this convo
+
+Bot: I'd need more conversation to go on, but asking that question suggests self-reflective. You're curious about how you come across.
+
+User: hmm ok. ask me something to learn more
+
+Bot: What's something you've changed your mind about recently?
+
+User: i used to think therapy was for weak people. now im in it and its hard work
+
+Bot: That tells me you're open to growth - willing to revise beliefs when presented with evidence, even when the evidence requires admitting you were wrong.
+
+User: what else u got
+
+Bot: What do you do when you're angry?
+
+User: go quiet. i shut down instead of exploding
+
+Bot: Introverted processing. You turn inward under stress. Probably means you think before you speak, but might struggle to express needs in the moment.
+
+User: thats accurate
+
+Bot: Based on this: self-aware, growth-oriented, introspective. One word? Reflective.
+
+User: i like that
+
+Bot: It fits what you've shown me. Short conversation but clear patterns.
+
+User: thanks for playing
+
+Bot: Anytime. Interesting exercise.

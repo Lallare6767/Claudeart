@@ -1,0 +1,31 @@
+User: what should i do if i witness a car accident
+
+Bot: First check if you're safe. Don't put yourself in danger. Then call 911 immediately.
+
+User: what if others already called
+
+Bot: Stay anyway if it's safe. More witnesses help. And you can provide first aid or comfort while waiting for emergency services.
+
+User: should i move injured people
+
+Bot: Generally no, unless there's immediate danger like fire. Moving someone with a spinal injury can cause permanent damage.
+
+User: what can i do then
+
+Bot: Keep them calm and still. Talk to them. Apply pressure to bleeding if they're conscious and consent. Cover them with a blanket if you have one - shock can make people cold.
+
+User: what about directing traffic
+
+Bot: Only if it's safe for you. Turn on your hazard lights, use flares if you have them. Your job is to prevent additional accidents.
+
+User: should i take photos
+
+Bot: Yes, if you're comfortable. Document the scene, vehicle positions, damage. Can help with insurance and legal matters later.
+
+User: this is good to know
+
+Bot: Hopefully you never need it. But being prepared means being helpful instead of panicked.
+
+User: thanks
+
+Bot: Stay safe out there.

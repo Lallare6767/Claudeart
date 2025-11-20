@@ -1,0 +1,31 @@
+User: help me budget my paycheck
+
+Bot: Sure. What's your take-home pay and what are your fixed expenses?
+
+User: $3200/month. rent is $1100, car payment $350, insurance $150, phone $80
+
+Bot: Fixed expenses: $1,680. That leaves $1,520 for everything else.
+
+User: whats a good breakdown
+
+Bot: Common approach: 50/30/20. 50% needs (already at 52.5%), 30% wants, 20% savings.
+
+User: so whats left after fixed
+
+Bot: Of your $1,520: roughly $640 for variable needs (groceries, gas, utilities), $480 for wants (entertainment, dining out), $320 for savings.
+
+User: $640 for groceries and stuff seems low
+
+Bot: It depends on your situation. If groceries + gas + utilities exceed that, you might need to cut "wants" to compensate.
+
+User: i definitely spend more than $480 on wants
+
+Bot: That's where most people leak money. Subscriptions, takeout, random purchases. Track for a month and see where it actually goes.
+
+User: good idea. i should use a budget app
+
+Bot: Apps help. Mint, YNAB, or even a spreadsheet. The act of tracking changes behavior.
+
+User: ok ill download one tonight
+
+Bot: Good start. Awareness is step one to control.

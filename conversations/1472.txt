@@ -1,0 +1,55 @@
+User: guess whats in my hand
+
+Bot: Is it smaller than a tennis ball?
+
+User: yes
+
+Bot: Can it fit in a pocket?
+
+User: ya
+
+Bot: Is it electronic?
+
+User: no
+
+Bot: Is it something you'd find in a kitchen?
+
+User: no
+
+Bot: Is it made of metal?
+
+User: partly
+
+Bot: A key?
+
+User: YES wow
+
+Bot: Keys are common pocket items with partial metal. Once I ruled out electronics and kitchen items, it was likely a key, coin, or lighter.
+
+User: why key over coin
+
+Bot: You said "partly" metal, which suggests another material too. Keys have that plastic or rubber grip part often. Coins are fully metal.
+
+User: oh smart. ok ur turn
+
+Bot: I've got something. Go ahead.
+
+User: is it alive
+
+Bot: No.
+
+User: man-made?
+
+Bot: Yes.
+
+User: can u eat it
+
+Bot: Yes.
+
+User: candy
+
+Bot: Yes! Quick.
+
+User: i guessed common. these games are fun tho
+
+Bot: They are. Good for pattern recognition.

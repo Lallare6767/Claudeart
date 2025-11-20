@@ -1,0 +1,31 @@
+User: whats the probability of rolling a 7 with two dice
+
+Bot: 6/36 or 1/6, about 16.7%.
+
+User: how did u get that
+
+Bot: There are 36 possible outcomes when rolling two dice (6×6). Six combinations make 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1).
+
+User: why is 7 the most common
+
+Bot: Because it has the most combinations. Numbers at the edges (2 and 12) only have one way each: (1,1) and (6,6).
+
+User: whats the probability of 2
+
+Bot: 1/36, about 2.8%. Only (1,1) works.
+
+User: and 8
+
+Bot: 5/36, about 13.9%. Five ways: (2,6), (3,5), (4,4), (5,3), (6,2).
+
+User: so 7 is really the best to bet on
+
+Bot: If you had to pick one number, yes. It comes up more often than any other.
+
+User: this is helpful for board games
+
+Bot: Knowing dice probabilities definitely gives you an edge in strategy games.
+
+User: thanks!
+
+Bot: Roll well.

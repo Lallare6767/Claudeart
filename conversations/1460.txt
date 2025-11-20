@@ -1,0 +1,31 @@
+User: how do i deal with a passive aggressive coworker
+
+Bot: What are they doing specifically?
+
+User: giving backhanded compliments, "forgetting" to include me on emails, sighing loudly when i talk in meetings
+
+Bot: Classic passive aggression. Have they said anything directly about a problem?
+
+User: no which is the frustrating part
+
+Bot: The point of passive aggression is to express hostility without being confrontable. It's plausible deniability.
+
+User: so what do i do
+
+Bot: You can name it directly but gently. "I noticed I wasn't on that email chain - can you add me?" No accusation, just fact.
+
+User: what about the sighing
+
+Bot: Harder to address. You can ask privately: "I've noticed some tension. Is there something we should discuss?" Forces them to either speak up or deny it.
+
+User: what if they deny it
+
+Bot: Then you've documented that you tried. And sometimes just naming it makes it decrease because they know you see it.
+
+User: should i go to my manager
+
+Bot: Not yet. Try direct communication first. If the behavior continues and affects your work, then escalate with examples.
+
+User: ok. this is so annoying
+
+Bot: It is. Passive aggression is hard because you can't fight something that denies its own existence.

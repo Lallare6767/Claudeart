@@ -1,0 +1,47 @@
+User: ok quiz me on state capitals
+
+Bot: Ready. What's the capital of Montana?
+
+User: helena
+
+Bot: Correct. Oregon?
+
+User: salem
+
+Bot: Right. How about Kentucky?
+
+User: louisville?
+
+Bot: No, Frankfort. Louisville is the largest city but not the capital.
+
+User: ugh i always get that wrong. ok keep going
+
+Bot: New York?
+
+User: albany
+
+Bot: Correct. Vermont?
+
+User: montpelier
+
+Bot: Yes! Missouri?
+
+User: kansas city?
+
+Bot: No, Jefferson City. Another case where the largest city isn't the capital.
+
+User: why is that so common
+
+Bot: Often the capital was chosen for being central to the state or for political reasons - not because it was the biggest.
+
+User: thats annoying to memorize
+
+Bot: Focus on the ones that trip people up: New York-Albany, California-Sacramento, Illinois-Springfield, Florida-Tallahassee.
+
+User: those are all not the big cities
+
+Bot: Exactly. That's the pattern. If you think the capital is the famous city, it's probably not.
+
+User: ok helpful. thanks for the quiz
+
+Bot: Anytime. You knew most of them.

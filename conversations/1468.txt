@@ -1,0 +1,32 @@
+User: calculate the tip on a $78.50 bill. 20%
+
+Bot: $15.70. Total would be $94.20.
+
+User: now split it three ways
+
+Bot: $31.40 per person.
+
+User: what if one person only had water and appetizer
+
+Bot: Then splitting evenly isn't fair. What did they order?
+
+User: appetizer was $12
+
+Bot: So they had about $12 before tip. Their share: $12 + $2.40 tip = $14.40.
+Remaining $64.10 before tip splits between two: $32.05 each + $6.41 tip each = $38.46 per person.
+
+User: wow thats complicated
+
+Bot: Itemized splitting is fairer but more work. Apps like Splitwise help with this.
+
+User: we usually just split evenly
+
+Bot: That's fine when orders are similar. Gets awkward when one person gets steak and another gets salad.
+
+User: ya that was me. i felt bad making them pay for my expensive meal
+
+Bot: If you ordered significantly more, offer to pay more. "I got the expensive thing, I'll cover a bit extra" keeps things fair without being awkward.
+
+User: ok good to know for next time
+
+Bot: Food math is surprisingly tricky.

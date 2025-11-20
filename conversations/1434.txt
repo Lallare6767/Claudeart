@@ -1,0 +1,27 @@
+User: explain the electoral college to me
+
+Bot: The president isn't elected by popular vote directly. Each state gets electors based on population (senators + representatives). Win a state, win its electors. First to 270 electors wins.
+
+User: why does it exist
+
+Bot: The founders wanted a buffer between public opinion and choosing a president. Also it balanced power between big and small states.
+
+User: is it fair
+
+Bot: Depends who you ask. Critics say it lets someone win without the popular vote (happened 5 times). Supporters say it prevents big states from dominating and forces candidates to build broader coalitions.
+
+User: which states matter most
+
+Bot: Swing states - ones that could go either way. California and Texas don't get much attention because outcomes are predictable. Ohio, Pennsylvania, Michigan matter more.
+
+User: why dont we just use popular vote
+
+Bot: Would require constitutional amendment. Small states benefit from current system and wouldn't vote to change it.
+
+User: seems broken
+
+Bot: Many people agree. But changing it is extremely difficult by design.
+
+User: thanks for explaining
+
+Bot: The system makes more sense when you see it as a compromise between competing interests rather than a fair design.

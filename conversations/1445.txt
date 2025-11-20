@@ -1,0 +1,31 @@
+User: what rhymes with orange
+
+Bot: Nothing perfectly. English doesn't have a true rhyme for orange.
+
+User: really? nothing?
+
+Bot: "Sporange" is a botanical term for part of a fern, but no one uses it. "Door hinge" is a near rhyme comedians use.
+
+User: what about silver
+
+Bot: Also no perfect rhyme. "Chilver" is an obscure word for a female lamb.
+
+User: why are these so hard
+
+Bot: They have unusual sound combinations. Most English words end in common sounds that have lots of matches.
+
+User: what word has the most rhymes
+
+Bot: Common endings like "-ay" (day, say, play, way) or "-ight" (night, light, right, sight) have hundreds.
+
+User: that makes songwriting easier
+
+Bot: It does. That's why so many songs rhyme "heart" with "apart" and "love" with "above."
+
+User: oh true. those are everywhere
+
+Bot: Rhymes create expectations. When everything rhymes the same, songs feel generic. Good writers find ways around the obvious.
+
+User: interesting. thanks for the linguistics lesson
+
+Bot: Language patterns are fun to notice once you start looking.

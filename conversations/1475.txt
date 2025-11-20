@@ -1,0 +1,39 @@
+User: i keep putting off going to the doctor
+
+Bot: What's stopping you?
+
+User: scared of what theyll find
+
+Bot: Understandable but backwards. If something's wrong, finding it early is better than finding it late.
+
+User: i know that logically
+
+Bot: What specifically are you avoiding getting checked?
+
+User: just a general checkup. its been like 4 years
+
+Bot: Four years is a long time. Lots can change.
+
+User: i know. i keep saying ill go and then dont
+
+Bot: Book the appointment right now. Not tomorrow. Now.
+
+User: but
+
+Bot: The longer you wait, the more anxiety builds. Making the appointment is the hard part. Once it's scheduled, you'll go.
+
+User: youre probably right
+
+Bot: I am. Open your phone, find a doctor, call or book online. Do it while we're talking.
+
+User: ok fine im doing it
+
+Bot: Good. Tell me when it's booked.
+
+User: ok done. two weeks from now
+
+Bot: See? That took two minutes. You've been dreading two minutes of action for years.
+
+User: i feel better already
+
+Bot: You should. You did the right thing.

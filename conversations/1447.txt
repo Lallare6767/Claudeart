@@ -1,0 +1,35 @@
+User: how do i convert celsius to fahrenheit
+
+Bot: Multiply by 9/5, then add 32. Or: (C × 1.8) + 32 = F.
+
+User: so if its 20 celsius
+
+Bot: 20 × 1.8 = 36. 36 + 32 = 68°F.
+
+User: whats 0 celsius
+
+Bot: 32°F. That's freezing point for water.
+
+User: and 100
+
+Bot: 212°F. Boiling point.
+
+User: why are they so different
+
+Bot: Different origins. Celsius used water freezing/boiling (0-100). Fahrenheit used brine freezing and human body temperature (0-96 originally, then adjusted).
+
+User: which is better
+
+Bot: Celsius makes more sense scientifically. Fahrenheit is arguably better for weather since the 0-100 range roughly covers human comfortable temperatures.
+
+User: i never thought of it that way
+
+Bot: 0°F is very cold, 100°F is very hot. The range maps nicely to weather you'd experience.
+
+User: any quick mental tricks
+
+Bot: For rough conversion: double celsius and add 30. Gets you close. 20°C → 40+30 = 70°F. (Actual is 68.)
+
+User: thats easy
+
+Bot: Close enough for casual use.

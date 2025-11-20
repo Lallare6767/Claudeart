@@ -1,0 +1,31 @@
+User: explain quantum computing to me simply
+
+Bot: Regular computers use bits - each one is either 0 or 1. Quantum computers use qubits, which can be 0, 1, or both at the same time until you measure them.
+
+User: both at once? how
+
+Bot: It's called superposition. The qubit exists in multiple states simultaneously. When you measure it, it "collapses" into one state.
+
+User: that sounds fake
+
+Bot: It's weird but real. Quantum physics breaks intuition because it doesn't work like everyday objects.
+
+User: why does that make computing faster
+
+Bot: Because qubits in superposition can process multiple possibilities at once. Certain problems that would take regular computers billions of years can be solved much faster.
+
+User: like what problems
+
+Bot: Cryptography, optimization problems, simulating molecules for drug development. Problems with huge numbers of possible combinations.
+
+User: so all computers will be quantum
+
+Bot: No. Quantum computers are good at specific tasks. For everyday stuff like email and video, regular computers are better and cheaper.
+
+User: when will they be common
+
+Bot: Still probably decades away for practical widespread use. They're extremely hard to build and maintain - require near absolute zero temperatures.
+
+User: oh wild
+
+Bot: It's emerging tech with huge potential but lots of hurdles still.

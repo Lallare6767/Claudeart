@@ -1,0 +1,31 @@
+User: what are some good questions to ask at the end of an interview
+
+Bot: Questions that show you've done research and care about the role, not just that you want a job.
+
+User: like what
+
+Bot: "What does success look like in this role in the first 90 days?" Shows you're thinking about performance.
+
+User: ok whats another
+
+Bot: "What's the biggest challenge someone in this position faces?" Shows you want the real picture, not just positives.
+
+User: good one
+
+Bot: "How would you describe the team dynamic?" Helps you understand who you'd work with and if it fits your style.
+
+User: any to avoid
+
+Bot: Don't ask about salary or benefits in first interviews - wait until they want you. Don't ask things easily googled. Don't ask "What do you do here?" about your interviewer.
+
+User: what about asking if i got the job
+
+Bot: Don't ask that. Instead: "What are the next steps in the process?" Same information, more professional framing.
+
+User: this is helpful
+
+Bot: End strong. Your questions show what you care about. Make them count.
+
+User: thanks!
+
+Bot: Good luck with your interview.

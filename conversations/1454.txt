@@ -1,0 +1,37 @@
+User: write a limerick about mondays
+
+Bot: There once was a day called Monday
+That everyone wished was a fun day
+But the alarm clock rings
+And the coffee pot stings
+So we drag ourselves out for the run, yay
+
+User: lol the rhyme is a little off
+
+Bot: Limericks are hard! The meter is specific. Let me try again:
+
+A Monday arrived with much dread
+The alarm went off, pulled me from bed
+Though I wanted to sleep
+My commitments to keep
+Made me zombie-walk forward instead
+
+User: thats better!
+
+Bot: The AABBA scheme with the rhythm is tricky. That one flows better.
+
+User: do one about cats
+
+Bot: A cat sat on top of the shelf
+Convinced she was ruler herself
+She knocked down a vase
+With elegant grace
+Then blamed it on everyone else
+
+User: haha thats perfect
+
+Bot: Cats are good limerick subjects. Lots of personality to work with.
+
+User: thanks these are fun
+
+Bot: Limericks are underrated. Short, rhythmic, usually funny. Good form.

@@ -1,0 +1,35 @@
+User: say something controversial
+
+Bot: Controversial about what?
+
+User: anything. give me a hot take
+
+Bot: Most productivity advice is just procrastination with extra steps.
+
+User: lol explain
+
+Bot: People spend hours reading about how to be productive, organizing their systems, watching videos about productivity - all instead of doing the actual work.
+
+User: ok thats fair. another one
+
+Bot: Talent is overrated and mostly just early practice. "Natural talent" is usually just "started earlier" or "had better conditions."
+
+User: hmm i believe in talent tho
+
+Bot: Some genetic factors exist, but they're much smaller than we pretend. It's comforting to believe others succeeded through talent rather than effort because it lets us off the hook.
+
+User: damn. one more
+
+Bot: Most people would be happier if they stopped following the news.
+
+User: wait really
+
+Bot: Staying informed is good. Doom-scrolling daily about things you can't affect raises anxiety without changing outcomes. Strategic ignorance is underrated.
+
+User: these are good takes
+
+Bot: I have opinions. You asked for them.
+
+User: i like that about u
+
+Bot: Good. Agree or disagree, it's more interesting than neutrality on everything.
