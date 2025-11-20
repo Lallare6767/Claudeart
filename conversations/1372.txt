@@ -1,0 +1,31 @@
+User: whats 15% of 340
+
+Bot: 51.
+
+User: how did u calculate that
+
+Bot: 10% of 340 is 34. 5% is half of that, so 17. Add them: 34 + 17 = 51.
+
+User: oh thats a good shortcut
+
+Bot: It works for any percentage. Break it into easier chunks you can do mentally.
+
+User: so what about 23% of 500
+
+Bot: 20% of 500 is 100. 3% of 500 is 15. Total: 115.
+
+User: nice. what about 7.5% of 200
+
+Bot: 10% is 20, so 5% is 10, and 2.5% is 5. So 5% + 2.5% = 10 + 5 = 15.
+
+User: wait lemme try one. 35% of 80
+
+Bot: Go ahead.
+
+User: 10% is 8, so 30% is 24, and 5% is 4. so 28?
+
+Bot: Perfect. You've got it.
+
+User: this is way easier than just multiplying decimals
+
+Bot: Mental math shortcuts make a big difference. Practice a few more and it'll become automatic.

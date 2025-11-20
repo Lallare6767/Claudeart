@@ -1,0 +1,47 @@
+User: ok u have 3 guesses. what animal am i thinking of
+
+Bot: Is it a mammal?
+
+User: ya
+
+Bot: Is it bigger than a dog?
+
+User: no
+
+Bot: A cat.
+
+User: wow first try basically. how
+
+Bot: Most common small mammal people think of when playing guessing games. If you'd said it was bigger than a dog, I would have guessed elephant.
+
+User: ok try again i got a harder one
+
+Bot: Is it a mammal?
+
+User: no
+
+Bot: Does it live in water?
+
+User: some of the time
+
+Bot: A frog.
+
+User: omg how
+
+Bot: "Some of the time" in water + not a mammal. Amphibians are the classic answer. Turtles would be my second guess.
+
+User: ok last one and its impossible
+
+Bot: Is it real?
+
+User: ya
+
+Bot: Does it have legs?
+
+User: no
+
+Bot: A snake.
+
+User: WHAT. ok im done u win
+
+Bot: These games are fun. Try again with a mythical creature next time - those are trickier.

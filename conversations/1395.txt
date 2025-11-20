@@ -1,0 +1,33 @@
+User: whats 40% off an item that costs $85
+
+Bot: $51.
+
+User: show me how
+
+Bot: 40% of $85 = 0.40 × 85 = $34 discount.
+$85 - $34 = $51 final price.
+
+User: ok what if theres also 8% sales tax
+
+Bot: $51 × 1.08 = $55.08.
+
+User: does tax go before or after discount
+
+Bot: After. You pay tax on what you actually pay, not the original price.
+
+User: good to know. what if theres a $10 coupon too
+
+Bot: Depends on store policy - usually coupons apply after percentage discounts.
+$51 - $10 = $41. Then tax: $41 × 1.08 = $44.28.
+
+User: nice so i save like 40 bucks total
+
+Bot: From $85 to $44.28 - you're saving about $41, almost half off.
+
+User: discounts are fun when u know the math
+
+Bot: They are. Also useful to avoid "fake" sales where they inflate prices first.
+
+User: true. thanks!
+
+Bot: Happy shopping.

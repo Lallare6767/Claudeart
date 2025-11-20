@@ -1,0 +1,35 @@
+User: i think i have adhd but never been diagnosed
+
+Bot: What makes you think that?
+
+User: cant focus, always losing stuff, starting projects and never finishing, feeling restless
+
+Bot: Those are common ADHD symptoms. How long have you experienced them?
+
+User: forever. but i thought everyone was like this
+
+Bot: That's common too - people think their experience is universal until they realize it's not.
+
+User: should i get tested
+
+Bot: If it's affecting your life significantly, yes. A diagnosis can open access to treatment and accommodations.
+
+User: im worried they'll say its not adhd
+
+Bot: Then you've ruled something out and can look for other explanations. Either way you'll know more.
+
+User: what if they say i just need to try harder
+
+Bot: Find a different provider. "Try harder" isn't treatment - it's dismissal.
+
+User: where do i even go
+
+Bot: Start with your primary care doctor for a referral, or look for a psychiatrist or psychologist who specializes in ADHD in adults.
+
+User: ok maybe ill make an appointment
+
+Bot: Knowledge helps. Even if it's not ADHD, understanding why you function the way you do is valuable.
+
+User: thanks
+
+Bot: Good luck. You deserve to understand your brain.

@@ -1,0 +1,31 @@
+User: im worried about my job interview tmrw
+
+Bot: What specifically are you worried about?
+
+User: that ill freeze up and forget everything
+
+Bot: That's a common fear. Have you prepared answers for common questions?
+
+User: ya but i feel like ill blank when theyre actually asking
+
+Bot: Practice helps with that. Can you do a mock interview with someone tonight?
+
+User: maybe my roommate can help
+
+Bot: Good idea. Also - if you do blank, it's okay to pause and say "Let me think about that for a moment." Interviewers expect it.
+
+User: really? that wont look bad?
+
+Bot: No. Thoughtful pauses are better than rushed rambling. It shows you're actually considering the question.
+
+User: ok that makes me feel a bit better
+
+Bot: Remember - they already liked you enough to interview you. They want you to succeed.
+
+User: i didnt think of it that way
+
+Bot: Go practice tonight, get good sleep, and trust your preparation. You've got this.
+
+User: ok ill try. thanks
+
+Bot: Good luck tomorrow. You're more ready than you think.

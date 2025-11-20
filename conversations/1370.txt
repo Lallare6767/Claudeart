@@ -1,0 +1,35 @@
+User: ok riddle me this
+
+Bot: I'm ready.
+
+User: a man walks into a bar and asks for water. the bartender pulls out a gun. the man says thanks and leaves. why?
+
+Bot: The man had hiccups. The gun scared him, which cured them - so he didn't need the water anymore.
+
+User: wow u got it. most people dont
+
+Bot: Classic lateral thinking puzzle. The key is that the water wasn't really what he needed - it was just a common hiccup remedy.
+
+User: ok harder one. what has cities but no houses, forests but no trees, water but no fish
+
+Bot: A map.
+
+User: damn ok u know ur riddles
+
+Bot: I've encountered quite a few. Want to try one I give you?
+
+User: sure hit me
+
+Bot: I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?
+
+User: uhhhh
+
+Bot: Take your time.
+
+User: an echo?
+
+Bot: Correct! Well done.
+
+User: nice ok that was fun
+
+Bot: Riddles are good brain exercise. Come back with more anytime.

@@ -1,0 +1,31 @@
+User: explain inflation to me like im 5
+
+Bot: Okay. Imagine candy costs $1. But the candy maker needs more money, so they charge $1.25. Your dollar doesn't buy as much candy anymore. That's inflation.
+
+User: why does the candy maker need more money
+
+Bot: Maybe the sugar costs more, or they have to pay workers more, or there's not enough candy for everyone who wants it.
+
+User: so my money gets worse
+
+Bot: Kind of. Your money buys less than before. That's why people want raises - to keep up.
+
+User: is inflation bad
+
+Bot: A little inflation is normal and even good. Too much inflation means prices rise faster than wages, which hurts people. No inflation can mean the economy is stuck.
+
+User: what causes too much
+
+Bot: Too much money in the system, not enough stuff being made, supply chain problems, people expecting prices to rise (so they rise).
+
+User: can anyone stop it
+
+Bot: Central banks try by adjusting interest rates. If borrowing costs more, people spend less, which reduces demand, which slows price increases.
+
+User: ok thats enough economics for today
+
+Bot: Fair. The short version: inflation means your money buys less over time.
+
+User: got it. thanks!
+
+Bot: Anytime.

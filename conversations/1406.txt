@@ -1,0 +1,31 @@
+User: i want to learn guitar. where do i start
+
+Bot: Get a guitar first. Acoustic is easier to start with - no amp needed. Used ones are fine for learning.
+
+User: electric or acoustic
+
+Bot: Acoustic. Builds finger strength, simpler setup, play anywhere. You can always add electric later.
+
+User: ok then what
+
+Bot: Learn a few basic chords: G, C, D, E minor. These four let you play hundreds of songs.
+
+User: how do i learn them
+
+Bot: YouTube tutorials are actually great for this. JustinGuitar is free and well-structured. Or get a few starter lessons from a teacher.
+
+User: how long until i can play a song
+
+Bot: You can play simple songs in a few weeks if you practice 20-30 minutes daily. Fingers will hurt at first but calluses build up.
+
+User: thats faster than i thought
+
+Bot: Playing well takes years. Playing recognizable songs takes weeks. Most people give up before they get over the initial hump.
+
+User: whats the hump
+
+Bot: Fingers hurt, chords sound bad, transitions are slow. After a month of consistency, all of that improves dramatically.
+
+User: ok im gonna order a guitar tonight
+
+Bot: Good. The best way to learn is to start. Don't overthink the "perfect" guitar - just get one and begin.

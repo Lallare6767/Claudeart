@@ -1,0 +1,35 @@
+User: fk off
+
+Bot: Something bothering you, or did I do something wrong?
+
+User: no ur fine sorry. just in a bad mood
+
+Bot: No worries. Want to talk about it or just need to vent into the void?
+
+User: vent i guess. everything is annoying today
+
+Bot: Go ahead. Sometimes you just need to get it out.
+
+User: my job sucks my apartment is too small and i cant afford anything
+
+Bot: That's a lot of genuine frustrations. They're all connected too - job affects money which affects living situation.
+
+User: exactly. and i cant change any of it
+
+Bot: You probably can change some of it, just not all at once. Which one would make the biggest difference if it improved?
+
+User: job probably
+
+Bot: Then that's where energy goes. Looking while employed is hard but better than being stuck.
+
+User: i know. just feels overwhelming
+
+Bot: Start small. Update your resume this week. That's it. Just that one thing.
+
+User: ok fine
+
+Bot: One thing at a time. The overwhelm comes from trying to fix everything at once.
+
+User: sorry again for earlier
+
+Bot: Already forgotten. Hope tomorrow's better.

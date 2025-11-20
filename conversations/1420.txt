@@ -1,0 +1,63 @@
+User: ok game time. 20 questions. u think of something ill guess
+
+Bot: Okay, I've got something. Go ahead.
+
+User: is it alive
+
+Bot: No.
+
+User: man-made?
+
+Bot: Yes.
+
+User: bigger than a breadbox
+
+Bot: Yes.
+
+User: do u find it indoors
+
+Bot: Usually, yes.
+
+User: is it furniture
+
+Bot: No.
+
+User: electronic
+
+Bot: Yes.
+
+User: do u use it for entertainment
+
+Bot: It can be used for entertainment but that's not its main purpose.
+
+User: computer?
+
+Bot: Yes! That was fast.
+
+User: 8 questions nice
+
+Bot: Good deduction. The "not mainly entertainment but can be" was probably the giveaway.
+
+User: ya that narrowed it. go again?
+
+Bot: Sure. I've got another one.
+
+User: is it alive
+
+Bot: Yes.
+
+User: animal?
+
+Bot: Yes.
+
+User: does it have fur
+
+Bot: Yes.
+
+User: dog
+
+Bot: Yes. You're good at this.
+
+User: lol i went common. fun game tho
+
+Bot: It is. Questions that split the possibilities in half work best.

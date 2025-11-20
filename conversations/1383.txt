@@ -1,0 +1,31 @@
+User: can u recommend a book
+
+Bot: What kind of book? Fiction, nonfiction, specific genre?
+
+User: fiction. something that makes u think
+
+Bot: Any topics you're interested in or want to avoid?
+
+User: open to anything
+
+Bot: "Never Let Me Go" by Kazuo Ishiguro. Quiet, haunting, about identity and mortality. Stays with you.
+
+User: whats it about
+
+Bot: Three friends growing up in an English boarding school gradually discover the truth about why they're there. I don't want to spoil more.
+
+User: sounds kinda mysterious
+
+Bot: It is, but not in a thriller way. More in a slow-realization way. The reader figures it out before the characters do.
+
+User: ok im intrigued
+
+Bot: It's a quick read but emotionally heavy. Perfect if you want something that lingers.
+
+User: ill check it out. any others?
+
+Bot: "The Remains of the Day" by the same author. Similar quiet devastation. Or "Station Eleven" by Emily St. John Mandel if you want something with more scope.
+
+User: adding all to my list. thanks
+
+Bot: Hope you enjoy them. Let me know what you think.

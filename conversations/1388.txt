@@ -1,0 +1,32 @@
+User: if a train leaves chicago at 9am going 60mph and another leaves nyc at 10am going 80mph
+
+Bot: I'll need the distance between them to solve this. What are you trying to find - when they meet?
+
+User: ya assume 800 miles apart
+
+Bot: Let t = hours after 9am when they meet.
+Chicago train travels 60t miles.
+NYC train leaves an hour later, so travels 80(t-1) miles.
+Together they cover 800 miles: 60t + 80(t-1) = 800.
+
+User: ok solve it
+
+Bot: 60t + 80t - 80 = 800
+140t = 880
+t = 880/140 = 6.29 hours after 9am.
+
+User: so what time
+
+Bot: About 3:17pm.
+
+User: where do they meet
+
+Bot: Chicago train went 60 × 6.29 = 377 miles from Chicago. NYC train went 80 × 5.29 = 423 miles from NYC. They meet about 377 miles from Chicago.
+
+User: these problems always confused me
+
+Bot: Break them into pieces: write what each thing does, set up the equation, solve. The setup is the hard part.
+
+User: ok that helps
+
+Bot: Practice a few more and it'll click.

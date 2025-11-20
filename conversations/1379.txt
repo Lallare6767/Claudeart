@@ -1,0 +1,31 @@
+User: im so excited for my trip next week
+
+Bot: Where are you going?
+
+User: japan! first time. 2 weeks
+
+Bot: Two weeks is great - enough time to see multiple regions without rushing. What's on your itinerary?
+
+User: tokyo kyoto osaka and maybe hiroshima
+
+Bot: Solid choices. The classics for a first trip. Are you more interested in temples, food, city life, nature?
+
+User: honestly everything. but especially food
+
+Bot: Then you're going to the right place. Japan has some of the best food culture in the world. Any specific things you want to try?
+
+User: ramen sushi wagyu. the basics
+
+Bot: Those basics are exceptional there. Also try conveyor belt sushi, depachika (department store food halls), and random hole-in-the-wall spots.
+
+User: whats depachika
+
+Bot: Basement floors of department stores with incredible prepared foods, sweets, and samples. It's an experience.
+
+User: adding that to the list
+
+Bot: You're going to have an amazing time. Japan is one of those places that usually exceeds expectations.
+
+User: i cant wait
+
+Bot: Safe travels! Enjoy every bit of it.

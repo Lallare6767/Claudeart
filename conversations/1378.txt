@@ -1,0 +1,31 @@
+User: whats the derivative of sin(x)
+
+Bot: cos(x).
+
+User: and cos(x)
+
+Bot: -sin(x).
+
+User: why is it negative
+
+Bot: It comes from the limit definition. When you work out the difference quotient for cos(x), the negative emerges naturally. Visually - when sin is at its max (where cos starts), cos is decreasing, so its slope is negative.
+
+User: that actually makes sense with the graphs
+
+Bot: Exactly. The derivative tells you the slope, and you can see cos slopes downward when sin is at its peak.
+
+User: what about tan(x)
+
+Bot: sec²(x).
+
+User: wait where does that come from
+
+Bot: tan(x) = sin(x)/cos(x). Use quotient rule: (cos·cos - sin·(-sin))/cos² = (cos² + sin²)/cos² = 1/cos² = sec²(x).
+
+User: oh the pythagorean identity
+
+Bot: Right. cos² + sin² = 1. Trig derivatives are all connected like that.
+
+User: these are easier than i thought
+
+Bot: Once you see the pattern, it clicks. The hard part is memorizing them initially.

@@ -1,0 +1,31 @@
+User: help me write a message to cancel plans without being rude
+
+Bot: What are you canceling and what's the reason?
+
+User: dinner with a friend. im just not feeling up to it
+
+Bot: Honest or excuse?
+
+User: i dont want to lie but i also dont want to say i just dont feel like it
+
+Bot: Try: "Hey, I'm really sorry but I need to reschedule. I'm not feeling up to going out tonight but I don't want to be bad company. Can we do next week instead?"
+
+User: that works. is it bad that i just dont feel like it
+
+Bot: No. Sometimes you need rest more than socializing. The key is following through on rescheduling.
+
+User: should i offer a specific day
+
+Bot: Yes, it shows you actually want to see them. "Can we do Thursday or Friday instead?" is better than vague.
+
+User: ok
+
+Bot: If this happens a lot though, that's worth examining. Occasional need for space is normal; constant avoidance is a pattern.
+
+User: its not a lot just tonight
+
+Bot: Then you're fine. Everyone needs to cancel sometimes. Just be reliable about rescheduling.
+
+User: thanks ill text them now
+
+Bot: They'll understand. Real friends do.

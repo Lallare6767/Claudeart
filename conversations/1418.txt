@@ -1,0 +1,31 @@
+User: what should i name my plant
+
+Bot: What kind of plant is it?
+
+User: a monstera. big one with lots of splits
+
+Bot: Some options: Fern Gully (even though it's not a fern), Phil (short for philodendron family), Monstera Mia, or just a human name like Harold.
+
+User: harold lmaooo
+
+Bot: There's something funny about plants with formal human names. "Have you met Harold? He needs indirect light."
+
+User: ok now serious options
+
+Bot: Morgan, Verde, Leafy, Monty (for monstera), Ivy (classic plant name), or something that matches your aesthetic.
+
+User: i like monty
+
+Bot: Monty the Monstera. It works.
+
+User: monty it is. thanks for the naming session
+
+Bot: Enjoy your plant. Monsterasare great - hard to kill and very dramatic when they get big.
+
+User: ya i love watching new leaves unfurl
+
+Bot: That's the best part. Very satisfying growth to observe.
+
+User: ok gonna go water monty
+
+Bot: Tell Monty I said hi.

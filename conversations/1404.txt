@@ -1,0 +1,27 @@
+User: whats the answer to this logic puzzle: all bloops are razzies. all razzies are lazzies. are all bloops lazzies?
+
+Bot: Yes. If all bloops are razzies, and all razzies are lazzies, then all bloops must be lazzies.
+
+User: what about: are all lazzies bloops
+
+Bot: No. We know bloops→razzies→lazzies, but that doesn't mean lazzies→bloops. A lazzy could be a razzy that isn't a bloop.
+
+User: oh right the direction matters
+
+Bot: Exactly. "All A are B" doesn't mean "all B are A." All dogs are mammals but not all mammals are dogs.
+
+User: ok harder one: some bloops are razzies. all razzies are lazzies. are some bloops lazzies?
+
+Bot: Yes. The bloops that are razzies are also lazzies.
+
+User: are all bloops lazzies?
+
+Bot: We can't say. Only "some" bloops are razzies, so only those are guaranteed to be lazzies. The other bloops might not be.
+
+User: this is making my brain work
+
+Bot: Syllogistic logic. It's the foundation of formal reasoning. The key is tracking what you actually know versus what you're assuming.
+
+User: thanks for the workout
+
+Bot: Anytime. Logic puzzles are good for keeping sharp.

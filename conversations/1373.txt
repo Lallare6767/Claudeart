@@ -1,0 +1,31 @@
+User: my cat is sick and im scared
+
+Bot: I'm sorry to hear that. What's going on with them?
+
+User: not eating and hiding more than usual. vet appt is tmrw
+
+Bot: Those are concerning symptoms worth checking out. Good that you already have an appointment.
+
+User: i cant stop thinking about worst case scenarios
+
+Bot: That's natural when you care about something. But you're doing everything right by getting them seen.
+
+User: shes 14 so i know shes old but
+
+Bot: Age doesn't make it easier. 14 years is a lot of companionship.
+
+User: ya shes been with me since college
+
+Bot: That's most of your adult life. Whatever happens, you've given her a good home.
+
+User: i hope shes ok
+
+Bot: Focus on getting through tonight and getting to that appointment. Tomorrow you'll have more information.
+
+User: ok ill try
+
+Bot: Try to rest. She needs you thinking clearly tomorrow.
+
+User: thanks. ill update u
+
+Bot: I hope it goes well. She's lucky to have someone who cares this much.

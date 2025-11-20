@@ -1,0 +1,31 @@
+User: how do i tell if a source is reliable
+
+Bot: Look at: who wrote it, who published it, when it was published, whether they cite their sources, and whether other reliable sources say similar things.
+
+User: what counts as reliable sources
+
+Bot: Academic journals, established news outlets (especially with fact-checking processes), government data, reputable institutions. Not random blogs or social media.
+
+User: what about wikipedia
+
+Bot: Good for general understanding and finding primary sources, but don't cite Wikipedia itself. Check their citations and go to the original source.
+
+User: my teacher says no wikipedia
+
+Bot: Common rule. Use Wikipedia to learn and find real sources, then cite those.
+
+User: how do i know if news is biased
+
+Bot: All news has some bias, but there's a difference between bias and unreliability. Check if they separate news from opinion, if they correct errors, if they use multiple sources.
+
+User: what about sites i never heard of
+
+Bot: Be skeptical. Check their "About" page, look them up on fact-checking sites, see if established outlets cite them. Unknown doesn't mean bad but it means verify.
+
+User: this is harder than just googling
+
+Bot: Yes, but googling isn't research. Anyone can put anything online.
+
+User: ok fair point
+
+Bot: Information literacy takes effort but it's worth developing.

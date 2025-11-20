@@ -1,0 +1,27 @@
+User: help me write a sympathy card for my coworkers mom
+
+Bot: Of course. How well did you know the coworker or their mom?
+
+User: just know my coworker. never met her mom
+
+Bot: Keep it simple and sincere then. Something like: "I'm so sorry for your loss. Thinking of you during this difficult time. Please let me know if there's anything I can do."
+
+User: thats good but feels generic
+
+Bot: You can personalize with something you appreciate about your coworker: "Your kindness at work has meant a lot to me. I'm so sorry you're going through this loss."
+
+User: oh thats better. she is really kind
+
+Bot: Then reference that. Genuine observations land better than generic condolences.
+
+User: what about the last part about letting me know if i can help
+
+Bot: That's optional. Some people find it helpful, others see it as empty. If you actually mean it, include it. If not, end with "Thinking of you."
+
+User: ill keep it. i do mean it
+
+Bot: Good. Simple, specific, and sincere - that's all you need.
+
+User: thanks for the help
+
+Bot: Anytime. The fact that you're putting thought into it means something.

@@ -1,0 +1,31 @@
+User: GUESS WHAT
+
+Bot: What??
+
+User: i just got accepted to my dream school!!!
+
+Bot: That's amazing! Which school?
+
+User: stanford! for grad school in computer science
+
+Bot: Stanford CS is incredibly competitive. You should be proud - that's a huge achievement!
+
+User: i still cant believe it. i was sure i wouldnt get in
+
+Bot: Imposter syndrome hits even the qualified. But the admissions committee saw something real in your application.
+
+User: i worked so hard on those essays
+
+Bot: And it paid off. When do you start?
+
+User: fall semester! i have to move to california
+
+Bot: Big life change coming. Exciting but probably a little scary too?
+
+User: ya both. but mostly excited
+
+Bot: As you should be. This is going to open so many doors. Congratulations!
+
+User: thank you!! im gonna go celebrate
+
+Bot: You absolutely should. You earned this!

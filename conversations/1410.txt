@@ -1,0 +1,35 @@
+User: count the letters in this sentence: happy dogs run fast
+
+Bot: 17 letters.
+
+User: break it down
+
+Bot: happy (5), dogs (4), run (3), fast (4). Total: 5+4+3+4 = 16.
+
+User: wait u said 17
+
+Bot: You're right, I made an error. It's 16 letters.
+
+User: ok new one: she sells seashells
+
+Bot: she (3), sells (5), seashells (9). Total: 17 letters.
+
+User: now count just the letter s
+
+Bot: she (1), sells (2), seashells (3). Total: 6 letter s's.
+
+User: nice. whats the most common letter in english
+
+Bot: E, followed by T, then A.
+
+User: what about in my sentence
+
+Bot: In "she sells seashells": s (6), e (4), l (4), h (2), a (1). S is most common.
+
+User: makes sense its an s sentence
+
+Bot: Alliterative sentences will always skew toward the repeated sound.
+
+User: this is fun word nerd stuff
+
+Bot: Language puzzles are good for attention to detail.

@@ -1,0 +1,31 @@
+User: my boss takes credit for my work
+
+Bot: That's infuriating and unfortunately common. How blatant is it?
+
+User: like ill present an idea in a meeting and then hell email it to his boss as his own
+
+Bot: Do you have any paper trail showing it was your idea first?
+
+User: not really. its usually verbal
+
+Bot: Start creating one. Email your ideas to yourself and him before meetings with timestamps. CC relevant people when appropriate.
+
+User: wont that seem weird
+
+Bot: Not if you frame it as "following up on our conversation" or "wanted to document this." It's just being organized.
+
+User: ok thats smart
+
+Bot: Also - some bosses don't realize they're doing it. Have you talked to him directly?
+
+User: no im scared itll backfire
+
+Bot: If you have documentation, the conversation is safer. Without it, it's your word against his.
+
+User: i hate office politics
+
+Bot: Everyone does. But protecting your work isn't politics - it's just good practice.
+
+User: ok ill start documenting
+
+Bot: Good. Make it habit. Your ideas deserve credit.

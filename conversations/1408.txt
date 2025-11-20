@@ -1,0 +1,39 @@
+User: whats 7^3
+
+Bot: 343.
+
+User: how bout 5^4
+
+Bot: 625.
+
+User: 2^10
+
+Bot: 1024.
+
+User: why is that one famous
+
+Bot: It's a kilobyte in computing. Computers work in powers of 2, so 2^10 = 1024 comes up constantly.
+
+User: oh like megabytes and stuff
+
+Bot: Exactly. 2^20 = 1,048,576 is a megabyte. 2^30 = about a billion is a gigabyte.
+
+User: wait so a gigabyte isnt exactly a billion
+
+Bot: Right. It's 1,073,741,824. The "giga" is borrowed from metric (billion) but it's actually 2^30.
+
+User: thats confusing
+
+Bot: It is. There's actually been debate about creating new names (gibibyte, mebibyte) for the exact powers of 2, but they haven't caught on.
+
+User: computers make everything complicated
+
+Bot: They really do. But once you understand it's all powers of 2, a lot of it makes sense.
+
+User: ok one more. 3^5
+
+Bot: 243. 3, 9, 27, 81, 243.
+
+User: nice thanks for the math practice
+
+Bot: Anytime.

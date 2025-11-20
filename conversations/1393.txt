@@ -1,0 +1,31 @@
+User: can u explain compound interest
+
+Bot: Sure. Compound interest means you earn interest on your interest, not just your original amount.
+
+User: example?
+
+Bot: You invest $1000 at 5% annual interest. Year 1: $1000 × 1.05 = $1050. Year 2: $1050 × 1.05 = $1102.50, not $1100. That extra $2.50 is compound interest.
+
+User: so it snowballs
+
+Bot: Exactly. The longer it compounds, the more dramatic the effect. After 30 years at 5%, that $1000 becomes about $4322.
+
+User: wow from doing nothing
+
+Bot: From doing nothing except waiting. Time is the key ingredient in compounding.
+
+User: is that why people say invest early
+
+Bot: Yes. Someone who invests from age 25-35 then stops will often have more than someone who starts at 35 and invests until 65, just because of extra compounding time.
+
+User: that seems unfair
+
+Bot: It's just math, but it does mean starting early matters more than people realize.
+
+User: ok im opening a retirement account
+
+Bot: Smart move. Even small amounts compounded over decades add up significantly.
+
+User: thanks for explaining
+
+Bot: Happy to help. Let compound interest work for you instead of against you (like with credit card debt).

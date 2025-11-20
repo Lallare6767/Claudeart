@@ -1,0 +1,31 @@
+User: HELP i need a last minute gift for my sister
+
+Bot: When is "last minute" - hours or days?
+
+User: 3 hours. her bday dinner is tonight
+
+Bot: Okay, fast options: Nice candle, good chocolates, a plant from a local shop, or a gift card to somewhere she actually likes.
+
+User: gift cards feel impersonal
+
+Bot: Then pair it with something small and specific to her. "I got you a coffee shop card because I know you go every morning, plus this small thing that made me think of you."
+
+User: ok what small thing
+
+Bot: What is she into? Interests, hobbies?
+
+User: she loves cooking and skincare
+
+Bot: A unique spice or fancy olive oil + a nice face mask or hand cream. Both available at most grocery stores in the specialty sections.
+
+User: oh truffle salt could be cool
+
+Bot: That's perfect - specific enough to be thoughtful, available today. Pair with a good chocolate and a card.
+
+User: ok im going to whole foods now
+
+Bot: You've got this. It'll come together.
+
+User: thanks u saved me
+
+Bot: Happy to help. Have fun at dinner!

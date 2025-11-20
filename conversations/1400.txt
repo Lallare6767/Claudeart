@@ -1,0 +1,35 @@
+User: im thinking about going back to school
+
+Bot: For what?
+
+User: masters in public health. ive been working in healthcare admin for 5 years
+
+Bot: That's relevant experience. What's making you consider it now?
+
+User: i feel capped at my current level. cant advance without the degree
+
+Bot: Have you looked into programs? Online, in-person, part-time?
+
+User: ya theres a good one near me that has evening classes
+
+Bot: That's ideal for working while studying. Main concerns?
+
+User: money and time. its 2 years
+
+Bot: Will your employer help with tuition? Many healthcare organizations do.
+
+User: actually ya they have some reimbursement. i should look into that
+
+Bot: Definitely do that first. If they'll cover even part of it, the math changes significantly.
+
+User: its just a big commitment
+
+Bot: It is. But you've already identified that you're capped. Two years of discomfort for decades of higher earning potential might be worth it.
+
+User: when u put it that way
+
+Bot: Run the numbers, talk to your employer about support, and see how it looks. Then decide.
+
+User: ok ill do that. thanks
+
+Bot: Good luck. The fact that you're already researching programs means part of you has decided.

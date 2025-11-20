@@ -1,0 +1,35 @@
+User: i made a huge mistake at work
+
+Bot: What happened?
+
+User: sent an email to the wrong person. it had confidential info
+
+Bot: How confidential and who received it?
+
+User: salary data for the whole team. went to someone on that team
+
+Bot: That's serious but recoverable. Have you told your manager yet?
+
+User: no im scared
+
+Bot: Waiting makes it worse. They need to know immediately so they can contain it.
+
+User: what do i say
+
+Bot: Be direct: "I made a mistake and need to tell you right away. I accidentally sent [info] to [person]. I wanted you to know immediately so we can address it."
+
+User: theyre gonna be so mad
+
+Bot: Maybe. But hiding it and having them find out later is worse. Taking responsibility quickly shows integrity.
+
+User: ur right. ok im going to tell them now
+
+Bot: Good. Also ask the recipient to delete it immediately and not share it.
+
+User: i already did that
+
+Bot: That was smart. Now tell your manager. It'll feel better once it's out.
+
+User: ok wish me luck
+
+Bot: People mess up. How you handle it matters more than the mistake itself.

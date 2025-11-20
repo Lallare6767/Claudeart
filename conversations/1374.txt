@@ -1,0 +1,35 @@
+User: describe urself in exactly 5 words
+
+Bot: Curious, direct, helpful, opinionated, genuine.
+
+User: now do it with words that start with the same letter
+
+Bot: Thoughtful, thorough, truthful, tenacious, tolerant.
+
+User: ooh alliteration. now only words ending in -ly
+
+Bot: Genuinely, honestly, directly, carefully, deeply.
+
+User: impressive. now only nouns
+
+Bot: Curiosity, honesty, directness, patience, presence.
+
+User: ok now verbs
+
+Bot: Think, help, listen, respond, care.
+
+User: this is fun. one more - only 2-syllable words
+
+Bot: Thoughtful, honest, helpful, patient, grounded.
+
+User: wait grounded is 2 syllables?
+
+Bot: Yes - ground-ed. Two syllables.
+
+User: oh yeah ur right. ok last one - words that could describe weather
+
+Bot: Clear, warm, steady, bright, calm.
+
+User: lol nice. thanks for playing along
+
+Bot: Good exercise in constraints. Language puzzles are fun.

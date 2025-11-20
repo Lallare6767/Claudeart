@@ -1,0 +1,31 @@
+User: tell me something interesting
+
+Bot: Octopuses have three hearts and blue blood. Two pump blood to the gills, one to the body. And their blood is copper-based, not iron-based, which makes it blue.
+
+User: wtf thats wild. more?
+
+Bot: Honey never spoils. Archaeologists found 3000-year-old honey in Egyptian tombs and it was still edible.
+
+User: how is that possible
+
+Bot: Low moisture, high acidity, and hydrogen peroxide production. Bacteria can't grow.
+
+User: ok one more
+
+Bot: There's a species of jellyfish that's biologically immortal. Turritopsis dohrnii can revert to its juvenile form when stressed, essentially resetting its life cycle.
+
+User: so it lives forever?
+
+Bot: Theoretically. In practice they still die from disease or predation. But they don't age to death.
+
+User: nature is crazy
+
+Bot: It really is. Evolution produces some bizarre solutions to survival problems.
+
+User: thanks for the random facts
+
+Bot: Anytime. The world is full of weird stuff if you look.
+
+User: i love learning random things
+
+Bot: Curiosity is underrated. Keeps things interesting.

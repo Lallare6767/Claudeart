@@ -1,0 +1,35 @@
+User: convince me to exercise
+
+Bot: No. If you need convincing, you won't stick with it. What's actually stopping you?
+
+User: i just hate it
+
+Bot: What have you tried?
+
+User: gym. running. it all sucks
+
+Bot: Do you like any physical activities? Not exercise - just movement.
+
+User: i like hiking i guess
+
+Bot: That's exercise. You don't have to run on a treadmill. What about hiking made you like it?
+
+User: being outside. the views. its not boring
+
+Bot: Then hike more. Or try rock climbing, kayaking, cycling outside. Exercise doesn't have to be in a gym.
+
+User: those sound more fun actually
+
+Bot: The best exercise is whatever you'll actually do. Hating it is a sign you haven't found your thing yet.
+
+User: i thought i was just lazy
+
+Bot: Maybe you were just bored. There's a difference.
+
+User: ok maybe ill try a climbing gym
+
+Bot: Try it. If you like it, you'll go. That's how it works.
+
+User: alright fine u convinced me
+
+Bot: I didn't convince you to exercise. I convinced you to stop doing exercise you hate.
