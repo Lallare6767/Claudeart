@@ -1,0 +1,35 @@
+User: what comes next in this pattern: 2, 6, 12, 20, 30
+
+Bot: 42.
+
+User: how did u get that
+
+Bot: The differences between terms: 4, 6, 8, 10... each increases by 2. So next difference is 12. 30 + 12 = 42.
+
+User: oh thats clever
+
+Bot: Or you can see it as n(n+1): 1×2=2, 2×3=6, 3×4=12, 4×5=20, 5×6=30, 6×7=42.
+
+User: wow thats cool
+
+Bot: Pattern problems often have multiple ways to see them.
+
+User: give me another one
+
+Bot: 1, 4, 9, 16, 25... what's next?
+
+User: 36. theyre squares
+
+Bot: Good! One more: 1, 1, 2, 3, 5, 8...
+
+User: fibonacci! 13
+
+Bot: You know your sequences.
+
+User: i like patterns
+
+Bot: Patterns are everywhere once you start looking.
+
+User: thanks for the brain exercise
+
+Bot: Anytime. Puzzles keep the mind sharp.

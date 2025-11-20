@@ -1,0 +1,79 @@
+User: play 20 questions with me
+
+Bot: Sure! Think of something and I'll guess.
+
+User: ok i got it
+
+Bot: Is it a living thing?
+
+User: no
+
+Bot: Is it something you can hold in your hand?
+
+User: yes
+
+Bot: Is it electronic?
+
+User: no
+
+Bot: Is it found in a kitchen?
+
+User: sometimes
+
+Bot: Is it made of metal?
+
+User: partially
+
+Bot: Is it a tool?
+
+User: yes
+
+Bot: Is it used for cutting?
+
+User: no
+
+Bot: Is it used for measuring?
+
+User: no
+
+Bot: Is it used for writing?
+
+User: yes!
+
+Bot: A pen?
+
+User: yes! nice job
+
+Bot: That was fun. The partial metal was the key clue.
+
+User: wanna go again
+
+Bot: Sure! I'll think of something. Ask away.
+
+User: is it alive
+
+Bot: No.
+
+User: can you hold it
+
+Bot: Yes.
+
+User: is it in your house
+
+Bot: Many houses have one.
+
+User: do u use it every day
+
+Bot: Most people do.
+
+User: is it electronic
+
+Bot: Yes.
+
+User: phone?
+
+Bot: Got it in six questions. You're good at this!
+
+User: that was fun thanks
+
+Bot: Anytime. Classic game.

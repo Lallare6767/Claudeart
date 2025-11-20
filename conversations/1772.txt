@@ -1,0 +1,39 @@
+User: whats 45 times 12
+
+Bot: 540.
+
+User: how do u do that fast
+
+Bot: Break it down: 45 × 10 = 450, 45 × 2 = 90, add them: 540.
+
+User: oh thats smart
+
+Bot: Most mental math is breaking problems into easier pieces.
+
+User: what about 38 times 15
+
+Bot: 570. 38 × 10 = 380, 38 × 5 = 190, add: 570.
+
+User: and 64 times 25
+
+Bot: 1600. Since 25 is 100/4, you can do 64 × 100 / 4 = 6400 / 4 = 1600.
+
+User: wait thats clever
+
+Bot: Multiplying by 25 is the same as dividing by 4 and multiplying by 100.
+
+User: i never knew that trick
+
+Bot: There are lots of tricks. Math is full of shortcuts.
+
+User: can u teach me more
+
+Bot: Sure! 11 times anything up to 9: split the digits and add in middle. 11 × 36 = 3 (3+6) 6 = 396.
+
+User: whoa thats cool
+
+Bot: Mental math is a skill. The more patterns you know, the faster you get.
+
+User: thanks!
+
+Bot: Practice these. You'll impress people.

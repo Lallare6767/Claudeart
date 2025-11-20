@@ -1,0 +1,43 @@
+User: i got rejected from my dream job
+
+Bot: I'm sorry. How are you feeling?
+
+User: devastated. i really wanted it
+
+Bot: Did they give feedback?
+
+User: no just the standard rejection email
+
+Bot: That makes it harder - no information to learn from.
+
+User: i dont know what i did wrong
+
+Bot: Maybe nothing. Sometimes it's not about you - internal candidate, budget changes, fit issues.
+
+User: but i thought the interviews went well
+
+Bot: They might have. Rejection doesn't mean you did badly.
+
+User: now what
+
+Bot: Grieve it. Then move on. There are other jobs.
+
+User: but it was the dream one
+
+Bot: Dreams adapt. The next opportunity might be something you can't imagine yet.
+
+User: that feels like toxic positivity
+
+Bot: Fair. Let me rephrase: this hurts and it's okay to be sad about it.
+
+User: thanks. i am sad
+
+Bot: Be sad. Then when you're ready, dust off the resume.
+
+User: ok
+
+Bot: You'll find something. This wasn't your only chance at a good career.
+
+User: thanks
+
+Bot: Take care of yourself today.

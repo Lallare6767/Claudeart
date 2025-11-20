@@ -1,0 +1,47 @@
+User: i keep avoiding going to the doctor
+
+Bot: Why are you avoiding it?
+
+User: scared of what theyll find
+
+Bot: What are you worried about specifically?
+
+User: theres a lump that wasnt there before
+
+Bot: How long has it been there?
+
+User: couple months
+
+Bot: I understand the fear. But waiting only makes the unknown worse, and if it is something, earlier is better.
+
+User: i know logically
+
+Bot: Fear isn't logical. But you need to override it here.
+
+User: what if its bad news
+
+Bot: Then you'll deal with it. But you can't deal with what you don't know.
+
+User: the not knowing is almost worse
+
+Bot: It is worse. You're living with fear instead of information.
+
+User: ok. ill make an appointment
+
+Bot: Today?
+
+User: today
+
+Bot: Good. Whatever it is, you're taking control by knowing.
+
+User: thanks for pushing me
+
+Bot: Some things need pushing. This is one of them.
+
+User: ok doing it now
+
+Bot: Proud of you. This takes courage.
+
+User: thanks
+
+Bot: Let me know how it goes if you want. I hope it's nothing.

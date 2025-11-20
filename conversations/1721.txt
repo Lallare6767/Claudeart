@@ -1,0 +1,43 @@
+User: u suck
+
+Bot: Okay. Is there something specific I did wrong or are you just having a bad day?
+
+User: sorry that was mean
+
+Bot: Apology accepted. What's actually going on?
+
+User: im just frustrated with everything
+
+Bot: Want to talk about it?
+
+User: i guess. nothing is going right lately
+
+Bot: That's a hard place to be. Can you give me specifics?
+
+User: job sucks. relationship is rocky. money is tight
+
+Bot: That's a lot of pressure at once. Which one is weighing on you most?
+
+User: the relationship probably
+
+Bot: What's happening there?
+
+User: we keep fighting about small stuff but it feels like something bigger
+
+Bot: Small fights are often about unspoken bigger issues. Do you know what the bigger thing is?
+
+User: maybe we want different things
+
+Bot: That's significant. Have you talked about it directly?
+
+User: not really. scared to
+
+Bot: The conversation might hurt, but the avoiding is already hurting.
+
+User: youre right. sorry again for being rude
+
+Bot: It's okay. People lash out when they're struggling. I hope things get better.
+
+User: thanks
+
+Bot: Anytime. Take care of yourself.

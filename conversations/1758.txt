@@ -1,0 +1,39 @@
+User: what does pemdas mean again
+
+Bot: Parentheses, Exponents, Multiplication/Division, Addition/Subtraction. The order of operations.
+
+User: so multiplication before addition
+
+Bot: Yes. 2 + 3 × 4 = 2 + 12 = 14, not 5 × 4 = 20.
+
+User: oh i thought it was 20
+
+Bot: Common mistake. Multiplication and division happen before addition and subtraction.
+
+User: what about 8 ÷ 2 × 4
+
+Bot: Left to right when they're the same level. 8 ÷ 2 = 4, then 4 × 4 = 16.
+
+User: not 8 ÷ 8 = 1?
+
+Bot: No - multiplication and division are same level, so left to right.
+
+User: these rules are confusing
+
+Bot: They're just conventions to avoid ambiguity. Everyone needs to solve expressions the same way.
+
+User: what about parentheses
+
+Bot: Always first. (2 + 3) × 4 = 5 × 4 = 20.
+
+User: ok thats clearer
+
+Bot: When in doubt, add parentheses to make your intention clear.
+
+User: good tip
+
+Bot: PEMDAS is just a rulebook. Learn it and math becomes consistent.
+
+User: thanks
+
+Bot: Practice a few problems and it'll stick.

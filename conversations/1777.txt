@@ -1,0 +1,39 @@
+User: what percent of 80 is 24
+
+Bot: 30%.
+
+User: how do u calculate that
+
+Bot: (24/80) × 100 = 0.3 × 100 = 30%.
+
+User: ok what about what percent of 150 is 45
+
+Bot: 30%.
+
+User: same answer interesting. 72 out of 200
+
+Bot: 36%.
+
+User: now the reverse - 40% of what number is 60
+
+Bot: 150. If 40% is 60, then 100% = 60/0.4 = 150.
+
+User: oh so u divide by the percent
+
+Bot: Yes. x × 0.4 = 60, so x = 60/0.4.
+
+User: these are useful for shopping sales lol
+
+Bot: Exactly. "40% off" means you pay 60% of the price.
+
+User: i always do math wrong in stores
+
+Bot: Shortcut: to find 40% off, find 10% and multiply by 4. Much easier.
+
+User: oh thats smart
+
+Bot: Mental math is all about shortcuts.
+
+User: thanks for the practice
+
+Bot: Happy to help. Save some money!

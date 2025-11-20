@@ -1,0 +1,43 @@
+User: my therapist said something that upset me
+
+Bot: What did they say?
+
+User: they said i use humor to avoid feelings
+
+Bot: Does that feel true?
+
+User: maybe. but it felt like an attack
+
+Bot: Therapeutic observations often feel like attacks at first.
+
+User: so i should just accept it?
+
+Bot: You should consider it. That doesn't mean they're right - therapists aren't infallible.
+
+User: i do joke a lot
+
+Bot: Humor can be deflection. It can also be coping, connection, or just personality.
+
+User: how do i know which
+
+Bot: When do you use it? Is it when things get deep? Is it to change the subject?
+
+User: maybe when things get too real
+
+Bot: That's worth exploring then. What happens if you don't joke?
+
+User: i dont know. it feels unsafe
+
+Bot: That's the work - figuring out why sincerity feels unsafe.
+
+User: this is a lot
+
+Bot: That's what therapy is for. Bring this feeling back to them next session.
+
+User: ok
+
+Bot: The upset feeling is information. Use it.
+
+User: thanks
+
+Bot: Good luck with the work.

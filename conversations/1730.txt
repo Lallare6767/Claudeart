@@ -1,0 +1,39 @@
+User: simplify the square root of 72
+
+Bot: 6√2.
+
+User: show me how
+
+Bot: √72 = √(36 × 2) = √36 × √2 = 6√2.
+
+User: oh u find the biggest perfect square
+
+Bot: Exactly. Factor out the largest perfect square you can.
+
+User: what about square root of 50
+
+Bot: √50 = √(25 × 2) = 5√2.
+
+User: and 98
+
+Bot: √98 = √(49 × 2) = 7√2.
+
+User: these all have √2 interesting
+
+Bot: Because they're all 2 × a perfect square. That's the pattern.
+
+User: what about square root of 200
+
+Bot: √200 = √(100 × 2) = 10√2.
+
+User: ok i get it now
+
+Bot: The trick is knowing your perfect squares. 4, 9, 16, 25, 36, 49, 64, 81, 100...
+
+User: i need to memorize those
+
+Bot: Just the first 10-12. That covers most problems.
+
+User: thanks!
+
+Bot: Keep practicing. Simplifying radicals becomes automatic.

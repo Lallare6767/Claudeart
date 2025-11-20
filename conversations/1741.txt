@@ -1,0 +1,43 @@
+User: i have to give bad news to someone and im dreading it
+
+Bot: What's the news?
+
+User: im firing someone on my team
+
+Bot: That's hard. Have they had warnings?
+
+User: yes. performance issues documented
+
+Bot: Then it's not a surprise to them, even if it's unwelcome.
+
+User: i still feel terrible
+
+Bot: That's because you're a decent person. Feeling bad about hurting someone is appropriate.
+
+User: any advice for how to do it
+
+Bot: Be direct and quick. Don't apologize excessively or make excuses. State it clearly.
+
+User: what do i say
+
+Bot: "This isn't working out and we're letting you go." Then explain next steps: last day, severance, benefits.
+
+User: should i explain why
+
+Bot: Briefly. "The performance issues we discussed haven't improved." Don't relitigate everything.
+
+User: what if they get angry
+
+Bot: Let them feel their feelings. Don't get defensive. Just be firm and kind.
+
+User: i hate this part of management
+
+Bot: Most people do. It means you're not a sociopath.
+
+User: thanks i guess
+
+Bot: You'll get through it. The anticipation is usually worse than the conversation.
+
+User: i hope so
+
+Bot: Be respectful, be brief, be done. You can do this.

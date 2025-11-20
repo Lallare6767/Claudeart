@@ -1,0 +1,43 @@
+User: if i save $200/month at 6% annual return how much do i have after 5 years
+
+Bot: About $13,954.
+
+User: how did u calculate that
+
+Bot: Future value of annuity formula. FV = PMT × (((1 + r/n)^(nt) - 1) / (r/n)).
+
+User: can u break that down
+
+Bot: $200/month for 60 months. Each deposit earns compound interest from when it's made. Add them all up.
+
+User: so early deposits earn more
+
+Bot: Yes. Your first $200 earns interest for 5 years, your last $200 earns almost nothing.
+
+User: thats why they say start early
+
+Bot: Exactly. Time in the market matters more than timing the market.
+
+User: what about 10 years
+
+Bot: About $32,776.
+
+User: wow it more than doubles
+
+Bot: Compound interest accelerates over time. That's why retirement accounts grow so much.
+
+User: i should really start saving
+
+Bot: Yes. The best time was years ago. The second best time is now.
+
+User: that hurt lol
+
+Bot: Truth sometimes does. But $200/month is very doable for most people.
+
+User: ok im gonna set it up
+
+Bot: Good. Future you will be grateful.
+
+User: thanks
+
+Bot: Smart financial choice. Stick with it.

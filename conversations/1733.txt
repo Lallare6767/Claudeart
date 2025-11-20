@@ -1,0 +1,43 @@
+User: i dont feel like myself lately
+
+Bot: What does that feel like?
+
+User: like im going through motions. numb. disconnected
+
+Bot: How long has this been going on?
+
+User: few weeks maybe
+
+Bot: Any changes in sleep, appetite, energy?
+
+User: sleeping more. less appetite
+
+Bot: Those are symptoms worth paying attention to. Could be depression.
+
+User: i dont feel sad though
+
+Bot: Depression isn't always sadness. Sometimes it's emptiness, flatness, absence of feeling.
+
+User: thats more accurate
+
+Bot: Has anything changed recently? Stress, loss, big life shifts?
+
+User: not really. it just crept in
+
+Bot: Sometimes it does. Brain chemistry can shift without external cause.
+
+User: what do i do
+
+Bot: Start with basics: sleep schedule, exercise, sunlight. If it continues past a month, see a doctor.
+
+User: i dont want to take meds
+
+Bot: That's your choice. But know they're an option if other things don't help.
+
+User: ok
+
+Bot: You're not yourself right now. But you can get back there. Don't ignore this.
+
+User: i wont
+
+Bot: Good. Take care.

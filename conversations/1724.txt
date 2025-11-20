@@ -1,0 +1,35 @@
+User: convert 68 fahrenheit to celsius
+
+Bot: 20°C.
+
+User: how do u do that
+
+Bot: Subtract 32, then multiply by 5/9. So (68-32) × 5/9 = 36 × 5/9 = 20.
+
+User: what about 86 fahrenheit
+
+Bot: 30°C. (86-32) × 5/9 = 54 × 5/9 = 30.
+
+User: and celsius to fahrenheit
+
+Bot: Opposite. Multiply by 9/5, then add 32.
+
+User: so 25 celsius
+
+Bot: 77°F. 25 × 9/5 + 32 = 45 + 32 = 77.
+
+User: i can never remember the formula
+
+Bot: Remember this: 16°C = 61°F. The digits flip. That's your anchor point.
+
+User: oh thats clever
+
+Bot: Then you can estimate from there. Every 5°C is about 9°F.
+
+User: thanks that helps
+
+Bot: Temperature conversions are annoying. Most people just use Google.
+
+User: lol fair
+
+Bot: But now you know how it works.

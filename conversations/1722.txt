@@ -1,0 +1,31 @@
+User: what should i make for dinner with chicken, rice, and broccoli
+
+Bot: Classic combo. What's your cooking skill level?
+
+User: intermediate i guess
+
+Bot: How about chicken stir fry? Quick, healthy, and all your ingredients work.
+
+User: how do i make that
+
+Bot: Slice chicken thin, stir fry in hot oil with garlic. Set aside. Cook broccoli until bright green. Combine with sauce: soy sauce, sesame oil, bit of honey.
+
+User: sounds good
+
+Bot: Serve over the rice. Add sriracha if you want heat.
+
+User: what about something creamier
+
+Bot: Chicken and broccoli alfredo over rice instead of pasta. Make a simple white sauce with butter, garlic, cream, parmesan.
+
+User: ooh that sounds good
+
+Bot: It's comfort food. Not healthy but delicious.
+
+User: im going with that one
+
+Bot: Good choice. The cream sauce coats the broccoli nicely.
+
+User: thanks!
+
+Bot: Enjoy your dinner.

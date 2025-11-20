@@ -1,0 +1,35 @@
+User: what is the derivative of sin(x)
+
+Bot: cos(x).
+
+User: and cos(x)
+
+Bot: -sin(x).
+
+User: why the negative
+
+Bot: It comes from the definition and the shape of the curves. As cosine decreases, its rate of change is negative.
+
+User: what about tan(x)
+
+Bot: sec²(x), or 1/cos²(x).
+
+User: these are harder to memorize
+
+Bot: They are. But there's a pattern: sin and cos cycle, and the others follow the quotient rule.
+
+User: what do u mean cycle
+
+Bot: d/dx sin = cos, d/dx cos = -sin, d/dx -sin = -cos, d/dx -cos = sin. Back to the start.
+
+User: oh thats cool
+
+Bot: Trig derivatives are circular, just like the functions themselves.
+
+User: i never noticed that
+
+Bot: Math is full of patterns like this. Once you see them, memorization becomes understanding.
+
+User: thanks
+
+Bot: Keep looking for the patterns. They're there.

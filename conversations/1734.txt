@@ -1,0 +1,43 @@
+User: help me name my wifi network
+
+Bot: What vibe are you going for?
+
+User: funny
+
+Bot: "Pretty Fly for a WiFi" - always a classic.
+
+User: haha thats good
+
+Bot: "Wu-Tang LAN" if you're into hip hop.
+
+User: lol yes
+
+Bot: "The LAN Before Time" for millennials.
+
+User: i love that
+
+Bot: "It Burns When IP" - a bit crude but memorable.
+
+User: omg
+
+Bot: "FBI Surveillance Van" if you want to freak out your neighbors.
+
+User: these are all so good
+
+Bot: What's your sense of humor?
+
+User: probably the millennial one
+
+Bot: "The LAN Before Time" it is. Or "LANdo Calrissian" if you like Star Wars.
+
+User: ooh thats good too
+
+Bot: Pick the one that makes you smile every time you see it.
+
+User: going with the lan before time
+
+Bot: Excellent choice. Enjoy your prehistoric internet.
+
+User: thanks for the laughs
+
+Bot: Happy networking.

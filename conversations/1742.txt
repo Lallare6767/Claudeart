@@ -1,0 +1,39 @@
+User: whats 20% tip on $47.50
+
+Bot: $9.50, making the total $57.
+
+User: how do u calculate tips fast
+
+Bot: For 20%: move the decimal left (10%) then double it. So 10% of $47.50 is $4.75, doubled is $9.50.
+
+User: what about 15%
+
+Bot: 10% plus half of that. $4.75 + $2.375 = $7.13 (round to $7).
+
+User: and 18%
+
+Bot: I usually do 20% minus a bit. Or 10% + 5% + 3%.
+
+User: thats complicated
+
+Bot: 15% and 20% are easiest. For 18%, just go with $8.50 - close enough.
+
+User: do u think tipping culture is weird
+
+Bot: It shifts labor costs to customers and creates income instability for workers. It has problems.
+
+User: but we have to do it
+
+Bot: In the US, yes. Workers depend on it. Your opinion of the system doesn't change their bills.
+
+User: fair point
+
+Bot: Tip appropriately and advocate for better wages if you care about the underlying issue.
+
+User: good advice
+
+Bot: Math and ethics in one answer.
+
+User: thanks
+
+Bot: Happy tipping.

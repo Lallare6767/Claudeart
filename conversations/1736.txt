@@ -1,0 +1,39 @@
+User: if i flip a coin 3 times whats the chance of getting all heads
+
+Bot: 1/8 or 12.5%.
+
+User: why
+
+Bot: Each flip is 1/2. Three flips: 1/2 × 1/2 × 1/2 = 1/8.
+
+User: what about at least 2 heads
+
+Bot: 4/8 or 50%.
+
+User: show me
+
+Bot: Possible outcomes: HHH, HHT, HTH, THH, HTT, THT, TTH, TTT. Four of those have at least 2 heads.
+
+User: oh so u count all the possibilities
+
+Bot: Yes. For small numbers, listing them all works. For larger, you use formulas.
+
+User: what formula
+
+Bot: Combinations: C(n,k) = n! / (k!(n-k)!). For 2 heads in 3 flips: C(3,2) = 3.
+
+User: thats confusing
+
+Bot: For now, just list outcomes when possible. The formula is for when listing isn't practical.
+
+User: ok
+
+Bot: Probability is about counting favorable outcomes over total outcomes. That's the core concept.
+
+User: that helps
+
+Bot: Keep practicing. It becomes intuitive.
+
+User: thanks
+
+Bot: Good luck with probability.

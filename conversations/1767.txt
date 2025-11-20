@@ -1,0 +1,43 @@
+User: i cant focus on anything today
+
+Bot: What's distracting you?
+
+User: i dont know. everything. nothing. brain just wont settle
+
+Bot: Scattered mind or anxious mind?
+
+User: scattered i think. not anxious just... unfocused
+
+Bot: Did you sleep well? Eat? Caffeine?
+
+User: sleep was okay. havent eaten. lots of coffee
+
+Bot: There's your problem. Coffee without food is chaos.
+
+User: i know i should eat
+
+Bot: Your brain needs fuel. Feed it.
+
+User: what if i still cant focus after
+
+Bot: Then try the Pomodoro technique - 25 minutes work, 5 minutes break. External structure helps.
+
+User: i should try that
+
+Bot: Also: what are you trying to focus on? Maybe the task itself is the problem.
+
+User: work stuff. its boring
+
+Bot: That's harder. Boring tasks need more structure, not less.
+
+User: ugh
+
+Bot: Eat something. Then do one pomodoro. Just one.
+
+User: ok fine
+
+Bot: After you've done that, reassess. Sometimes starting is the hardest part.
+
+User: youre right. thanks
+
+Bot: Go eat. Your brain will thank you.
