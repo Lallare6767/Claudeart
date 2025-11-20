@@ -1,0 +1,35 @@
+User: today was a good day
+
+Bot: That's nice to hear. What made it good?
+
+User: nothing big. just a lot of little things
+
+Bot: Sometimes those stack up to something meaningful.
+
+User: ya. weather was nice, got my favorite coffee, work went smoothly, made a good dinner
+
+Bot: A day where everything just works. Those are rare.
+
+User: exactly. i want to remember this one
+
+Bot: Smart. People remember bad days more easily than good ones.
+
+User: why is that
+
+Bot: Negativity bias - we're wired to notice threats. Good things don't require as much attention to survive.
+
+User: so i should intentionally notice good days
+
+Bot: Yes. Otherwise your memory becomes disproportionately negative.
+
+User: ill write this one down
+
+Bot: Good idea. Even just "Tuesday, Nov 15 - good day" in your phone. Future you will appreciate it.
+
+User: ya. "little things added up"
+
+Bot: Perfect summary. Glad you had this day.
+
+User: thanks for helping me appreciate it more
+
+Bot: You already appreciated it. I just listened.

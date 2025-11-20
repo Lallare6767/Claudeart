@@ -1,0 +1,35 @@
+User: if i flip a coin 10 times and get heads every time, whats the chance of heads on flip 11
+
+Bot: 50%. Each flip is independent.
+
+User: but isnt it unlikely to get 11 heads in a row
+
+Bot: Yes, the whole sequence is unlikely - about 0.05% or 1 in 2048. But the coin doesn't know its history.
+
+User: so the coin has no memory
+
+Bot: Exactly. That's the gambler's fallacy - thinking past results affect future independent events.
+
+User: but in reality id expect it to balance out
+
+Bot: Over thousands of flips, yes. But any individual flip is still 50-50.
+
+User: what about in gambling
+
+Bot: Same math. A roulette wheel doesn't know it landed on black 5 times. Each spin is independent.
+
+User: so systems dont work
+
+Bot: Not for truly random events. You can manage bankroll or make smart bets, but you can't predict random outcomes.
+
+User: what if its not truly random
+
+Bot: Then it's exploitable. Card counting in blackjack works because cards aren't replaced - it's not independent.
+
+User: oh interesting distinction
+
+Bot: Dependence vs independence is key. Once you know which type, you know whether history matters.
+
+User: good lesson. thanks
+
+Bot: Probability is counterintuitive but consistent.

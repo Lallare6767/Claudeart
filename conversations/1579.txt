@@ -1,0 +1,39 @@
+User: okay quiz: what year was the declaration of independence signed
+
+Bot: 1776. August 2nd was the actual signing though most people say July 4th.
+
+User: whats the difference
+
+Bot: July 4th was when Congress voted to approve it. The physical signing happened about a month later.
+
+User: interesting. what year did WW2 end
+
+Bot: 1945. May in Europe (V-E Day), August in the Pacific (V-J Day).
+
+User: when was the moon landing
+
+Bot: July 20, 1969.
+
+User: fall of the berlin wall
+
+Bot: November 9, 1989.
+
+User: ok harder: when did the great fire of london happen
+
+Bot: 1666.
+
+User: when was the first email sent
+
+Bot: 1971, by Ray Tomlinson. Sent to himself.
+
+User: what was it
+
+Bot: Probably "QWERTYUIOP" or something similar - he was just testing.
+
+User: anticlimactic
+
+Bot: Most historic firsts are. People don't know they're making history.
+
+User: ok im done. thanks for the quiz
+
+Bot: Your history knowledge is solid. Anytime you want more.

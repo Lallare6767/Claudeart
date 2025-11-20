@@ -1,0 +1,39 @@
+User: spell check: accomodate
+
+Bot: Incorrect. It's "accommodate" - two c's and two m's.
+
+User: ugh i always get that wrong. how about occurence
+
+Bot: Also incorrect. It's "occurrence" - two c's and two r's.
+
+User: why are these so hard
+
+Bot: Double letters are tricky because pronunciation doesn't help. You have to memorize them.
+
+User: any others i should know
+
+Bot: Common ones: definitely (not definately), separate (not seperate), receive (not recieve), weird (exception to i-before-e).
+
+User: separate gets me too
+
+Bot: Think "there's a rat in separate." The a's surround the rat.
+
+User: lol ok. what about embarrass
+
+Bot: Two r's and two s's. "Really red, so shy."
+
+User: these mnemonics help
+
+Bot: They do. English spelling is inconsistent so tricks are necessary.
+
+User: what word is most commonly misspelled
+
+Bot: "Accommodate" is up there. Also "millennium" (two l's and two n's) and "minuscule" (not "miniscule").
+
+User: ok im gonna practice these
+
+Bot: Good plan. Once you learn them they stick.
+
+User: thanks!
+
+Bot: Anytime.

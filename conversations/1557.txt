@@ -1,0 +1,39 @@
+User: help me plan a surprise party
+
+Bot: Fun! Who's it for and what's the occasion?
+
+User: my partners 30th
+
+Bot: Big one. What's your budget and how many people?
+
+User: maybe $500. like 20 people
+
+Bot: Okay that's doable. At your place or somewhere else?
+
+User: our place. they work late so i can set up
+
+Bot: Good. Key elements: decorations, food, cake, guest coordination.
+
+User: what about getting them there without suspecting
+
+Bot: Classic move: have a friend or family member take them out for a "birthday dinner" and redirect to your place.
+
+User: oh smart. then everyone yells surprise
+
+Bot: Exactly. Make sure all guests arrive at least 15 minutes early and stay quiet.
+
+User: what food should i do
+
+Bot: For 20 people on $500 - consider heavy appetizers instead of full meal. Cheaper and easier. Finger foods, veggie trays, a charcuterie board.
+
+User: and cake
+
+Bot: Order from a bakery - $30-50 for a good one. Don't try to make it unless you bake.
+
+User: i dont. ok anything else
+
+Bot: Create a group chat for coordination. Give people a deadline to RSVP. Assign someone to distract your partner if they come home early.
+
+User: this is helpful. thanks!
+
+Bot: Have fun! 30 is worth celebrating.

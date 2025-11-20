@@ -1,0 +1,38 @@
+User: help me write a thank you note for a job interview
+
+Bot: Sure. How formal is the company?
+
+User: pretty casual. tech startup
+
+Bot: Okay, casual but professional. When was the interview?
+
+User: yesterday
+
+Bot: Perfect timing. Who did you interview with?
+
+User: the hiring manager. her name is sarah
+
+Bot: Here's a draft:
+
+"Hi Sarah,
+
+Thanks for taking the time to talk with me yesterday about the [position] role. I really enjoyed learning more about the team and how [specific thing discussed] works.
+
+Our conversation got me even more excited about the opportunity. I'd love to contribute to [specific project or goal mentioned].
+
+Looking forward to hearing from you about next steps.
+
+Best,
+[Your name]"
+
+User: should i personalize more
+
+Bot: Yes - replace the brackets with real details from your conversation. That shows you were paying attention.
+
+User: what if i cant remember specifics
+
+Bot: General is better than fake specific. But even "how the product team approaches problems" is more specific than nothing.
+
+User: ok ill work on it. thanks!
+
+Bot: Send it today while you're fresh in her memory. Good luck!

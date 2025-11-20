@@ -1,0 +1,39 @@
+User: i dont know what i want to do with my life
+
+Bot: How old are you?
+
+User: 24
+
+Bot: That's normal. Most 24-year-olds don't know.
+
+User: but i should have figured it out by now
+
+Bot: Says who? That's a cultural myth. Lots of people don't find their thing until 30s or later.
+
+User: what do i do in the meantime
+
+Bot: Try things. You can't figure out what you like by thinking - you have to actually do.
+
+User: like what
+
+Bot: Jobs, hobbies, projects, volunteering. Anything that gives you data about what you enjoy and what you're good at.
+
+User: what if i dont like anything
+
+Bot: Then you haven't tried enough things. "Nothing" usually means "nothing in a narrow range."
+
+User: i guess ive mostly done safe stuff
+
+Bot: There you go. Safe doesn't give you information. You need to experiment.
+
+User: what if i fail
+
+Bot: You will. That's the point. Failure is data.
+
+User: ok. ill try something new
+
+Bot: Make it specific. What's one thing you'll try this month?
+
+User: maybe a pottery class
+
+Bot: Perfect. Low stakes, might be fun, gives you new information.

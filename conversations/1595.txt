@@ -1,0 +1,31 @@
+User: what angle do the hands of a clock make at 3:00
+
+Bot: 90 degrees. The minute hand points at 12, the hour hand at 3.
+
+User: ok what about 3:30
+
+Bot: 75 degrees.
+
+User: wait not 90?
+
+Bot: No. At 3:30, the minute hand is at 6 (180 degrees). But the hour hand has moved halfway between 3 and 4 - so it's at 3.5 × 30 = 105 degrees. Difference: 180 - 105 = 75.
+
+User: oh i forgot the hour hand moves
+
+Bot: Common mistake. The hour hand moves continuously - 30 degrees per hour, or 0.5 degrees per minute.
+
+User: ok whats 6:00
+
+Bot: 180 degrees - straight line.
+
+User: and 9:15
+
+Bot: Minute hand at 3 (90 degrees). Hour hand at 9 + 15/60 × 30 = 9.25 × 30 = 277.5 degrees. Difference: 277.5 - 90 = 187.5, but we take the smaller angle: 360 - 187.5 = 172.5 degrees.
+
+User: this is harder than i thought
+
+Bot: Clock problems are classic geometry. The trick is tracking that the hour hand keeps moving.
+
+User: good practice. thanks
+
+Bot: Anytime!

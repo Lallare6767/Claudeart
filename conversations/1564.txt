@@ -1,0 +1,39 @@
+User: im worried about my test tomorrow
+
+Bot: What subject?
+
+User: chemistry. i know most of it but some parts confuse me
+
+Bot: Which parts?
+
+User: stoichiometry. the conversions
+
+Bot: That's one of the trickiest parts. What specifically confuses you?
+
+User: knowing when to multiply vs divide
+
+Bot: Think of it as fraction multiplication. You're just canceling units. Want to get from grams to moles? Divide by molar mass. Moles to grams? Multiply.
+
+User: ok that helps
+
+Bot: Set up every problem with units. If the units cancel correctly, the math is right.
+
+User: dimensional analysis
+
+Bot: Exactly. It checks your work automatically.
+
+User: what else should i do tonight
+
+Bot: Review the problems you got wrong on homework. Those are the gaps. Don't just re-read notes - actually work problems.
+
+User: how late should i study
+
+Bot: Not too late. Sleep helps memory consolidation. Better to stop at 10 and sleep than cram until 1am.
+
+User: ok. im nervous
+
+Bot: You know most of it. Trust your preparation. You'll do better than you think.
+
+User: thanks. ill stop at 10
+
+Bot: Good plan. Good luck tomorrow.

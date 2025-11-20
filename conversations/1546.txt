@@ -1,0 +1,39 @@
+User: i have to tell my parents something they wont like
+
+Bot: What is it?
+
+User: that im not going to law school. im doing art instead
+
+Bot: That's a big pivot. Are you sure about the decision?
+
+User: yes. ive thought about it for a year. law would make me miserable
+
+Bot: How do you think they'll react?
+
+User: disappointed. theyve been planning on me being a lawyer since i was little
+
+Bot: Their disappointment is about their expectations, not about you being wrong.
+
+User: i know but it still sucks
+
+Bot: It does. How do you want to tell them?
+
+User: not sure. in person probably
+
+Bot: In person is best for big news. Be direct: "I've decided not to pursue law school. I'm going to focus on art instead. This is the right choice for me."
+
+User: what if they argue
+
+Bot: Listen to their concerns but hold your boundary. You're not asking permission - you're informing them.
+
+User: they might cut me off financially
+
+Bot: Is that a real possibility? If so, have a plan for supporting yourself.
+
+User: ya i have some savings and a part time job
+
+Bot: Then you're prepared. It'll be hard but you're making your choice with your eyes open.
+
+User: thanks for helping me think through it
+
+Bot: You know what's right for you. Trust that.

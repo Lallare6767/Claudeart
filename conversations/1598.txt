@@ -1,0 +1,43 @@
+User: quick: longest river in the world
+
+Bot: The Nile, though some measurements show the Amazon as longer. Classic debate.
+
+User: highest mountain
+
+Bot: Mount Everest at 29,032 feet.
+
+User: largest ocean
+
+Bot: Pacific Ocean - covers more area than all landmasses combined.
+
+User: smallest country
+
+Bot: Vatican City at 0.17 square miles.
+
+User: most spoken language
+
+Bot: By native speakers: Mandarin Chinese. By total speakers: English.
+
+User: oldest civilization
+
+Bot: Mesopotamia or ancient Egypt depending on definitions - both around 5000 years ago.
+
+User: deepest part of the ocean
+
+Bot: Mariana Trench - Challenger Deep at about 36,000 feet.
+
+User: hottest place on earth
+
+Bot: Death Valley holds the record at 134°F (56.7°C).
+
+User: coldest
+
+Bot: Antarctica - Vostok Station recorded -128.6°F (-89.2°C).
+
+User: ur a good trivia partner
+
+Bot: Geography facts are fun. Want more categories?
+
+User: next time. thanks!
+
+Bot: Anytime.

@@ -1,0 +1,35 @@
+User: whats 150% of 80
+
+Bot: 120.
+
+User: how do u calculate more than 100 percent
+
+Bot: 150% = 1.5. So 80 × 1.5 = 120. Or: 100% is 80, 50% is 40, total is 120.
+
+User: ok what about 225% of 60
+
+Bot: 60 × 2.25 = 135.
+
+User: and if something increases by 40%
+
+Bot: Multiply by 1.40. So if 50 increases by 40%: 50 × 1.4 = 70.
+
+User: decreases by 30%?
+
+Bot: Multiply by 0.70 (keeping 70%). If 50 decreases by 30%: 50 × 0.7 = 35.
+
+User: what if something increases 20% then decreases 20%
+
+Bot: You don't get back to where you started. 100 × 1.2 = 120, then 120 × 0.8 = 96. You lost 4%.
+
+User: wait why
+
+Bot: Because the decrease is 20% of the new larger number. 20% of 120 is more than 20% of 100.
+
+User: oh thats tricky
+
+Bot: It's a common misconception in finance. Percent changes aren't symmetric.
+
+User: good to know. thanks!
+
+Bot: Percentages are sneaky. The math matters.

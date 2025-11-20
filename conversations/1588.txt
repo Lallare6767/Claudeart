@@ -1,0 +1,39 @@
+User: am i too old to change careers
+
+Bot: How old are you?
+
+User: 38
+
+Bot: No. People change careers in their 40s, 50s, even 60s. You have decades of work left.
+
+User: but ill be starting over
+
+Bot: Starting over with experience. You're not 22 - you have transferable skills.
+
+User: like what
+
+Bot: Communication, problem-solving, managing people or projects, understanding professional norms. Those apply everywhere.
+
+User: but id be entry level in the new field
+
+Bot: Maybe. Or maybe adjacent roles that value your experience. What are you thinking of switching to?
+
+User: tech. maybe product management
+
+Bot: Product management actually favors people with domain experience in other fields. Your background could be an asset.
+
+User: really?
+
+Bot: Yes. Companies need PMs who understand real industries. "Just started over" might actually be "brought valuable perspective."
+
+User: i never thought of it that way
+
+Bot: Reframe the switch as an addition not a reset. You're adding tech skills to existing ones.
+
+User: ok that helps
+
+Bot: You're not too old. You might be exactly what companies need.
+
+User: thanks. ill look into programs
+
+Bot: Good luck. This is doable.

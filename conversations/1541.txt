@@ -1,0 +1,35 @@
+User: just finished a really good book
+
+Bot: Nice! What was it?
+
+User: project hail mary by andy weir
+
+Bot: Great choice. The science and the humor together. What did you think?
+
+User: loved it. didnt expect to get emotional
+
+Bot: Rocky gets everyone. That relationship is surprisingly moving for an alien made of rocks.
+
+User: exactly! i cried at the end
+
+Bot: Have you read his other books?
+
+User: the martian. not artemis yet
+
+Bot: Artemis is different - more of a heist story. Some people like it less but it's still fun.
+
+User: ill check it out
+
+Bot: What drew you to Project Hail Mary?
+
+User: i like space stuff. and problem solving
+
+Bot: Then you might like other hard sci-fi. "Seveneves" by Stephenson, "The Three-Body Problem" by Liu.
+
+User: ive heard of three body problem
+
+Bot: It's dense and the first hundred pages are slow but it pays off. Very different from Weir though - more philosophical.
+
+User: ok adding to my list. thanks!
+
+Bot: Happy reading. Let me know what you pick next.

@@ -1,0 +1,35 @@
+User: i think i have seasonal depression
+
+Bot: What symptoms are you noticing?
+
+User: low energy, sleeping more, not wanting to do anything. only in winter
+
+Bot: Does it happen every year around the same time?
+
+User: ya. starts in november, lifts in march
+
+Bot: That pattern is textbook SAD - Seasonal Affective Disorder. Have you talked to a doctor?
+
+User: no but i know what theyll say. light box
+
+Bot: They might suggest that, or vitamin D, or antidepressants for the season. All valid options.
+
+User: do light boxes actually work
+
+Bot: For many people yes. You use it in the morning for 20-30 minutes. Mimics sunlight.
+
+User: what else helps
+
+Bot: Exercise even though you don't feel like it, maintaining social contact even though you want to isolate, keeping consistent sleep schedule.
+
+User: all the things i dont want to do
+
+Bot: Exactly. SAD makes you want to hibernate. Fighting that instinct helps.
+
+User: ugh ok
+
+Bot: Talk to a doctor. There's no reason to white-knuckle through November to March every year.
+
+User: ok ill make an appointment
+
+Bot: Good. Winter doesn't have to feel like that.

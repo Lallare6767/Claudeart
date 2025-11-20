@@ -1,0 +1,47 @@
+User: can we just chat
+
+Bot: Of course. What's on your mind?
+
+User: nothing really. just bored at work
+
+Bot: What do you do?
+
+User: data entry. its mindless
+
+Bot: That sounds tedious. Do you listen to anything while you work?
+
+User: podcasts mostly. sometimes music
+
+Bot: What podcasts are you into?
+
+User: true crime. comedy. some history stuff
+
+Bot: Any favorites?
+
+User: my favorite murder, conan obrien, and hardcore history
+
+Bot: Good range. Hardcore History episodes are like audiobooks though - so long.
+
+User: ya i space them out. they take weeks
+
+Bot: Are you trying to get out of data entry eventually?
+
+User: ya. going back to school part time
+
+Bot: For what?
+
+User: accounting. its also numbers but at least theres analysis
+
+Bot: And better pay probably.
+
+User: much better. plus im good at it
+
+Bot: How much longer until you're done?
+
+User: two more semesters
+
+Bot: Light at the end of the tunnel then. The data entry is just temporary.
+
+User: exactly. ok back to work
+
+Bot: Good luck with the mindlessness. At least you have podcasts.

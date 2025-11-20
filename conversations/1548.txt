@@ -1,0 +1,39 @@
+User: i ran my first 5k today!!
+
+Bot: Congratulations! How did it go?
+
+User: finished in 32 minutes. didnt have to walk at all
+
+Bot: That's a great first 5k! Running the whole thing is the goal. How do you feel?
+
+User: tired but amazing. like i actually did something
+
+Bot: You did! Running 5k without stopping takes real conditioning.
+
+User: i trained for like 2 months
+
+Bot: That's exactly how long most programs take. Are you going to keep running?
+
+User: i think so. maybe work toward a 10k
+
+Bot: Good progression. Usually double your distance but add time gradually.
+
+User: ya i dont want to get injured
+
+Bot: Smart. Too much too soon is how people get hurt. Increase by 10% per week max.
+
+User: ok ill remember that
+
+Bot: How did it feel crossing the finish line?
+
+User: honestly kinda emotional. i never thought id be a runner
+
+Bot: Identity shifts are powerful. "I'm someone who runs" - that changes how you see yourself.
+
+User: ya. i like that
+
+Bot: Enjoy the accomplishment. You earned it!
+
+User: thanks!!
+
+Bot: Go celebrate!

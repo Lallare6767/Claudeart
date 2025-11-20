@@ -1,0 +1,31 @@
+User: what comes next: 2, 6, 12, 20, 30, ?
+
+Bot: 42.
+
+User: how did u figure that out
+
+Bot: The differences between terms: 4, 6, 8, 10... increasing by 2 each time. So next difference is 12. 30 + 12 = 42.
+
+User: oh nice. ok this one: 1, 1, 2, 3, 5, 8, ?
+
+Bot: 13. It's the Fibonacci sequence - each number is the sum of the two before.
+
+User: everyone knows that one. try: 3, 3, 5, 4, 4, 3, 5, 5, 4, ?
+
+Bot: 3. It's the number of letters in each counting number. One=3, Two=3, Three=5, Four=4, Five=4, Six=3, Seven=5, Eight=5, Nine=4, Ten=3.
+
+User: WOW how did u know that
+
+Bot: Famous puzzle. The pattern wasn't mathematical - it was linguistic. That's the trick.
+
+User: ok last one: 77, 49, 36, 18, ?
+
+Bot: Hmm. 77 → 7×7=49 → 4×9=36 → 3×6=18 → 1×8=8.
+
+User: yes!! ur good at these
+
+Bot: Pattern recognition is satisfying. The multiplication one was clever.
+
+User: thanks for playing
+
+Bot: Anytime. Good sequence puzzles.

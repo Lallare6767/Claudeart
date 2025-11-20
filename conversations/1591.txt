@@ -1,0 +1,36 @@
+User: help me write a cold email to someone in my industry
+
+Bot: Sure. What's your goal and who's the person?
+
+User: informational interview. theyre a creative director at an agency i admire
+
+Bot: Good goal. Keep it short and specific. Here's a framework:
+
+"Subject: Quick question about your path to Creative Director
+
+Hi [Name],
+
+I'm [Your name], a [your role] at [company] who's been following [their agency's] work, especially [specific project].
+
+I'm working toward a creative director role and would love to learn about your path. Would you have 20 minutes for a brief call or coffee?
+
+I know you're busy so I'll keep it focused. If not, I completely understand.
+
+Thanks,
+[Your name]"
+
+User: is 20 minutes enough
+
+Bot: Yes. Ask for less than you want. If they say yes and conversation flows, it'll go longer.
+
+User: should i explain why them specifically
+
+Bot: The specific project mention does that. Shows you're not mass emailing.
+
+User: what if they dont respond
+
+Bot: Follow up once after a week. If nothing, move on. Don't take it personally - busy people miss emails.
+
+User: ok this helps. thanks
+
+Bot: Good luck! Cold outreach works more often than people think.

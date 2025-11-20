@@ -1,0 +1,35 @@
+User: why am i so tired all the time
+
+Bot: That could be many things. How much are you sleeping?
+
+User: 7-8 hours. should be enough
+
+Bot: It should. How's the quality? Waking up at night?
+
+User: sometimes. my partner snores
+
+Bot: That fragments your sleep even if you don't fully wake. Have you tried earplugs or white noise?
+
+User: not really
+
+Bot: Try it. Sleep interruptions prevent deep sleep even if total hours are fine.
+
+User: what else could it be
+
+Bot: Diet, hydration, exercise, stress, iron or vitamin D deficiency, thyroid issues. When did you last have bloodwork?
+
+User: a while ago
+
+Bot: Worth getting checked. Iron and vitamin D deficiency are common and cause fatigue.
+
+User: ill make an appointment
+
+Bot: Also track caffeine - too much can backfire. And are you actually resting on weekends or still running around?
+
+User: probably not resting enough
+
+Bot: There's your maybe. Bodies need actual downtime, not just sleep.
+
+User: ok. appointment plus more rest
+
+Bot: Good plan. Hope you find the cause.

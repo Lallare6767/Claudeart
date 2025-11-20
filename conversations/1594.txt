@@ -1,0 +1,39 @@
+User: i need to have a hard conversation with my partner
+
+Bot: What about?
+
+User: they need to get help for their mental health. theyre not functioning
+
+Bot: That's a tough but important conversation. How long has this been going on?
+
+User: months. theyre not working, not leaving the house, barely showering
+
+Bot: What have they said about it?
+
+User: they know somethings wrong but keep saying theyll handle it
+
+Bot: They're not handling it. You're going to have to be direct.
+
+User: i dont want to be mean
+
+Bot: Direct isn't mean. Letting them decline while saying nothing - that's not kind either.
+
+User: what do i say
+
+Bot: Something like: "I love you and I'm worried about you. I need you to see a doctor this week. I'll help you make the appointment but this has to happen."
+
+User: what if they refuse
+
+Bot: Then you have to decide what your boundary is. You can't force them but you can be clear about what you need.
+
+User: like an ultimatum?
+
+Bot: More like clarity. "I can't keep watching you suffer without help. If you won't get help, I need to think about what that means for us."
+
+User: that's scary
+
+Bot: It is. But the current situation isn't sustainable.
+
+User: ok. thanks
+
+Bot: Good luck. This is hard but necessary.

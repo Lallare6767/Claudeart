@@ -1,0 +1,35 @@
+User: help me understand why my houseplant is dying
+
+Bot: What kind of plant and what's happening to it?
+
+User: pothos. leaves are turning yellow
+
+Bot: How often are you watering it?
+
+User: every few days
+
+Bot: That's probably too much. Pothos like to dry out between waterings. Overwatering causes yellow leaves.
+
+User: really? i thought they needed lots of water
+
+Bot: Common mistake. More houseplants die from overwatering than underwatering. The roots rot and can't absorb nutrients.
+
+User: so what do i do
+
+Bot: Let it dry out completely - stick your finger in the soil. If the top inch is dry, then water. If it's wet, wait.
+
+User: what about the yellow leaves
+
+Bot: They won't recover. Trim them off. But the plant can grow new healthy leaves if you fix the watering.
+
+User: should i repot it
+
+Bot: Check the roots first. If they're brown and mushy, you have root rot. Trim the bad roots and repot in fresh soil.
+
+User: ok ill check tonight
+
+Bot: Also make sure your pot has drainage. Sitting in water is bad.
+
+User: it does. thanks plant doctor
+
+Bot: Good luck! Pothos are resilient - it'll probably bounce back.

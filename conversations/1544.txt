@@ -1,0 +1,39 @@
+User: solve this: √144 + √81
+
+Bot: 21. (12 + 9)
+
+User: and √256 - √49
+
+Bot: 9. (16 - 7)
+
+User: how bout √(64 × 25)
+
+Bot: √64 × √25 = 8 × 5 = 40.
+
+User: can u always split them like that
+
+Bot: For multiplication and division yes. √(a×b) = √a × √b. Not for addition though - √(a+b) ≠ √a + √b.
+
+User: oh thats important
+
+Bot: Common mistake. √(9+16) = √25 = 5, not √9 + √16 = 3+4 = 7.
+
+User: so u have to add first under the radical
+
+Bot: Exactly. Only multiplication/division can be split.
+
+User: what about √(100/4)
+
+Bot: √100 / √4 = 10/2 = 5.
+
+User: and √50
+
+Bot: Can't be simplified to a whole number. But √50 = √(25×2) = 5√2.
+
+User: oh simplifying radicals
+
+Bot: Right. Factor out perfect squares. √50 = √25 × √2 = 5√2.
+
+User: ok this helps. thanks!
+
+Bot: Square roots get easier once you know the rules for when you can and can't split.

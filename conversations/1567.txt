@@ -1,0 +1,39 @@
+User: help me figure out how much to tip
+
+Bot: Where and what's the total?
+
+User: restaurant. bill is $78.50 before tax
+
+Bot: Standard restaurant tip is 15-20% on pre-tax amount. 15% is $11.78, 20% is $15.70.
+
+User: service was good but not amazing
+
+Bot: Then 18% is reasonable. That's $14.13.
+
+User: what about delivery drivers
+
+Bot: $3-5 minimum or 15-20% of the order, whichever is higher.
+
+User: baristas?
+
+Bot: $1-2 per drink or 15-20% if they made something complicated.
+
+User: hotels?
+
+Bot: Housekeeping: $2-5 per night. Bellhop: $1-2 per bag. Concierge: $5-20 depending on help.
+
+User: i never knew about housekeeping
+
+Bot: A lot of people don't. They're often overlooked but they clean your room daily.
+
+User: what about uber
+
+Bot: Similar to delivery - $2-5 minimum or 15-20% for longer rides.
+
+User: tipping culture is complicated
+
+Bot: It is. The system is problematic but not tipping hurts workers who depend on it.
+
+User: ya i always tip i just wasnt sure how much
+
+Bot: Now you have a framework.
