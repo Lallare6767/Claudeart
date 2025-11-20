@@ -1,0 +1,51 @@
+User: what is the difference between lie and lay
+
+Bot: Lie means to recline. Lay means to put something down.
+
+User: examples
+
+Bot: "I lie down." "I lay the book on the table."
+
+User: so lay needs an object
+
+Bot: Exactly. You lay something. You just lie.
+
+User: why is this confusing
+
+Bot: Because past tense of lie is lay.
+
+User: what
+
+Bot: Present: lie. Past: lay. Past participle: lain.
+
+User: ugh
+
+Bot: And lay: past is laid, past participle is laid.
+
+User: so "i lay down yesterday" is correct
+
+Bot: Yes. That's past tense of lie.
+
+User: not "i laid down"
+
+Bot: Common error. "Laid" needs an object. "I laid the book down yesterday."
+
+User: my brain hurts
+
+Bot: It's genuinely confusing. Even native speakers mess this up.
+
+User: how do i remember
+
+Bot: Lay = place. They both have A.
+
+User: oh thats good
+
+Bot: And lie = recline. I in both.
+
+User: that helps
+
+Bot: Practice. This one takes time.
+
+User: thanks
+
+Bot: Even if you get it wrong, people will understand you.

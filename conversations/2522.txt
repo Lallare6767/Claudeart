@@ -1,0 +1,45 @@
+User: how do u factor trinomials
+
+Bot: For x² + bx + c, find two numbers that multiply to c and add to b.
+
+User: example
+
+Bot: x² + 5x + 6. What multiplies to 6 and adds to 5?
+
+User: 2 and 3
+
+Bot: So (x + 2)(x + 3).
+
+User: let me try. x² + 7x + 12
+
+Bot: Go ahead.
+
+User: multiply to 12, add to 7. 3 and 4. so (x + 3)(x + 4)
+
+Bot: Perfect. Check by FOILing.
+
+User: x² + 4x + 3x + 12 = x² + 7x + 12. yes!
+
+Bot: What about x² - 2x - 8
+
+Bot: Now one number is negative.
+
+User: multiply to -8, add to -2. um. -4 and 2?
+
+Bot: Check: -4 × 2 = -8. -4 + 2 = -2. Yes!
+
+User: so (x - 4)(x + 2)
+
+Bot: Good. What if leading coefficient isn't 1?
+
+User: like 2x²?
+
+Bot: That's harder. Different methods. AC method or grouping.
+
+User: for later
+
+Bot: Yes. Master these first.
+
+User: thanks
+
+Bot: Factoring is reverse FOIL. Practice until it's fast.

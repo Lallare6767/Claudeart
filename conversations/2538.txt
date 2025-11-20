@@ -1,0 +1,47 @@
+User: whats point of view in writing
+
+Bot: Who's telling the story. First, second, or third person.
+
+User: explain each
+
+Bot: First: narrator is character. "I walked." Second: "You walk." Third: "She walked."
+
+User: second person is rare
+
+Bot: Yes. Feels experimental or instructional.
+
+User: third person has types right
+
+Bot: Third limited: one character's perspective. Third omniscient: all-knowing narrator.
+
+User: whats the difference
+
+Bot: Limited stays in one head. Omniscient can jump between characters and know everything.
+
+User: which is better
+
+Bot: Depends on story. Limited creates intimacy. Omniscient creates scope.
+
+User: can you switch
+
+Bot: You can. But it must be intentional and clear.
+
+User: how do i choose
+
+Bot: What story are you telling? Whose experience matters most?
+
+User: intimate personal story
+
+Bot: First or third limited.
+
+User: epic with many characters
+
+Bot: Third omniscient or multiple third limited.
+
+User: that helps
+
+Bot: POV shapes everything. Choose deliberately.
+
+User: thanks
+
+Bot: Experiment with different POVs for same scene. You'll see how it changes.

@@ -1,0 +1,43 @@
+User: what is average speed
+
+Bot: Total distance divided by total time.
+
+User: so if i drive 60 miles in 2 hours
+
+Bot: Average speed = 60/2 = 30 mph.
+
+User: even if i went different speeds
+
+Bot: Yes. Average is overall. Doesn't matter if you varied.
+
+User: what about round trips
+
+Bot: Be careful. Can't average speeds.
+
+User: what do u mean
+
+Bot: You go 60 mph there and 30 mph back. Average isn't 45.
+
+User: why not
+
+Bot: Times are different. You spend more time going slow.
+
+User: how do i calculate it then
+
+Bot: Total distance ÷ total time. If 60 miles each way, 1 hour there, 2 hours back.
+
+User: 120 miles ÷ 3 hours = 40 mph
+
+Bot: Exactly. Not 45.
+
+User: thats counterintuitive
+
+Bot: Famous trap. Always use distance ÷ time.
+
+User: when do i use this
+
+Bot: Travel planning. Race times. Productivity.
+
+User: thanks
+
+Bot: Remember: total distance divided by total time. Always.

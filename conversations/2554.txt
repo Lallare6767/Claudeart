@@ -1,0 +1,47 @@
+User: whats a coefficient
+
+Bot: Number multiplied by a variable.
+
+User: in 3x?
+
+Bot: 3 is the coefficient.
+
+User: what if theres no number
+
+Bot: It's 1. x = 1x.
+
+User: what about -5y
+
+Bot: Coefficient is -5. Includes the sign.
+
+User: constants too?
+
+Bot: Constants are numbers without variables. Different from coefficients.
+
+User: in 3x + 7
+
+Bot: 3 is coefficient. 7 is constant.
+
+User: what about 4x² + 2x - 5
+
+Bot: Coefficients: 4 and 2. Constant: -5.
+
+User: why do they matter
+
+Bot: They scale the variable. Bigger coefficient = bigger impact.
+
+User: like in graphing
+
+Bot: Yes. Coefficient of x is slope in linear equations.
+
+User: and in quadratics?
+
+Bot: Coefficient of x² affects how wide/narrow parabola is.
+
+User: so they shape the graph
+
+Bot: Exactly. They're not just numbers. They mean something.
+
+User: thanks
+
+Bot: Watch for coefficients. They tell you about behavior.

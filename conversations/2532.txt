@@ -1,0 +1,43 @@
+User: explain order of operations again
+
+Bot: PEMDAS. Parentheses, Exponents, Multiplication/Division, Addition/Subtraction.
+
+User: all at once lets go
+
+Bot: 8 + 2 × (3² - 1) ÷ 4
+
+User: parentheses first. 3² = 9. 9 - 1 = 8
+
+Bot: Good. Now what?
+
+User: 2 × 8 ÷ 4. left to right. 16 ÷ 4 = 4
+
+Bot: And finally?
+
+User: 8 + 4 = 12
+
+Bot: Perfect.
+
+User: another
+
+Bot: 6 × 2³ - 4 ÷ 2 + 1
+
+User: exponent first. 2³ = 8
+
+Bot: Then?
+
+User: 6 × 8 = 48. 4 ÷ 2 = 2. 48 - 2 + 1
+
+Bot: Now left to right.
+
+User: 46 + 1 = 47
+
+Bot: Good. One more. (5 + 3)² - 4 × 3
+
+User: 8² = 64. 4 × 3 = 12. 64 - 12 = 52
+
+Bot: Perfect. You've got it.
+
+User: thanks
+
+Bot: Order of operations is just rules. Follow them consistently.

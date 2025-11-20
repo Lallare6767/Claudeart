@@ -1,0 +1,45 @@
+User: give me word scramble
+
+Bot: Sure. Unscramble: LAERX
+
+User: relax!
+
+Bot: Good. DIERN
+
+User: um... diner?
+
+Bot: Yes. TRAEW
+
+User: water
+
+Bot: Quick. OLSHO
+
+User: school... no wait. sholo... sholol... oh. shoal? no. umm
+
+Bot: Think about it.
+
+User: OLSHO... school no. oh! SHOOL... TOOLS? no. ah SOHOL... shoot. i give up
+
+Bot: SLOOP. A type of boat.
+
+User: i never wouldve gotten that
+
+Bot: Sometimes they're obscure. Try another. BKARE
+
+User: break!
+
+Bot: Good. LENPS
+
+Bot: Take your time.
+
+User: spell... no. pens...l... SPEND? no. SLEEP? no wrong letters. LNEPS... SPELN... oh PENIS wait no. SLNEP...
+
+Bot: It's SPEND with different letters. Actually it's PENS... hmm. It's SPEND? Let me check. SLPEN... Actually: LENS + P = no. Let me give you: ELSNP
+
+User: SLEEP!
+
+Bot: Yes. Good job.
+
+User: these are fun
+
+Bot: Brain teasers. Good for word skills.

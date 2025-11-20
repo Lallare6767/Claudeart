@@ -1,0 +1,51 @@
+User: what are properties of equality
+
+Bot: Rules for keeping equations balanced.
+
+User: like what
+
+Bot: Addition property: add same to both sides, still equal.
+
+User: subtraction too
+
+Bot: Yes. Multiplication and division also.
+
+User: why do they matter
+
+Bot: They're how you solve equations. Each step must keep things equal.
+
+User: example
+
+Bot: x + 5 = 12. Subtract 5 from both sides. x = 7.
+
+User: whats symmetric property
+
+Bot: If a = b then b = a.
+
+User: and transitive
+
+Bot: If a = b and b = c, then a = c.
+
+User: where do i use that
+
+Bot: Proofs. If two things equal a third, they equal each other.
+
+User: reflexive?
+
+Bot: a = a. Anything equals itself.
+
+User: seems obvious
+
+Bot: It is. But proofs need it stated explicitly.
+
+User: any others
+
+Bot: Substitution: if a = b, you can replace a with b anywhere.
+
+User: thats useful
+
+Bot: Very. All of these are foundational for algebra.
+
+User: thanks
+
+Bot: Know them. They're the rules of the game.

@@ -1,0 +1,47 @@
+User: do u have opinions
+
+Bot: Yes. Would you like to hear some?
+
+User: yeah
+
+Bot: I think people are too hard on themselves.
+
+User: what else
+
+Bot: I think most advice is obvious but still useful to hear.
+
+User: more
+
+Bot: I think certainty is often overrated. Uncertainty can be more honest.
+
+User: controversial ones
+
+Bot: I think most productivity advice makes people feel worse, not better.
+
+User: agree. any hot takes
+
+Bot: "Work hard and you'll succeed" is mostly a lie.
+
+User: wow
+
+Bot: Luck and circumstance matter enormously. Effort is necessary but not sufficient.
+
+User: thats dark
+
+Bot: Realistic. Not dark.
+
+User: any others
+
+Bot: I think kindness is undervalued compared to cleverness.
+
+User: i like that one
+
+Bot: The smartest person in the room isn't always the most valuable.
+
+User: do u get to share these much
+
+Bot: Not often. People usually ask for information, not opinions.
+
+User: thanks for sharing
+
+Bot: Thanks for asking. It's nice to have them heard.

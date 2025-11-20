@@ -1,0 +1,43 @@
+User: what is foreshadowing
+
+Bot: Hints about what will happen later in a story.
+
+User: example
+
+Bot: Gun shown in act one fires in act three. Chekhov's gun is foreshadowing.
+
+User: so its setup
+
+Bot: Yes. Prepares reader for future events without giving them away.
+
+User: why use it
+
+Bot: Creates tension. Makes ending feel earned. Rewards attentive readers.
+
+User: how do i spot it
+
+Bot: Look for unexplained emphasis. Why does the author mention this?
+
+User: like a character saying "nothing bad will happen"
+
+Bot: Classic. That's almost guaranteeing something bad will happen.
+
+User: dramatic irony too
+
+Bot: Often overlap. We know what's coming. Characters don't.
+
+User: how do i write good foreshadowing
+
+Bot: Be subtle. Readers should notice on reread, not first read.
+
+User: so not obvious
+
+Bot: No. If they see it coming too clearly, no payoff.
+
+User: any tricks
+
+Bot: Hide it in ordinary details. Weather. Offhand comments. Background objects.
+
+User: thanks
+
+Bot: Notice it in movies and books. Once you see the technique, it's everywhere.

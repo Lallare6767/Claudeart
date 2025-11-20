@@ -1,0 +1,37 @@
+User: write me a goodbye message for a coworker leaving
+
+Bot: What's your relationship like?
+
+User: friendly but not close
+
+Bot: Professional and warm then. Here's a template:
+
+"Hi [Name], wanted to say congratulations on your new opportunity. It's been great working with you—you always brought positive energy to the team. Best of luck in your next chapter. Stay in touch!"
+
+User: thats good. what if we were closer
+
+Bot: More personal. Add specific memories. "I'll miss our coffee runs."
+
+User: and if i didnt like them lol
+
+Bot: Keep it brief. "Best of luck in your future endeavors." Polite and done.
+
+User: should i add my contact info
+
+Bot: Only if you actually want to stay in touch.
+
+User: probably not for this person
+
+Bot: Then skip it. No false offers.
+
+User: thanks this is helpful
+
+Bot: Office goodbyes are a skill. Match warmth to actual relationship.
+
+User: what if they dont say goodbye to me
+
+Bot: Their choice. You took the high road.
+
+User: ok thanks
+
+Bot: Good luck with the message.

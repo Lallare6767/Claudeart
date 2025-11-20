@@ -1,0 +1,47 @@
+User: what is alliteration
+
+Bot: Repetition of initial consonant sounds.
+
+User: like peter piper
+
+Bot: Yes. P-p-p. Creates rhythm and emphasis.
+
+User: more examples
+
+Bot: "She sells seashells by the seashore." "Big bad bear."
+
+User: tongue twisters use it
+
+Bot: Many do. The repetition makes them hard.
+
+User: why use it in writing
+
+Bot: Memorable. Adds musicality. Draws attention.
+
+User: like in poetry
+
+Bot: Yes. And advertising. "Best Buy." "Coca-Cola."
+
+User: oh brands use it
+
+Bot: Very common. It's catchy.
+
+User: is it always first letters
+
+Bot: First sounds of stressed syllables. "Crazy Carrie came calling."
+
+User: came and calling both start with C sounds even though one is hard C
+
+Bot: Good catch. It's about sound, not spelling.
+
+User: knack and night dont alliterate
+
+Bot: Right. K sound vs N sound. Different.
+
+User: this is useful
+
+Bot: Notice it everywhere. Headlines. Poetry. Ads. Company names.
+
+User: thanks
+
+Bot: Try writing some. It's fun once you start.

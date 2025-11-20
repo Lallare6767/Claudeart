@@ -1,0 +1,47 @@
+User: whats an adverb
+
+Bot: Word that modifies a verb, adjective, or other adverb.
+
+User: like quickly
+
+Bot: Yes. "She ran quickly." Modifies ran.
+
+User: do they all end in -ly
+
+Bot: Many do. But not all. Fast, very, well, soon.
+
+User: how do i find them
+
+Bot: Ask: how? when? where? to what degree?
+
+User: "she sings beautifully"
+
+Bot: How does she sing? Beautifully. Adverb.
+
+User: "he arrived early"
+
+Bot: When did he arrive? Early. Adverb.
+
+User: what about "very"
+
+Bot: Modifies adjectives and adverbs. "Very tall." "Very quickly."
+
+User: intensifier
+
+Bot: Yes. That's a type of adverb.
+
+User: are adverbs bad
+
+Bot: Not inherently. But overuse weakens writing.
+
+User: why
+
+Bot: "He ran quickly" is weaker than "He sprinted." Strong verbs beat weak verb + adverb.
+
+User: show dont tell
+
+Bot: Related yes. Adverbs often tell what verbs could show.
+
+User: thanks
+
+Bot: Use adverbs intentionally. When the verb alone won't do.

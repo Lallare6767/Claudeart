@@ -1,0 +1,39 @@
+User: whats the difference between plot and story
+
+Bot: Plot is what happens. Story is how it's told.
+
+User: arent they the same
+
+Bot: Plot: sequence of events. Story: those events plus meaning, emotion, perspective.
+
+User: example
+
+Bot: Plot: man searches for daughter's killer, finds him, kills him.
+
+User: and story
+
+Bot: Story includes his guilt, his relationship with daughter, the twist that changes everything.
+
+User: so story is bigger
+
+Bot: Story is the experience. Plot is the skeleton.
+
+User: can you have plot without story
+
+Bot: Technically. It would be a summary.
+
+User: and story without plot?
+
+Bot: Some experimental literature tries. Usually still has some plot.
+
+User: which matters more
+
+Bot: Depends who you ask. Plot hooks you. Story stays with you.
+
+User: so both
+
+Bot: Ideally yes. Great works have both.
+
+User: thanks
+
+Bot: When analyzing, ask: what happened? Then: what does it mean? Plot then story.

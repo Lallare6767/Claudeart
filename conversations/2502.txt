@@ -1,0 +1,39 @@
+User: how do i solve systems of equations
+
+Bot: Two main methods: substitution and elimination.
+
+User: show substitution
+
+Bot: y = 2x + 3 and 3x + y = 8. Substitute first into second: 3x + (2x + 3) = 8.
+
+User: 5x + 3 = 8. x = 1
+
+Bot: Now find y.
+
+User: y = 2(1) + 3 = 5. so (1, 5)
+
+Bot: Check in second equation: 3(1) + 5 = 8. Yes!
+
+User: now elimination
+
+Bot: 2x + y = 7 and x - y = 2. Add equations to eliminate y.
+
+User: 3x = 9. x = 3
+
+Bot: Now find y.
+
+User: 3 - y = 2. y = 1. so (3, 1)
+
+Bot: Check: 2(3) + 1 = 7. Yes.
+
+User: when do i use which
+
+Bot: Substitution when one variable is isolated. Elimination when neither is.
+
+User: can i always use either
+
+Bot: Yes. But one is usually faster depending on the system.
+
+User: thanks
+
+Bot: Practice both. Systems show up everywhere in applications.

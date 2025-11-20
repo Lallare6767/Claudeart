@@ -1,0 +1,51 @@
+User: how do i read a graph
+
+Bot: What kind of graph?
+
+User: bar graph
+
+Bot: Look at: title, axis labels, scale, bars.
+
+User: what do i look for
+
+Bot: Title tells you what's measured. Y-axis has values. X-axis has categories.
+
+User: then compare bars
+
+Bot: Yes. Taller bar = bigger value for that category.
+
+User: what about line graphs
+
+Bot: Show change over time. X-axis is usually time.
+
+User: so i look at trends
+
+Bot: Rising, falling, flat, fluctuating. What's the pattern?
+
+User: pie charts
+
+Bot: Parts of a whole. Each slice is a percentage.
+
+User: should they add to 100
+
+Bot: Yes. If they don't, something's wrong.
+
+User: scatter plots?
+
+Bot: Relationship between two variables. Look for correlation.
+
+User: dots going up means
+
+Bot: Positive correlation. As one increases, so does the other.
+
+User: and down
+
+Bot: Negative correlation. Inverse relationship.
+
+User: these are everywhere
+
+Bot: Data literacy is crucial. Practice interpreting them.
+
+User: thanks
+
+Bot: Always question: what story is this graph telling? Is it accurate?

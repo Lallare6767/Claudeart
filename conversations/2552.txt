@@ -1,0 +1,47 @@
+User: help me with direct and indirect objects
+
+Bot: Direct object receives the action. Indirect receives the direct object.
+
+User: confused
+
+Bot: "I gave her the book." What did you give? The book. That's direct object.
+
+User: and her?
+
+Bot: Who received the book? Her. That's indirect object.
+
+User: oh to whom it goes
+
+Bot: Exactly. Usually before the direct object.
+
+User: more examples
+
+Bot: "She told him a story." Story = direct object. Him = indirect object.
+
+User: what if theres no indirect
+
+Bot: "I ate pizza." Just a direct object.
+
+User: how do i find them
+
+Bot: Ask: [Verb] what? = direct. To/for whom? = indirect.
+
+User: "they sent their parents a letter"
+
+Bot: Sent what? Letter. To whom? Parents. Letter is direct, parents is indirect.
+
+User: got it
+
+Bot: Some verbs need direct objects. Some don't.
+
+User: which dont
+
+Bot: Intransitive verbs. "She ran." No object.
+
+User: so transitive verbs need them
+
+Bot: Yes. "Ran" can be either. "Ran a mile" has object.
+
+User: thanks
+
+Bot: Practice identifying in sentences. It builds grammar intuition.

@@ -1,0 +1,55 @@
+User: i feel hopeless
+
+Bot: About something specific or in general?
+
+User: everything. future. relationships. myself
+
+Bot: How long have you felt this way?
+
+User: weeks
+
+Bot: This sounds like it could be depression.
+
+User: i thought hopelessness was just realistic
+
+Bot: It feels that way when you're in it. But it's a symptom.
+
+User: of depression
+
+Bot: Often. Hopelessness about the future is a key indicator.
+
+User: what do i do
+
+Bot: Please talk to a professional. Doctor or therapist.
+
+User: will it help
+
+Bot: It can. Hopelessness is treatable.
+
+User: i dont have energy to find someone
+
+Bot: I understand. Can someone help you find one?
+
+User: maybe my sister
+
+Bot: Ask her. That's one action.
+
+User: ok
+
+Bot: Are you having thoughts of harming yourself?
+
+User: no
+
+Bot: Good. If that changes, please reach out to a crisis line immediately.
+
+User: ok
+
+Bot: You won't feel this way forever. Even if it feels that way now.
+
+User: ok
+
+Bot: One action: tell your sister. Let her help.
+
+User: ok thanks
+
+Bot: Take care. This can get better.

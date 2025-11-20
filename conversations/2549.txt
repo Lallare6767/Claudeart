@@ -1,0 +1,47 @@
+User: help me with unit conversion
+
+Bot: What are you converting?
+
+User: 5 kilometers to miles
+
+Bot: 1 km ≈ 0.621 miles. 5 × 0.621 = 3.1 miles.
+
+User: and 10 pounds to kilograms
+
+Bot: 1 pound ≈ 0.454 kg. 10 × 0.454 = 4.54 kg.
+
+User: celsius to fahrenheit
+
+Bot: F = C × 9/5 + 32. What temperature?
+
+User: 25°C
+
+Bot: 25 × 1.8 + 32 = 77°F.
+
+User: cups to liters
+
+Bot: 1 cup ≈ 0.237 L. Or roughly 4 cups per liter.
+
+User: how do i remember all these
+
+Bot: Memorize key conversions. Use those to calculate others.
+
+User: which are key
+
+Bot: 1 inch = 2.54 cm. 1 kg = 2.2 lbs. 1 mile = 1.6 km.
+
+User: ok
+
+Bot: Also: metric prefixes. kilo = 1000. centi = 0.01. milli = 0.001.
+
+User: so kilometer is 1000 meters
+
+Bot: Yes. Centimeter is 0.01 meters.
+
+User: logical system
+
+Bot: Very. Metric is easier once you know prefixes.
+
+User: thanks
+
+Bot: Practice common conversions. They come up constantly.

@@ -1,0 +1,47 @@
+User: whats a topic sentence
+
+Bot: First sentence of a paragraph that states the main idea.
+
+User: like a thesis for a paragraph
+
+Bot: Exactly. It tells the reader what to expect.
+
+User: example
+
+Bot: "Dogs make excellent pets for busy families." Then the paragraph explains why.
+
+User: does every paragraph need one
+
+Bot: In academic writing, usually yes. In creative writing, less strict.
+
+User: where does it go
+
+Bot: Typically first. Sometimes second after a transition.
+
+User: how do i write a good one
+
+Bot: Clear, specific, relates to thesis. Not too broad or narrow.
+
+User: what's too broad
+
+Bot: "There are many types of dogs." Doesn't tell me what paragraph is about.
+
+User: and too narrow
+
+Bot: "Labrador retrievers have yellow fur." Doesn't support much discussion.
+
+User: middle ground
+
+Bot: "Labrador retrievers are ideal family pets due to their temperament."
+
+User: that gives direction
+
+Bot: Now I know what the paragraph will argue.
+
+User: thanks
+
+Bot: Practice writing topic sentences before paragraphs. It keeps writing focused.
+
+User: ill try that
+
+Bot: Good. It improves organization immediately.

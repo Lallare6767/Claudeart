@@ -1,0 +1,51 @@
+User: give me a random fact
+
+Bot: The inventor of Pringles is buried in a Pringles can.
+
+User: lol is that real
+
+Bot: Yes. Fredric Baur invented the container. His ashes are in one.
+
+User: thats dedication. another
+
+Bot: Honey bees can recognize human faces.
+
+User: really?
+
+Bot: They learn to associate faces with food rewards.
+
+User: smart bees. more
+
+Bot: Octopuses have three hearts and blue blood.
+
+User: why blue
+
+Bot: Copper-based blood. Better for cold, low-oxygen water.
+
+User: one more weird one
+
+Bot: A group of flamingos is called a flamboyance.
+
+User: appropriate
+
+Bot: Most animal group names are strange. Murder of crows. Parliament of owls.
+
+User: why are they like that
+
+Bot: Historical. Often based on characteristics or behaviors.
+
+User: these are fun. any space ones
+
+Bot: There's a planet made of diamonds. 55 Cancri e.
+
+User: id like to go there
+
+Bot: It's 40 light years away. And 3000°F on the surface.
+
+User: ill pass
+
+Bot: Probably wise.
+
+User: thanks these were great
+
+Bot: Trivia is fun. Knowledge for knowledge's sake.

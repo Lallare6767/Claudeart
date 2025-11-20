@@ -1,0 +1,47 @@
+User: help me understand exponent rules
+
+Bot: Several rules. Let's go through them.
+
+User: ok
+
+Bot: Product rule: x^a × x^b = x^(a+b). Multiply bases? Add exponents.
+
+User: so x² × x³ = x^5
+
+Bot: Yes. Quotient rule: x^a / x^b = x^(a-b).
+
+User: x^5 / x² = x³
+
+Bot: Good. Power rule: (x^a)^b = x^(ab).
+
+User: (x²)³ = x^6
+
+Bot: Multiply exponents. Now negative: x^-a = 1/x^a.
+
+User: flip to denominator
+
+Bot: Right. Zero exponent: x^0 = 1.
+
+User: anything to zero is 1
+
+Bot: Except 0^0 which is debated. Generally 1.
+
+User: what about (xy)^a
+
+Bot: = x^a × y^a. Power distributes to each base.
+
+User: and (x/y)^a
+
+Bot: = x^a / y^a. Same idea.
+
+User: these are a lot
+
+Bot: They are. Practice until automatic.
+
+User: when do i use them
+
+Bot: Simplifying expressions. Solving equations. Science applications.
+
+User: thanks
+
+Bot: Write them down. Quiz yourself. They're foundational.

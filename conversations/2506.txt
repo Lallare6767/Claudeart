@@ -1,0 +1,43 @@
+User: explain cross multiplication
+
+Bot: Method for solving proportions. a/b = c/d becomes ad = bc.
+
+User: example
+
+Bot: x/4 = 3/6. Cross multiply: 6x = 12. x = 2.
+
+User: let me try. 5/x = 10/14
+
+Bot: Go ahead.
+
+User: 5 × 14 = 10x. 70 = 10x. x = 7
+
+Bot: Perfect. Check: 5/7 = 10/14. Simplify right: 5/7. Yes!
+
+User: when do i use this
+
+Bot: Comparing ratios. Scaling recipes. Similar triangles.
+
+User: similar triangles?
+
+Bot: Same shape different size. Corresponding sides are proportional.
+
+User: oh so geometry uses it
+
+Bot: A lot. Very practical.
+
+User: what about 3/(x+1) = 6/8
+
+Bot: Cross multiply.
+
+User: 3 × 8 = 6(x+1). 24 = 6x + 6. 18 = 6x. x = 3
+
+Bot: Check: 3/4 = 6/8. Simplify right: 3/4. Yes!
+
+User: i like cross multiplication
+
+Bot: It's reliable. Works for any proportion.
+
+User: thanks
+
+Bot: Practice more. Proportional thinking is useful everywhere.

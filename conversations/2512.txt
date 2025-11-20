@@ -1,0 +1,47 @@
+User: whats the difference between active and passive voice
+
+Bot: Active: subject does action. Passive: subject receives it.
+
+User: examples
+
+Bot: Active: "The dog bit the man." Passive: "The man was bitten by the dog."
+
+User: which is better
+
+Bot: Usually active. It's clearer and stronger.
+
+User: when is passive okay
+
+Bot: When the doer is unknown, unimportant, or you want to de-emphasize them.
+
+User: like what
+
+Bot: "Mistakes were made." Passive hides who made them.
+
+User: thats why politicians use it
+
+Bot: Exactly. Passive can dodge responsibility.
+
+User: how do i identify passive
+
+Bot: Look for "was/were + past participle" and "by [agent]."
+
+User: "the cake was eaten by the kids"
+
+Bot: Passive. Active: "The kids ate the cake."
+
+User: clearer
+
+Bot: Almost always. Passive adds distance.
+
+User: in scientific writing its common though
+
+Bot: Traditionally yes. "The solution was heated." But this is changing.
+
+User: to active?
+
+Bot: Yes. "We heated the solution." Clearer and more direct.
+
+User: thanks
+
+Bot: Default to active. Use passive intentionally for specific effects.

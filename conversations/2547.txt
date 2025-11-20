@@ -1,0 +1,47 @@
+User: whats the climax of a story
+
+Bot: The turning point. Highest tension. Crisis moment.
+
+User: where in the story
+
+Bot: Usually 3/4 through. After rising action, before falling action.
+
+User: example
+
+Bot: Romeo and Juliet: Romeo kills Tybalt. Everything changes after.
+
+User: thats not the end
+
+Bot: No. Climax isn't ending. It's where outcome becomes inevitable.
+
+User: then falling action
+
+Bot: Consequences unfold. Leading to resolution.
+
+User: can there be multiple climaxes
+
+Bot: Subplots can have their own. Main plot has one main climax.
+
+User: how do i write a good one
+
+Bot: Build to it. Make stakes clear. Force a choice or confrontation.
+
+User: what makes it feel earned
+
+Bot: Everything before leads to it. And it changes things after.
+
+User: not random
+
+Bot: Never random. The opposite. It's where all threads converge.
+
+User: what if its anticlimactic
+
+Bot: That's intentional sometimes. But unsatisfying if unintended.
+
+User: how do i avoid that
+
+Bot: Raise stakes progressively. Climax should be biggest yet.
+
+User: thanks
+
+Bot: Identify climax in stories you read. You'll see the pattern.
