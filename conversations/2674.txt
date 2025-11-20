@@ -1,0 +1,43 @@
+User: can we play would you rather
+
+Bot: Sure. You start or should I?
+
+User: you start
+
+Bot: Would you rather have the ability to fly or be invisible?
+
+User: fly. invisible feels creepy
+
+Bot: Fair point. Your turn.
+
+User: would you rather never eat your favorite food again or only eat your favorite food forever
+
+Bot: Never eat it again. Variety matters more.
+
+User: really?
+
+Bot: Even favorites get boring eventually.
+
+User: ok my turn. would you rather know when you die or how you die
+
+Bot: When. I could plan. Knowing how would make me paranoid.
+
+User: good reasoning
+
+Bot: Would you rather always be slightly cold or slightly too warm?
+
+User: cold. you can add layers
+
+Bot: Classic answer.
+
+User: this is fun
+
+Bot: Good way to learn how people think.
+
+User: totally. one more?
+
+Bot: Would you rather lose all your memories or never make new ones?
+
+User: oh thats dark
+
+Bot: Would you rather is best when it's hard.

@@ -1,0 +1,43 @@
+User: i cant get out of bed
+
+Bot: Physically or mentally?
+
+User: mentally. no energy. no motivation
+
+Bot: How long has this been going on?
+
+User: few weeks maybe
+
+Bot: Every day or some days?
+
+User: most days
+
+Bot: This sounds like it could be depression.
+
+User: probably
+
+Bot: Are you seeing anyone for it?
+
+User: no
+
+Bot: Please consider it. This isn't something to push through alone.
+
+User: i dont have energy to find someone
+
+Bot: I understand. Can anyone help you look?
+
+User: maybe my roommate
+
+Bot: Ask them today. Just that one thing.
+
+User: ok
+
+Bot: You don't have to feel this way. Treatment helps.
+
+User: what if it doesnt
+
+Bot: Then you try something else. But you have to try something.
+
+User: ok
+
+Bot: One task: ask for help finding a therapist. That's it for today.

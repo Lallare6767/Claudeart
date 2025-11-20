@@ -1,0 +1,35 @@
+User: whens its vs its'
+
+Bot: "It's" is only for "it is" or "it has." "Its" is possessive. There's no "its'" at all.
+
+User: wait thats backwards from normal
+
+Bot: Right. Possessive pronouns don't use apostrophes. His, hers, its.
+
+User: but names do
+
+Bot: Yes. "John's book" has apostrophe. "Its pages" does not.
+
+User: this is confusing
+
+Bot: It's the most common error. You're not alone.
+
+User: examples
+
+Bot: "It's raining" = it is raining. "The dog wagged its tail" = the tail belongs to the dog.
+
+User: so if i can say "it is" its the apostrophe one
+
+Bot: Exactly. That's the test.
+
+User: its really confusing
+
+Bot: *It's :)
+
+User: ugh
+
+Bot: You'll get it. Just pause and expand "it is" in your head.
+
+User: ok thanks
+
+Bot: Soon it'll be automatic.

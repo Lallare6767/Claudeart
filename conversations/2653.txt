@@ -1,0 +1,39 @@
+User: i just found out i get to travel for work
+
+Bot: Where to?
+
+User: japan. for 2 weeks
+
+Bot: Amazing. For what?
+
+User: conference and client meetings
+
+Bot: Will you have free time?
+
+User: some evenings and one free weekend
+
+Bot: Enough to explore. Have you been before?
+
+User: never. so excited
+
+Bot: What do you want to see most?
+
+User: tokyo. kyoto temples. good food everywhere
+
+Bot: All achievable in that time.
+
+User: any tips?
+
+Bot: Get a JR pass if traveling between cities. Download translation app.
+
+User: good ideas
+
+Bot: Also: convenience store food is excellent and cheap.
+
+User: noted
+
+Bot: Work travel with exploration time is the best. Enjoy it.
+
+User: i will!!
+
+Bot: Start making a list of must-sees so you don't waste your free time.

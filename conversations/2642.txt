@@ -1,0 +1,39 @@
+User: whats the difference between mean median and mode
+
+Bot: Mean is average. Median is middle. Mode is most frequent.
+
+User: example please
+
+Bot: Data set: 2, 3, 3, 5, 7.
+
+User: ok
+
+Bot: Mean: (2+3+3+5+7)/5 = 20/5 = 4.
+
+User: median?
+
+Bot: Middle number when ordered. Here it's 3.
+
+User: and mode?
+
+Bot: 3 appears most often. Mode is 3.
+
+User: when do you use each
+
+Bot: Mean for typical value. Median when there are outliers. Mode for most common.
+
+User: what about outliers
+
+Bot: If data was 2, 3, 3, 5, 100 - mean is 22.6 but median is still 3.
+
+User: oh median ignores the extreme value
+
+Bot: Basically yes. That's why it's better for skewed data.
+
+User: makes sense
+
+Bot: Test scores: median. House prices: median. Shoe size: mode.
+
+User: thanks this helps
+
+Bot: Different tools for different situations.

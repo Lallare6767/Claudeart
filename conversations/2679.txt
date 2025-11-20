@@ -1,0 +1,39 @@
+User: whats a good way to say no politely
+
+Bot: Depends on the situation. What are you declining?
+
+User: a friend asking for money
+
+Bot: That's delicate. Try: "I'm not able to lend money right now. I hope you understand."
+
+User: what if they push
+
+Bot: "I have a personal rule about lending to friends. It protects the friendship."
+
+User: is that true though
+
+Bot: It is for many people. And they can't argue with your rule.
+
+User: what about a work thing
+
+Bot: "I don't have bandwidth for that right now. Maybe [suggest alternative]?"
+
+User: offering alternative helps?
+
+Bot: Yes. Shows you're not just refusing.
+
+User: what about family events
+
+Bot: "I can't make it this time, but I hope it goes well."
+
+User: short and simple
+
+Bot: No over-explaining. That invites negotiation.
+
+User: good point
+
+Bot: "No" is a complete sentence. But polite framing helps relationships.
+
+User: thanks this helps
+
+Bot: Practice saying no. It gets easier.

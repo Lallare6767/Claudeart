@@ -1,0 +1,39 @@
+User: what are prime numbers again
+
+Bot: Numbers only divisible by 1 and themselves.
+
+User: like 7
+
+Bot: Yes. 7 can only be divided evenly by 1 and 7.
+
+User: is 9 prime
+
+Bot: No. 9 = 3 × 3.
+
+User: what about 11
+
+Bot: Yes. 11 is prime.
+
+User: how do i check if something is prime
+
+Bot: Try dividing by small primes: 2, 3, 5, 7, 11...
+
+User: until what
+
+Bot: Until you reach the square root of the number.
+
+User: what do you mean
+
+Bot: For 37, √37 ≈ 6. So only check 2, 3, 5.
+
+User: and if none work its prime
+
+Bot: Right. 37 isn't divisible by 2, 3, or 5, so it's prime.
+
+User: whats the biggest prime
+
+Bot: There isn't one. They go on forever.
+
+User: really?
+
+Bot: Yes. That was proven over 2000 years ago.

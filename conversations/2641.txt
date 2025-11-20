@@ -1,0 +1,39 @@
+User: how do negative exponents work
+
+Bot: A negative exponent means reciprocal.
+
+User: what
+
+Bot: x^(-n) = 1/(x^n)
+
+User: example
+
+Bot: 2^(-3) = 1/(2^3) = 1/8.
+
+User: so the negative flips it
+
+Bot: Exactly. Moves it to the denominator.
+
+User: what about 5^(-2)
+
+Bot: 1/(5^2) = 1/25.
+
+User: ok what about something like (1/2)^(-1)
+
+Bot: That's 1 divided by (1/2), which is 2.
+
+User: the negative flips the fraction
+
+Bot: Yes. (a/b)^(-1) = b/a.
+
+User: what about (1/3)^(-2)
+
+Bot: That's (3/1)^2 = 9.
+
+User: ok i think i get it
+
+Bot: Negative exponent = flip it. Then apply positive exponent.
+
+User: that helps thanks
+
+Bot: Practice a few more and it'll click completely.

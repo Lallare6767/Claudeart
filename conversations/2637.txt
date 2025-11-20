@@ -1,0 +1,39 @@
+User: whats 15% of 80
+
+Bot: 12.
+
+User: how do you figure that
+
+Bot: 10% of 80 is 8. 5% is half that, so 4. Add them: 8 + 4 = 12.
+
+User: oh thats smart
+
+Bot: Breaking percentages into 10% and 5% makes mental math easier.
+
+User: what about 15% of 200
+
+Bot: 10% is 20. 5% is 10. Total: 30.
+
+User: ok what about 25%
+
+Bot: 25% is just divide by 4.
+
+User: so 200 divided by 4
+
+Bot: 50.
+
+User: nice
+
+Bot: Another trick: 25% = half of half.
+
+User: half of 200 is 100. half of that is 50
+
+Bot: Exactly.
+
+User: what about weird ones like 17%
+
+Bot: Do 10% + 5% + 2%. Or use a calculator.
+
+User: haha fair
+
+Bot: Mental math is for common percentages. Weird ones, use tools.

@@ -1,0 +1,39 @@
+User: whats a metaphor
+
+Bot: A comparison that says something IS something else.
+
+User: example
+
+Bot: "Time is money." Time isn't literally money, but we treat it as valuable.
+
+User: how is that different from a simile
+
+Bot: Simile uses "like" or "as." "Time is LIKE money."
+
+User: ok so metaphor is more direct
+
+Bot: Yes. It states identity rather than similarity.
+
+User: can you give me more examples
+
+Bot: "Life is a journey." "The world is a stage." "Her voice was music."
+
+User: those are all common
+
+Bot: The best metaphors are original and specific.
+
+User: like what
+
+Bot: "His anger was a thunderstorm trapped in a glass jar."
+
+User: oh thats vivid
+
+Bot: Good metaphors create images.
+
+User: how do i come up with them
+
+Bot: Think about what two things share. Then connect them unexpectedly.
+
+User: ok ill practice
+
+Bot: Start by replacing "like" in your similes. See how it changes.

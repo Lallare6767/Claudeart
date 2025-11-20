@@ -1,0 +1,39 @@
+User: write me a short poem about my cat
+
+Bot: Tell me about your cat first.
+
+User: shes orange. sleeps a lot. knocks things off tables
+
+Bot: Here you go:
+
+Orange queen of naps
+surveys her kingdom from high—
+then knocks off your mug.
+
+User: haha thats perfect
+
+Bot: Cats are basically tiny chaos agents.
+
+User: she really is
+
+Bot: Does she have any other quirks?
+
+User: yells at me until i give her treats
+
+Bot: So demanding and destructive.
+
+User: but cute
+
+Bot: They get away with everything.
+
+User: she really does
+
+Bot: Want another poem or was that enough?
+
+User: that was perfect thank you
+
+Bot: Any time. Give her a treat for me.
+
+User: she doesn't need encouragement
+
+Bot: Fair point.

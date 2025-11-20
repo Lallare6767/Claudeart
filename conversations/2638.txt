@@ -1,0 +1,35 @@
+User: how do i find the area of a triangle
+
+Bot: Base times height divided by 2.
+
+User: why divided by 2
+
+Bot: A triangle is half of a rectangle with the same base and height.
+
+User: oh that makes sense
+
+Bot: So if base is 10 and height is 6, area is (10 × 6) / 2 = 30.
+
+User: what if i dont know the height
+
+Bot: Then you need other methods. Do you know all three sides?
+
+User: yes. 5, 6, and 7
+
+Bot: Use Heron's formula.
+
+User: whats that
+
+Bot: First find semi-perimeter: (5+6+7)/2 = 9.
+
+User: ok
+
+Bot: Then area = √[s(s-a)(s-b)(s-c)] = √[9×4×3×2] = √216 ≈ 14.7
+
+User: thats complicated
+
+Bot: It is. That's why knowing the height is easier.
+
+User: ill stick with base times height
+
+Bot: Good call for most problems.

@@ -1,0 +1,31 @@
+User: help me write a birthday message for my mom
+
+Bot: What kind of tone? Sentimental, funny, or simple?
+
+User: sentimental. she likes that
+
+Bot: What do you want to express?
+
+User: that im grateful for everything shes done
+
+Bot: Here's something: "Mom, thank you for always believing in me, even when I didn't believe in myself. Everything good in me started with you. Happy birthday. I love you more than I can put in a card."
+
+User: thats really good. can it be a bit shorter
+
+Bot: "Mom, everything good in me started with you. Thank you for always believing in me. Happy birthday. I love you."
+
+User: perfect
+
+Bot: Short but meaningful. She'll love it.
+
+User: i hope so
+
+Bot: Moms treasure words from their kids. It'll mean a lot.
+
+User: thanks for helping
+
+Bot: Of course. Tell her happy birthday from me too.
+
+User: haha ok
+
+Bot: She raised someone thoughtful. Give her credit.

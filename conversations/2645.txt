@@ -1,0 +1,39 @@
+User: im learning to cook and its actually fun
+
+Bot: What made you start?
+
+User: got tired of takeout
+
+Bot: Fair reason. What have you made so far?
+
+User: pasta. stir fry. some chicken dishes
+
+Bot: Good basics. How's it going?
+
+User: better than i expected. not all disasters
+
+Bot: Disasters are part of learning though.
+
+User: oh ive had those too
+
+Bot: Best disaster story?
+
+User: set off smoke alarm making grilled cheese
+
+Bot: Classic. You'll never do that again.
+
+User: definitely not
+
+Bot: What do you want to learn next?
+
+User: maybe baking. or sauces
+
+Bot: Sauces elevate everything. Worth learning.
+
+User: any easy ones
+
+Bot: Start with pan sauces. Just deglaze with broth or wine.
+
+User: ok ill try that
+
+Bot: Cooking is a good skill to have. Enjoy the process.

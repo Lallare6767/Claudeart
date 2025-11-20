@@ -1,0 +1,35 @@
+User: help me write a haiku about morning
+
+Bot: Sure. Any specific mood?
+
+User: peaceful
+
+Bot: Here's one: "Soft light through curtains / Coffee steam curls, disappears / Another day wakes"
+
+User: thats nice. can i get one thats more about nature
+
+Bot: "Dew drops catch the sun / Birds announce the coming warmth / World slowly stirs"
+
+User: i like that one better
+
+Bot: Nature haikus are classic for a reason.
+
+User: can you explain the structure again
+
+Bot: 5 syllables, 7 syllables, 5 syllables.
+
+User: and its supposed to have nature?
+
+Bot: Traditional haiku includes a seasonal reference. Modern ones are looser.
+
+User: what about that season word
+
+Bot: Called "kigo." Cherry blossoms = spring. Snow = winter. Like that.
+
+User: so dew is summer?
+
+Bot: Dew is usually summer or autumn.
+
+User: cool thanks
+
+Bot: Try writing one yourself. It's a good exercise.

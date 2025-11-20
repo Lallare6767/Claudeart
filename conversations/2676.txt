@@ -1,0 +1,47 @@
+User: lets do trivia
+
+Bot: Sure. Category?
+
+User: random
+
+Bot: What is the largest organ in the human body?
+
+User: heart?
+
+Bot: Skin actually.
+
+User: oh right. forgot skin counts
+
+Bot: Next: What planet is known for its rings?
+
+User: saturn
+
+Bot: Correct. What year did the Titanic sink?
+
+User: 1912?
+
+Bot: Yes! Good memory.
+
+User: another
+
+Bot: What's the chemical symbol for gold?
+
+User: Au
+
+Bot: Perfect. Last one: What's the smallest country in the world?
+
+User: vatican city
+
+Bot: Five for five if we don't count the skin.
+
+User: i want a rematch on that one
+
+Bot: Fair. Skin is definitely an organ though.
+
+User: i know i know
+
+Bot: Want another round?
+
+User: maybe later. that was fun
+
+Bot: Trivia is good for the brain. Come back anytime.

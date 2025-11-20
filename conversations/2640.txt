@@ -1,0 +1,35 @@
+User: i dont understand ratios
+
+Bot: What part confuses you?
+
+User: like what does 3:2 mean
+
+Bot: For every 3 of one thing, there are 2 of another.
+
+User: example?
+
+Bot: Recipe says flour to sugar is 3:2. If you use 6 cups flour, you use 4 cups sugar.
+
+User: how did you get 4
+
+Bot: 6 is twice 3. So sugar is twice 2 = 4.
+
+User: ok another example
+
+Bot: Class has boys to girls ratio of 2:5. If there are 10 boys, how many girls?
+
+User: umm
+
+Bot: 10 is 5 times 2. So girls is 5 times 5 = 25.
+
+User: oh ok
+
+Bot: Total students would be 35. Ratio to real numbers.
+
+User: what about like 4:6 is that same as 2:3
+
+Bot: Yes. Simplify ratios like fractions. Divide both by common factor.
+
+User: got it
+
+Bot: Ratios are just comparisons. Keep the relationship, scale the numbers.

@@ -1,0 +1,33 @@
+User: can you help me write wedding vows
+
+Bot: I can help you draft ideas. What do you want to say?
+
+User: that she makes me better. that im lucky. that ill always be there
+
+Bot: How long did you want them?
+
+User: short. maybe 30 seconds to say
+
+Bot: Here's a start:
+
+"Before you, I didn't know I was missing anything. Now I can't imagine life without you. You make me want to be better—for myself and for you. I promise to stand by you, laugh with you, and love you every day for the rest of my life."
+
+User: thats beautiful
+
+Bot: Personal details make it better. Any specific memories or inside jokes?
+
+User: we laugh about how i spilled coffee on our first date
+
+Bot: Add it. "I've been a mess since the day we met—literally—and you loved me anyway."
+
+User: haha yes that works
+
+Bot: Humor plus sincerity is perfect for vows.
+
+User: thank you so much
+
+Bot: Practice saying it out loud. Timing and flow matter.
+
+User: i will
+
+Bot: She's lucky too. You're putting real thought into this.

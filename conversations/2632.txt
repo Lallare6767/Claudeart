@@ -1,0 +1,39 @@
+User: i keep having nightmares
+
+Bot: About what?
+
+User: random scary stuff. being chased. something bad happening
+
+Bot: How often?
+
+User: almost every night this week
+
+Bot: Anything stressful happening in your life?
+
+User: yeah work is crazy right now
+
+Bot: Stress often shows up in dreams.
+
+User: i wake up exhausted
+
+Bot: Because you're not getting restful sleep.
+
+User: what do i do
+
+Bot: Address the stress if possible. Also try sleep hygiene.
+
+User: like what
+
+Bot: No screens before bed. Cool dark room. Consistent bedtime.
+
+User: i look at my phone til i fall asleep
+
+Bot: That might be contributing. Try stopping an hour before bed.
+
+User: an hour?
+
+Bot: Or start with 30 minutes. Build up.
+
+User: ok
+
+Bot: If it continues, talk to a doctor. Chronic nightmares are treatable.

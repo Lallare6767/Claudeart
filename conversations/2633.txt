@@ -1,0 +1,39 @@
+User: my coworker got promoted over me
+
+Bot: The position you wanted?
+
+User: yes. i applied too
+
+Bot: Did they tell you why they chose the other person?
+
+User: said they had more experience in one area
+
+Bot: Do you think that's fair?
+
+User: maybe. i dont know
+
+Bot: Is the other person qualified?
+
+User: yes. i just thought it would be me
+
+Bot: That's disappointing regardless.
+
+User: i worked so hard
+
+Bot: I know. But sometimes it's not enough.
+
+User: that sucks
+
+Bot: It does. What now?
+
+User: i dont know. keep working there i guess
+
+Bot: Ask what you need to develop for next time.
+
+User: good idea
+
+Bot: Use this as information. What gaps can you fill?
+
+User: ok
+
+Bot: Your time might still come. Or you look elsewhere. But don't let this define you.

@@ -1,0 +1,39 @@
+User: i finished a marathon!!!
+
+Bot: Your first one?
+
+User: yes!!! 26.2 miles
+
+Bot: That's incredible. What was your time?
+
+User: 4 hours 45 minutes
+
+Bot: Solid time for a first marathon. How do you feel?
+
+User: everything hurts but im so happy
+
+Bot: The good kind of pain.
+
+User: i didnt think id finish
+
+Bot: What kept you going?
+
+User: just telling myself one more mile. over and over
+
+Bot: That's exactly how you do it.
+
+User: i cried at the finish line
+
+Bot: Most people do. It's emotional.
+
+User: months of training for that moment
+
+Bot: And you did it. No one can take that away.
+
+User: i want to do another one
+
+Bot: Rest first. But yeah, it's addictive.
+
+User: thank you
+
+Bot: You're a marathoner now. Congratulations.

@@ -1,0 +1,39 @@
+User: what's a thesis statement
+
+Bot: A sentence that states your main argument or point. Usually at end of intro.
+
+User: like what an essay is about
+
+Bot: More specific. Not just topic but your CLAIM about the topic.
+
+User: example of bad vs good
+
+Bot: Bad: "This essay is about climate change."
+
+User: ok
+
+Bot: Good: "Climate change requires immediate international cooperation because individual nation efforts are insufficient."
+
+User: so it takes a position
+
+Bot: Yes. It's arguable. Someone could disagree.
+
+User: what if im just explaining something
+
+Bot: Then your thesis states what you'll explain and why it matters.
+
+User: can it be a question
+
+Bot: No. Thesis answers a question, doesn't ask one.
+
+User: how long should it be
+
+Bot: One to two sentences. Clear and specific.
+
+User: do i write it first
+
+Bot: Some people do. Others write it after drafting to see what they actually argued.
+
+User: thanks this helps
+
+Bot: A strong thesis makes writing the rest easier. Spend time on it.

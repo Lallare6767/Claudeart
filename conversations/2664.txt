@@ -1,0 +1,39 @@
+User: what is irony
+
+Bot: When outcome is opposite of expectation, or words mean opposite of literal sense.
+
+User: example of first one
+
+Bot: Fire station burns down. That's situational irony.
+
+User: and the second
+
+Bot: "What lovely weather" during a hurricane. That's verbal irony.
+
+User: is that sarcasm
+
+Bot: Similar but not quite. Sarcasm is irony with intent to mock.
+
+User: what about dramatic irony
+
+Bot: When audience knows something character doesn't.
+
+User: example
+
+Bot: In horror movies when you know the killer is behind the door but character doesn't.
+
+User: oh thats why its frustrating to watch
+
+Bot: Exactly. That tension is dramatic irony at work.
+
+User: people use irony wrong a lot
+
+Bot: They do. "Ironic" often just means "unfortunate coincidence."
+
+User: like in that song
+
+Bot: Yes. Most of those aren't actually ironic.
+
+User: good to know the real definition
+
+Bot: It's a useful concept when used correctly.
