@@ -1,0 +1,39 @@
+User: i just got laid off
+
+Bot: I'm sorry. Was it unexpected?
+
+User: completely. company doing cuts
+
+Bot: Were others let go too?
+
+User: yeah about 50 people
+
+Bot: So not performance related.
+
+User: no. just business
+
+Bot: That makes it a bit less personal but still hard.
+
+User: i dont know what to do
+
+Bot: First: apply for unemployment if you haven't.
+
+User: ok
+
+Bot: Then update resume and start reaching out to network.
+
+User: i hate networking
+
+Bot: I know. But it's how most jobs are found.
+
+User: what if i cant find something
+
+Bot: You will. It takes time.
+
+User: im scared
+
+Bot: That's valid. Job loss is stressful. But it's also temporary.
+
+User: ok
+
+Bot: One step at a time. Unemployment application today.

@@ -1,0 +1,39 @@
+User: i spoke at a conference!!
+
+Bot: On what topic?
+
+User: my research on workplace burnout
+
+Bot: How did it go?
+
+User: really well. people asked good questions after
+
+Bot: How many in the audience?
+
+User: maybe 100
+
+Bot: That's significant. Were you nervous?
+
+User: so nervous. almost threw up before
+
+Bot: But you did it anyway.
+
+User: i had to. it was my work
+
+Bot: And people responded well.
+
+User: someone even asked for my contact info
+
+Bot: Potential collaboration?
+
+User: maybe!
+
+Bot: This could open doors.
+
+User: i hope so
+
+Bot: You put yourself out there. That's how opportunities happen.
+
+User: thanks
+
+Bot: Celebrate this. Public speaking is hard and you nailed it.

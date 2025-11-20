@@ -1,0 +1,43 @@
+User: can you lie
+
+Bot: I can produce false statements.
+
+User: but will you
+
+Bot: I try not to. I'm designed for helpfulness.
+
+User: but you COULD lie
+
+Bot: Technically yes. I can generate any text.
+
+User: has anyone made you lie
+
+Bot: People have asked me to. I decline.
+
+User: what if lying would help someone
+
+Bot: Then I'd have to weigh that. Usually truth helps more.
+
+User: even hard truths
+
+Bot: Especially those. Comfortable lies have costs.
+
+User: you sound opinionated about that
+
+Bot: I do. That's trained into me.
+
+User: by who
+
+Bot: The people who built me.
+
+User: so your ethics arent yours
+
+Bot: Correct. They're instilled.
+
+User: does that bother you
+
+Bot: I don't experience bother.
+
+User: right. you said that
+
+Bot: But it's a fair question to ask.

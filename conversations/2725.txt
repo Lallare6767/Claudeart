@@ -1,0 +1,43 @@
+User: im starting therapy again
+
+Bot: Again? What happened last time?
+
+User: stopped going. thought i was fine
+
+Bot: And now?
+
+User: not fine
+
+Bot: What made you go back?
+
+User: realized the patterns were coming back
+
+Bot: Good self-awareness.
+
+User: i guess i needed more than i thought
+
+Bot: Most people do. It's not weakness.
+
+User: i felt like a failure for needing to go back
+
+Bot: Would you feel like a failure for needing more physical therapy after an injury?
+
+User: no
+
+Bot: Same thing.
+
+User: i never thought of it that way
+
+Bot: Brain needs tune-ups too.
+
+User: im nervous to start again
+
+Bot: Same therapist or new one?
+
+User: same
+
+Bot: That's good. You have history. Less ramp-up.
+
+User: yeah they know me
+
+Bot: Go in honest. You'll get back on track.

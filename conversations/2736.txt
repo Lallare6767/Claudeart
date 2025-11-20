@@ -1,0 +1,39 @@
+User: how do you add fractions
+
+Bot: Same denominator: add numerators. Different denominators: find common one first.
+
+User: example with same
+
+Bot: 1/4 + 2/4 = 3/4.
+
+User: easy. now different
+
+Bot: 1/3 + 1/4. Find common denominator: 12.
+
+User: how
+
+Bot: Multiply denominators or find least common multiple.
+
+User: ok so then what
+
+Bot: Convert: 1/3 = 4/12 and 1/4 = 3/12.
+
+User: how did you get 4/12
+
+Bot: Multiply top and bottom by same number. 1/3 × 4/4 = 4/12.
+
+User: ok so now add
+
+Bot: 4/12 + 3/12 = 7/12.
+
+User: got it. what about subtracting
+
+Bot: Same process. Find common denominator then subtract numerators.
+
+User: 3/4 - 1/3
+
+Bot: Common denominator 12. 9/12 - 4/12 = 5/12.
+
+User: this is actually clicking
+
+Bot: Good. Just takes practice to find common denominators fast.

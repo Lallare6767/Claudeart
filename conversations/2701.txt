@@ -1,0 +1,39 @@
+User: how do i calculate a tip
+
+Bot: What percentage?
+
+User: 20%
+
+Bot: Easiest way: find 10% and double it.
+
+User: so $45 bill
+
+Bot: 10% is $4.50. Double it: $9 tip.
+
+User: what about 15%
+
+Bot: 10% plus half of 10%.
+
+User: so $4.50 plus $2.25
+
+Bot: $6.75. Yes.
+
+User: what about 18%
+
+Bot: 15% plus a bit, or 20% minus a bit. Or use a calculator.
+
+User: rough estimate
+
+Bot: For 18% on $45: 20% is $9. A bit less, say $8.
+
+User: close enough for restaurant
+
+Bot: Yeah. Servers don't expect exact math.
+
+User: whats standard now
+
+Bot: 20% is pretty standard for good service.
+
+User: ok ill stick with that
+
+Bot: It's easy math and fair to servers.

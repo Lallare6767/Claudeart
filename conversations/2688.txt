@@ -1,0 +1,43 @@
+User: i had a panic attack at work
+
+Bot: Are you okay now?
+
+User: yeah. happened earlier
+
+Bot: First one or has this happened before?
+
+User: first one this bad
+
+Bot: What triggered it?
+
+User: presentation. everyone looking at me
+
+Bot: What happened during?
+
+User: couldnt breathe. had to leave the room
+
+Bot: Did anyone notice?
+
+User: probably
+
+Bot: That's embarrassing but not the end of the world.
+
+User: i feel so stupid
+
+Bot: Panic attacks aren't stupidity. They're your nervous system misfiring.
+
+User: it felt like i was dying
+
+Bot: That's what they feel like. You weren't.
+
+User: what if it happens again
+
+Bot: Learn some grounding techniques. Talk to a doctor maybe.
+
+User: like what techniques
+
+Bot: 5-4-3-2-1. Name 5 things you see, 4 you hear, etc.
+
+User: ok
+
+Bot: Panic attacks are scary but manageable. You got through it.

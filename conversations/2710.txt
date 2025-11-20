@@ -1,0 +1,39 @@
+User: i built something with my hands
+
+Bot: What did you build?
+
+User: a bookshelf. nothing fancy
+
+Bot: From scratch?
+
+User: yeah. measured, cut, assembled
+
+Bot: How did it turn out?
+
+User: wobbly but stands
+
+Bot: First project?
+
+User: first woodworking yeah
+
+Bot: Then wobbly is fine.
+
+User: i feel proud anyway
+
+Bot: You should. Making something physical is satisfying.
+
+User: different from computer work
+
+Bot: Very. Tangible result. Your hands did that.
+
+User: exactly. i can touch it
+
+Bot: Keep making things.
+
+User: what should i do next
+
+Bot: Fix the wobble on this one first. Then something else small.
+
+User: ha fair point
+
+Bot: Building things is good for the soul. Enjoy it.

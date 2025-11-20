@@ -1,0 +1,43 @@
+User: i cant wait for this concert
+
+Bot: Who are you seeing?
+
+User: my favorite band since high school
+
+Bot: Which band?
+
+User: radiohead
+
+Bot: Great show. When is it?
+
+User: next week
+
+Bot: How long have you waited for this?
+
+User: years. they dont tour often
+
+Bot: That makes it more special.
+
+User: i keep thinking about the setlist
+
+Bot: What songs do you hope they play?
+
+User: everything in its right place. paranoid android. reckoner
+
+Bot: All classics.
+
+User: im so nervous ill cry
+
+Bot: Many people do at concerts. It's emotional.
+
+User: i saved up for these tickets
+
+Bot: Worth it though.
+
+User: absolutely
+
+Bot: Enjoy the anticipation. That's part of the experience.
+
+User: i really am
+
+Bot: This is the good kind of waiting.

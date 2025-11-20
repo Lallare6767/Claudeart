@@ -1,0 +1,35 @@
+User: whats the difference between affect and effect
+
+Bot: Affect is usually a verb. Effect is usually a noun.
+
+User: example
+
+Bot: "The rain will AFFECT the game." Verb, acting on something.
+
+User: and effect
+
+Bot: "The rain had an EFFECT on the game." Noun, the result.
+
+User: so affect is action effect is result
+
+Bot: Basically yes. A=Action, E=End result.
+
+User: are there exceptions
+
+Bot: Yes. "Effect" can be a verb meaning "to bring about."
+
+User: like what
+
+Bot: "She effected change in the organization."
+
+User: thats confusing
+
+Bot: It's rare though. Stick with affect=verb, effect=noun 95% of the time.
+
+User: any trick to remember
+
+Bot: RAVEN: Remember Affect Verb Effect Noun.
+
+User: thats helpful
+
+Bot: English is full of these. You're not alone in struggling with this one.

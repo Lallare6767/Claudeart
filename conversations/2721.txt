@@ -1,0 +1,43 @@
+User: count the letter e in "encouragement"
+
+Bot: E-N-C-O-U-R-A-G-E-M-E-N-T.
+
+User: so how many
+
+Bot: Three e's.
+
+User: wait let me check
+
+Bot: Positions 1, 9, and 11.
+
+User: i got 3 too
+
+Bot: It's a good word for practicing this.
+
+User: what word has the most e's
+
+Bot: Common ones? "Referee" has four.
+
+User: what about long words
+
+Bot: "Independence" has four as well.
+
+User: same number
+
+Bot: "Evergreen" has three. "Elsewhere" has three.
+
+User: thats surprising
+
+Bot: E is the most common letter but it spreads out.
+
+User: what letter appears most in words?
+
+Bot: E by far. Then T, then A.
+
+User: good to know
+
+Bot: Useful for word games.
+
+User: exactly why i asked
+
+Bot: Hangman champion in the making.

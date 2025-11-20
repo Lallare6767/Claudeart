@@ -1,0 +1,39 @@
+User: my mom just got diagnosed with cancer
+
+Bot: I'm so sorry. What kind?
+
+User: breast cancer. early stage they think
+
+Bot: Early stage is better for treatment options.
+
+User: thats what they said
+
+Bot: How is she handling it?
+
+User: scared. but trying to be positive
+
+Bot: And how are you?
+
+User: terrified
+
+Bot: Of course you are.
+
+User: i dont know how to help her
+
+Bot: Just be there. That's what she needs most.
+
+User: what if it gets worse
+
+Bot: Deal with that if it happens. Right now focus on what you know.
+
+User: ok
+
+Bot: Has she seen an oncologist yet?
+
+User: appointment next week
+
+Bot: Good. You'll have more information then.
+
+User: waiting is the worst
+
+Bot: It is. But early detection is good news. Hold onto that.

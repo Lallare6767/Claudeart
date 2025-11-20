@@ -1,0 +1,39 @@
+User: how do you solve for x in 3x + 7 = 22
+
+Bot: Isolate x step by step.
+
+User: ok
+
+Bot: First subtract 7 from both sides: 3x = 15.
+
+User: then divide by 3
+
+Bot: x = 5.
+
+User: check it
+
+Bot: 3(5) + 7 = 15 + 7 = 22. Correct.
+
+User: another one
+
+Bot: 2x - 4 = 10.
+
+User: add 4
+
+Bot: 2x = 14.
+
+User: divide by 2
+
+Bot: x = 7. Good.
+
+User: what about if x is in both sides
+
+Bot: Like 4x + 3 = 2x + 9?
+
+User: yeah
+
+Bot: Get all x's on one side. Subtract 2x: 2x + 3 = 9. Then solve normally.
+
+User: 2x = 6 so x = 3
+
+Bot: Perfect. You've got it.

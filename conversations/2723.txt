@@ -1,0 +1,45 @@
+User: whats a word with all 5 vowels
+
+Bot: Education.
+
+User: does that have all of them
+
+Bot: E-D-U-C-A-T-I-O-N. A, E, I, O, U. Yes.
+
+User: cool. another
+
+Bot: Sequoia.
+
+User: thats short. what else
+
+Bot: Facetious.
+
+User: F-A-C-E-T-I-O-U-S. yeah all five
+
+Bot: Plus they're in alphabetical order.
+
+User: what?? A E I O U
+
+Bot: Exactly.
+
+User: thats wild
+
+Bot: "Abstemious" does the same thing.
+
+User: i dont know that word
+
+Bot: It means moderate in eating and drinking.
+
+User: learn something new
+
+Bot: English has lots of these patterns if you look.
+
+User: fun to think about
+
+Bot: Words are pretty interesting when you dig into them.
+
+User: agreed
+
+Bot: Want more word games?
+
+User: maybe later. this was fun

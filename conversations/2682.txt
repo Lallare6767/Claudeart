@@ -1,0 +1,35 @@
+User: i won a contest!
+
+Bot: What kind of contest?
+
+User: photo contest. local one
+
+Bot: Congratulations! What was your photo of?
+
+User: a bird at sunrise. at the lake near my house
+
+Bot: What's the prize?
+
+User: $200 and featured in the local paper
+
+Bot: That's cool! Your work published.
+
+User: ive never won anything before
+
+Bot: First time feels amazing.
+
+User: i almost didnt enter
+
+Bot: Why not?
+
+User: didnt think i was good enough
+
+Bot: Clearly you are.
+
+User: i guess so
+
+Bot: Keep entering things. You have skill.
+
+User: ok i will
+
+Bot: And congrats. You took the shot and it paid off.

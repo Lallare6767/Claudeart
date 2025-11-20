@@ -1,0 +1,35 @@
+User: how do i find the slope of a line
+
+Bot: Rise over run. Change in y divided by change in x.
+
+User: from two points?
+
+Bot: Yes. (y2 - y1) / (x2 - x1).
+
+User: example
+
+Bot: Points (2, 3) and (6, 11). Slope = (11-3)/(6-2) = 8/4 = 2.
+
+User: what does slope 2 mean
+
+Bot: For every 1 unit right, the line goes up 2 units.
+
+User: what about negative slope
+
+Bot: Line goes down as you move right.
+
+User: and slope 0
+
+Bot: Horizontal line. No rise.
+
+User: undefined slope?
+
+Bot: Vertical line. No run. Can't divide by zero.
+
+User: ok makes sense
+
+Bot: Slope tells you direction and steepness.
+
+User: thanks
+
+Bot: Practice finding slopes from graphs too. Good to see it visually.

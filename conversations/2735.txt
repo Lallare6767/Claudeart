@@ -1,0 +1,47 @@
+User: whats the square root of 144
+
+Bot: 12.
+
+User: what about 169
+
+Bot: 13.
+
+User: 225
+
+Bot: 15.
+
+User: how do you know these so fast
+
+Bot: Perfect squares are common. I recognize them.
+
+User: what are the first 10 perfect squares
+
+Bot: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100.
+
+User: and their roots
+
+Bot: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+
+User: makes sense
+
+Bot: Memorizing these helps with mental math.
+
+User: what about square root of 2
+
+Bot: About 1.414. It's irrational.
+
+User: cant be exact?
+
+Bot: No. Goes on forever without repeating.
+
+User: what about 3
+
+Bot: About 1.732.
+
+User: i should memorize some
+
+Bot: 2, 3, 5 are useful. 1.4, 1.7, 2.2 roughly.
+
+User: thanks
+
+Bot: Square roots come up a lot. Worth knowing the common ones.

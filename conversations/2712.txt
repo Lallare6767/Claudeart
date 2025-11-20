@@ -1,0 +1,43 @@
+User: im so excited for my vacation
+
+Bot: Where are you going?
+
+User: greece. first time
+
+Bot: Amazing! How long?
+
+User: 10 days. athens then islands
+
+Bot: Which islands?
+
+User: santorini and crete
+
+Bot: Great choices. What are you most excited for?
+
+User: honestly everything. food. views. history. sun
+
+Bot: Have you started planning activities?
+
+User: some. leaving room for spontaneous stuff
+
+Bot: Good balance. Over-planning kills vacations.
+
+User: exactly
+
+Bot: Any Greek food you're excited to try?
+
+User: moussaka. fresh seafood. all the mezze
+
+Bot: You'll eat so well.
+
+User: i cant wait
+
+Bot: Sounds like you needed this trip.
+
+User: so badly
+
+Bot: Enjoy every minute. Unplug if you can.
+
+User: thats the plan
+
+Bot: Take some photos but also just be there.

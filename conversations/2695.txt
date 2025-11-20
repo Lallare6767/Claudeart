@@ -1,0 +1,43 @@
+User: i cheated on a test
+
+Bot: For what class?
+
+User: chemistry final
+
+Bot: How did you cheat?
+
+User: had notes on my phone
+
+Bot: Did you get caught?
+
+User: no
+
+Bot: So why are you telling me?
+
+User: i feel awful
+
+Bot: Good. That means your conscience works.
+
+User: what do i do
+
+Bot: Depends. Does this affect your grade significantly?
+
+User: i probably would have failed without it
+
+Bot: And now?
+
+User: B
+
+Bot: That's a big difference.
+
+User: i know
+
+Bot: You have options. Tell the professor. Or live with it and never do it again.
+
+User: if i tell i might fail the class
+
+Bot: Yes. That's the consequence.
+
+User: so i just feel guilty forever?
+
+Bot: Or you learn from it. Guilt fades if you don't repeat the behavior.

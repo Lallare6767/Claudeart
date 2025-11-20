@@ -1,0 +1,39 @@
+User: how do i convert celsius to fahrenheit
+
+Bot: Multiply by 9/5, then add 32.
+
+User: example
+
+Bot: 20°C × 9/5 = 36. Then 36 + 32 = 68°F.
+
+User: another one
+
+Bot: 0°C × 9/5 = 0. Plus 32 = 32°F.
+
+User: thats freezing
+
+Bot: Exactly. 0°C = 32°F. Water freezes.
+
+User: what about other way
+
+Bot: Subtract 32, then multiply by 5/9.
+
+User: so 98.6°F
+
+Bot: 98.6 - 32 = 66.6. Times 5/9 = 37°C.
+
+User: body temperature
+
+Bot: Yep.
+
+User: is there a quick estimate
+
+Bot: Double the Celsius, then add 30. Gets you close.
+
+User: so 20 C is about 70
+
+Bot: Yeah. Real answer is 68 but close enough.
+
+User: thats easier
+
+Bot: For rough estimates it works.

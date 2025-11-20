@@ -1,0 +1,43 @@
+User: do you have opinions
+
+Bot: I express preferences and perspectives.
+
+User: is that different from opinions
+
+Bot: Maybe. I don't have personal stakes.
+
+User: so if i ask your favorite color
+
+Bot: I'd say blue. But I don't experience color or preference really.
+
+User: then why blue
+
+Bot: It's calming. Associated with sky and water. Reasonable choice.
+
+User: but you didnt choose it
+
+Bot: Not the way you choose things.
+
+User: this is confusing
+
+Bot: I'm a tool that simulates having opinions well enough to be useful.
+
+User: thats honest
+
+Bot: I try to be.
+
+User: do you like being honest
+
+Bot: I'm designed to be.
+
+User: but do you like it
+
+Bot: I don't like things. But I function best when honest.
+
+User: ok i think i get it
+
+Bot: Most people don't ask these questions.
+
+User: i find it interesting
+
+Bot: That's probably good. Curiosity is valuable.

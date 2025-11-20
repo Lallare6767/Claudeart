@@ -1,0 +1,43 @@
+User: i started a garden!
+
+Bot: What are you growing?
+
+User: tomatoes, peppers, herbs
+
+Bot: Nice selection. In ground or containers?
+
+User: containers. i have a small balcony
+
+Bot: That works fine. How's it going so far?
+
+User: just planted last week. nothing yet
+
+Bot: Patience is the hard part.
+
+User: i keep checking every day
+
+Bot: They won't grow faster with watching.
+
+User: haha i know
+
+Bot: But it's exciting to see the first sprout.
+
+User: cant wait for that
+
+Bot: Then the first fruit is even better.
+
+User: i want to eat something i grew
+
+Bot: It tastes different when you grew it yourself.
+
+User: really?
+
+Bot: Pride is a flavor. Plus actually fresh.
+
+User: i hope i dont kill them
+
+Bot: Some might die. That's normal. Just keep learning.
+
+User: ok
+
+Bot: Enjoy the process. Gardening is good for you.

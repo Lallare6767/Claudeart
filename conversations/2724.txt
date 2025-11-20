@@ -1,0 +1,47 @@
+User: unscramble this: OLVES
+
+Bot: LOVES or SOLVE.
+
+User: both work?
+
+Bot: Same letters.
+
+User: oh right. do another: PLASE
+
+Bot: LAPSE or LEAPS or SEPAL or PALES.
+
+User: what is sepal
+
+Bot: The leaf-like parts under a flower petal.
+
+User: didnt know that. another one: RETAW
+
+Bot: WATER.
+
+User: easy. harder one
+
+Bot: NORGAE.
+
+User: um... ORANGE!
+
+Bot: Yes!
+
+User: one more
+
+Bot: CEDLNU
+
+User: is it UNCLED?
+
+Bot: Not a word.
+
+User: let me think... CUDNEL?
+
+Bot: NUCLEI... wait no that's different letters.
+
+User: what is it
+
+Bot: UNCLED isn't... wait. CURDLE? No wrong letters. It's UNCLAD.
+
+User: oh duh
+
+Bot: Scrambles are tricky. Good brain exercise.

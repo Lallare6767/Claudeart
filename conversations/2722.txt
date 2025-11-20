@@ -1,0 +1,51 @@
+User: give me a word that starts and ends with the same letter
+
+Bot: Kayak.
+
+User: good one. another
+
+Bot: Colic.
+
+User: interesting. more
+
+Bot: Radar.
+
+User: thats a palindrome too
+
+Bot: Good catch.
+
+User: one that isnt a palindrome
+
+Bot: Comic.
+
+User: nice. a longer one
+
+Bot: Outdo.
+
+User: wait thats o to o
+
+Bot: Yes. O-U-T-D-O.
+
+User: what about something really long
+
+Bot: Tit-for-tat. If we count hyphens.
+
+User: hmm
+
+Bot: Underground. U to D... wait no.
+
+User: you messed up
+
+Bot: Let me think. Effectiveness.
+
+User: E to S? no
+
+Bot: You're right. Trustworthiest? No. Arctic!
+
+User: A to C
+
+Bot: I'm bad at this. Your turn.
+
+User: level
+
+Bot: Palindrome again. This is harder than it seems.

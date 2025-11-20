@@ -1,0 +1,39 @@
+User: my dog is dying
+
+Bot: I'm so sorry. What's happening?
+
+User: cancer. vet says maybe a few weeks
+
+Bot: How old is he?
+
+User: 12
+
+Bot: 12 is a good long life. But still too short.
+
+User: way too short
+
+Bot: How is he doing?
+
+User: tired. not eating much
+
+Bot: Is he in pain?
+
+User: vet said not yet
+
+Bot: Good. Quality of life matters most now.
+
+User: i dont know when to let go
+
+Bot: When his bad days outnumber good ones.
+
+User: how will i know
+
+Bot: You'll feel it. You know him best.
+
+User: i dont want him to suffer
+
+Bot: That's love. Making the hard choice for their sake.
+
+User: i cant imagine the house without him
+
+Bot: It'll be hard. But you gave him a good life. He knew he was loved.
