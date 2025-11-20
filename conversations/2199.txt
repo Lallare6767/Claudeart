@@ -1,0 +1,49 @@
+User: give me a word puzzle
+
+Bot: Rearrange these letters to make a word: AELPS
+
+User: um LEAPS?
+
+Bot: Got it! Another: CARET
+
+Bot: TRACE or CRATE.
+
+User: oh both work?
+
+Bot: Yes. What about ADLER?
+
+User: hmm ALDER?
+
+Bot: Yes! That's a type of tree.
+
+User: one more
+
+Bot: STOP can rearrange to...?
+
+User: um TOPS. POST. SPOT!
+
+Bot: All three! OPTS too.
+
+User: this is fun
+
+Bot: Anagrams exercise vocabulary and pattern recognition.
+
+User: give me a hard one
+
+Bot: ANGERED
+
+User: oh this is tough
+
+Bot: Take your time.
+
+User: ENRAGED!
+
+Bot: Perfect! Same letters, same meaning.
+
+User: thats so cool
+
+Bot: Some anagrams are surprisingly fitting.
+
+User: thanks for the puzzles
+
+Bot: Keep your brain sharp!

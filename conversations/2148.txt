@@ -1,0 +1,51 @@
+User: what is a prime number
+
+Bot: A number divisible only by 1 and itself.
+
+User: so 7 is prime
+
+Bot: Yes. Only 1 and 7 divide it evenly.
+
+User: and 9
+
+Bot: Not prime. 3 × 3 = 9.
+
+User: whats the first prime
+
+Bot: 2. Also the only even prime.
+
+User: why only even one
+
+Bot: All other even numbers are divisible by 2.
+
+User: is 1 prime
+
+Bot: No. By definition, primes must have exactly two distinct factors.
+
+User: what are the first several primes
+
+Bot: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.
+
+User: why do they matter
+
+Bot: Building blocks of all numbers. Every number factors into primes uniquely.
+
+User: like 12
+
+Bot: 12 = 2² × 3.
+
+User: and 100
+
+Bot: 100 = 2² × 5².
+
+User: cool
+
+Bot: Primes are also used in cryptography. They secure your data.
+
+User: really?
+
+Bot: Yes. Factoring large primes is what keeps encryption safe.
+
+User: thanks!
+
+Bot: Primes are simple but endlessly interesting.

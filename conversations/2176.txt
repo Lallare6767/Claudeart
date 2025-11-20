@@ -1,0 +1,47 @@
+User: convert 3/8 to percent
+
+Bot: 37.5%.
+
+User: how
+
+Bot: Divide 3 by 8 = 0.375. Multiply by 100.
+
+User: and 5/6
+
+Bot: 5 ÷ 6 = 0.833... = 83.33%.
+
+User: what about 7/4
+
+Bot: 1.75 = 175%.
+
+User: over 100 because its improper
+
+Bot: Exactly. More than the whole.
+
+User: convert 60% to fraction
+
+Bot: 60/100 = 3/5.
+
+User: and 33%
+
+Bot: 33/100. Doesn't simplify nicely.
+
+User: what about 33.33%
+
+Bot: That's 1/3.
+
+User: makes sense
+
+Bot: Some percentages are nicer as fractions.
+
+User: like 25% = 1/4
+
+Bot: Yes. Memorize common ones: 50%=1/2, 25%=1/4, 20%=1/5, 10%=1/10.
+
+User: 12.5%
+
+Bot: 1/8. Half of 25%.
+
+User: thanks!
+
+Bot: Conversions are just different ways of saying the same thing.

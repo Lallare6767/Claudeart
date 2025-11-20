@@ -1,0 +1,43 @@
+User: what should i make for dinner
+
+Bot: What do you have?
+
+User: chicken rice vegetables
+
+Bot: That's a complete meal. Any preferences?
+
+User: easy
+
+Bot: Sheet pan chicken. Chicken thighs, chopped vegetables, olive oil, salt. 400°F, 30 minutes.
+
+User: thats it?
+
+Bot: Season with whatever you have. Garlic powder, paprika, herbs.
+
+User: and the rice
+
+Bot: Make it while chicken roasts. Done at the same time.
+
+User: ok i can do that
+
+Bot: The trick with sheet pan is cut vegetables same size. Even cooking.
+
+User: good tip
+
+Bot: Broccoli and carrots work well. Bell peppers too.
+
+User: i have zucchini
+
+Bot: Perfect. It cooks fast so add it later or cut thick.
+
+User: ok
+
+Bot: Sheet pan dinners are underrated. Minimal cleanup.
+
+User: thats the best part
+
+Bot: Enjoy your dinner!
+
+User: thanks for the help
+
+Bot: Anytime. You've got everything you need.

@@ -1,0 +1,51 @@
+User: im scared to ask for a raise
+
+Bot: Why?
+
+User: what if they say no. or fire me
+
+Bot: Fire you for asking for a raise?
+
+User: maybe
+
+Bot: That's unlikely. And if they do, that's not a place to work.
+
+User: true
+
+Bot: When did you last get a raise?
+
+User: 2 years ago
+
+Bot: And you've taken on more since?
+
+User: a lot more
+
+Bot: Then you have a case.
+
+User: what do i say
+
+Bot: Focus on value. "I've taken on X, Y, Z. I'd like to discuss compensation."
+
+User: should i have a number
+
+Bot: Yes. Research market rate. Ask slightly above it.
+
+User: what if they still say no
+
+Bot: Ask why and what you need to do to get one.
+
+User: ok
+
+Bot: The worst outcome is no. You're already at no.
+
+User: thats true
+
+Bot: Asking is the only way to yes.
+
+User: ok ill do it
+
+Bot: Good. You deserve to be paid fairly for your work.
+
+User: thanks
+
+Bot: Prepare, practice, and ask. You've got this.

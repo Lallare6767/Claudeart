@@ -1,0 +1,43 @@
+User: help me pick a movie
+
+Bot: What are you in the mood for?
+
+User: something not too heavy. maybe funny
+
+Bot: Recent or classic?
+
+User: either
+
+Bot: The Grand Budapest Hotel. Stylish, funny, warm.
+
+User: seen it. loved it
+
+Bot: What We Do in the Shadows?
+
+User: vampire comedy?
+
+Bot: Yes. Mockumentary style. Very funny.
+
+User: ok on the list
+
+Bot: Hunt for the Wilderpeople. Heartwarming comedy from New Zealand.
+
+User: never heard of it
+
+Bot: Taika Waititi directed it. Same director as What We Do in the Shadows.
+
+User: oh cool
+
+Bot: Palm Springs if you like romantic comedy. Time loop premise.
+
+User: like groundhog day
+
+Bot: Yes but more romantic. Andy Samberg.
+
+User: ok ill go with what we do in the shadows
+
+Bot: Great choice. Let me know what you think.
+
+User: will do
+
+Bot: Enjoy! Perfect for a not-too-heavy night.

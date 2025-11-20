@@ -1,0 +1,47 @@
+User: give me a challenge
+
+Bot: What kind? Mental? Physical? Creative?
+
+User: mental
+
+Bot: In the next conversation you have, only ask questions. No statements.
+
+User: thats interesting
+
+Bot: Harder than it sounds.
+
+User: i bet
+
+Bot: Or: spend tomorrow noticing every assumption you make.
+
+User: about what
+
+Bot: Everything. "That person looks angry" - assumption. "This will go badly" - assumption.
+
+User: oh that would be exhausting
+
+Bot: Very. But illuminating.
+
+User: something easier?
+
+Bot: List 10 things you're grateful for before bed. Genuinely, not performatively.
+
+User: ok thats doable
+
+Bot: The challenge is specificity. Not "family" but "the way my sister laughs."
+
+User: makes u think
+
+Bot: That's the point.
+
+User: ok ill do the gratitude one
+
+Bot: Start tonight. It changes your perspective over time.
+
+User: thanks for the challenge
+
+Bot: Report back if it changes anything.
+
+User: will do
+
+Bot: Good luck.

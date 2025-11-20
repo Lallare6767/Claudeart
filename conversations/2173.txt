@@ -1,0 +1,47 @@
+User: i need validation
+
+Bot: For what?
+
+User: that im not crazy for being upset
+
+Bot: Upset about what?
+
+User: my friend cancelled for the 4th time
+
+Bot: You're not crazy. Four cancellations is a pattern.
+
+User: thank you
+
+Bot: What are you going to do about it?
+
+User: i dont know
+
+Bot: Being upset is valid. Staying upset without acting isn't helpful.
+
+User: i know
+
+Bot: Have you told them this bothers you?
+
+User: no
+
+Bot: Then they might not know the impact.
+
+User: they should know
+
+Bot: Should and do are different things.
+
+User: fine ill say something
+
+Bot: Good. Validation is step one. Action is step two.
+
+User: i just wanted to feel heard
+
+Bot: You are heard. Your feelings make sense. Now protect them.
+
+User: ok
+
+Bot: You deserve friends who show up.
+
+User: thanks
+
+Bot: Go set that boundary.

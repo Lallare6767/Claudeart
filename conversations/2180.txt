@@ -1,0 +1,43 @@
+User: whats the third word in this message
+
+Bot: "the" is the third word.
+
+User: what about the fifth
+
+Bot: "third".
+
+User: and the ninth
+
+Bot: "message".
+
+User: good ur paying attention
+
+Bot: Always. Want another one?
+
+User: make up a sentence and tell me the 6th word
+
+Bot: "The quick brown fox jumped over the lazy dog." Sixth word is "over."
+
+User: wait lets count. the quick brown fox jumped over
+
+Bot: 1-the, 2-quick, 3-brown, 4-fox, 5-jumped, 6-over. Yes, "over."
+
+User: nice
+
+Bot: Give me one.
+
+User: find the fourth word: every person has a story worth telling
+
+Bot: 1-every, 2-person, 3-has, 4-a. "A" is fourth.
+
+User: correct!
+
+Bot: These require focus.
+
+User: yeah good attention exercise
+
+Bot: Better than it seems. Most people lose count.
+
+User: thanks for playing
+
+Bot: Anytime. Keep that focus sharp.

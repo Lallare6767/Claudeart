@@ -1,0 +1,47 @@
+User: i want to learn something new but dont know what
+
+Bot: What have you been curious about lately?
+
+User: nothing specific
+
+Bot: What did you like as a kid?
+
+User: drawing. puzzles. space stuff
+
+Bot: Any of those interest you now?
+
+User: maybe space
+
+Bot: Astronomy is learnable. Books, courses, YouTube channels.
+
+User: i also thought about a language
+
+Bot: Which one?
+
+User: spanish maybe. practical
+
+Bot: Practical and plenty of resources. Duolingo, podcasts, tutors.
+
+User: what about something physical
+
+Bot: Martial arts? Dance? Rock climbing?
+
+User: climbing sounds cool
+
+Bot: Then try it. Most gyms let you try once.
+
+User: how do i pick between all these
+
+Bot: Which would you regret not trying?
+
+User: climbing probably
+
+Bot: Then start there. You can always learn Spanish later.
+
+User: ok
+
+Bot: Just pick one and commit for a month. See if it sticks.
+
+User: ok thanks
+
+Bot: The hardest part is starting. Go this week.

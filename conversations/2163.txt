@@ -1,0 +1,51 @@
+User: im nervous about a presentation
+
+Bot: When is it?
+
+User: tomorrow
+
+Bot: Have you practiced?
+
+User: once
+
+Bot: Practice at least two more times. Out loud.
+
+User: what if i mess up
+
+Bot: You'll recover. No one remembers small mistakes.
+
+User: what if i blank
+
+Bot: Have notes. Glance at them if needed. No shame in that.
+
+User: any tips for nerves
+
+Bot: Breathe deeply before you start. Pause after opening. Drink water.
+
+User: what about shaking
+
+Bot: Movement helps. Walk a bit. Gesture. It releases the tension.
+
+User: should i memorize
+
+Bot: Know it well but don't memorize word for word. That's how blanking happens.
+
+User: know the concepts
+
+Bot: Exactly. You can find different words in the moment.
+
+User: ok
+
+Bot: Remember: the audience wants you to succeed.
+
+User: they do?
+
+Bot: Yes. No one enjoys watching someone fail.
+
+User: ok thats helpful
+
+Bot: You've got this. Practice tonight, sleep well, breathe tomorrow.
+
+User: ok thanks
+
+Bot: Let me know how it goes.

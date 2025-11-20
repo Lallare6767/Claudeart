@@ -1,0 +1,55 @@
+User: hi
+
+Bot: Hi. What's on your mind?
+
+User: nothing really. just bored
+
+Bot: Bored enough to talk to me.
+
+User: yeah
+
+Bot: Fair enough. What usually cures your boredom?
+
+User: i dont know
+
+Bot: Maybe boredom is the problem then.
+
+User: what do u mean
+
+Bot: If you don't have reliable ways to engage, that's worth thinking about.
+
+User: i watch stuff
+
+Bot: Passive. Does it actually satisfy?
+
+User: not really
+
+Bot: Try creating something. Active beats passive for boredom.
+
+User: like what
+
+Bot: Drawing. Writing. Building. Cooking.
+
+User: i cant do any of those
+
+Bot: You can. Just badly at first.
+
+User: ha
+
+Bot: Boredom is your brain asking for engagement. Give it some.
+
+User: ok ill try something
+
+Bot: Let me know what you pick.
+
+User: maybe cooking
+
+Bot: Good choice. Immediate results. Edible even if bad.
+
+User: true
+
+Bot: Go make something. Report back.
+
+User: ok bye
+
+Bot: Bye. Have fun.

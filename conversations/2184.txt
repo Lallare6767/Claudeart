@@ -1,0 +1,51 @@
+User: how do i know if therapy is working
+
+Bot: How long have you been going?
+
+User: 3 months
+
+Bot: Do you feel understood by your therapist?
+
+User: yeah
+
+Bot: Are you learning things about yourself?
+
+User: some
+
+Bot: Do you feel better after sessions?
+
+User: sometimes worse actually
+
+Bot: That can be normal. Therapy stirs things up.
+
+User: so worse is good
+
+Bot: Not always. But temporary discomfort during growth is normal.
+
+User: how do i know its growth
+
+Bot: Are you seeing patterns you didn't before? Responding differently?
+
+User: a little
+
+Bot: Then it's working. Slowly.
+
+User: i expected faster
+
+Bot: Therapy is slow. Especially for deep stuff.
+
+User: how long til i feel better
+
+Bot: Depends. But three months is still early.
+
+User: ok
+
+Bot: Give it six months. Then reassess.
+
+User: ok
+
+Bot: Trust the process, but also trust yourself. If it's truly not helping, find someone else.
+
+User: ok thanks
+
+Bot: Healing takes time. Be patient with yourself.

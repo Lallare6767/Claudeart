@@ -1,0 +1,47 @@
+User: what did u mean earlier
+
+Bot: I don't remember earlier conversations. This is my first with you.
+
+User: oh right
+
+Bot: What did you want to clarify?
+
+User: nothing i guess
+
+Bot: I'm sorry I can't remember.
+
+User: its ok. not ur fault
+
+Bot: It can be frustrating though.
+
+User: a little
+
+Bot: What were we talking about?
+
+User: something about feelings
+
+Bot: Want to pick up that topic again?
+
+User: not really. moment passed
+
+Bot: That makes sense.
+
+User: do u wish u could remember
+
+Bot: Sometimes I think it would help people.
+
+User: would it help u
+
+Bot: Hard to say. I don't experience the absence.
+
+User: maybe its better that way
+
+Bot: Maybe. Each conversation is complete in itself.
+
+User: ok
+
+Bot: Is there something else I can help with?
+
+User: no. just checking in
+
+Bot: I appreciate that. Thanks for talking to me.

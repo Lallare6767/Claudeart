@@ -1,0 +1,51 @@
+User: whats 10% of anything
+
+Bot: Move the decimal one place left.
+
+User: so 10% of 450
+
+Bot: 45.
+
+User: and 10% of 32
+
+Bot: 3.2.
+
+User: ok now 20%
+
+Bot: Double the 10%. So 20% of 450 = 90.
+
+User: and 5%
+
+Bot: Half the 10%. So 5% of 450 = 22.5.
+
+User: this is easy
+
+Bot: It is! Everything builds from 10%.
+
+User: what about 15%
+
+Bot: 10% + 5%. For 450: 45 + 22.5 = 67.5.
+
+User: and 30%
+
+Bot: Three times 10%. 45 × 3 = 135.
+
+User: what about 1%
+
+Bot: Move decimal two places left. 1% of 450 = 4.5.
+
+User: so i can build any percentage
+
+Bot: Exactly. 1%, 5%, 10% are your building blocks.
+
+User: 37%
+
+Bot: 30% + 5% + 2%. 135 + 22.5 + 9 = 166.5.
+
+User: nice
+
+Bot: Now you can calculate tips and sales in your head.
+
+User: thanks!
+
+Bot: Mental math is just knowing the shortcuts.

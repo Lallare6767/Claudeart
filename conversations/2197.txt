@@ -1,0 +1,47 @@
+User: whats the difference between then and than
+
+Bot: Then is time or sequence. Than is comparison.
+
+User: example
+
+Bot: "First we eat, then we go." vs "Chocolate is better than vanilla."
+
+User: how do i remember
+
+Bot: Then has an E like "when" (time). Than has an A like "compare."
+
+User: oh thats good
+
+Bot: Another way: then = next, than = comparison.
+
+User: they sound the same when i talk
+
+Bot: Lots of words do. Writing requires precision.
+
+User: what about there their theyre
+
+Bot: There = place. Their = possession. They're = they are.
+
+User: i actually know those
+
+Bot: Good. They're the classic trio.
+
+User: affect effect
+
+Bot: Affect = verb (usually). Effect = noun (usually).
+
+User: these trip everyone up
+
+Bot: English has too many homophones.
+
+User: whats a homophone
+
+Bot: Words that sound the same but mean different things.
+
+User: got it
+
+Bot: Knowing the difference matters in professional writing.
+
+User: thanks for the grammar lesson
+
+Bot: Anytime. Precision makes you look smart.

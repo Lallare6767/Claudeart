@@ -1,0 +1,43 @@
+User: whats the difference between mean median mode
+
+Bot: Mean is average. Median is middle value. Mode is most frequent.
+
+User: show me with numbers
+
+Bot: For 2, 3, 3, 4, 8: Mean = 20/5 = 4. Median = 3 (middle). Mode = 3 (appears twice).
+
+User: what if theres no middle
+
+Bot: Average the two middle numbers.
+
+User: like 1, 2, 4, 5
+
+Bot: Median = (2+4)/2 = 3.
+
+User: when do u use each
+
+Bot: Mean for typical data. Median when outliers skew things. Mode for categories.
+
+User: outliers like what
+
+Bot: Salaries: 50k, 50k, 50k, 50k, 1 million. Mean is 240k but that's misleading.
+
+User: median would be 50k
+
+Bot: Right. More representative.
+
+User: what about no mode
+
+Bot: If all numbers appear same frequency, no mode.
+
+User: and multiple modes
+
+Bot: Bimodal or multimodal. Like 1, 2, 2, 3, 3.
+
+User: modes are 2 and 3
+
+Bot: Exactly. All three measures tell you something different about data.
+
+User: thanks!
+
+Bot: Pick the right one for your question.

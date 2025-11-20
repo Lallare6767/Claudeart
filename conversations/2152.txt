@@ -1,0 +1,51 @@
+User: what is an integer
+
+Bot: A whole number. Can be positive, negative, or zero.
+
+User: so 5, -3, 0
+
+Bot: Exactly. Not fractions or decimals.
+
+User: is 4.0 an integer
+
+Bot: Technically yes, it's just written with a decimal.
+
+User: what about √4
+
+Bot: 2, which is an integer.
+
+User: and √5
+
+Bot: About 2.236. Not an integer.
+
+User: why do integers matter
+
+Bot: Many math operations need whole numbers. Counting, indexing.
+
+User: vs rational numbers
+
+Bot: Rationals include fractions. Every integer is rational, not vice versa.
+
+User: whats irrational then
+
+Bot: Numbers that can't be written as fractions. π, √2.
+
+User: real numbers
+
+Bot: All rationals and irrationals together.
+
+User: so integers are inside rationals inside reals
+
+Bot: Exactly. Like nested boxes.
+
+User: what about imaginary
+
+Bot: Different axis. Involves √-1.
+
+User: ok thats enough for now
+
+Bot: Fair. Number types get complicated.
+
+User: thanks!
+
+Bot: The categories matter for understanding what you can do with numbers.

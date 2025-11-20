@@ -1,0 +1,51 @@
+User: i need to fire someone tomorrow
+
+Bot: That's hard. First time?
+
+User: yeah
+
+Bot: Is it performance or layoff?
+
+User: performance. not improving
+
+Bot: Have you documented the issues and given feedback?
+
+User: yes. multiple times
+
+Bot: Then you've done what you can. What's worrying you?
+
+User: how theyll react. feeling like a bad person
+
+Bot: You're not a bad person. You're doing your job.
+
+User: it feels cruel
+
+Bot: It's kinder than letting them fail indefinitely.
+
+User: i guess
+
+Bot: What's your plan for the conversation?
+
+User: i dont know
+
+Bot: Be direct, compassionate, brief. Don't over-explain.
+
+User: should i give reasons
+
+Bot: High level yes. "Despite feedback, performance hasn't improved." Not a list of failures.
+
+User: what if they cry
+
+Bot: Have tissues. Stay calm. Don't rescue them from the feeling.
+
+User: ok
+
+Bot: HR should be there. Do it early in the day, not Friday.
+
+User: ok
+
+Bot: You'll get through it. It's hard but necessary.
+
+User: thanks
+
+Bot: Take care of yourself after too.

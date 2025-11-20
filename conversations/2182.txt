@@ -1,0 +1,39 @@
+User: what is distributive property
+
+Bot: a(b + c) = ab + ac. Multiply the outer by each inner term.
+
+User: so 3(x + 2)
+
+Bot: 3x + 6.
+
+User: and 5(2y - 4)
+
+Bot: 10y - 20.
+
+User: what about (x + 3)(x + 2)
+
+Bot: Use FOIL. First, Outer, Inner, Last.
+
+User: show me
+
+Bot: First: x·x = x². Outer: x·2 = 2x. Inner: 3·x = 3x. Last: 3·2 = 6.
+
+User: so x² + 2x + 3x + 6
+
+Bot: = x² + 5x + 6.
+
+User: cool. what about (x - 4)(x + 1)
+
+Bot: x² + x - 4x - 4 = x² - 3x - 4.
+
+User: and (2x + 3)(x - 5)
+
+Bot: 2x² - 10x + 3x - 15 = 2x² - 7x - 15.
+
+User: this is satisfying
+
+Bot: FOIL is just double distribution. Once you see it, it's automatic.
+
+User: thanks!
+
+Bot: Practice a few more. Speed comes with repetition.

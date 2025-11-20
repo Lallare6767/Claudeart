@@ -1,0 +1,35 @@
+User: solve for x: 3x/4 = 9
+
+Bot: Multiply both sides by 4: 3x = 36. Divide by 3: x = 12.
+
+User: now 5 - 2x = 11
+
+Bot: -2x = 6, so x = -3.
+
+User: and 4(x - 2) = 20
+
+Bot: x - 2 = 5, so x = 7.
+
+User: what about x/3 + 2 = 5
+
+Bot: x/3 = 3, so x = 9.
+
+User: 2x + 3 = x - 4
+
+Bot: x + 3 = -4, so x = -7.
+
+User: these are satisfying
+
+Bot: Linear equations are puzzle solving. Move pieces until x is alone.
+
+User: what about 3(2x + 1) = 5(x - 2)
+
+Bot: 6x + 3 = 5x - 10. x + 3 = -10. x = -13.
+
+User: good one
+
+Bot: Always distribute first, then combine like terms.
+
+User: thanks!
+
+Bot: Keep practicing. Speed comes with repetition.

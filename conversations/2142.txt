@@ -1,0 +1,39 @@
+User: whats the order of operations
+
+Bot: PEMDAS: Parentheses, Exponents, Multiplication/Division, Addition/Subtraction.
+
+User: left to right for same level
+
+Bot: Exactly. Multiplication and division are same level, work left to right.
+
+User: solve 3 + 4 × 2
+
+Bot: 4 × 2 first = 8. Then 3 + 8 = 11.
+
+User: and (3 + 4) × 2
+
+Bot: 3 + 4 first = 7. Then 7 × 2 = 14.
+
+User: what about 8 ÷ 4 × 2
+
+Bot: Left to right: 8 ÷ 4 = 2, then 2 × 2 = 4.
+
+User: not 8 ÷ 8 = 1?
+
+Bot: No. Division and multiplication are equal, so left to right.
+
+User: tricky
+
+Bot: That one gets people. Always left to right for same level.
+
+User: what about 2³ + 4
+
+Bot: Exponent first: 8 + 4 = 12.
+
+User: ok i got it
+
+Bot: The parentheses force order. Use them to be clear.
+
+User: thanks!
+
+Bot: When in doubt, add parentheses. Clarity over cleverness.

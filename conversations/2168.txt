@@ -1,0 +1,55 @@
+User: what angle is 180 degrees called
+
+Bot: Straight angle.
+
+User: and 90
+
+Bot: Right angle.
+
+User: less than 90
+
+Bot: Acute.
+
+User: more than 90 less than 180
+
+Bot: Obtuse.
+
+User: more than 180
+
+Bot: Reflex angle.
+
+User: i didnt know that one
+
+Bot: Goes past the straight line. Like 270°.
+
+User: what about 360
+
+Bot: Full rotation. Or complete angle.
+
+User: and 0
+
+Bot: Zero angle. Both sides overlap.
+
+User: these are easy to mix up
+
+Bot: Just remember: acute is "cute" and small. Obtuse is "obese" and big.
+
+User: ha thats helpful
+
+Bot: Whatever mnemonic works.
+
+User: is 90 acute or right
+
+Bot: Right. Acute is strictly less than 90.
+
+User: and exactly 180 is straight not obtuse
+
+Bot: Correct. Obtuse is strictly between.
+
+User: ok got it
+
+Bot: Angles are everywhere. Architecture, art, sports.
+
+User: thanks!
+
+Bot: Now you can name them when you see them.

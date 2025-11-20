@@ -1,0 +1,43 @@
+User: explain exponent rules
+
+Bot: Product: x^a × x^b = x^(a+b). Quotient: x^a ÷ x^b = x^(a-b).
+
+User: so add when multiplying subtract when dividing
+
+Bot: When the bases are the same, yes.
+
+User: what else
+
+Bot: Power of a power: (x^a)^b = x^(ab). Multiply exponents.
+
+User: example
+
+Bot: (x³)² = x⁶.
+
+User: what about different bases
+
+Bot: Like (xy)² = x²y². Distribute the exponent.
+
+User: and (x/y)²
+
+Bot: x²/y². Same idea.
+
+User: what about x⁰
+
+Bot: Always 1. Anything to the zero is 1.
+
+User: why
+
+Bot: x¹ ÷ x¹ = x^(1-1) = x⁰ = 1.
+
+User: oh makes sense
+
+Bot: And negative exponents flip to reciprocals.
+
+User: x^(-2) = 1/x²
+
+Bot: Exactly. All the rules connect.
+
+User: thanks!
+
+Bot: Exponent rules are patterns. Once you see them, they're automatic.

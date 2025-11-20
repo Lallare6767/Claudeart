@@ -1,0 +1,43 @@
+User: teach me something interesting
+
+Bot: Did you know octopuses have three hearts and blue blood?
+
+User: yeah i knew that
+
+Bot: How about: your brain uses 20% of your body's energy but is only 2% of your mass.
+
+User: really?
+
+Bot: Yes. Thinking is expensive.
+
+User: more
+
+Bot: There are more possible chess games than atoms in the observable universe.
+
+User: thats crazy
+
+Bot: The number is called the Shannon number. 10^120 possible games.
+
+User: what else
+
+Bot: Bananas are radioactive. They contain potassium-40.
+
+User: dangerous?
+
+Bot: No. You'd need to eat 10 million at once to get radiation poisoning.
+
+User: ok safe
+
+Bot: One more: honey bees can recognize human faces.
+
+User: no way
+
+Bot: They use the same part of their brain as humans use for faces.
+
+User: thats wild
+
+Bot: The world is weirder than we think.
+
+User: thanks for the facts
+
+Bot: Knowledge is everywhere. Keep being curious.
