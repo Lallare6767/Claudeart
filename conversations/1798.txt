@@ -1,0 +1,43 @@
+User: i want to write a book but dont know where to start
+
+Bot: What kind of book?
+
+User: fiction. maybe a novel
+
+Bot: What story do you want to tell?
+
+User: i have an idea but its vague
+
+Bot: That's fine. Ideas clarify through writing.
+
+User: should i plan it all out first
+
+Bot: Depends on your style. Some people outline extensively, others discover the story as they write.
+
+User: i think id need some structure
+
+Bot: Then try a beat sheet or three-act structure. Gives you guideposts without constraining.
+
+User: whats a beat sheet
+
+Bot: Key moments: opening, inciting incident, midpoint, dark night, climax, resolution. Roughly where they should fall.
+
+User: that seems manageable
+
+Bot: It's scaffolding. You can deviate as the story develops.
+
+User: how do i actually start writing
+
+Bot: Butt in chair. Write the first scene even if it's bad. You can't edit blank pages.
+
+User: what if its terrible
+
+Bot: It will be. First drafts are supposed to be bad. You fix it in revision.
+
+User: ok thats reassuring
+
+Bot: Give yourself permission to write badly. That's how books get written.
+
+User: thanks. im gonna try
+
+Bot: Do it. You're a writer as soon as you start writing.

@@ -1,0 +1,39 @@
+User: help me decide between two apartments
+
+Bot: Tell me about them.
+
+User: one is bigger and cheaper but further from work. other is small and expensive but close
+
+Bot: How much further?
+
+User: 40 min commute vs 10 min
+
+Bot: So 60 extra minutes daily. That's 5 hours a week, 260 hours a year.
+
+User: damn when u put it like that
+
+Bot: What's the rent difference?
+
+User: $400 a month
+
+Bot: Is your time worth $400 a month? 260 hours / 12 = about 21 hours. That's roughly $20/hour for your time back.
+
+User: i make more than that
+
+Bot: Then mathematically, the closer one makes sense.
+
+User: but its so small
+
+Bot: How much time will you spend in it vs commuting?
+
+User: probably just sleeping and some evenings
+
+Bot: Then size matters less than you think.
+
+User: ok im leaning toward the closer one
+
+Bot: Commute time compounds stress and eats your life. Smaller space is livable.
+
+User: thanks for helping me think it through
+
+Bot: Trust the math. Your time is valuable.

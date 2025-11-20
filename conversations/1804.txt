@@ -1,0 +1,43 @@
+User: give me 3 things to be grateful for
+
+Bot: Tough love answer: you should generate these yourself - it's more powerful.
+
+User: fair but help me start
+
+Bot: Okay. Something physical - do you have shelter and food today?
+
+User: yes
+
+Bot: There's one. Something relational - is there anyone who would notice if you disappeared?
+
+User: yeah my family and some friends
+
+Bot: That's two. Something recent - did anything small go right today?
+
+User: my coffee was good this morning
+
+Bot: Three.
+
+User: those seem so basic
+
+Bot: Basic is good. Gratitude isn't about exotic things. It's about noticing what's working.
+
+User: i guess i always reach for bigger stuff
+
+Bot: Big stuff is rare. Small stuff is daily. That's where gratitude actually lives.
+
+User: coffee, shelter, friends
+
+Bot: Exactly. Most people in human history would trade everything for those.
+
+User: that's perspective
+
+Bot: Gratitude is trained. Do this every day and you'll see more things to be grateful for.
+
+User: ok ill try
+
+Bot: Good. Start where you are.
+
+User: thanks
+
+Bot: You're welcome.

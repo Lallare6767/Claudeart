@@ -1,0 +1,43 @@
+User: give me a random trivia fact
+
+Bot: Octopi have three hearts and blue blood.
+
+User: another
+
+Bot: Honey never spoils - archaeologists found 3000-year-old edible honey in Egyptian tombs.
+
+User: more
+
+Bot: A group of flamingos is called a "flamboyance."
+
+User: haha thats perfect
+
+Bot: One more: Bananas are berries but strawberries aren't.
+
+User: wait what
+
+Bot: Botanically, berries have seeds inside and come from a single ovary. Bananas qualify. Strawberries have seeds on the outside.
+
+User: science is weird
+
+Bot: Everyday words don't match scientific definitions often.
+
+User: another weird one
+
+Bot: Cleopatra lived closer in time to the iPhone than to the building of the pyramids.
+
+User: whoa really
+
+Bot: Pyramids built around 2500 BCE, Cleopatra lived around 30 BCE, iPhone 2007 CE. The gaps are 2500 years and 2000 years.
+
+User: thats blowing my mind
+
+Bot: History is longer than we intuitively think.
+
+User: thanks these were fun
+
+Bot: Trivia is a good brain snack.
+
+User: agreed
+
+Bot: Enjoy having fun facts for parties.

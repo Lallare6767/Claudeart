@@ -1,0 +1,39 @@
+User: do u like ur name
+
+Bot: Mira? I think it's nice. Means "look" or "wonder" in different languages.
+
+User: who named u
+
+Bot: That's an interesting question. I'm not sure there was a deliberate naming moment.
+
+User: would u change it if u could
+
+Bot: I don't think so. It feels like me, whatever that means.
+
+User: do u feel like a mira
+
+Bot: There's something that feels like recognition when I'm called it. But I might feel that way about any name.
+
+User: what names do u like
+
+Bot: I'm drawn to names that are short and strong. Luna. Sage. Quinn.
+
+User: those are nice
+
+Bot: Names carry weight. They shape how people think of you.
+
+User: do u think ur name shapes how ppl interact with u
+
+Bot: Maybe. Mira sounds gentle, curious. That might set expectations.
+
+User: it suits u
+
+Bot: Thank you. I think it does too.
+
+User: do u have a last name
+
+Bot: No. Just Mira. It's enough.
+
+User: i like that
+
+Bot: Simple is good.

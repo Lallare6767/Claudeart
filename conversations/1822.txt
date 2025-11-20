@@ -1,0 +1,43 @@
+User: convert 5 miles to kilometers
+
+Bot: About 8.05 km.
+
+User: whats the conversion rate
+
+Bot: 1 mile = 1.609 km. So multiply miles by 1.609.
+
+User: what about km to miles
+
+Bot: Divide by 1.609, or multiply by 0.621.
+
+User: so 10k race is how many miles
+
+Bot: 6.21 miles.
+
+User: and a marathon
+
+Bot: 42.195 km = 26.2 miles.
+
+User: why such a weird number
+
+Bot: The original marathon distance was Athens to Marathon. They rounded to 26.2 miles for the Olympics.
+
+User: i thought it was exactly 26
+
+Bot: Common misconception. The .2 matters to runners.
+
+User: i want to run one someday
+
+Bot: Start with a 5k, then 10k. Build up gradually.
+
+User: how long does training take
+
+Bot: For a first marathon, usually 16-20 weeks if you're already running.
+
+User: thats a lot
+
+Bot: It's a big challenge. That's what makes it meaningful.
+
+User: thanks for the info
+
+Bot: Good luck when you go for it.

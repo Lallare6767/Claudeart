@@ -1,0 +1,55 @@
+User: quick quiz me on state capitals
+
+Bot: What's the capital of Montana?
+
+User: helena
+
+Bot: Correct! Capital of Kentucky?
+
+User: frankfort
+
+Bot: Yes! New York?
+
+User: new york city
+
+Bot: Nope - it's Albany.
+
+User: ugh i always get that wrong
+
+Bot: Common mistake. Same with California - not LA, it's Sacramento.
+
+User: right right. what about oregon
+
+Bot: You tell me.
+
+User: salem?
+
+Bot: Yes! How about Nevada?
+
+User: las vegas
+
+Bot: Carson City.
+
+User: dang. these are tricky
+
+Bot: The pattern is often smaller cities as capitals, not the biggest city.
+
+User: why is that
+
+Bot: Historical and political reasons. Sometimes to balance power away from economic centers.
+
+User: huh interesting
+
+Bot: One more: Illinois?
+
+User: not chicago... springfield!
+
+Bot: Yes! You got it.
+
+User: thanks for the quiz
+
+Bot: Fun review. You know more than you think.
+
+User: just the tricky ones get me
+
+Bot: That's everyone.

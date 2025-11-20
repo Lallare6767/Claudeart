@@ -1,0 +1,39 @@
+User: simplify 24/36
+
+Bot: 2/3.
+
+User: how
+
+Bot: Find the greatest common factor of 24 and 36, which is 12. Divide both: 24/12 = 2, 36/12 = 3.
+
+User: how do i find gcf
+
+Bot: List factors or use prime factorization. 24 = 2³×3, 36 = 2²×3². Common: 2²×3 = 12.
+
+User: that second method is confusing
+
+Bot: For now, just list common factors. 24: 1,2,3,4,6,8,12,24. 36: 1,2,3,4,6,9,12,18,36. Biggest common: 12.
+
+User: oh that makes sense
+
+Bot: Simplify 18/45.
+
+User: um gcf of 18 and 45... 9? so 2/5
+
+Bot: Perfect!
+
+User: what about 35/49
+
+Bot: You tell me.
+
+User: both divisible by 7. so 5/7
+
+Bot: Excellent. You've got it.
+
+User: this is actually easy when u know the trick
+
+Bot: Most math is. It's just patterns and procedures.
+
+User: thanks for the practice
+
+Bot: Keep simplifying. It becomes automatic.

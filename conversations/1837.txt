@@ -1,0 +1,39 @@
+User: can u explain confirmation bias
+
+Bot: It's the tendency to seek out information that confirms what you already believe and ignore information that contradicts it.
+
+User: everyone does this?
+
+Bot: Yes. It's a universal cognitive bias. Very hard to escape.
+
+User: like what
+
+Bot: If you think a political party is bad, you'll notice every bad thing they do and dismiss every good thing.
+
+User: oh yeah i do that
+
+Bot: Everyone does. It's how we maintain consistent beliefs without constant mental revision.
+
+User: is it always bad
+
+Bot: It makes us efficient - we'd be paralyzed if we questioned everything. But it also makes us wrong and stubborn.
+
+User: how do i fight it
+
+Bot: Actively seek out opposing views. Steelman arguments you disagree with.
+
+User: steelman?
+
+Bot: The opposite of strawman. Present the strongest version of an argument you disagree with.
+
+User: that seems hard
+
+Bot: It is. But it's how you actually understand issues instead of just reinforcing your existing views.
+
+User: ill try to do that more
+
+Bot: Good. It's uncomfortable but it makes you smarter.
+
+User: thanks for the explanation
+
+Bot: Question yourself. It's the only way to grow.

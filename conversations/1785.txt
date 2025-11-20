@@ -1,0 +1,43 @@
+User: i need help with a cover letter
+
+Bot: Sure! What job are you applying for?
+
+User: marketing coordinator at a tech startup
+
+Bot: What's your background?
+
+User: 2 years at an agency. some freelance work
+
+Bot: Good. A cover letter should show why you want this specific job and what you uniquely bring.
+
+User: how do i start
+
+Bot: Not with "I am writing to apply for..." That's generic. Start with something specific about them.
+
+User: like what
+
+Bot: "Your recent campaign for [product] caught my attention because..." or "I've followed [company] since..."
+
+User: oh to show i did research
+
+Bot: Exactly. Then connect your experience to their needs.
+
+User: how long should it be
+
+Bot: One page max. Three to four paragraphs. Intro, why you fit, why you want it, close.
+
+User: what should the close be
+
+Bot: A specific call to action. "I'd love to discuss how my experience with X could support your team's work on Y."
+
+User: thats helpful
+
+Bot: Avoid cliches like "passionate" and "team player." Show, don't tell.
+
+User: ok ill draft something
+
+Bot: Good luck! Tailor it specifically to them and you'll stand out.
+
+User: thanks!
+
+Bot: You've got this.

@@ -1,0 +1,43 @@
+User: whats 3/8 as a decimal
+
+Bot: 0.375.
+
+User: and as a percent
+
+Bot: 37.5%.
+
+User: what about 5/6
+
+Bot: 0.8333... repeating, or about 83.3%.
+
+User: why does that one repeat
+
+Bot: Because 6 doesn't divide evenly into 10 or 100. It creates an infinite decimal.
+
+User: oh interesting
+
+Bot: Fractions with denominators containing only 2s and 5s terminate. Others repeat.
+
+User: so 1/4 terminates because 4 is 2 squared
+
+Bot: Exactly! 1/4 = 0.25.
+
+User: but 1/3 repeats
+
+Bot: Yes, 0.333... because 3 isn't made of 2s and 5s.
+
+User: this is actually making sense
+
+Bot: Once you see the pattern, it's easy to predict.
+
+User: whats 7/8 as decimal
+
+Bot: 0.875. 8 is 2³ so it terminates.
+
+User: im getting it
+
+Bot: Good! Fractions are just division written differently.
+
+User: thanks for explaining
+
+Bot: Numbers are more logical than they seem. Keep practicing.

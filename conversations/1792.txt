@@ -1,0 +1,43 @@
+User: what should i cook for my parents visit
+
+Bot: What do they like to eat?
+
+User: pretty traditional. meat and potatoes type
+
+Bot: How about a roast chicken with roasted vegetables? Classic and impressive.
+
+User: i was thinking that but it feels too simple
+
+Bot: Simple done well is more impressive than complicated done poorly.
+
+User: true
+
+Bot: Season the chicken well, roast at high heat for crispy skin. Root vegetables in the pan to catch drippings.
+
+User: any specific recipe
+
+Bot: Thomas Keller's roast chicken is famous for simplicity. Just salt, pepper, high heat. Perfect every time.
+
+User: what about a side
+
+Bot: Mashed potatoes seem on brand. Maybe a green salad to balance.
+
+User: ok im sold
+
+Bot: You'll nail it. Classic dishes show confidence.
+
+User: what about dessert
+
+Bot: Apple pie? Continues the traditional theme and makes the house smell amazing.
+
+User: homemade or store bought
+
+Bot: If you have time, homemade. If not, a good bakery is no shame.
+
+User: ill try homemade
+
+Bot: They'll be impressed. Good luck with the cooking!
+
+User: thanks!
+
+Bot: Enjoy the visit.

@@ -1,0 +1,43 @@
+User: my anxiety is really bad today
+
+Bot: What's triggering it?
+
+User: nothing specific. just woke up anxious
+
+Bot: That happens. Bodies sometimes have anxiety even without a reason.
+
+User: its hard to function
+
+Bot: Where are you feeling it physically?
+
+User: chest and stomach. racing heart
+
+Bot: Can you try a breathing exercise? 4 counts in, 7 hold, 8 out.
+
+User: ill try
+
+Bot: The exhale being longer than the inhale activates your parasympathetic nervous system.
+
+User: ok doing it now
+
+Bot: Good. A few rounds can help take the edge off.
+
+User: its helping a little
+
+Bot: Good. The goal isn't to eliminate anxiety, just to make it manageable.
+
+User: what do i do for the rest of the day
+
+Bot: Go easy on yourself. Avoid caffeine. Try to move your body if you can.
+
+User: should i cancel plans
+
+Bot: If the plans will make it worse, yes. If they'll distract you, maybe not.
+
+User: ill see how i feel later
+
+Bot: Good plan. And if it doesn't improve, talk to a doctor.
+
+User: ok thank u
+
+Bot: Take care. Anxiety passes.

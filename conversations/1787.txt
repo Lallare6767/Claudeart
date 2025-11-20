@@ -1,0 +1,39 @@
+User: solve 2x + 5 = 3x - 7
+
+Bot: x = 12.
+
+User: show me
+
+Bot: Subtract 2x from both sides: 5 = x - 7. Add 7: 12 = x.
+
+User: that seems backwards
+
+Bot: You can do it either way. Want to see it the other direction?
+
+User: yes please
+
+Bot: Subtract 3x from both sides: -x + 5 = -7. Subtract 5: -x = -12. Multiply by -1: x = 12.
+
+User: oh same answer
+
+Bot: Always will be. Algebra has multiple paths to the same solution.
+
+User: what about 4x - 3 = 2x + 9
+
+Bot: x = 6.
+
+User: let me try
+
+Bot: Go ahead.
+
+User: subtract 2x: 2x - 3 = 9. add 3: 2x = 12. divide by 2: x = 6
+
+Bot: Perfect! You've got it.
+
+User: this is actually not that hard
+
+Bot: It's just following rules step by step. You're doing well.
+
+User: thanks for the practice
+
+Bot: Anytime. Keep it up!

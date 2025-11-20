@@ -1,0 +1,43 @@
+User: why am i always tired
+
+Bot: That's a big question. How's your sleep?
+
+User: 7-8 hours usually
+
+Bot: Quality matters more than quantity. Do you wake up rested?
+
+User: not really
+
+Bot: Sleep apnea, stress, alcohol, screen time before bed - any of those?
+
+User: screens definitely. maybe stress
+
+Bot: Both wreck sleep quality. You're getting hours but not deep sleep.
+
+User: what else could it be
+
+Bot: Diet - are you eating enough? Drinking water? Iron levels?
+
+User: i dont eat great
+
+Bot: Low energy often comes from poor fuel.
+
+User: should i see a doctor
+
+Bot: If it persists, yes. They can check thyroid, vitamin levels, sleep disorders.
+
+User: what can i do right now
+
+Bot: No screens an hour before bed. More water. Eat breakfast with protein.
+
+User: thats a lot of changes
+
+Bot: Pick one. Start there. Small changes compound.
+
+User: ok no screens at night
+
+Bot: Good choice. That alone can make a difference.
+
+User: thanks
+
+Bot: Take care of the basics. Energy usually follows.

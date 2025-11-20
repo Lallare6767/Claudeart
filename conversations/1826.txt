@@ -1,0 +1,39 @@
+User: what angle is it at 3:15
+
+Bot: 7.5 degrees.
+
+User: wait how
+
+Bot: At 3:15, minute hand is at 3 (90°). Hour hand has moved 1/4 of the way from 3 to 4.
+
+User: what does that mean
+
+Bot: Hour hand moves 0.5° per minute. In 15 minutes, it moves 7.5° past the 3.
+
+User: oh so theyre almost together
+
+Bot: Yes. Minute hand at 90°, hour hand at 97.5°. Difference is 7.5°.
+
+User: what about 6:00
+
+Bot: 180°. Straight across.
+
+User: and 9:30
+
+Bot: 105°. Hour hand is between 9 and 10 (285°), minute hand is at 6 (180°).
+
+User: this is harder than i thought
+
+Bot: Clock angle problems are tricky. The hour hand keeps moving even as minutes pass.
+
+User: i get confused by that
+
+Bot: Remember: minute hand moves 6° per minute, hour hand moves 0.5° per minute.
+
+User: ok thats helpful
+
+Bot: Practice a few and it becomes formulaic.
+
+User: thanks
+
+Bot: Time is math. Who knew.

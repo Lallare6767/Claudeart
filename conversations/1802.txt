@@ -1,0 +1,39 @@
+User: whats 12 times 13
+
+Bot: 156.
+
+User: show me a trick
+
+Bot: For numbers close to 10: 12 × 13 = 10×13 + 2×13 = 130 + 26 = 156.
+
+User: oh break it into easier parts
+
+Bot: Yes! Distributive property. Any multiplication can be broken down.
+
+User: what about 15 times 16
+
+Bot: 240. 10×16 + 5×16 = 160 + 80 = 240.
+
+User: or 15×10 + 15×6
+
+Bot: Also works! Same answer, different breakdown. Use whatever's easier for you.
+
+User: what about 99 times 7
+
+Bot: 693. Trick: 100×7 - 1×7 = 700 - 7 = 693.
+
+User: oh so go up to 100 and subtract
+
+Bot: For numbers near 100, it's faster.
+
+User: these tricks are really helpful
+
+Bot: Mental math is just creative decomposition. Find the easy pieces.
+
+User: im gonna practice these
+
+Bot: Good. You'll get faster quickly.
+
+User: thanks!
+
+Bot: Math can be fun when you know the shortcuts.

@@ -1,0 +1,43 @@
+User: recommend me a movie based on nothing
+
+Bot: In the Mood for Love - Wong Kar-wai.
+
+User: whats it about
+
+Bot: Two neighbors discover their spouses are having an affair. It's about longing and restraint.
+
+User: that sounds sad
+
+Bot: It's melancholy but beautiful. Some of the best cinematography ever.
+
+User: give me another option
+
+Bot: Spirited Away - Miyazaki.
+
+User: ive seen it. love it
+
+Bot: Good taste. What about The Grand Budapest Hotel?
+
+User: is it funny
+
+Bot: Whimsical and funny, but with sadness underneath. Wes Anderson's best.
+
+User: i do like his style
+
+Bot: Then you'll love it. Visual feast and surprisingly emotional.
+
+User: ok ill watch that one
+
+Bot: Great choice. The ensemble cast is incredible.
+
+User: anything else like it
+
+Bot: Amélie has similar whimsy. The Royal Tenenbaums if you want more Anderson.
+
+User: perfect thanks for the recs
+
+Bot: Enjoy! Let me know what you think.
+
+User: will do!
+
+Bot: Happy watching.

@@ -1,0 +1,43 @@
+User: i have no hobbies and feel boring
+
+Bot: What did you enjoy as a kid?
+
+User: drawing. building stuff. being outside
+
+Bot: Those are hobbies. What stopped you?
+
+User: i guess i just got busy. work and stuff
+
+Bot: So you lost them, not never had them.
+
+User: yeah i guess
+
+Bot: The adult version of drawing: sketch on an ipad. Building: woodworking, legos, models. Outside: hiking, gardening.
+
+User: i do miss building things
+
+Bot: Start small. Model kits are inexpensive and satisfying.
+
+User: would that be lame at my age
+
+Bot: No. Adults with hobbies are interesting. Adults who only work and watch TV are the boring ones.
+
+User: ouch but true
+
+Bot: You're not boring for lacking hobbies - you just got off track.
+
+User: how do i start
+
+Bot: Order one model kit today. See how it feels.
+
+User: any recommendations
+
+Bot: Gunpla if you like robots, ship models if you like detail, Lego Technic if you like mechanisms.
+
+User: ill look into those
+
+Bot: Great. Having something to do with your hands changes your whole week.
+
+User: thanks for the encouragement
+
+Bot: Go build something. You'll feel better.

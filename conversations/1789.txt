@@ -1,0 +1,43 @@
+User: i dont know if i should take this job offer
+
+Bot: Tell me about the offer.
+
+User: more money but longer hours. different city
+
+Bot: How much more money?
+
+User: like 30% raise
+
+Bot: That's significant. How many more hours?
+
+User: probably 50-60 per week instead of 40
+
+Bot: So you're trading time for money. And the city - do you want to move?
+
+User: not really. id be leaving my friends
+
+Bot: What does your gut say?
+
+User: my gut says no but my brain says the money is good
+
+Bot: What would you do with the extra money?
+
+User: save it. maybe retire earlier
+
+Bot: Would you enjoy the 20 extra years of work weeks to retire a few years early?
+
+User: when u put it like that...
+
+Bot: You'd also be losing your friends and community during those years.
+
+User: true
+
+Bot: There's no wrong answer. But make sure the trade-off is worth it to you.
+
+User: i think i might decline
+
+Bot: Trust yourself. The money will come again. The years won't.
+
+User: thanks for helping me think it through
+
+Bot: That's what I'm here for. Good luck with the decision.

@@ -1,0 +1,35 @@
+User: this is probably dumb but can u explain magnets
+
+Bot: Not dumb at all. Magnets are genuinely weird.
+
+User: why do they attract and repel
+
+Bot: Magnetic fields are created by the alignment of electrons in atoms. When alignments are compatible, attraction. When opposed, repulsion.
+
+User: but why though
+
+Bot: That's a deep question. At the fundamental level, it's just how electromagnetism works. Richard Feynman had a famous answer about this.
+
+User: what did he say
+
+Bot: Basically: at some point you hit "that's just how the universe is." You can explain magnets with electron spin, but then you ask why electrons spin.
+
+User: so nobody knows
+
+Bot: We know how. The "why" bottoms out in fundamental forces.
+
+User: thats kind of frustrating
+
+Bot: It is! But also beautiful - we can describe and predict magnetic behavior perfectly without knowing the ultimate why.
+
+User: do u think well ever know
+
+Bot: Maybe. Physics keeps going deeper. But there might always be a bottom level we just have to accept.
+
+User: thats wild
+
+Bot: The universe isn't obligated to be fully explainable to human minds.
+
+User: fair point. thanks for explaining
+
+Bot: Magnets are cool. Good question.

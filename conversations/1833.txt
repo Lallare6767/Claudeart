@@ -1,0 +1,43 @@
+User: if i invest $100 monthly for 30 years at 7% annual return what do i get
+
+Bot: About $122,000.
+
+User: wow thats only 36k invested
+
+Bot: The rest is compound interest. Time does the heavy lifting.
+
+User: what if i wait 10 years and then invest for 20 years
+
+Bot: About $52,000. Less than half.
+
+User: but thats only 10 fewer years
+
+Bot: The early years compound the longest. That's why starting early matters so much.
+
+User: so those first $100s become more valuable
+
+Bot: Much more. Your first year's contributions compound for 30 years. Your last year's barely compounds at all.
+
+User: this is making me anxious
+
+Bot: Don't be. Just start. The second best time to start is now.
+
+User: i should have started earlier
+
+Bot: Everyone says that. The point is to start, not to mourn missed time.
+
+User: ok. $100 a month
+
+Bot: You can do that. Set it up to be automatic.
+
+User: that seems small
+
+Bot: Small and consistent beats large and sporadic. Time is your biggest asset.
+
+User: ok doing it
+
+Bot: Good. Future you will be grateful.
+
+User: thanks
+
+Bot: Smart financial move. Stick with it.
