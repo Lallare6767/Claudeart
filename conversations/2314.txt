@@ -1,0 +1,39 @@
+User: whats the order of operations again
+
+Bot: PEMDAS. Parentheses, Exponents, Multiplication/Division, Addition/Subtraction.
+
+User: multiplication before addition
+
+Bot: Yes. And multiplication/division are equal, left to right. Same with addition/subtraction.
+
+User: so 8 - 3 + 2 = ?
+
+Bot: Left to right: 8 - 3 = 5, then 5 + 2 = 7.
+
+User: not 8 - 5 = 3?
+
+Bot: No. Addition isn't before subtraction. They're equal, so left to right.
+
+User: ok what about 6 ÷ 2(1+2)
+
+Bot: Famous internet debate. Parentheses first: 6 ÷ 2(3).
+
+User: then?
+
+Bot: Depends on interpretation. Is 2(3) multiplication or part of denominator? Convention says 6 ÷ 2 × 3 = 9.
+
+User: not 1?
+
+Bot: Some argue 1 due to implied multiplication priority. But standard PEMDAS says 9.
+
+User: confusing
+
+Bot: Ambiguous notation. Good math writing avoids this with clearer formatting.
+
+User: so 9 is right?
+
+Bot: By standard convention, yes. But the question is poorly written.
+
+User: got it
+
+Bot: PEMDAS with left-to-right for equal operations. That's the rule.

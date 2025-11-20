@@ -1,0 +1,31 @@
+User: help me write a thank you note for my mentor
+
+Bot: What did they help you with specifically?
+
+User: career guidance. got me my first real job
+
+Bot: That's significant. Mentorship that leads to concrete outcomes is rare.
+
+User: yeah shes amazing
+
+Bot: What else? Anything personal they supported?
+
+User: helped me believe in myself when i didnt
+
+Bot: Even more valuable than the job. Ready to write?
+
+User: yes
+
+Bot: "Dear [Name], Thank you for believing in me before I believed in myself. Your guidance didn't just help me land my first role—it taught me I was capable of more than I thought. I'll carry that confidence forward and pay it forward when I can. With deep gratitude, [Your name]."
+
+User: thats perfect
+
+Bot: Short and specific beats long and generic.
+
+User: should i add anything about staying in touch
+
+Bot: Yes. Add: "I'd love to keep you updated on my journey." Shows you value the ongoing relationship.
+
+User: ok adding that
+
+Bot: Good mentors love seeing their mentees succeed. Stay connected.

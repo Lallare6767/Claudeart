@@ -1,0 +1,59 @@
+User: lets play 20 questions
+
+Bot: Sure. Think of something.
+
+User: ok got it
+
+Bot: Is it alive?
+
+User: no
+
+Bot: Is it bigger than a car?
+
+User: no
+
+Bot: Can you hold it in your hand?
+
+User: yes
+
+Bot: Is it electronic?
+
+User: no
+
+Bot: Is it found in a kitchen?
+
+User: yes
+
+Bot: Do you use it for cooking?
+
+User: yes
+
+Bot: Does it have a blade?
+
+User: no
+
+Bot: Is it used for measuring?
+
+User: no
+
+Bot: Is it used for stirring or mixing?
+
+User: yes!
+
+Bot: Wooden spoon?
+
+User: wow yes! how
+
+Bot: Kitchen, handheld, non-electronic, no blade, for stirring. Limited options.
+
+User: that was only 11 questions
+
+Bot: Good narrowing makes it faster. Want to play again?
+
+User: no but that was fun
+
+Bot: Good game. You picked a solid object.
+
+User: thanks
+
+Bot: Anytime. 20 questions is great for logical thinking.

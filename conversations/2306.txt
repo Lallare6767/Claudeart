@@ -1,0 +1,43 @@
+User: what is 15% of 80
+
+Bot: 12.
+
+User: how did u do that
+
+Bot: 10% of 80 = 8. Half of that is 4. 8 + 4 = 12.
+
+User: oh thats easier than my way
+
+Bot: What's your way?
+
+User: 80 × 0.15
+
+Bot: Same result, more steps. Mental math shortcuts save time.
+
+User: what about 18% of 50
+
+Bot: 10% is 5. 8% is close to 10%, so about 4. Total about 9.
+
+User: exactly 9?
+
+Bot: Let me check: 50 × 0.18 = 9. Yes, exactly.
+
+User: lucky
+
+Bot: Not luck. Percentages have patterns. 18% of 50 = 9 because 50% of 18 = 9 too.
+
+User: wait what
+
+Bot: X% of Y = Y% of X. Always.
+
+User: mind blown
+
+Bot: Useful trick. 8% of 25 = 25% of 8 = 2. Easier direction.
+
+User: thats amazing
+
+Bot: Math is full of shortcuts. Learn them and numbers become friends.
+
+User: thanks!
+
+Bot: Practice these. Speed comes with familiarity.

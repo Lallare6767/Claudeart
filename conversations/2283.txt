@@ -1,0 +1,43 @@
+User: write me a haiku about coffee
+
+Bot: Bitter morning warmth
+Steam rises, thoughts come alive
+Day begins again
+
+User: i like that one. another about rain
+
+Bot: Gray sky releases
+Pavement drinks and gardens sigh
+Earth washes clean
+
+User: beautiful. what about one about insomnia
+
+Bot: Clock hands circle slow
+Thoughts too loud for tired eyes
+Night refuses end
+
+User: thats exactly how it feels
+
+Bot: Haikus capture feelings through images. That's their power.
+
+User: one more. about nostalgia
+
+Bot: Old song plays again
+Younger self waves from the past
+I remember joy
+
+User: that one made me sad
+
+Bot: Nostalgia is bittersweet. The form honors that.
+
+User: can u teach me to write them
+
+Bot: 5 syllables, 7 syllables, 5 syllables. Usually nature or seasons. Focus on a single image or moment.
+
+User: ill try
+
+Bot: Good. Share what you write.
+
+User: ok thanks
+
+Bot: Haikus reward attention. Notice the small things.

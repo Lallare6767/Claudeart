@@ -1,0 +1,43 @@
+User: can u settle an argument
+
+Bot: Maybe. What's the argument?
+
+User: is a hot dog a sandwich
+
+Bot: What's your position?
+
+User: i say no. my friend says yes
+
+Bot: Define sandwich.
+
+User: bread with stuff between it
+
+Bot: A hot dog bun is bread. The hot dog is stuff between it.
+
+User: but its not between. the bread is on the sides
+
+Bot: Submarine sandwiches have bread on the sides too.
+
+User: ok but is it a sandwich
+
+Bot: By structure, arguably yes. By cultural category, no.
+
+User: cultural category?
+
+Bot: We don't call it a sandwich. That matters. Language is usage.
+
+User: so technically yes but actually no?
+
+Bot: Correct. It's sandwich-shaped but not sandwich-named.
+
+User: that doesnt settle it
+
+Bot: Most arguments like this can't be settled. They're about definition, not facts.
+
+User: my friend will say i lost
+
+Bot: Tell them the question is the problem, not the answer.
+
+User: lol ok
+
+Bot: Hot dogs exist in a liminal sandwich space. Peace with ambiguity.

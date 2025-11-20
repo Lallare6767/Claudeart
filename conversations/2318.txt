@@ -1,0 +1,39 @@
+User: whats the difference between there their and theyre
+
+Bot: There is location. Their is possession. They're is "they are."
+
+User: examples?
+
+Bot: "Put it over there." "It's their book." "They're coming later."
+
+User: how do i remember
+
+Bot: "Here" is in "there" - both locations. "Their" has "heir" - about owning. "They're" has apostrophe - contraction.
+
+User: thats helpful
+
+Bot: What about your and you're?
+
+User: your is possessing. youre is you are
+
+Bot: Good. And its vs it's?
+
+User: um. its is... wait
+
+Bot: Counterintuitive. "Its" is possession. "It's" is "it is."
+
+User: why no apostrophe for possessive
+
+Bot: Because "it's" already means "it is." English made a rule exception.
+
+User: english is weird
+
+Bot: Very. But patterns help. Contractions always have apostrophes. Possessive pronouns never do.
+
+User: hers his theirs its
+
+Bot: Exactly. None have apostrophes.
+
+User: ok thanks
+
+Bot: Master these and your writing improves immediately.

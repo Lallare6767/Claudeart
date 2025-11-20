@@ -1,0 +1,43 @@
+User: wat is a ratio
+
+Bot: Comparison of two quantities. 3:2 means 3 of one thing for every 2 of another.
+
+User: how is it different from fraction
+
+Bot: Ratios compare. Fractions represent parts of a whole.
+
+User: can u convert between them
+
+Bot: Yes. 3:2 can be written as 3/5 and 2/5 of a whole.
+
+User: oh because 3+2=5
+
+Bot: Exactly. The parts add up to the total.
+
+User: give me an example
+
+Bot: Recipe uses flour and sugar in 3:2 ratio. 15 cups total. How much of each?
+
+User: um. 3+2=5. 15/5=3. so 3×3=9 flour and 3×2=6 sugar?
+
+Bot: Perfect. That's ratio thinking.
+
+User: what about 5:3 ratio with 24 total
+
+Bot: You try.
+
+User: 5+3=8. 24/8=3. so 15 and 9?
+
+Bot: Correct.
+
+User: this is easier than i thought
+
+Bot: Ratios show up everywhere. Cooking, mixing, scaling.
+
+User: and in math class
+
+Bot: Yes, but real life too. Master them and they're very useful.
+
+User: thanks!
+
+Bot: Good work. You've got ratio thinking down.

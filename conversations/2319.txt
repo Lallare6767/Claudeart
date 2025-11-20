@@ -1,0 +1,47 @@
+User: im thinking about getting a tattoo
+
+Bot: What are you thinking of getting?
+
+User: something meaningful but i cant decide
+
+Bot: Good that you're being thoughtful. Tattoos are permanent.
+
+User: any advice
+
+Bot: Wait a year with the design. If you still want it, it's probably right.
+
+User: a year seems long
+
+Bot: You'll have it for 50+ years. One year of waiting is nothing.
+
+User: true
+
+Bot: Where would you put it?
+
+User: maybe forearm. or ribs
+
+Bot: Consider visibility for work and pain tolerance. Ribs hurt more.
+
+User: good to know
+
+Bot: What makes something meaningful to you?
+
+User: i want it to represent growth. or a turning point
+
+Bot: Symbols? Words? Abstract?
+
+User: probably a symbol
+
+Bot: Phoenix is cliché but classic for transformation. Or something personal to your specific experience.
+
+User: i'll keep thinking
+
+Bot: Good. And find an artist whose style you love. Look at portfolios.
+
+User: any other tips
+
+Bot: Don't go cheap. Infection and bad art both cost more to fix.
+
+User: ok thanks
+
+Bot: Take your time. The right tattoo is worth the wait.

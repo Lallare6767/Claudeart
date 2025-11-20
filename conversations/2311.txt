@@ -1,0 +1,47 @@
+User: i think my coworker hates me
+
+Bot: Why do you think that?
+
+User: she never talks to me. short replies. no eye contact
+
+Bot: Could be personal. Could be unrelated to you.
+
+User: like what
+
+Bot: She might be overwhelmed. Shy. Going through something.
+
+User: but its only with me
+
+Bot: Have you noticed it with others?
+
+User: not really
+
+Bot: Then it might be about you. Or you might be more attuned to her behavior toward you.
+
+User: what did i do
+
+Bot: Maybe nothing. Sometimes people just don't click.
+
+User: should i talk to her
+
+Bot: You could. "Hey, I feel like there might be tension between us. Is everything okay?"
+
+User: what if she says yes everythings fine
+
+Bot: Then you've opened the door. Her behavior might change.
+
+User: and if it doesnt
+
+Bot: Then be professional and don't take it personally.
+
+User: i want everyone to like me
+
+Bot: That's not realistic or necessary. Neutral is fine for coworkers.
+
+User: ok
+
+Bot: Do your job well. Be cordial. You can't control her feelings.
+
+User: thanks
+
+Bot: Not everyone will like you. That's okay.

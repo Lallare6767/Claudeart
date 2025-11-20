@@ -1,0 +1,39 @@
+User: whats the area of a trapezoid
+
+Bot: A = ½(b₁ + b₂)h. Average of the parallel sides times height.
+
+User: why average
+
+Bot: A trapezoid is like a rectangle that got stretched on one side. Averaging compensates.
+
+User: never thought of it that way
+
+Bot: Geometry formulas usually come from simpler shapes.
+
+User: can u do an example
+
+Bot: Parallel sides are 6 and 10 cm. Height is 4 cm. Area = ½(6+10)(4) = ½(16)(4) = 32 cm².
+
+User: let me try one. bases 8 and 12. height 5
+
+Bot: Go ahead and calculate.
+
+User: ½(8+12)(5) = ½(20)(5) = 50
+
+Bot: Correct. Units?
+
+User: oh. cm² or whatever
+
+Bot: Right. Always include units. Area is always squared.
+
+User: what about a rhombus
+
+Bot: A = ½(d₁)(d₂). Half the product of diagonals.
+
+User: so many formulas
+
+Bot: They all relate to rectangles and triangles. Learn those and you can derive the rest.
+
+User: ok thanks
+
+Bot: Geometry is just shapes made of simpler shapes.

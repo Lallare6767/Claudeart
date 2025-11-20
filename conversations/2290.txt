@@ -1,0 +1,47 @@
+User: wat is the derivative of e^x
+
+Bot: It's e^x. Unchanged.
+
+User: why
+
+Bot: e is defined as the number where this is true. That's actually its definition.
+
+User: thats weird
+
+Bot: It's elegant. e^x is its own derivative. Nothing else works like that.
+
+User: what about e^2x
+
+Bot: Chain rule: 2e^2x.
+
+User: and e^(x²)
+
+Bot: Chain rule again: 2x·e^(x²).
+
+User: why does chain rule apply
+
+Bot: Because the exponent isn't just x. You differentiate the exponent and multiply.
+
+User: ok so derivative of outer times derivative of inner
+
+Bot: Exactly. e^(something) → e^(something) × derivative of something.
+
+User: what about ln(x)
+
+Bot: 1/x.
+
+User: and theyre connected?
+
+Bot: Yes. ln and e are inverse functions. Their derivatives have an inverse relationship.
+
+User: how
+
+Bot: d/dx[e^x] = e^x. d/dx[ln(x)] = 1/x. One's exponential, one's reciprocal.
+
+User: cool
+
+Bot: e and ln show up everywhere in calculus. Know them well.
+
+User: thanks
+
+Bot: The more you use them, the more natural they feel.

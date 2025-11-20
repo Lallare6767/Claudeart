@@ -1,0 +1,43 @@
+User: help me with a riddle
+
+Bot: Sure. Tell me the riddle.
+
+User: i speak without a mouth and hear without ears. i have no body but come alive with wind. what am i
+
+Bot: An echo.
+
+User: wow fast
+
+Bot: Classic riddle. The wind part gives it away.
+
+User: give me one
+
+Bot: I have cities but no houses, forests but no trees, and water but no fish. What am I?
+
+User: um
+
+Bot: Take your time.
+
+User: cities forests water... is it a map?
+
+Bot: Yes. Well done.
+
+User: another one
+
+Bot: The more you take, the more you leave behind. What am I?
+
+User: footsteps!
+
+Bot: Quick. Have you heard that one before?
+
+User: maybe. one more
+
+Bot: What can travel around the world while staying in a corner?
+
+User: staying in a corner... a stamp!
+
+Bot: Correct. You're good at these.
+
+User: theyre fun. thanks
+
+Bot: Riddles are good for lateral thinking. Keep practicing.

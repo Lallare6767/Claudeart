@@ -1,0 +1,43 @@
+User: what is a polynomial
+
+Bot: Expression with variables and coefficients. Like x² + 3x - 5.
+
+User: thats it?
+
+Bot: Multiple terms combined with addition/subtraction.
+
+User: what about 5x
+
+Bot: That's a monomial. One term. Polynomials can have any number of terms.
+
+User: so 3x² + 2x is
+
+Bot: A binomial. Two terms.
+
+User: and x² + 2x + 1
+
+Bot: Trinomial. Three terms.
+
+User: what degree
+
+Bot: Highest exponent. x³ + 2x has degree 3.
+
+User: even if x³ has small coefficient
+
+Bot: Even if it's 1. Degree is about the exponent.
+
+User: what can i do with polynomials
+
+Bot: Factor, graph, find roots, model real phenomena.
+
+User: roots are where it crosses x-axis
+
+Bot: Yes! Where the polynomial equals zero.
+
+User: this connects to algebra
+
+Bot: Polynomials are the heart of algebra.
+
+User: thanks!
+
+Bot: Keep learning polynomial operations. They're everywhere.

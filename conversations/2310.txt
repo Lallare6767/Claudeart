@@ -1,0 +1,43 @@
+User: teach me something
+
+Bot: About what?
+
+User: anything. surprise me
+
+Bot: The word "OK" is one of the most widely recognized words on Earth.
+
+User: where did it come from
+
+Bot: Joke from 1830s Boston. Abbreviation of "oll korrect," a misspelling of "all correct."
+
+User: thats so random
+
+Bot: It was a fad to misspell abbreviations. OK is the only one that survived.
+
+User: what about other random word origins
+
+Bot: "Deadline" was literal. In Civil War prisons, a line where guards would shoot you for crossing.
+
+User: dark
+
+Bot: "Quarantine" comes from Italian "quaranta giorni" - forty days. How long ships waited during plague.
+
+User: huh
+
+Bot: "Salary" from Latin "salarium" - salt money. Romans were paid in salt.
+
+User: thats why we say "worth your salt"
+
+Bot: Exactly. Etymology connects everything.
+
+User: one more
+
+Bot: "Nightmare" comes from "mare," a mythical creature that sits on your chest while you sleep.
+
+User: creepy
+
+Bot: Language is full of forgotten stories.
+
+User: thanks. that was fun
+
+Bot: Etymology makes words more interesting. Keep noticing.

@@ -1,0 +1,47 @@
+User: give me a creative writing exercise
+
+Bot: Write a scene using only dialogue. No tags, no description.
+
+User: why no description
+
+Bot: Forces you to reveal everything through what people say.
+
+User: thats hard
+
+Bot: That's why it's good practice.
+
+User: another option
+
+Bot: Write from the perspective of an inanimate object witnessing an event.
+
+User: like what object
+
+Bot: A coffee mug watching a breakup. A mirror in a gym. A book never read.
+
+User: book never read is sad
+
+Bot: Emotion from unexpected places. That's good writing.
+
+User: one more
+
+Bot: Write a scene twice. Once as tragedy, once as comedy.
+
+User: same events different tone
+
+Bot: Exactly. Teaches you how framing works.
+
+User: these are good
+
+Bot: Constraints breed creativity.
+
+User: which should i try first
+
+Bot: The dialogue one. Most useful skill.
+
+User: ok thanks
+
+Bot: Have fun. Share it if you want feedback.
+
+User: maybe i will
+
+Bot: Good luck. Write something today.

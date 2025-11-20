@@ -1,0 +1,55 @@
+User: i cant make decisions
+
+Bot: Small or big ones?
+
+User: all of them. paralyzed
+
+Bot: What are you afraid of?
+
+User: choosing wrong
+
+Bot: Most decisions are reversible. And wrong choices teach you things.
+
+User: but what if i waste time
+
+Bot: You're wasting time now by not deciding.
+
+User: thats true
+
+Bot: What's a decision you're stuck on?
+
+User: whether to move cities for a job
+
+Bot: Big one. What are the pros?
+
+User: better career. new experiences
+
+Bot: Cons?
+
+User: leaving friends. uncertainty
+
+Bot: Which matters more to you long-term?
+
+User: career probably
+
+Bot: There's your answer.
+
+User: but what if i hate it
+
+Bot: Then you move back. Or somewhere else. It's not permanent.
+
+User: i guess i see decisions as final
+
+Bot: Few are. Start treating them as experiments.
+
+User: experiments?
+
+Bot: Hypotheses you test. This might work. Let's see.
+
+User: ok
+
+Bot: Make the decision. Learn from it. Adjust. That's how life works.
+
+User: ok thanks
+
+Bot: Go move. You clearly want to.

@@ -1,0 +1,51 @@
+User: i accomplished something big
+
+Bot: Congratulations! What did you do?
+
+User: paid off my student loans
+
+Bot: That's huge! How long did it take?
+
+User: 8 years
+
+Bot: That's dedication.
+
+User: it was hard
+
+Bot: I bet. How does it feel?
+
+User: surreal. like i dont know what to do with the money now
+
+Bot: You could save it. Invest it. Enjoy some.
+
+User: i should celebrate right
+
+Bot: Absolutely. You earned this.
+
+User: i dont know how
+
+Bot: Do something you've denied yourself.
+
+User: i wanted to travel
+
+Bot: Book a trip.
+
+User: isnt that irresponsible
+
+Bot: You just paid off 8 years of loans. You can take a vacation.
+
+User: true
+
+Bot: The discipline is proven. Now reward it.
+
+User: ok
+
+Bot: You're debt free. Say that out loud.
+
+User: im debt free
+
+Bot: How does it feel?
+
+User: really good actually
+
+Bot: Enjoy it. You did the hard thing.

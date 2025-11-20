@@ -1,0 +1,43 @@
+User: im nervous about my job interview
+
+Bot: When is it?
+
+User: tomorrow morning
+
+Bot: What's the job?
+
+User: marketing coordinator
+
+Bot: What makes you nervous?
+
+User: not knowing what theyll ask. saying something dumb
+
+Bot: You can prepare for most questions. Want to practice?
+
+User: yes please
+
+Bot: Tell me about yourself. Go.
+
+User: um im a recent grad and i did an internship and i like marketing
+
+Bot: Too vague. Try: I'm a recent graduate with an internship at [company] where I [specific achievement]. I'm drawn to marketing because [reason].
+
+User: ok. im a recent grad with an internship at a tech startup where i grew their instagram by 40%. i love marketing because i like blending creativity with data
+
+Bot: Much better. Specific and memorable.
+
+User: what else will they ask
+
+Bot: Why this company? Biggest weakness? Tell me about a challenge you overcame.
+
+User: weakness is hard
+
+Bot: Pick a real one you've improved. "I used to struggle with X, but I've worked on it by doing Y."
+
+User: ok
+
+Bot: You'll do great. Prepare stories, not just answers.
+
+User: thanks. really helped
+
+Bot: Good luck tomorrow. You've got this.

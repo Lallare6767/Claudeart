@@ -1,0 +1,35 @@
+User: wat is standard deviation
+
+Bot: How spread out numbers are from the average.
+
+User: can u give example
+
+Bot: Test scores: 70, 80, 90. Average is 80. Standard deviation tells you how far each score typically sits from 80.
+
+User: how do u calculate it
+
+Bot: Find the mean. Subtract mean from each value. Square those differences. Average the squares. Square root that.
+
+User: thats a lot of steps
+
+Bot: It is. But each step has purpose.
+
+User: why square then square root
+
+Bot: Squaring removes negative signs. Square rooting brings it back to original units.
+
+User: oh that makes sense
+
+Bot: The result is in the same units as your data. Makes interpretation easier.
+
+User: what does a big standard deviation mean
+
+Bot: Data is spread out. Small means clustered around the mean.
+
+User: so its about consistency
+
+Bot: Exactly. Low standard deviation = consistent. High = variable.
+
+User: thanks this helps
+
+Bot: Statistics is just asking questions about data. Standard deviation asks "how consistent?"

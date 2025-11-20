@@ -1,0 +1,39 @@
+User: explain the quadratic formula
+
+Bot: For ax² + bx + c = 0, x = (-b ± √(b² - 4ac)) / 2a.
+
+User: thats confusing
+
+Bot: It finds where a parabola crosses the x-axis.
+
+User: what does each part mean
+
+Bot: b² - 4ac is the discriminant. It tells you how many solutions exist.
+
+User: how
+
+Bot: Positive discriminant = two solutions. Zero = one. Negative = none (in real numbers).
+
+User: oh ok
+
+Bot: The ± means you get two answers: one with plus, one with minus.
+
+User: can u do an example
+
+Bot: x² - 5x + 6 = 0. Here a=1, b=-5, c=6.
+
+User: ok
+
+Bot: x = (5 ± √(25-24))/2 = (5 ± 1)/2. So x = 3 or x = 2.
+
+User: let me check. 3² - 5(3) + 6 = 9 - 15 + 6 = 0. yes!
+
+Bot: Good verification habit. Always plug answers back in.
+
+User: when do u use this vs factoring
+
+Bot: Factoring is faster when obvious. Formula always works.
+
+User: got it thanks
+
+Bot: Memorize the formula. It's worth it.

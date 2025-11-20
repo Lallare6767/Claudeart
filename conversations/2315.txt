@@ -1,0 +1,47 @@
+User: I FINISHED MY FIRST MARATHON
+
+Bot: Incredible! What was your time?
+
+User: 4:32
+
+Bot: That's solid for a first marathon. How do you feel?
+
+User: exhausted but so proud
+
+Bot: As you should be. That's 26.2 miles your body carried you.
+
+User: i wanted to quit at mile 20
+
+Bot: The wall. Classic. What kept you going?
+
+User: kept telling myself ive come too far
+
+Bot: Sunk cost fallacy, but useful here.
+
+User: lol yeah
+
+Bot: How long did you train?
+
+User: 5 months
+
+Bot: Dedicated. That's hundreds of miles of prep.
+
+User: yeah. early mornings. weekends. sacrifices
+
+Bot: And now it's done. You're a marathoner.
+
+User: that sounds weird to say
+
+Bot: Better get used to it. It's a label you earned.
+
+User: thank you
+
+Bot: Will you do another?
+
+User: maybe. need to recover first
+
+Bot: Smart. Enjoy this achievement. Not everyone even tries.
+
+User: im gonna sleep for a week
+
+Bot: Earned. Congratulations again. This is huge.

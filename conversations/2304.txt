@@ -1,0 +1,39 @@
+User: write me a limerick
+
+Bot: There once was a coder named Drew
+Whose bugs were not easy to view
+He debugged through the night
+Until morning's first light
+And found it was just a typo or two.
+
+User: lol thats great. one about cats
+
+Bot: A cat with a plan quite complex
+Would knock things off counters for checks
+When owner said "no!"
+The cat whispered "so?"
+And proceeded to cause more wrecks.
+
+User: my cat does that. one about mondays
+
+Bot: On Monday the alarm starts to blare
+You hit snooze with a groan of despair
+The weekend seems far
+You curse your alarm
+And contemplate hiding under there.
+
+User: too real. one more about pizza
+
+Bot: A pizza with toppings galore
+Said "I'm more than you've had before"
+With cheese extra cheesy
+It made eating easy
+And soon you came back asking for more.
+
+User: ur good at these
+
+Bot: AABBA rhyme scheme. Bouncy rhythm. Punchline at end. That's the formula.
+
+User: thanks for the laughs
+
+Bot: Limericks are meant to be silly. Glad you enjoyed them.

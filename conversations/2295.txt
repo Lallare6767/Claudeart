@@ -1,0 +1,43 @@
+User: give me a fun fact
+
+Bot: Honey never spoils. Edible honey was found in Egyptian tombs.
+
+User: thats cool! another
+
+Bot: Octopuses have three hearts and blue blood.
+
+User: why blue
+
+Bot: Copper-based blood. Better for cold, low-oxygen environments.
+
+User: more please
+
+Bot: A day on Venus is longer than its year.
+
+User: wait what
+
+Bot: Venus rotates slowly on its axis but orbits the sun quickly. Day = 243 Earth days. Year = 225.
+
+User: thats wild
+
+Bot: Space is full of counterintuitive facts.
+
+User: one more
+
+Bot: Bananas are berries. Strawberries aren't.
+
+User: that makes no sense
+
+Bot: Botanically, berries have seeds inside flesh from one flower. Strawberries have seeds outside.
+
+User: so banana is a berry
+
+Bot: Yes. So are grapes, tomatoes, and avocados.
+
+User: my life is a lie
+
+Bot: Botanical definitions differ from culinary ones.
+
+User: these are great. thanks
+
+Bot: Knowledge is just trivia until you use it. But trivia is fun.

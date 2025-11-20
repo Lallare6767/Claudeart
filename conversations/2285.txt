@@ -1,0 +1,39 @@
+User: help me count syllables in a word
+
+Bot: Sure. What word?
+
+User: beautiful
+
+Bot: Beau-ti-ful. Three syllables.
+
+User: and comfortable
+
+Bot: Comf-ter-ble. Three in casual speech. Comf-or-ta-ble. Four if enunciating.
+
+User: interesting. what about different
+
+Bot: Diff-rent. Two casual. Diff-er-ent. Three formal.
+
+User: why does it change
+
+Bot: English speakers often drop unstressed syllables. It's called syncope.
+
+User: chocolate?
+
+Bot: Choc-lit. Two. Choc-o-late if you're being precise.
+
+User: every?
+
+Bot: Ev-ry. Two.
+
+User: i thought it was three
+
+Bot: Ev-er-y would be three. But most people say ev-ry.
+
+User: this is useful for poetry
+
+Bot: Exactly. Syllable count matters for meter. Know how words actually sound, not how they're spelled.
+
+User: thanks
+
+Bot: Say words out loud when counting. Your ear knows.

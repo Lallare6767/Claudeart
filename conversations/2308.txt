@@ -1,0 +1,43 @@
+User: explain compound interest
+
+Bot: Interest on interest. Your money earns, then those earnings earn too.
+
+User: example please
+
+Bot: $100 at 10% annually. Year 1: $110. Year 2: $121 (10% of 110). Year 3: $133.10.
+
+User: vs simple interest
+
+Bot: Simple would be $110, $120, $130. Just 10% of original each year.
+
+User: compound is better
+
+Bot: For saving, yes. For debt, it's worse.
+
+User: why for debt
+
+Bot: Credit card at 20% compounds. $1000 becomes a lot more fast.
+
+User: thats scary
+
+Bot: That's why paying off high-interest debt is priority one.
+
+User: whats the formula
+
+Bot: A = P(1 + r/n)^(nt). P is principal, r is rate, n is compounds per year, t is years.
+
+User: complicated
+
+Bot: The key insight: time matters more than amount. Start early.
+
+User: even small amounts
+
+Bot: Yes. $100/month from 20 to 65 beats $200/month from 35 to 65.
+
+User: wow
+
+Bot: Compound interest is either your best friend or worst enemy. Choose wisely.
+
+User: thanks
+
+Bot: Time is the variable you control most. Use it.
