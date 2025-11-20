@@ -1,0 +1,47 @@
+User: whats irony
+
+Bot: When outcome is opposite of expectation.
+
+User: example
+
+Bot: Fire station burns down. Tow truck needs to be towed.
+
+User: so unexpected reversal
+
+Bot: Yes. Often involving contradiction.
+
+User: whats dramatic irony
+
+Bot: Audience knows something characters don't.
+
+User: like in horror movies
+
+Bot: Exactly. "Don't go in there!" We know. They don't.
+
+User: and verbal irony
+
+Bot: Saying opposite of what you mean. Usually sarcasm.
+
+User: "great weather" during a storm
+
+Bot: Yes. Intent is opposite of literal words.
+
+User: and situational irony
+
+Bot: Events opposite of expected. Lottery winner goes bankrupt.
+
+User: why do people confuse irony with coincidence
+
+Bot: Coincidence is just unexpected. Irony requires contradiction of expectation.
+
+User: rain on wedding day?
+
+Bot: Coincidence. Unless wedding was outdoors specifically to avoid rain.
+
+User: oh so context matters
+
+Bot: Always. Irony depends on what was expected.
+
+User: thanks
+
+Bot: Notice irony in stories. It's everywhere once you see it.

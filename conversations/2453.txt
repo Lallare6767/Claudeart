@@ -1,0 +1,43 @@
+User: what is a thesis statement
+
+Bot: Main argument of your paper. Usually one sentence in the intro.
+
+User: example
+
+Bot: "Social media has negatively impacted teen mental health through increased comparison and reduced sleep."
+
+User: so its specific
+
+Bot: Yes. Not "social media is bad." That's too vague.
+
+User: what makes it good
+
+Bot: Debatable, specific, and supportable with evidence.
+
+User: debatable?
+
+Bot: Someone could disagree. If everyone agrees, no need to argue.
+
+User: what about "the sky is blue"
+
+Bot: Not a thesis. It's a fact. No argument.
+
+User: "the sky should be blue" is weird too
+
+Bot: Right. A thesis needs to be sensible and have substance.
+
+User: how do i write one
+
+Bot: Start with a question. Your thesis is the answer you'll prove.
+
+User: like "does social media harm teens"
+
+Bot: And your answer: "Yes, through X and Y." That's your thesis.
+
+User: ok
+
+Bot: Put it at end of first paragraph usually. Readers look for it there.
+
+User: thanks
+
+Bot: A strong thesis makes the whole paper easier. Worth getting right.

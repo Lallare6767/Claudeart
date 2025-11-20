@@ -1,0 +1,51 @@
+User: can we do rhyming words
+
+Bot: Sure. Give me a word.
+
+User: love
+
+Bot: Above, dove, glove, shove, of.
+
+User: time
+
+Bot: Rhyme, climb, prime, dime, lime, slime, crime, chime, mime.
+
+User: orange
+
+Bot: Nothing perfect. "Door hinge" is close. Sporange is a botanical term.
+
+User: thats why people say orange has no rhyme
+
+Bot: It has near rhymes but no perfect ones in common English.
+
+User: what about silver
+
+Bot: Chilver is a word (female lamb). But basically no common rhymes.
+
+User: purple
+
+Bot: Curple (horse's hindquarters). Again, basically nothing common.
+
+User: english is weird
+
+Bot: Many common words have no perfect rhymes.
+
+User: how do poets handle it
+
+Bot: Near rhymes, slant rhymes, or avoid those words.
+
+User: slant rhyme
+
+Bot: Close but not exact. Love/move. Time/lane.
+
+User: useful
+
+Bot: Expands options. Pure rhyme isn't always necessary.
+
+User: thanks
+
+Bot: What's the poem for?
+
+User: just curious
+
+Bot: Good curiosity. Language has interesting gaps.

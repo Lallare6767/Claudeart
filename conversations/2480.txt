@@ -1,0 +1,47 @@
+User: what is GCF and LCM
+
+Bot: GCF is Greatest Common Factor. LCM is Least Common Multiple.
+
+User: explain GCF
+
+Bot: Biggest number that divides into both. GCF of 12 and 18?
+
+User: factors of 12: 1 2 3 4 6 12. factors of 18: 1 2 3 6 9 18. common: 1 2 3 6. greatest is 6
+
+Bot: Perfect.
+
+User: and LCM
+
+Bot: Smallest number both divide into. LCM of 4 and 6?
+
+User: multiples of 4: 4 8 12 16... multiples of 6: 6 12 18... first common is 12
+
+Bot: Correct.
+
+User: when do i use each
+
+Bot: GCF for simplifying fractions. LCM for finding common denominators.
+
+User: oh that's why they matter
+
+Bot: Exactly. Fraction operations need them.
+
+User: is there a shortcut
+
+Bot: Prime factorization. GCF uses shared primes. LCM uses all primes.
+
+User: example
+
+Bot: 12 = 2² × 3. 18 = 2 × 3². GCF = 2 × 3 = 6. LCM = 2² × 3² = 36.
+
+User: so GCF uses minimum exponents
+
+Bot: And LCM uses maximum. Yes.
+
+User: that's elegant
+
+Bot: Math usually is. Practice with several pairs.
+
+User: thanks
+
+Bot: GCF and LCM are building blocks. Know them well.

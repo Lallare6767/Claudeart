@@ -1,0 +1,47 @@
+User: how do i find x when its in denominator
+
+Bot: Like 5/x = 2?
+
+User: yes
+
+Bot: Cross multiply. 5 = 2x. Then x = 2.5.
+
+User: what about 3/(x+1) = 6
+
+Bot: Cross multiply. 3 = 6(x+1). Then 3 = 6x + 6. So -3 = 6x. x = -0.5.
+
+User: let me check. 3/(-0.5+1) = 3/0.5 = 6. yes!
+
+Bot: Good verification.
+
+User: what if its 2/x + 3/x = 5
+
+Bot: Combine fractions. (2+3)/x = 5. So 5/x = 5. x = 1.
+
+User: and if different denominators
+
+Bot: Find common denominator first.
+
+User: like 1/x + 1/2 = 3
+
+Bot: Common denominator 2x. Then 2/(2x) + x/(2x) = 3. So (2+x)/(2x) = 3.
+
+User: then cross multiply
+
+Bot: 2 + x = 6x. So 2 = 5x. x = 0.4.
+
+User: check: 1/0.4 + 0.5 = 2.5 + 0.5 = 3. yes!
+
+Bot: Perfect. Always check with denominators to avoid extraneous solutions.
+
+User: extraneous?
+
+Bot: Solutions that make denominator zero. Invalid.
+
+User: oh important
+
+Bot: Yes. If you get x = 0 but x is in denominator, discard it.
+
+User: thanks
+
+Bot: These take practice. Do several more.

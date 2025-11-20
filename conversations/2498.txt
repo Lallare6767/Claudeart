@@ -1,0 +1,43 @@
+User: what is theme vs topic
+
+Bot: Topic is what the story is about. Theme is what it says about it.
+
+User: example
+
+Bot: Topic: war. Theme: war dehumanizes people.
+
+User: so theme is the message
+
+Bot: The central idea or insight. What the author wants you to take away.
+
+User: how do i find it
+
+Bot: Ask: what does this story say about [topic]?
+
+User: can there be multiple themes
+
+Bot: Yes. Most complex works have several.
+
+User: like what
+
+Bot: One story might explore love, loss, and resilience all at once.
+
+User: how do i write about theme
+
+Bot: State it as a complete thought. Not "love" but "love requires sacrifice."
+
+User: oh thats different
+
+Bot: "Love" is topic. "Love requires sacrifice" is theme.
+
+User: what about universal themes
+
+Bot: Ideas that resonate across cultures. Good vs evil. Coming of age. Identity.
+
+User: why are they important
+
+Bot: They're why we connect to stories. We see ourselves.
+
+User: thanks
+
+Bot: Look for themes in what you read. What is the author saying about life?

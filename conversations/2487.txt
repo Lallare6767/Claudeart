@@ -1,0 +1,47 @@
+User: i made a big mistake at work
+
+Bot: What happened?
+
+User: sent an email to wrong person. confidential info
+
+Bot: Did you tell your manager?
+
+User: not yet. scared
+
+Bot: Tell them immediately. Before they find out another way.
+
+User: but ill get in trouble
+
+Bot: Less trouble than if you hide it.
+
+User: what do i say
+
+Bot: "I made a mistake. I sent [X] to wrong person. I'm taking [steps] to fix it."
+
+User: what steps
+
+Bot: Contact the recipient. Ask them to delete. Check if recall worked.
+
+User: i tried recall. failed
+
+Bot: Then email them directly. Most people will delete.
+
+User: ok
+
+Bot: Mistakes happen. Handling them well matters more than not making them.
+
+User: really
+
+Bot: Yes. People who own mistakes and fix them are valued.
+
+User: more than people who dont make them?
+
+Bot: Those people don't exist. Everyone messes up.
+
+User: ok
+
+Bot: Go tell your manager. Do it now. The anxiety will drop.
+
+User: ok going
+
+Bot: Good luck. You'll get through this.

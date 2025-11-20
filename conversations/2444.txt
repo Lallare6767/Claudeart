@@ -1,0 +1,47 @@
+User: help me understand negative numbers
+
+Bot: Numbers less than zero. Left of zero on number line.
+
+User: why do we need them
+
+Bot: To represent debt, temperature below zero, direction, changes.
+
+User: how do i add them
+
+Bot: -3 + (-5) = -8. Adding negatives goes more negative.
+
+User: and -3 + 5
+
+Bot: Start at -3, move right 5. Land on 2.
+
+User: so positive wins
+
+Bot: The bigger absolute value wins. Its sign determines result.
+
+User: subtracting negatives
+
+Bot: 5 - (-3) = 5 + 3 = 8. Subtracting negative is adding positive.
+
+User: why
+
+Bot: Think of it as removing debt. You have more.
+
+User: multiplying
+
+Bot: Negative × negative = positive. Negative × positive = negative.
+
+User: why neg × neg = pos
+
+Bot: Direction change twice. Turn around twice, you face forward.
+
+User: thats helpful
+
+Bot: -4 × -3 = 12. -4 × 3 = -12.
+
+User: and division same rules
+
+Bot: Yes. Same sign = positive. Different signs = negative.
+
+User: ok thanks
+
+Bot: Negatives are just direction. Once you see it, they're intuitive.

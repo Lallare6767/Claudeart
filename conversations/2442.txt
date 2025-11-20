@@ -1,0 +1,43 @@
+User: whats the difference between who and whom
+
+Bot: Who is subject. Whom is object.
+
+User: i dont know what that means
+
+Bot: Who does the action. Whom receives it.
+
+User: example
+
+Bot: "Who ate my sandwich?" Who is doing the eating.
+
+User: and whom
+
+Bot: "To whom did you give my sandwich?" The sandwich was given to whom.
+
+User: how do i remember
+
+Bot: Replace with he/him. If him works, use whom.
+
+User: so "give it to him" = whom
+
+Bot: Yes. "Him" is object, so "whom."
+
+User: "he ate it" = who
+
+Bot: Exactly. "He" is subject, so "who."
+
+User: what about "who/whom should I call"
+
+Bot: "Should I call him." Him works. So "whom should I call."
+
+User: wow that trick is great
+
+Bot: Works every time. He/who. Him/whom.
+
+User: is "whom" dying out
+
+Bot: Somewhat. Especially in casual speech. But good to know for formal writing.
+
+User: thanks
+
+Bot: You'll impress people using "whom" correctly. Few do.

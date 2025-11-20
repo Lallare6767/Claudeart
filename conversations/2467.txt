@@ -1,0 +1,47 @@
+User: whats an onomatopoeia
+
+Bot: Word that sounds like what it describes.
+
+User: like buzz
+
+Bot: Yes. Buzz sounds like buzzing.
+
+User: more examples
+
+Bot: Splash. Crack. Hiss. Thud. Pop. Meow. Sizzle.
+
+User: they all sound like the sound
+
+Bot: That's the definition. The word is the sound.
+
+User: why do we have them
+
+Bot: They make language vivid. You hear while reading.
+
+User: are they the same in all languages
+
+Bot: No. Different languages represent sounds differently.
+
+User: like what
+
+Bot: Dogs bark "woof" in English but "wan wan" in Japanese.
+
+User: interesting
+
+Bot: Onomatopoeia reflects how languages perceive sounds.
+
+User: can i make up my own
+
+Bot: Yes. Comics do this constantly. Zap. Kapow.
+
+User: those arent real words
+
+Bot: They are now. Onomatopoeias are created all the time.
+
+User: fun
+
+Bot: They make writing more dynamic. Use them in descriptions.
+
+User: ok thanks
+
+Bot: Listen to sounds around you. Notice how you'd spell them.

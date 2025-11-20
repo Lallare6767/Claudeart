@@ -1,0 +1,51 @@
+User: whats an acute angle
+
+Bot: Less than 90 degrees.
+
+User: and obtuse
+
+Bot: More than 90 but less than 180.
+
+User: right angle is exactly 90
+
+Bot: Correct.
+
+User: straight angle?
+
+Bot: 180 degrees. A straight line.
+
+User: and reflex
+
+Bot: More than 180 but less than 360.
+
+User: how do i remember
+
+Bot: Acute sounds like "cute"—small. Obtuse sounds like "obese"—big.
+
+User: lol thats terrible but works
+
+Bot: Whatever sticks.
+
+User: what about 90 exactly
+
+Bot: Right angle. The square symbol marks it.
+
+User: complementary and supplementary again
+
+Bot: Complementary add to 90. Supplementary add to 180.
+
+User: so two complementary acute angles
+
+Bot: Yes. Two supplementary could be one acute and one obtuse.
+
+User: or two right angles
+
+Bot: Yes. 90 + 90 = 180.
+
+User: this is clearer now
+
+Bot: Angles are foundational. These terms come up constantly.
+
+User: thanks
+
+Bot: Practice identifying them visually. It helps.

@@ -1,0 +1,47 @@
+User: give me a logic puzzle
+
+Bot: Three people in a room. Alex always tells the truth. Blake always lies. Casey sometimes lies. One says "I'm Blake." Who said it?
+
+User: hmm
+
+Bot: Think about what each person could say.
+
+User: alex always tells truth so cant say "im blake"
+
+Bot: Correct. Continue.
+
+User: blake always lies. would blake say "im blake"? thats the truth so no
+
+Bot: Keep going.
+
+User: so it has to be casey!
+
+Bot: Why can Casey say it?
+
+User: because casey sometimes lies. this would be a lie
+
+Bot: Exactly. Casey can lie or tell truth. This time lying.
+
+User: that was good
+
+Bot: Logic puzzles are about eliminating impossibilities.
+
+User: another one
+
+Bot: You have a 3-gallon jug and a 5-gallon jug. How do you measure exactly 4 gallons?
+
+User: um. fill the 5. pour into 3. 2 left in 5
+
+Bot: Good start.
+
+User: empty the 3. pour the 2 into 3. fill the 5. pour into 3 until full. thats 1 gallon poured. 4 left in 5!
+
+Bot: Perfect. Creative problem solving.
+
+User: these are fun
+
+Bot: Good for the brain. Want more later?
+
+User: yes definitely
+
+Bot: I'll remember. Well, you'll remember to ask.

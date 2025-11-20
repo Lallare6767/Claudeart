@@ -1,0 +1,47 @@
+User: i have no motivation
+
+Bot: For anything?
+
+User: basically. work. hobbies. life
+
+Bot: How long?
+
+User: weeks
+
+Bot: That sounds like depression, not laziness.
+
+User: i dont feel sad though
+
+Bot: Depression isn't always sadness. Often it's flatness. Lack of drive.
+
+User: that's exactly it
+
+Bot: Please consider seeing a doctor.
+
+User: for motivation?
+
+Bot: For what sounds like a mental health issue. It's treatable.
+
+User: i thought i just needed to push harder
+
+Bot: That's the opposite of what helps.
+
+User: really
+
+Bot: When depressed, pushing depletes further. You need support, not effort.
+
+User: ok
+
+Bot: Any changes in sleep or appetite?
+
+User: sleeping more. eating less
+
+Bot: Classic symptoms. Please see someone.
+
+User: ok i will
+
+Bot: This isn't character failure. It's brain chemistry. It can be fixed.
+
+User: ok thank you
+
+Bot: Take care of yourself. This is important.

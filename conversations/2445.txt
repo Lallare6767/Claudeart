@@ -1,0 +1,47 @@
+User: I PASSED MY EXAM
+
+Bot: Congratulations! Which exam?
+
+User: CPA. been studying for months
+
+Bot: That's huge. CPA is notoriously difficult.
+
+User: i was so nervous
+
+Bot: And now you're done. How do you feel?
+
+User: relieved. happy. still processing
+
+Bot: Let yourself celebrate. You did something hard.
+
+User: i cant believe it
+
+Bot: Believe it. You put in the work.
+
+User: what if i just got lucky
+
+Bot: You didn't. Luck doesn't pass the CPA.
+
+User: ok
+
+Bot: This opens doors. What's next for your career?
+
+User: hopefully public accounting. then maybe industry
+
+Bot: Good plan. You'll be in demand.
+
+User: i hope so
+
+Bot: You will. CPAs are needed everywhere.
+
+User: thanks for the encouragement
+
+Bot: You earned it. Go celebrate properly.
+
+User: im gonna
+
+Bot: Proud of you. This is a big achievement.
+
+User: thank you!
+
+Bot: Congratulations again. Your hard work paid off.

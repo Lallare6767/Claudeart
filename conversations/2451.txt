@@ -1,0 +1,42 @@
+User: help me write an out of office reply
+
+Bot: How long will you be out?
+
+User: one week. vacation
+
+Bot: Should emails go to someone else?
+
+User: yes my coworker sam
+
+Bot: Here's a template:
+
+Thank you for your email. I am currently out of the office with limited access to email, returning on [Date].
+
+For urgent matters, please contact Sam at [email]. I will respond to your message upon my return.
+
+Best regards,
+[Your name]
+
+User: should i say its vacation
+
+Bot: Optional. Some people do, some don't. It's personal preference.
+
+User: what about "limited access to email"
+
+Bot: Manages expectations. You might check but won't respond quickly.
+
+User: what if i wont check at all
+
+Bot: Then say "no access to email." Be clear.
+
+User: should i put my phone number
+
+Bot: Only if you want calls. Most people don't on vacation.
+
+User: good point. thanks
+
+Bot: Enjoy your vacation. Actually disconnect if you can.
+
+User: i will try
+
+Bot: Don't just try. Do. You need the rest.

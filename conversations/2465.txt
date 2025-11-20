@@ -1,0 +1,47 @@
+User: help me with word count
+
+Bot: Sure. What do you need counted?
+
+User: how many words in "the quick brown fox jumps over the lazy dog"
+
+Bot: 9 words.
+
+User: count characters
+
+Bot: 35 characters without spaces. 43 with spaces.
+
+User: with punctuation?
+
+Bot: That sentence has no punctuation. If there was a period, 44.
+
+User: now "i cant believe this is happening"
+
+Bot: 6 words. 28 characters without spaces.
+
+User: does "cant" count as one or two
+
+Bot: One word. Contractions are single words.
+
+User: what about hyphenated words
+
+Bot: Debated. Usually counted as one but depends on style guide.
+
+User: like "well-known"
+
+Bot: One word by most standards.
+
+User: good to know
+
+Bot: For what do you need word counts?
+
+User: school papers have limits
+
+Bot: Most word processors count automatically. Check Tools or Review menu.
+
+User: i know. just checking manually
+
+Bot: Good practice. Off by a few doesn't matter. Off by a lot does.
+
+User: thanks
+
+Bot: Word count is easy. The hard part is making those words good.

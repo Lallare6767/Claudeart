@@ -1,0 +1,43 @@
+User: help me understand ratios with colons
+
+Bot: Ratio compares quantities. 3:2 means 3 parts to 2 parts.
+
+User: how is it different from fraction
+
+Bot: Ratios compare parts. Fractions show part of whole.
+
+User: so 3:2 isnt 3/2
+
+Bot: It can be. But ratio of 3:2 means 3/5 and 2/5 of total.
+
+User: oh because 3+2=5
+
+Bot: Right. The parts add to make the whole.
+
+User: simplify 12:8
+
+Bot: Divide both by 4. 3:2.
+
+User: like simplifying fractions
+
+Bot: Exact same process.
+
+User: what about 3:4:5
+
+Bot: Three-way ratio. 3 parts, 4 parts, 5 parts. Total 12 parts.
+
+User: when do u use those
+
+Bot: Recipes. Mixing. Scaling. Dividing things proportionally.
+
+User: concrete to sand to gravel 1:2:3
+
+Bot: Yes. For every 1 part cement, 2 sand, 3 gravel.
+
+User: practical
+
+Bot: Very. Ratios are everywhere in daily life.
+
+User: thanks
+
+Bot: Think of ratios as recipes. Parts that combine to a whole.

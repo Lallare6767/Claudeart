@@ -1,0 +1,47 @@
+User: how do i find perimeter
+
+Bot: Add all the sides.
+
+User: so rectangle 5 by 3
+
+Bot: 5 + 3 + 5 + 3 = 16. Or 2(5+3) = 16.
+
+User: and square with side 4
+
+Bot: 4 × 4 = 16.
+
+User: triangle 3 4 5
+
+Bot: 3 + 4 + 5 = 12.
+
+User: whats the difference between perimeter and area
+
+Bot: Perimeter is around. Area is inside.
+
+User: so perimeter is one dimensional and area is two
+
+Bot: Exactly. Perimeter in units. Area in square units.
+
+User: what about irregular shapes
+
+Bot: Still add all sides. Just more of them.
+
+User: and circles
+
+Bot: Circumference instead of perimeter. C = 2πr.
+
+User: same idea though
+
+Bot: Yes. Distance around the edge.
+
+User: when do i use perimeter in real life
+
+Bot: Fencing. Baseboards. Frame for picture. Anything you wrap around.
+
+User: makes sense
+
+Bot: Area is filling in. Perimeter is going around.
+
+User: thanks
+
+Bot: Easy concept. Just measure and add.

@@ -1,0 +1,43 @@
+User: whats the midpoint formula
+
+Bot: ((x₁+x₂)/2, (y₁+y₂)/2). Average of coordinates.
+
+User: so middle point between two points
+
+Bot: Exactly.
+
+User: example
+
+Bot: Points (2, 4) and (6, 10). Midpoint = ((2+6)/2, (4+10)/2) = (4, 7).
+
+User: let me try. (0, 0) and (8, 6)
+
+Bot: Go ahead.
+
+User: ((0+8)/2, (0+6)/2) = (4, 3)
+
+Bot: Perfect.
+
+User: negative numbers?
+
+Bot: Same formula. (-3, 5) and (7, -1). Midpoint = ((-3+7)/2, (5-1)/2) = (2, 2).
+
+User: when do u use this
+
+Bot: Find center of segment. Geometry proofs. Meeting point between two locations.
+
+User: meeting point is practical
+
+Bot: Yes. "Meet me halfway" is literally the midpoint.
+
+User: how does this relate to distance formula
+
+Bot: Midpoint is on the segment. Distance measures how long the segment is.
+
+User: complementary formulas
+
+Bot: Exactly. Often used together.
+
+User: thanks
+
+Bot: Simple formula. Very useful. Know it well.

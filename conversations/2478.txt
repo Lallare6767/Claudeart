@@ -1,0 +1,47 @@
+User: help me understand inequalities
+
+Bot: Like equations but with <, >, ≤, ≥ instead of =.
+
+User: so x > 5 means
+
+Bot: x is anything bigger than 5. Not including 5.
+
+User: and x ≥ 5
+
+Bot: 5 or bigger. Including 5.
+
+User: how do i solve them
+
+Bot: Same as equations, mostly. But watch multiplication by negatives.
+
+User: what happens
+
+Bot: Flip the sign. If you multiply or divide by negative, inequality reverses.
+
+User: why
+
+Bot: -1 × 2 < -1 × 3 becomes -2 < -3, which is wrong. Must flip: -2 > -3.
+
+User: oh
+
+Bot: Only when multiplying or dividing by negative.
+
+User: example
+
+Bot: -2x > 6. Divide by -2, flip sign: x < -3.
+
+User: let me check. -2(-4) = 8 > 6. yes. -4 < -3. yes!
+
+Bot: Good verification.
+
+User: how do i graph
+
+Bot: Open circle for < or >. Closed for ≤ or ≥. Shade where true.
+
+User: x < 3 is open circle at 3, shade left
+
+Bot: Exactly.
+
+User: thanks
+
+Bot: Inequalities are ranges, not single answers. Powerful for modeling.

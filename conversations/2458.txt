@@ -1,0 +1,47 @@
+User: what are conjunctions
+
+Bot: Words that connect clauses or sentences. And, but, or, so, yet.
+
+User: examples in sentences
+
+Bot: "I was tired but I kept going." But connects two independent clauses.
+
+User: and commas?
+
+Bot: Use comma before conjunction when joining independent clauses.
+
+User: what about just words
+
+Bot: "Apples and oranges." No comma. Joining words, not clauses.
+
+User: oh thats why comma rules are confusing
+
+Bot: The rule is based on what's being joined.
+
+User: whats FANBOYS
+
+Bot: For, And, Nor, But, Or, Yet, So. Coordinating conjunctions.
+
+User: any others
+
+Bot: Subordinating: because, although, if, when, while.
+
+User: whats the difference
+
+Bot: Coordinating joins equals. Subordinating makes one dependent.
+
+User: example
+
+Bot: "I left because I was tired." "Because I was tired" can't stand alone.
+
+User: so the clause needs the other one
+
+Bot: Right. Subordinating creates dependence.
+
+User: this helps
+
+Bot: Conjunctions are glue. They show how ideas relate.
+
+User: thanks
+
+Bot: Practice identifying them. They shape meaning.

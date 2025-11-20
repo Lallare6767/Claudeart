@@ -1,0 +1,47 @@
+User: what is scientific method
+
+Bot: Systematic way to investigate questions. Observation, hypothesis, experiment, analysis, conclusion.
+
+User: walk me through it
+
+Bot: Start with observation: notice something. "Plants in that corner grow taller."
+
+User: then hypothesis
+
+Bot: Testable explanation. "Plants grow taller near the window because of more sunlight."
+
+User: then experiment
+
+Bot: Test it. Put plants in different light conditions. Control other variables.
+
+User: control?
+
+Bot: Keep everything else same: water, soil, pot size. Only light changes.
+
+User: then analysis
+
+Bot: Measure results. Did window plants grow taller?
+
+User: and conclusion
+
+Bot: What does data support? Hypothesis confirmed or rejected?
+
+User: what if rejected
+
+Bot: Good data! Now you know. Form new hypothesis.
+
+User: so failure is okay
+
+Bot: Failure is information. Scientists fail most of the time.
+
+User: why do we use this method
+
+Bot: Reduces bias. Makes findings replicable. Builds reliable knowledge.
+
+User: seems slow
+
+Bot: It is. But thorough. Fast guessing leads to wrong answers.
+
+User: thanks
+
+Bot: Science is organized curiosity. The method keeps it honest.

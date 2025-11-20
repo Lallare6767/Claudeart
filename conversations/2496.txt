@@ -1,0 +1,43 @@
+User: how do i solve word problems
+
+Bot: Translate words to math. That's the core skill.
+
+User: i panic when i see them
+
+Bot: Read slowly. Multiple times. Identify what's asked.
+
+User: then what
+
+Bot: Assign variables. What don't you know? That's x.
+
+User: example
+
+Bot: "Sam has twice as many apples as Tom. Together they have 18. How many does each have?"
+
+User: ok
+
+Bot: Let Tom's apples = x. Sam's = 2x. Together: x + 2x = 18.
+
+User: 3x = 18. x = 6
+
+Bot: So Tom has 6 and Sam has...
+
+User: 12. check: 6 + 12 = 18. yes!
+
+Bot: Perfect. The translation is the hard part.
+
+User: any tips for translating
+
+Bot: "Is" means =. "More than" means +. "Twice" means 2×. Learn the keywords.
+
+User: "less than"
+
+Bot: Subtraction. But watch order. "3 less than x" is x - 3.
+
+User: not 3 - x
+
+Bot: Right. Read carefully.
+
+User: ok thanks
+
+Bot: Practice is the only way. Do many word problems until patterns emerge.

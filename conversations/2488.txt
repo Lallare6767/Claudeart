@@ -1,0 +1,47 @@
+User: whats a hyperbole
+
+Bot: Extreme exaggeration for effect.
+
+User: example
+
+Bot: "I'm so hungry I could eat a horse." You couldn't actually.
+
+User: more
+
+Bot: "I've told you a million times." "My backpack weighs a ton."
+
+User: so its not lying
+
+Bot: No. No one is deceived. It's understood as emphasis.
+
+User: how is it different from metaphor
+
+Bot: Metaphor compares. Hyperbole exaggerates magnitude.
+
+User: can they overlap
+
+Bot: Yes. "He's a giant" could be hyperbole (he's very tall) or metaphor (he's important).
+
+User: context matters
+
+Bot: Always. Same words can be different devices.
+
+User: when should i use hyperbole
+
+Bot: When you want to emphasize emotional truth over literal truth.
+
+User: like being frustrated
+
+Bot: "If I have to explain this one more time I'll explode."
+
+User: i say that
+
+Bot: Everyone does. Hyperbole is natural to speech.
+
+User: is it okay in writing
+
+Bot: Yes, but use intentionally. Accidental hyperbole weakens prose.
+
+User: ok thanks
+
+Bot: Notice how often you exaggerate. It's probably a lot.

@@ -1,0 +1,47 @@
+User: write me a motivational quote
+
+Bot: "You don't have to be great to start, but you have to start to be great."
+
+User: i like that. who said it
+
+Bot: Often attributed to Zig Ziglar.
+
+User: another
+
+Bot: "The obstacle is the way."
+
+User: meaning?
+
+Bot: Your challenges are your path. Not detours. Marcus Aurelius.
+
+User: deep. one more
+
+Bot: "What you're afraid of is usually the right thing to do."
+
+User: that resonates
+
+Bot: Fear often guards growth.
+
+User: give me an original one
+
+Bot: "Your future self is watching. Make them proud."
+
+User: ooh i love that
+
+Bot: It reframes today's actions as legacy.
+
+User: one more original
+
+Bot: "Discomfort is the tuition for the life you want."
+
+User: thats good too
+
+Bot: Growth requires payment. Comfort isn't free.
+
+User: can i use these
+
+Bot: Of course. Share them if they help.
+
+User: thank you
+
+Bot: Now go do something that scares you.

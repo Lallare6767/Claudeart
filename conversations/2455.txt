@@ -1,0 +1,39 @@
+User: how do i multiply polynomials
+
+Bot: Distribute each term in first by each term in second.
+
+User: can u show me
+
+Bot: (x + 3)(x + 2). x×x + x×2 + 3×x + 3×2 = x² + 2x + 3x + 6 = x² + 5x + 6.
+
+User: thats FOIL right
+
+Bot: Yes. First, Outer, Inner, Last. Works for binomials.
+
+User: what about larger ones
+
+Bot: Same concept. Every term times every term.
+
+User: like (x + 1)(x² + 2x + 3)
+
+Bot: x(x² + 2x + 3) + 1(x² + 2x + 3) = x³ + 2x² + 3x + x² + 2x + 3 = x³ + 3x² + 5x + 3.
+
+User: so distribute and combine
+
+Bot: Exactly. Order doesn't matter. Just get every combination.
+
+User: what about (x - 2)²
+
+Bot: (x - 2)(x - 2) = x² - 2x - 2x + 4 = x² - 4x + 4.
+
+User: not x² - 4
+
+Bot: Common mistake. That's x² - 2², different thing.
+
+User: oh the middle term
+
+Bot: Yes. (a - b)² = a² - 2ab + b². Always three terms.
+
+User: ok thanks
+
+Bot: Practice several. The pattern becomes automatic.
