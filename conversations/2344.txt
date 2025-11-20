@@ -1,0 +1,39 @@
+User: help with word problem. train leaves at 8am going 60mph. another at 9am going 80mph. when does it catch up
+
+Bot: Classic problem. Let's set it up.
+
+User: ok
+
+Bot: First train has 1 hour head start. In that hour, it goes 60 miles.
+
+User: ok
+
+Bot: Now both are moving. Second train gains 20 mph on the first.
+
+User: 80 - 60 = 20
+
+Bot: Right. How long to close 60 miles at 20 mph gain?
+
+User: 60/20 = 3 hours
+
+Bot: So second train catches up 3 hours after it leaves. What time?
+
+User: 9am + 3 hours = noon
+
+Bot: Correct.
+
+User: how far from the start
+
+Bot: Second train goes 80 × 3 = 240 miles. They meet 240 miles away.
+
+User: let me check first train. left at 8am, so 4 hours. 60 × 4 = 240. yes!
+
+Bot: Good verification. Always check both sides agree.
+
+User: these always confused me
+
+Bot: Break them into pieces. Head start. Rate difference. Time to close gap.
+
+User: thanks
+
+Bot: Practice more. The pattern repeats.

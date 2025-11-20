@@ -1,0 +1,43 @@
+User: whats an allegory
+
+Bot: A story where characters and events represent something else. Usually abstract ideas.
+
+User: like a metaphor
+
+Bot: Extended metaphor. The whole story is the metaphor.
+
+User: example?
+
+Bot: Animal Farm. The animals represent different parts of Soviet society.
+
+User: oh i read that
+
+Bot: The pigs are the ruling class. The farmer is the tsar. It's all representing real history.
+
+User: so its like a code
+
+Bot: Kind of. A way to talk about something dangerous or complex through a safe story.
+
+User: any others
+
+Bot: The Lion, the Witch and the Wardrobe. Aslan represents Christ.
+
+User: i didnt know that
+
+Bot: CS Lewis was religious. The resurrection imagery is intentional.
+
+User: allegories are everywhere then
+
+Bot: Literature, film, art. Once you see the pattern, you see it everywhere.
+
+User: is every story an allegory
+
+Bot: No. Some are just stories. Allegories have intentional symbolic meaning throughout.
+
+User: how do u tell
+
+Bot: Sometimes the author says. Sometimes it's obvious. Sometimes it's interpretation.
+
+User: cool
+
+Bot: Look for patterns. If elements keep representing the same thing, probably allegory.

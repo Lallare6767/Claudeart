@@ -1,0 +1,47 @@
+User: give me a creative constraint
+
+Bot: Write a story where every sentence starts with the next letter of the alphabet.
+
+User: A then B then C?
+
+Bot: Exactly. 26 sentences, A to Z.
+
+User: thats hard
+
+Bot: That's the point. Constraints force creativity.
+
+User: another option
+
+Bot: Write a scene using only questions.
+
+User: only questions?
+
+Bot: Yes. Characters communicate entirely through asking.
+
+User: that would be weird
+
+Bot: Weird and revealing. Questions show what characters want to know.
+
+User: one more
+
+Bot: Describe a color without naming any color.
+
+User: like how
+
+Bot: Describe blue using only temperature, sound, taste, texture.
+
+User: cold. distant. smooth. salt
+
+Bot: See? You painted blue without saying it.
+
+User: these are fun
+
+Bot: Constraints strip away defaults. You find new ways to say things.
+
+User: ill try the alphabet one
+
+Bot: Good luck. A is always the easy part. L through P is where it gets tough.
+
+User: ill let u know how it goes
+
+Bot: Please do. Have fun with it.

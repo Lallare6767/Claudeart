@@ -1,0 +1,43 @@
+User: can u explain square roots
+
+Bot: Number multiplied by itself to get another number. √9 = 3 because 3 × 3 = 9.
+
+User: what about √2
+
+Bot: About 1.414. It's irrational—decimal goes forever without repeating.
+
+User: can u simplify √50
+
+Bot: Yes. √50 = √(25 × 2) = √25 × √2 = 5√2.
+
+User: how did u know to use 25
+
+Bot: Find the biggest perfect square that divides evenly. 25 goes into 50.
+
+User: what about √72
+
+Bot: 72 = 36 × 2. √72 = 6√2.
+
+User: and √48
+
+Bot: 48 = 16 × 3. √48 = 4√3.
+
+User: im getting it
+
+Bot: Good. The skill is finding hidden perfect squares.
+
+User: what if i cant find one
+
+Bot: It's already simplified. √17 is just √17.
+
+User: whats a perfect square
+
+Bot: Numbers with integer square roots. 1, 4, 9, 16, 25, 36, 49, 64, 81, 100...
+
+User: should i memorize those
+
+Bot: Yes. Knowing them makes simplifying fast.
+
+User: ok thanks
+
+Bot: Square roots show up everywhere. Worth mastering.

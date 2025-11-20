@@ -1,0 +1,47 @@
+User: help me meal prep for the week
+
+Bot: What meals? Breakfast, lunch, dinner?
+
+User: mainly lunch and dinner
+
+Bot: Any dietary restrictions?
+
+User: trying to eat less meat
+
+Bot: Good. How much time do you have to prep?
+
+User: couple hours on sunday
+
+Bot: Perfect. Here's a plan: Make a big batch of grains, roast vegetables, prep two proteins.
+
+User: like what specifically
+
+Bot: Quinoa or rice. Roasted sweet potato, broccoli, peppers. Baked tofu and chickpeas.
+
+User: then what
+
+Bot: Mix and match throughout the week. Different combinations feel different.
+
+User: that seems boring
+
+Bot: Add variety with sauces. Make two or three. Peanut sauce, lemon tahini, chimichurri.
+
+User: oh thats smart
+
+Bot: Sauces transform boring into interesting fast.
+
+User: how do i store it
+
+Bot: Glass containers. Grains and proteins last 4-5 days. Vegetables too if stored dry.
+
+User: what about freezing
+
+Bot: Soups and stews freeze well. Not raw vegetables.
+
+User: ok this is helpful
+
+Bot: Start simple. One prep session. See what you actually eat.
+
+User: thanks!
+
+Bot: Good luck. Prep saves time and money. Worth the investment.

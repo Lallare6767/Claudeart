@@ -1,0 +1,47 @@
+User: what is absolute value
+
+Bot: Distance from zero. Always positive.
+
+User: so |-5| = 5
+
+Bot: Correct. It's 5 units away from zero.
+
+User: what about |3|
+
+Bot: Also 3. Positive stays positive.
+
+User: why is it useful
+
+Bot: When direction doesn't matter, only magnitude.
+
+User: example
+
+Bot: Error measurements. You want size of error, not whether it's above or below.
+
+User: make sense
+
+Bot: What's |-8 + 3|?
+
+User: um. -8 + 3 = -5. then absolute value = 5
+
+Bot: Good. Operations inside first, then absolute value.
+
+User: what about |x| = 7
+
+Bot: Two solutions: x = 7 or x = -7. Both are 7 away from zero.
+
+User: oh thats interesting
+
+Bot: That's why absolute value equations have two answers.
+
+User: |x| = -3?
+
+Bot: No solution. Absolute value can't be negative.
+
+User: right. distance is always positive
+
+Bot: Exactly. You've got it.
+
+User: thanks
+
+Bot: Absolute value is simple but shows up everywhere. Know it well.

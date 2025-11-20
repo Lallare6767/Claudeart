@@ -1,0 +1,47 @@
+User: explain exponents
+
+Bot: Repeated multiplication. 2³ means 2 × 2 × 2 = 8.
+
+User: what about 2^0
+
+Bot: Any number to the zero power is 1.
+
+User: why
+
+Bot: Pattern: 2⁴ = 16, 2³ = 8, 2² = 4, 2¹ = 2. Each step divides by 2. Next is 2⁰ = 1.
+
+User: oh following the pattern
+
+Bot: Exactly. Math stays consistent.
+
+User: what about negative exponents
+
+Bot: Flip it. 2^-3 = 1/2³ = 1/8.
+
+User: so reciprocal
+
+Bot: Yes. Negative exponent means divide instead of multiply.
+
+User: what about fractions
+
+Bot: 2^(1/2) = √2. Square root.
+
+User: whoa
+
+Bot: 2^(1/3) = cube root. Fraction exponents are roots.
+
+User: so 8^(1/3) = 2
+
+Bot: Because 2³ = 8. Yes.
+
+User: this is making sense
+
+Bot: Exponents are powerful. They compress big operations.
+
+User: like 10^6 is a million
+
+Bot: Right. Easy way to write big numbers.
+
+User: thanks
+
+Bot: Practice the rules. They show up everywhere.

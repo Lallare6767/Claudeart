@@ -1,0 +1,51 @@
+User: why is the sky blue
+
+Bot: Sunlight scatters off air molecules. Blue light scatters more than other colors.
+
+User: why blue specifically
+
+Bot: Shorter wavelength. Blue light bounces around more in the atmosphere.
+
+User: then why are sunsets red
+
+Bot: More atmosphere to pass through. Blue scatters away, red gets through.
+
+User: oh so more distance
+
+Bot: Exactly. Sun near horizon = longer path = redder light.
+
+User: is the sky ever not blue
+
+Bot: On other planets, different. Mars has pink skies because of dust.
+
+User: thats cool
+
+Bot: Jupiter has bands of color from different gases and weather.
+
+User: earth is lucky
+
+Bot: Our atmosphere composition creates that specific blue. Different air, different color.
+
+User: i never thought about it before
+
+Bot: Most people don't. But physics is everywhere if you look.
+
+User: any other common questions like this
+
+Bot: Why is grass green? Why is water wet? Why does fire burn?
+
+User: answer one
+
+Bot: Grass absorbs red and blue light for photosynthesis, reflects green.
+
+User: so color is about what bounces back
+
+Bot: Exactly. Objects absorb some light and reflect the rest. You see what reflects.
+
+User: wow
+
+Bot: Color is just light wavelengths. Physics makes rainbows.
+
+User: thanks
+
+Bot: Curiosity is good. Keep asking why.

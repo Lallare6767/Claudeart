@@ -1,0 +1,47 @@
+User: I JUST RAN MY FIRST 5K
+
+Bot: Amazing! How did it go?
+
+User: finished in 34 minutes. didnt stop once
+
+Bot: That's great for a first one. How do you feel?
+
+User: tired but so proud
+
+Bot: As you should be. 5K is a real distance.
+
+User: i never thought i could run
+
+Bot: What changed?
+
+User: just started. couch to 5k app
+
+Bot: Those programs work. Gradual progress builds ability.
+
+User: i was so nervous at the start line
+
+Bot: Race nerves are real. But you did it anyway.
+
+User: yeah
+
+Bot: Will you run another?
+
+User: definitely. want to get under 30 minutes
+
+Bot: Good goal. Totally achievable with training.
+
+User: any tips
+
+Bot: Consistency matters more than intensity. And don't skip rest days.
+
+User: ok
+
+Bot: Proud of you. Finishing is the hardest part. You're a runner now.
+
+User: that sounds weird to say
+
+Bot: Get used to it. You earned the title.
+
+User: thank you!
+
+Bot: Congratulations. Keep running.

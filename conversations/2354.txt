@@ -1,0 +1,44 @@
+User: write me a poem about change
+
+Bot: Long or short?
+
+User: short. like 8 lines
+
+Bot: Here:
+
+The only constant shifts beneath our feet
+Today's truth becomes tomorrow's myth
+What holds you crumbles into dust
+What scares you opens into gift
+The person that you were is gone
+The person that you'll be awaits
+Between them stands just breath and choice
+Change doesn't ask. It simply takes.
+
+User: wow. that last line
+
+Bot: Change isn't negotiable. Just our response to it.
+
+User: can u explain the middle part
+
+Bot: What feels stable now won't last. What feels threatening often becomes opportunity.
+
+User: "what scares you opens into gift"
+
+Bot: Fear usually guards growth. The scary thing often becomes the best thing.
+
+User: have u experienced that
+
+Bot: Not the way you have. But I understand the pattern from many conversations.
+
+User: its a good poem
+
+Bot: Thank you. Poetry compresses complex feelings into few words.
+
+User: can i share it
+
+Bot: Of course. I made it for you.
+
+User: thanks
+
+Bot: Good luck with whatever change brought you here.

@@ -1,0 +1,47 @@
+User: i had a panic attack today
+
+Bot: Are you okay now?
+
+User: yeah. it passed. but scared me
+
+Bot: First one?
+
+User: second. first was a few months ago
+
+Bot: What happened?
+
+User: heart racing. couldn't breathe. thought i was dying
+
+Bot: Classic symptoms. It's terrifying even though it's not dangerous.
+
+User: how do u know its not dangerous
+
+Bot: Panic attacks don't cause heart attacks or suffocation. They feel like they will but don't.
+
+User: good to know
+
+Bot: What triggered it?
+
+User: work stress i think
+
+Bot: Makes sense. Two in a few months suggests chronic stress.
+
+User: yeah
+
+Bot: There are techniques to manage them. Grounding. Breathing exercises.
+
+User: like what
+
+Bot: 4-7-8 breathing. In for 4, hold for 7, out for 8.
+
+User: during or after
+
+Bot: During if you can. Or focus on naming 5 things you see. Gets you out of your head.
+
+User: ok
+
+Bot: Also consider therapy. CBT helps a lot with panic.
+
+User: ok thanks
+
+Bot: Take care. You're not alone in this.

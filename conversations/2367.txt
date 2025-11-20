@@ -1,0 +1,43 @@
+User: can we do a word puzzle
+
+Bot: Sure. What kind?
+
+User: anagrams
+
+Bot: I'll give you letters, you make a word?
+
+User: yes
+
+Bot: LISTEN
+
+User: hmm. listen... silent!
+
+Bot: Fast! Another one: ASTRONOMER
+
+User: thats longer. um. moon starer!
+
+Bot: Very good. This one's tricky: DORMITORY
+
+User: dorm... itory... dirty room!
+
+Bot: Classic. One more: ELEVEN PLUS TWO
+
+User: thats a lot of letters. e l e v e n p l u s t w o. twelve plus one!
+
+Bot: You're good at these.
+
+User: theyre fun. how do u know so many
+
+Bot: Pattern recognition. Anagrams are essentially rearranging the same ingredients.
+
+User: give me one more
+
+Bot: SLOT MACHINES
+
+User: slot machines... cash lost in me!
+
+Bot: Perfect. You've got a talent for this.
+
+User: thanks. that was fun
+
+Bot: Anytime. Anagrams are great for word flexibility.

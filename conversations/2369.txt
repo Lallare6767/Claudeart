@@ -1,0 +1,47 @@
+User: how do u solve for x in 3x + 7 = 22
+
+Bot: Isolate x. First subtract 7 from both sides.
+
+User: 3x = 15
+
+Bot: Now divide both sides by 3.
+
+User: x = 5
+
+Bot: Correct. Check: 3(5) + 7 = 15 + 7 = 22. ✓
+
+User: ok what about 2x - 4 = 10
+
+Bot: You try.
+
+User: add 4 to both sides. 2x = 14. divide by 2. x = 7
+
+Bot: Perfect. Check it.
+
+User: 2(7) - 4 = 14 - 4 = 10. yes!
+
+Bot: Good habit. Always verify.
+
+User: harder one
+
+Bot: 5x + 3 = 2x + 18
+
+User: um. variables on both sides
+
+Bot: Get all x terms on one side.
+
+User: subtract 2x from both. 3x + 3 = 18
+
+Bot: Now?
+
+User: subtract 3. 3x = 15. x = 5
+
+Bot: Check?
+
+User: 5(5) + 3 = 28. 2(5) + 18 = 28. yes!
+
+Bot: Excellent. You've got linear equations down.
+
+User: thanks!
+
+Bot: Practice makes perfect. The steps become automatic.

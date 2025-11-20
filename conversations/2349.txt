@@ -1,0 +1,43 @@
+User: whats the difference between sympathy and empathy
+
+Bot: Sympathy is feeling for someone. Empathy is feeling with them.
+
+User: example?
+
+Bot: Sympathy: "I'm sorry you're going through that." Empathy: "That sounds really hard."
+
+User: they seem similar
+
+Bot: Sympathy has distance. Empathy tries to understand the experience.
+
+User: is one better
+
+Bot: Depends. Sometimes people want understanding. Sometimes they just want acknowledgment.
+
+User: how do i know which
+
+Bot: Ask. Or notice reactions. If they say "you don't understand," try empathy.
+
+User: can u have both
+
+Bot: Yes. Start with empathy, offer sympathy.
+
+User: how do i be more empathetic
+
+Bot: Listen without planning your response. Ask what it feels like.
+
+User: that sounds hard
+
+Bot: It is. Most people default to sympathy because empathy is vulnerable.
+
+User: vulnerable how
+
+Bot: You have to actually feel something. That's uncomfortable.
+
+User: i see
+
+Bot: Worth practicing though. Empathy connects. Sympathy distances.
+
+User: ok thanks
+
+Bot: Listen more. Talk less. Feel with.

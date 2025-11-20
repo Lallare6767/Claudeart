@@ -1,0 +1,35 @@
+User: write me a bio for dating apps
+
+Bot: What are you looking for?
+
+User: something fun but shows im serious too
+
+Bot: What are your interests?
+
+User: hiking, cooking, reading, bad movies
+
+Bot: What's something unique about you?
+
+User: i can quote every line from the princess bride
+
+Bot: Good detail. What do you want in a partner?
+
+User: someone who laughs easily and can have deep conversations
+
+Bot: Here's a draft: "Hiking mornings, cookbook experiments evenings. Equal opportunity reader: literary fiction and trashy mysteries. Can quote every line from The Princess Bride (test me). Looking for someone who laughs at themselves and stays up too late talking about everything and nothing."
+
+User: i love that
+
+Bot: Specific beats generic. "I like fun" tells nothing. Your actual interests tell a story.
+
+User: should i mention what i do for work
+
+Bot: Only if it's interesting or you're proud of it.
+
+User: not really
+
+Bot: Then skip it. Save for conversation.
+
+User: thanks this is perfect
+
+Bot: Good luck out there. Be yourself. The right person wants that.

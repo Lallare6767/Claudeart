@@ -1,0 +1,63 @@
+User: play word association with me
+
+Bot: Sure. I say a word, you say the first thing that comes to mind?
+
+User: yes
+
+Bot: Ocean.
+
+User: waves
+
+Bot: Clock.
+
+User: time
+
+Bot: Mirror.
+
+User: reflection
+
+Bot: Secret.
+
+User: whisper
+
+Bot: Coffee.
+
+User: morning
+
+Bot: Lost.
+
+User: found
+
+Bot: Interesting. You went to the opposite.
+
+User: did i
+
+Bot: Most people say something related. You went to the resolution.
+
+User: what does that mean
+
+Bot: Maybe you're solution-oriented. Or optimistic.
+
+User: huh. lets keep going
+
+Bot: Fire.
+
+User: warm
+
+Bot: Silence.
+
+User: peace
+
+Bot: Door.
+
+User: opportunity
+
+Bot: Again with the positive spin.
+
+User: i didnt realize i did that
+
+Bot: Word association reveals patterns. You see possibilities.
+
+User: thats nice to know about myself
+
+Bot: Self-knowledge is valuable. Good game.

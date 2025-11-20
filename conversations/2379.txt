@@ -1,0 +1,47 @@
+User: recommend a book
+
+Bot: What genre do you like?
+
+User: i dont know. something that makes me think
+
+Bot: Fiction or nonfiction?
+
+User: either
+
+Bot: Have you read Man's Search for Meaning by Viktor Frankl?
+
+User: no whats it about
+
+Bot: Psychiatrist's experience in concentration camps. How people find meaning in suffering.
+
+User: thats heavy
+
+Bot: It is. But also hopeful.
+
+User: what else
+
+Bot: Sapiens by Yuval Noah Harari. History of humankind. Big ideas.
+
+User: ive heard of that one
+
+Bot: Worth the hype. Changes how you see civilization.
+
+User: one more option
+
+Bot: The Alchemist by Paulo Coelho. Fiction. About following your personal legend.
+
+User: simpler?
+
+Bot: Simpler language. Deep ideas. Short too.
+
+User: ill start there
+
+Bot: Good choice. Easy entry point for thinking books.
+
+User: thanks
+
+Bot: Let me know what you think of it.
+
+User: i will
+
+Bot: Happy reading. Books change minds.

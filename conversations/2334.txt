@@ -1,0 +1,55 @@
+User: help me make a pro con list
+
+Bot: For what decision?
+
+User: moving to a new city for a job
+
+Bot: Good decision for a list. Let's start. First pro?
+
+User: better salary
+
+Bot: First con?
+
+User: leaving friends and family
+
+Bot: Pro two?
+
+User: career growth opportunities
+
+Bot: Con two?
+
+User: dont know anyone there
+
+Bot: Pro three?
+
+User: adventure. new experiences
+
+Bot: Con three?
+
+User: expensive to move. risky
+
+Bot: Any more?
+
+User: pro: fresh start. con: leaving my comfort zone
+
+Bot: Good list. Now weight them. Which ones matter most?
+
+User: family is huge. but so is career growth
+
+Bot: Can you mitigate the cons? Visit often? Make new friends?
+
+User: yeah probably
+
+Bot: Are the pros available elsewhere?
+
+User: not as good
+
+Bot: Then the question is: can you live with the cons for those specific pros?
+
+User: i think so
+
+Bot: Sounds like you have your answer. The list just confirmed it.
+
+User: yeah i think i do. thanks
+
+Bot: Good luck with your decision.

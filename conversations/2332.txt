@@ -1,0 +1,43 @@
+User: what is probability
+
+Bot: How likely something is to happen. 0 to 1, or 0% to 100%.
+
+User: how do u calculate it
+
+Bot: Desired outcomes divided by possible outcomes.
+
+User: example
+
+Bot: Rolling a 3 on a die. One way to get 3, six possible outcomes. 1/6 or about 16.7%.
+
+User: what about rolling even
+
+Bot: Three even numbers (2, 4, 6), six outcomes. 3/6 = 1/2 = 50%.
+
+User: makes sense
+
+Bot: What about not rolling a 6?
+
+User: um. 5 ways to not roll 6? so 5/6?
+
+Bot: Correct. About 83%.
+
+User: flipping two coins and getting two heads?
+
+Bot: Four outcomes: HH, HT, TH, TT. One is HH. So 1/4 = 25%.
+
+User: what about at least one head
+
+Bot: Three outcomes have at least one head: HH, HT, TH. So 3/4 = 75%.
+
+User: this is useful
+
+Bot: Probability is everywhere. Weather, games, health risks, decisions.
+
+User: where else
+
+Bot: Insurance, gambling, medical tests, weather forecasts. All probability.
+
+User: cool thanks
+
+Bot: Practice with coins and dice. It builds intuition.

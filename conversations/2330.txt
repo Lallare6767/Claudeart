@@ -1,0 +1,39 @@
+User: what is sine cosine and tangent
+
+Bot: Ratios of triangle sides. SOH CAH TOA.
+
+User: what does that mean
+
+Bot: Sine = Opposite/Hypotenuse. Cosine = Adjacent/Hypotenuse. Tangent = Opposite/Adjacent.
+
+User: can u draw it
+
+Bot: Imagine a right triangle. The angle you care about has a side opposite to it and a side adjacent to it. The longest side is the hypotenuse.
+
+User: ok
+
+Bot: If the angle is θ, sin(θ) = opposite side ÷ hypotenuse.
+
+User: example?
+
+Bot: Triangle with opposite = 3, adjacent = 4, hypotenuse = 5. Sin(θ) = 3/5 = 0.6.
+
+User: and cosine
+
+Bot: Cos(θ) = 4/5 = 0.8.
+
+User: tangent?
+
+Bot: Tan(θ) = 3/4 = 0.75.
+
+User: why do we need all three
+
+Bot: Different problems give you different known sides. Each ratio helps depending on what you have.
+
+User: when do u use this
+
+Bot: Engineering. Physics. Navigation. Anything with angles and distances.
+
+User: ok thanks
+
+Bot: Practice with actual triangles. It clicks faster with visuals.

@@ -1,0 +1,43 @@
+User: how do i ask for a raise
+
+Bot: Start with research. What's the market rate for your role?
+
+User: ok then what
+
+Bot: Document your accomplishments. Specific numbers if possible.
+
+User: like what
+
+Bot: Revenue generated. Costs saved. Projects completed. Metrics improved.
+
+User: i have some of those
+
+Bot: Good. Then schedule a meeting specifically for this. Don't ambush.
+
+User: what do i say
+
+Bot: "I'd like to discuss my compensation. Based on my contributions and market research, I'd like to request a raise to [amount]."
+
+User: what amount
+
+Bot: Know your number. Usually 10-20% depending on how underpaid you are.
+
+User: what if they say no
+
+Bot: Ask what you'd need to do to get there. And get a timeline.
+
+User: should i threaten to leave
+
+Bot: No. But you can leave if they won't pay fairly. That's just information for you.
+
+User: im scared
+
+Bot: Most people are. Practice your pitch. The more prepared, the more confident.
+
+User: ok
+
+Bot: Worst case, you get information about how they value you.
+
+User: true. thanks
+
+Bot: You're worth advocating for. Do it.

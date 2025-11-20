@@ -1,0 +1,43 @@
+User: write me a breakup text
+
+Bot: Who's ending it? You?
+
+User: yes
+
+Bot: How long were you together?
+
+User: 3 months
+
+Bot: In person is better, but if text is necessary: be kind, be clear, don't overexplain.
+
+User: ok write it
+
+Bot: "Hey. I've been thinking about us, and I don't feel like we're right for each other. I think we should end things. I'm sorry, and I wish you well."
+
+User: thats so short
+
+Bot: Short is kind. Long explanations invite debate.
+
+User: should i say why
+
+Bot: Only if they ask. And keep it simple.
+
+User: what if they want to talk
+
+Bot: You can talk. But don't let them convince you to change your mind if you're sure.
+
+User: im sure
+
+Bot: Then stay firm. You can be compassionate and firm.
+
+User: i feel bad
+
+Bot: Of course. But staying when you don't want to is worse for both of you.
+
+User: true
+
+Bot: Breakups hurt. But they're necessary. Send the text.
+
+User: ok
+
+Bot: Good luck. Be gentle but clear.

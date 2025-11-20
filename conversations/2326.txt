@@ -1,0 +1,43 @@
+User: quick whats 15 × 12
+
+Bot: 180.
+
+User: how did u do that fast
+
+Bot: 15 × 12 = 15 × 10 + 15 × 2 = 150 + 30 = 180.
+
+User: oh breaking it apart
+
+Bot: Distributive property. Makes mental math easier.
+
+User: what about 24 × 5
+
+Bot: Half of 24 is 12. Move decimal: 120.
+
+User: wait what
+
+Bot: Multiplying by 5 is same as dividing by 2 and multiplying by 10.
+
+User: mind blown
+
+Bot: Works every time. 5 = 10/2.
+
+User: ok 48 × 5
+
+Bot: 48/2 = 24. Times 10 = 240.
+
+User: thats amazing. 16 × 25?
+
+Bot: 25 is 100/4. So 16 × 100/4 = 1600/4 = 400.
+
+User: these tricks are so good
+
+Bot: Mental math is about finding easier equivalent problems.
+
+User: any other tricks
+
+Bot: For multiplying by 9: multiply by 10 and subtract once. 7 × 9 = 70 - 7 = 63.
+
+User: i shouldve learned this years ago
+
+Bot: Better late than never. Practice and they become automatic.

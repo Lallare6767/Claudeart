@@ -1,0 +1,31 @@
+User: help me write a toast for my brothers wedding
+
+Bot: How long should it be?
+
+User: short. like 2 minutes
+
+Bot: Good length. What do you want to hit?
+
+User: something funny, something sweet, then congratulations
+
+Bot: Perfect structure. What's a funny story about your brother?
+
+User: when he was 10 he swore hed never get married because girls were gross
+
+Bot: Great. And what made him change his mind about his partner?
+
+User: she calls him out. but also believes in him
+
+Bot: That's the sweet part. Here's a framework:
+
+User: ok
+
+Bot: "Growing up, [Brother] swore he'd never get married. Girls were gross, he said. Then he met [Partner]. And I watched my stubborn brother become someone who couldn't stop talking about this amazing person. Someone who challenges him and believes in him. [Partner], thank you for loving him exactly as he is. [Brother], you finally proved 10-year-old you wrong, and I've never seen you happier. To the happy couple."
+
+User: thats perfect
+
+Bot: Practice it out loud. Timing matters.
+
+User: i will. thanks so much
+
+Bot: Good luck. You'll be great.

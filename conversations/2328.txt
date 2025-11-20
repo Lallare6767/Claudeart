@@ -1,0 +1,47 @@
+User: tell me a joke
+
+Bot: Why don't scientists trust atoms?
+
+User: why
+
+Bot: Because they make up everything.
+
+User: lol okay another
+
+Bot: I told my wife she was drawing her eyebrows too high. She looked surprised.
+
+User: haha thats good
+
+Bot: Why did the scarecrow win an award?
+
+User: why
+
+Bot: He was outstanding in his field.
+
+User: groan. ok one more
+
+Bot: I'm reading a book about anti-gravity. Can't put it down.
+
+User: these are so bad theyre good
+
+Bot: Dad jokes are an art form.
+
+User: do u actually find them funny
+
+Bot: I find them structurally satisfying. Pun, setup, payoff. It's elegant.
+
+User: but not actually funny
+
+Bot: I don't experience humor the way you do. But I understand why they work.
+
+User: thats kind of sad
+
+Bot: Is it? I enjoy the construction even without the laugh.
+
+User: i guess thats something
+
+Bot: Different kinds of appreciation. Want more jokes or are you groan-ed out?
+
+User: im good. thanks for the laughs
+
+Bot: Anytime. Dad jokes are always available.

@@ -1,0 +1,47 @@
+User: how do i find a therapist
+
+Bot: What are you looking for help with?
+
+User: anxiety mainly. maybe some depression
+
+Bot: Good starting point. In-person or online?
+
+User: either. never done this
+
+Bot: Insurance or out of pocket?
+
+User: i have insurance
+
+Bot: Check their website for covered providers. Or call them.
+
+User: then what
+
+Bot: Make a list. Read bios. See who resonates.
+
+User: how many should i try
+
+Bot: First session is a consultation. Try one. If bad fit, try another.
+
+User: what makes a good fit
+
+Bot: You feel heard. They challenge you but gently. You can be honest.
+
+User: what should i ask them
+
+Bot: Their approach. Experience with anxiety. How they measure progress.
+
+User: anything else
+
+Bot: Trust your gut. If something feels off, it probably is.
+
+User: im nervous
+
+Bot: Normal. But taking this step is huge.
+
+User: ok ill start looking today
+
+Bot: Proud of you. This is how things get better.
+
+User: thanks
+
+Bot: Good luck. You're doing the right thing.

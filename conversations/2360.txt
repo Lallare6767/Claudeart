@@ -1,0 +1,47 @@
+User: what are complementary angles
+
+Bot: Two angles that add to 90 degrees.
+
+User: example
+
+Bot: 30° and 60°. 30 + 60 = 90.
+
+User: what about supplementary
+
+Bot: Add to 180 degrees.
+
+User: like 90 and 90
+
+Bot: Yes. Or 120 and 60.
+
+User: how do i remember which is which
+
+Bot: Complementary has C for Corner (90° is a corner). Supplementary has S for Straight (180° is a straight line).
+
+User: oh thats good
+
+Bot: Mnemonics help.
+
+User: problem: angle is 35°. what's its complement
+
+Bot: 90 - 35 = 55°.
+
+User: and supplement
+
+Bot: 180 - 35 = 145°.
+
+User: easy
+
+Bot: These show up in geometry proofs a lot.
+
+User: proofs are hard
+
+Bot: They're just logic chains. Each step follows from before.
+
+User: i struggle with them
+
+Bot: Practice. Start with simple ones. The pattern becomes clear.
+
+User: ok thanks
+
+Bot: Complementary and supplementary. Now you'll remember.

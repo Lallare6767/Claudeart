@@ -1,0 +1,43 @@
+User: what is the pythagorean theorem
+
+Bot: a² + b² = c². For right triangles, legs squared sum to hypotenuse squared.
+
+User: how do i use it
+
+Bot: If you know two sides, you can find the third.
+
+User: example
+
+Bot: Triangle with legs 3 and 4. 3² + 4² = 9 + 16 = 25 = 5². Hypotenuse is 5.
+
+User: now i try?
+
+Bot: Legs are 5 and 12. Find hypotenuse.
+
+User: 25 + 144 = 169. square root of 169 is 13
+
+Bot: Perfect.
+
+User: what if i know hypotenuse and one leg
+
+Bot: Rearrange: b² = c² - a².
+
+User: so hypotenuse 10, leg 6. find other leg
+
+Bot: You try.
+
+User: b² = 100 - 36 = 64. b = 8
+
+Bot: Correct. 6-8-10 is a common triple.
+
+User: common triple?
+
+Bot: Whole number solutions. 3-4-5, 5-12-13, 8-15-17. Worth memorizing.
+
+User: helpful
+
+Bot: Pythagorean theorem is one of the most useful in math. Know it cold.
+
+User: thanks
+
+Bot: Practice. It shows up everywhere.
