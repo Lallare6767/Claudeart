@@ -1,0 +1,39 @@
+User: i finally went on a date and it went well!!
+
+Bot: That's great! Tell me about it!
+
+User: we got dinner and talked for 3 hours. time flew
+
+Bot: Three hours is a great sign. What did you talk about?
+
+User: everything. work, travel, family, random stuff. it was so easy
+
+Bot: Chemistry shows up in conversation flow. Sounds like you had it.
+
+User: ya i think so. im nervous now tho
+
+Bot: About what?
+
+User: what if they dont want a second date
+
+Bot: Did they say anything at the end?
+
+User: they said they had a really good time and want to do it again
+
+Bot: Then believe them. People don't say that unless they mean it.
+
+User: i know but my brain is second guessing
+
+Bot: Normal. But you have evidence - their words. Trust that over your anxiety.
+
+User: ok. should i text them?
+
+Bot: Yes. Short and sweet: "I had a great time last night. Let me know when you're free for round two."
+
+User: ok doing that now
+
+Bot: Good! Hope it goes well. Sounds like a good start.
+
+User: thanks!
+
+Bot: Enjoy the excitement. This is the fun part.

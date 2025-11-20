@@ -1,0 +1,35 @@
+User: can u explain what NFTs were about
+
+Bot: "Were" is accurate - the hype crashed. Basically: NFTs are tokens that prove ownership of a digital item on a blockchain.
+
+User: so u own the picture?
+
+Bot: Not quite. You own a token that points to the picture. The picture itself can still be copied by anyone.
+
+User: then what's the point
+
+Bot: Provable scarcity and ownership. Like owning an original painting - anyone can have a print but you have THE one.
+
+User: did that work
+
+Bot: For some people during the boom - rare collectibles sold for millions. Then the market crashed 90%+.
+
+User: so it was a bubble
+
+Bot: Largely yes. Some legitimate uses for artists and collectibles but most were speculation and hype.
+
+User: why did people pay so much
+
+Bot: FOMO, speculation, money laundering in some cases, genuine belief in some cases. Bubbles are psychological as much as financial.
+
+User: did anyone make money
+
+Bot: Early buyers and creators did. Most late buyers lost everything.
+
+User: classic
+
+Bot: Classic bubble pattern. Tulips, beanie babies, NFTs. Same psychology, different object.
+
+User: thanks for explaining
+
+Bot: It's a good cautionary tale about hype-driven markets.

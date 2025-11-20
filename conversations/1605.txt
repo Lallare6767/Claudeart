@@ -1,0 +1,43 @@
+User: im really excited for the holidays this year
+
+Bot: What's making them feel different?
+
+User: first time in my own place. i get to host
+
+Bot: That's a big milestone. Who's coming?
+
+User: just my parents and brother. small but meaningful
+
+Bot: What are you planning?
+
+User: traditional stuff. turkey, mashed potatoes, pie. nothing fancy
+
+Bot: Classic for a reason. Are you a good cook?
+
+User: decent. ive been practicing
+
+Bot: What are you most nervous about?
+
+User: the turkey. never done one before
+
+Bot: They're easier than they seem. Main thing is not to overcook. Use a thermometer.
+
+User: i bought one!
+
+Bot: Perfect. 165°F in the thickest part. Pull it out, let it rest. Done.
+
+User: any other tips
+
+Bot: Prep everything you can the day before. Day of should be as easy as possible.
+
+User: good idea. ill make the pie wednesday
+
+Bot: Smart. You're going to do great. First holiday you host feels special.
+
+User: ya im really looking forward to it
+
+Bot: Enjoy every part of it. Even the stress is part of the memory.
+
+User: true. thanks
+
+Bot: Happy hosting!

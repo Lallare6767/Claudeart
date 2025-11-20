@@ -1,0 +1,39 @@
+User: i want to tell my partner i love them for the first time
+
+Bot: That's a big moment. How long have you been together?
+
+User: about 4 months
+
+Bot: How are you feeling about it?
+
+User: nervous. excited. scared they wont say it back
+
+Bot: All normal. Do you feel confident that you actually love them or is it the relationship escalator?
+
+User: no i really feel it. i cant stop thinking about them. i want their happiness
+
+Bot: Those are good indicators. What scares you about them not saying it back?
+
+User: that it means they dont feel as strongly
+
+Bot: Possibly. But people also have different timelines. Not saying it back immediately doesn't mean never.
+
+User: i know but itll still hurt
+
+Bot: It might. But holding it back because you're scared isn't fair to either of you. Love is meant to be expressed.
+
+User: youre right
+
+Bot: When are you thinking of telling them?
+
+User: maybe this weekend. were going on a hike
+
+Bot: Nice setting. Intimate but not too much pressure.
+
+User: any tips
+
+Bot: Be genuine. Don't attach expectations to their response. The point is to tell your truth.
+
+User: ok. wish me luck
+
+Bot: Good luck! This is exciting. Enjoy the moment.

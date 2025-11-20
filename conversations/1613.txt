@@ -1,0 +1,55 @@
+User: quiz me on mental math
+
+Bot: Ready. 7 × 8?
+
+User: 56
+
+Bot: 13 × 6?
+
+User: 78
+
+Bot: 84 ÷ 7?
+
+User: 12
+
+Bot: 15 squared?
+
+User: 225
+
+Bot: Nice! 17 × 5?
+
+User: 85
+
+Bot: √196?
+
+User: 14
+
+Bot: Good! 25% of 80?
+
+User: 20
+
+Bot: 144 ÷ 12?
+
+User: 12
+
+Bot: 2 to the 7th power?
+
+User: uhh 128
+
+Bot: Correct! Last one: 19 × 11?
+
+User: 209
+
+Bot: Perfect score. Your mental math is solid.
+
+User: i practiced all the 11s tricks
+
+Bot: For 11s - 19 × 11: 1_9, put 1+9 in the middle = 209. Works for two-digit numbers.
+
+User: ya thats so helpful
+
+Bot: Mental math is mostly tricks and patterns. You've clearly learned them.
+
+User: thanks for the quiz!
+
+Bot: Anytime. Keep sharp.

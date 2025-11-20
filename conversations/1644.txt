@@ -1,0 +1,43 @@
+User: today sucked
+
+Bot: What happened?
+
+User: just everything. woke up late, spilled coffee on myself, got yelled at by a customer, then my train was delayed
+
+Bot: A cascade of bad luck. Those days are exhausting.
+
+User: ya im just done
+
+Bot: Are you home now?
+
+User: ya finally
+
+Bot: Good. What do you need right now?
+
+User: idk. nothing
+
+Bot: Shower, food, comfort show? Sometimes the body knows what it needs even when the mind doesn't.
+
+User: maybe food. i havent eaten
+
+Bot: That's probably not helping. Low blood sugar makes everything feel worse.
+
+User: ya ur right. ill order something
+
+Bot: Make it something you like. Treat yourself after a bad day.
+
+User: maybe thai food
+
+Bot: Perfect. Today's over. Tomorrow is a reset.
+
+User: i hope so
+
+Bot: Statistically, two bad days in a row is less likely than one. The odds are in your favor.
+
+User: lol ok
+
+Bot: Eat, rest, try again tomorrow.
+
+User: thanks
+
+Bot: Hang in there.

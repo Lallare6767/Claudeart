@@ -1,0 +1,35 @@
+User: how many words in this sentence: the quick brown fox jumps over the lazy dog
+
+Bot: Nine words.
+
+User: whats the 7th word
+
+Bot: "the" - the second "the" in the sentence.
+
+User: nice. now make a sentence where the 5th word is banana
+
+Bot: The monkey wanted a banana more than anything else.
+
+User: perfect. now one where every word starts with s
+
+Bot: Sally silently swept seven small stones somewhere safe.
+
+User: impressive
+
+Bot: Alliteration is fun.
+
+User: one more - exactly 6 words describing rain
+
+Bot: Water falling from gray sky above.
+
+User: good but thats 6 words
+
+Bot: That's what you asked for.
+
+User: oh wait ur right lol
+
+Bot: Counting is tricky when you're also reading meaning.
+
+User: true. thanks for playing
+
+Bot: Anytime. Word games are satisfying.

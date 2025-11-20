@@ -1,0 +1,43 @@
+User: im anxious about a medical procedure tomorrow
+
+Bot: What procedure?
+
+User: wisdom teeth removal
+
+Bot: That's routine but still scary. What specifically worries you?
+
+User: the anesthesia. being out of control
+
+Bot: General or local?
+
+User: general. going under freaks me out
+
+Bot: That's common. The loss of consciousness feels vulnerable.
+
+User: what if something goes wrong
+
+Bot: Wisdom teeth extraction is one of the safest procedures. Complications are extremely rare.
+
+User: i know the stats but
+
+Bot: Stats don't help the feeling. I get it. Have you told the oral surgeon about your anxiety?
+
+User: ya they said they do this all the time
+
+Bot: Also - you won't experience being under. One second they put the mask on, next second you're waking up.
+
+User: thats somewhat comforting
+
+Bot: Bring something comforting for after - soft blanket, favorite playlist for the drive home.
+
+User: good idea
+
+Bot: Tomorrow this will be done and you'll feel relieved. This is the worst part - the anticipation.
+
+User: ya probably
+
+Bot: Try to rest tonight. You'll get through this.
+
+User: ok. thanks
+
+Bot: Good luck tomorrow. It'll be fine.

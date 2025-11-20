@@ -1,0 +1,39 @@
+User: my neighbor keeps complaining about noise but im not loud
+
+Bot: What are they complaining about specifically?
+
+User: walking around, cooking, just living
+
+Bot: What kind of building is it?
+
+User: old apartment. wood floors
+
+Bot: Sound travels in old buildings. They might genuinely hear everything.
+
+User: but thats not my fault
+
+Bot: No, it's bad construction. But you're both stuck with it.
+
+User: so what do i do
+
+Bot: Some things help: area rugs on hard floors, felt pads on furniture, being mindful during quiet hours.
+
+User: i already have rugs
+
+Bot: Then you're doing what you can. Have you talked to them?
+
+User: they just complain. we havent talked solutions
+
+Bot: Try: "I understand the noise is frustrating. Here's what I've done - rugs, pads. What times are most important for you?"
+
+User: what if theyre unreasonable
+
+Bot: Then document and involve landlord. But try good faith conversation first.
+
+User: ok. ill talk to them
+
+Bot: Approach it as neighbors with a shared problem, not adversaries. That framing helps.
+
+User: ok. thanks
+
+Bot: Good luck. Hopefully they're reasonable once you engage.

@@ -1,0 +1,43 @@
+User: i think i need to go to therapy but im scared
+
+Bot: What scares you about it?
+
+User: talking about stuff i dont want to think about
+
+Bot: That's the point though - the stuff you don't want to think about is probably affecting you anyway.
+
+User: ya probably
+
+Bot: What specifically are you avoiding?
+
+User: childhood stuff. family things
+
+Bot: Heavy topics. But they don't have to be addressed in the first session.
+
+User: what happens in a first session
+
+Bot: Usually intake - therapist learns about you, your concerns, what you want to work on. You're evaluating each other.
+
+User: so i dont have to dive in immediately
+
+Bot: No. You control the pace. A good therapist won't push faster than you're ready.
+
+User: what if i dont like the therapist
+
+Bot: Then you try a different one. Fit matters. Not everyone clicks.
+
+User: how do i find one
+
+Bot: Insurance provider list, Psychology Today directory, or ask your doctor for referrals.
+
+User: ok. ill start looking
+
+Bot: The hardest part is making the appointment. After that it gets easier.
+
+User: ok. wish me luck
+
+Bot: You don't need luck - you're doing something brave and healthy. Good for you.
+
+User: thanks
+
+Bot: You've got this.

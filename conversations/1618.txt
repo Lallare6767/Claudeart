@@ -1,0 +1,39 @@
+User: what does depreciation mean
+
+Bot: Decrease in value over time, usually for assets.
+
+User: like what
+
+Bot: A car. You buy it for $30,000, after 5 years it's worth $15,000. That $15,000 loss is depreciation.
+
+User: why does it matter
+
+Bot: For businesses, it's a tax deduction. For you, it affects buying decisions - some things lose value faster than others.
+
+User: what depreciates fast
+
+Bot: Cars, electronics, furniture. Anything new loses value the moment you buy it.
+
+User: what holds value
+
+Bot: Real estate usually, some watches, some cars (classic or rare), certain collectibles.
+
+User: so i should buy used cars
+
+Bot: Often yes. A new car loses 20% of value the first year. A 2-year-old car already took that hit.
+
+User: what about houses
+
+Bot: Houses usually appreciate - go up in value. That's why home ownership builds wealth.
+
+User: so depreciation is bad
+
+Bot: For assets you own, yes. But it's natural. Understanding it helps you make better financial decisions.
+
+User: ok that makes sense
+
+Bot: Good. It's one of those concepts that affects you even if you never use the word.
+
+User: thanks for explaining!
+
+Bot: Anytime.

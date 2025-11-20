@@ -1,0 +1,35 @@
+User: help me with this: the sum of two numbers is 40. their difference is 12. what are the numbers
+
+Bot: 26 and 14.
+
+User: how
+
+Bot: Set up equations: x + y = 40, x - y = 12. Add them: 2x = 52, so x = 26. Plug back in: y = 14.
+
+User: can u always add equations like that
+
+Bot: Yes, when it helps eliminate a variable. You can also subtract them.
+
+User: ok try this: product is 84, sum is 19
+
+Bot: 12 and 7.
+
+User: show work
+
+Bot: xy = 84, x + y = 19. From the second: y = 19 - x. Substitute: x(19 - x) = 84. So 19x - x² = 84, or x² - 19x + 84 = 0. Factor: (x - 12)(x - 7) = 0. x = 12 or 7.
+
+User: thats harder
+
+Bot: Product problems need quadratics. Sum problems can use elimination.
+
+User: one more: twice a number plus 5 equals 23
+
+Bot: 9. Set up: 2x + 5 = 23. Subtract 5: 2x = 18. Divide: x = 9.
+
+User: ok these make sense
+
+Bot: Word problems are just translating language to equations. Once you have the equation, it's straightforward.
+
+User: thanks!
+
+Bot: Keep practicing.

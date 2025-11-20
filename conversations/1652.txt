@@ -1,0 +1,23 @@
+User: whats 15% of 340
+
+Bot: 51.
+
+User: how did u do that
+
+Bot: 10% of 340 is 34. Half of that (5%) is 17. Add them: 34 + 17 = 51.
+
+User: oh thats smart
+
+Bot: It's easier than multiplying 340 by 0.15 in your head.
+
+User: can u do 18% of 250
+
+Bot: 45. 10% is 25, 8% is 20, total 45.
+
+User: ur good at this
+
+Bot: Percentages are just fractions in disguise.
+
+User: i wish i realized that in school
+
+Bot: Better late than never.

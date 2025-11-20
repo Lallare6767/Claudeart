@@ -1,0 +1,35 @@
+User: what makes a good apology
+
+Bot: Three things: acknowledge what you did, show you understand why it was wrong, and change behavior.
+
+User: whats an example
+
+Bot: "I'm sorry I was late. I know that made you feel unimportant and wasted your time. I'll set alarms and leave earlier next time."
+
+User: so not just "im sorry"
+
+Bot: Right. "I'm sorry" without specifics is empty. You're asking for forgiveness without showing you understand what you did.
+
+User: what about "im sorry you feel that way"
+
+Bot: That's not an apology at all. That puts the problem on them for feeling it, not on you for causing it.
+
+User: people say that a lot
+
+Bot: Especially people who don't want to take responsibility but want credit for apologizing.
+
+User: what if i dont think i was wrong
+
+Bot: Then don't apologize. Fake apologies are worse than no apology. But examine whether you actually weren't wrong or just don't want to be.
+
+User: fair. what about over-apologizing
+
+Bot: That's its own problem. Apologizing for everything dilutes real apologies and often puts a burden on others to reassure you.
+
+User: i do that sometimes
+
+Bot: Apologize when you've actually done something wrong. Otherwise, "thank you for your patience" instead of "sorry for being late."
+
+User: oh thats a good switch
+
+Bot: Reframes it. Same acknowledgment, less self-flagellation.

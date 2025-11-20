@@ -1,0 +1,39 @@
+User: I GOT THE JOB
+
+Bot: CONGRATULATIONS! Which one?
+
+User: the marketing manager position! the one i really wanted
+
+Bot: That's amazing! How does it feel?
+
+User: surreal. i applied on a whim and didnt think id get it
+
+Bot: Clearly they saw something. What was the deciding factor?
+
+User: they said my presentation in the final round stood out
+
+Bot: You should be proud of that. Presentations are where a lot of people fall apart.
+
+User: i practiced so much
+
+Bot: That preparation paid off. When do you start?
+
+User: two weeks! gives me time to wrap up at my current job
+
+Bot: Are you nervous at all?
+
+User: ya. its a bigger role. more responsibility
+
+Bot: Nervousness and excitement feel similar. You're probably feeling both.
+
+User: definitely
+
+Bot: You earned this. They chose you because you demonstrated capability. Trust that.
+
+User: im gonna go celebrate with my partner
+
+Bot: Yes! This deserves celebration. Congratulations again - this is huge!
+
+User: thank you!!
+
+Bot: Go enjoy this moment!

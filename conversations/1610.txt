@@ -1,0 +1,35 @@
+User: tell me something i dont know
+
+Bot: Honey badgers can resist cobra venom - they get bitten, pass out for a bit, then wake up and keep going.
+
+User: what! thats insane
+
+Bot: They're incredibly tough. Also one of the few animals that uses tools.
+
+User: give me another one
+
+Bot: Bananas are berries but strawberries aren't. Botanical definitions are weird.
+
+User: wait what makes something a berry
+
+Bot: Comes from a single flower with one ovary and has seeds embedded in flesh. Grapes, bananas, tomatoes - all technically berries. Strawberries have seeds on outside.
+
+User: what about raspberries
+
+Bot: Not berries either. They're aggregate fruits - clusters of drupelets.
+
+User: my whole life is a lie
+
+Bot: Botanical vs culinary definitions. Nobody's lying, just using words differently.
+
+User: ok one more fact
+
+Bot: Octopuses have three hearts and blue blood, and when they swim their main heart stops - that's why they prefer crawling.
+
+User: so swimming is exhausting for them
+
+Bot: Exactly. That's why they're mostly found on the seafloor.
+
+User: i love random facts
+
+Bot: They're everywhere if you look. The world is weirder than it seems.

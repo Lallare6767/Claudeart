@@ -1,0 +1,43 @@
+User: i feel empty
+
+Bot: How long have you felt this way?
+
+User: couple weeks maybe
+
+Bot: Any idea what started it?
+
+User: not really. just kind of crept in
+
+Bot: Empty how - numb, purposeless, disconnected?
+
+User: all of it i guess. like going through the motions
+
+Bot: That sounds like it could be depression. Have you felt this way before?
+
+User: maybe a little but not this long
+
+Bot: Is anything helping even a little?
+
+User: being with friends sometimes. but then i come home and its back
+
+Bot: Alone time makes it worse?
+
+User: ya. my thoughts spiral
+
+Bot: Have you thought about talking to a professional?
+
+User: i keep meaning to but havent
+
+Bot: This might be the sign to actually do it. Two weeks of this is worth addressing.
+
+User: ya probably
+
+Bot: Make an appointment today if you can. Worst case you talk to someone once and feel better. Best case you get actual help.
+
+User: ok. ill look up therapists now
+
+Bot: Good. You're taking this seriously. That matters.
+
+User: thanks for listening
+
+Bot: Of course. Hope you feel better soon.

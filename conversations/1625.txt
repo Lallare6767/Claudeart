@@ -1,0 +1,39 @@
+User: solve: x² - 5x + 6 = 0
+
+Bot: x = 2 or x = 3.
+
+User: show me
+
+Bot: Factor: (x - 2)(x - 3) = 0. So x - 2 = 0 or x - 3 = 0. Therefore x = 2 or x = 3.
+
+User: how did u factor it
+
+Bot: Find two numbers that multiply to 6 (the constant) and add to -5 (the coefficient). That's -2 and -3.
+
+User: ok what about x² + 7x + 12 = 0
+
+Bot: Factor: (x + 3)(x + 4) = 0. So x = -3 or x = -4.
+
+User: numbers that multiply to 12 and add to 7
+
+Bot: Exactly. 3 and 4.
+
+User: what if it cant be factored easily
+
+Bot: Use the quadratic formula: x = (-b ± √(b²-4ac)) / 2a.
+
+User: i can never remember that
+
+Bot: "Negative b, plus or minus root of b squared minus four a c, all over two a."
+
+User: or that song. to the tune of pop goes the weasel
+
+Bot: That works for some people. Whatever helps it stick.
+
+User: ok these make more sense now
+
+Bot: Quadratics are formulaic. Once you see the patterns, they're systematic.
+
+User: thanks!
+
+Bot: Keep practicing.

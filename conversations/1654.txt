@@ -1,0 +1,43 @@
+User: give me a riddle
+
+Bot: I have cities but no houses, forests but no trees, and water but no fish. What am I?
+
+User: ummmm
+
+Bot: Think about something that represents things without being them.
+
+User: a painting?
+
+Bot: Close concept, wrong object.
+
+User: a globe?
+
+Bot: Very close!
+
+User: a map!!
+
+Bot: Yes! Well done.
+
+User: another one
+
+Bot: The more you take, the more you leave behind. What am I?
+
+User: footsteps!
+
+Bot: Nailed it. You're good at these.
+
+User: one more
+
+Bot: I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?
+
+User: wind chimes?
+
+Bot: Creative but no.
+
+User: an echo!
+
+Bot: Got it. Three for three.
+
+User: thanks that was fun
+
+Bot: Riddles are good brain exercise.

@@ -1,0 +1,37 @@
+User: rank the best pizza toppings
+
+Bot: That's entirely subjective but here's my take:
+
+1. Pepperoni - classic for a reason
+2. Mushrooms - earthy, goes with everything
+3. Italian sausage - texture and flavor
+4. Fresh basil - brightness and aroma
+5. Caramelized onions - sweet and savory
+
+User: no pineapple?
+
+Bot: Didn't make my top 5 but it's not as bad as people pretend. The hate is a meme.
+
+User: thank u. i like pineapple
+
+Bot: Sweet and salty works. Ham and pineapple is a legitimate combination.
+
+User: what about controversial takes
+
+Bot: Anchovies are actually good - just needs a light hand. Also arugula belongs on pizza post-bake.
+
+User: arugula yes. anchovies no
+
+Bot: Fair. They're strong.
+
+User: whats the worst topping
+
+Bot: Canned olives. Rubbery and overpowering. Fresh olives are different but canned ones ruin everything around them.
+
+User: oof harsh
+
+Bot: I have opinions about pizza.
+
+User: clearly. thanks for the fun convo
+
+Bot: Pizza opinions are important. Anytime.

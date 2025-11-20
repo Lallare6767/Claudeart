@@ -1,0 +1,39 @@
+User: i have to fire someone and i feel terrible
+
+Bot: That's a hard responsibility. What's the reason?
+
+User: performance issues. weve done multiple conversations and improvement plans
+
+Bot: So this isn't a surprise to them?
+
+User: no. theyve been warned
+
+Bot: That makes it less cruel at least. You did the process right.
+
+User: but i still feel bad. they have bills and stuff
+
+Bot: Of course you do. You're human. But keeping them doesn't help either of you.
+
+User: what do i say
+
+Bot: Be direct and compassionate. "We've discussed the performance issues and the improvements haven't been enough. We're ending your employment effective [date]."
+
+User: then what
+
+Bot: Explain next steps - severance, benefits, returning equipment. Have HR details ready.
+
+User: what if they get angry or cry
+
+Bot: Let them react. Give them space. Have tissues. Don't over-explain or justify - it comes across as defensive.
+
+User: this is the worst part of management
+
+Bot: It really is. But it's necessary sometimes. The team is affected by underperformers too.
+
+User: i know. just hard
+
+Bot: It should be hard. If it were easy you'd be doing it wrong.
+
+User: ok. thanks for talking me through it
+
+Bot: You've got this. It'll be over soon and you'll both move on.

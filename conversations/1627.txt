@@ -1,0 +1,43 @@
+User: i cant decide between two job offers
+
+Bot: Congrats on having options. What are they?
+
+User: one pays more but seems boring. one pays less but sounds exciting
+
+Bot: How much is the pay difference?
+
+User: about 15k
+
+Bot: That's significant. What makes the lower-paying one exciting?
+
+User: more growth potential, interesting problems, better team vibe
+
+Bot: And the higher-paying one?
+
+User: stable company, clear role, but just... fine. nothing inspiring
+
+Bot: Will the money difference meaningfully change your life?
+
+User: not really. id be comfortable either way
+
+Bot: Then it's not really about money - it's about what you value.
+
+User: i want to be excited about work
+
+Bot: There's your answer.
+
+User: but what if the exciting one doesnt work out
+
+Bot: Then you'll have experience and be able to find something else. At least you tried.
+
+User: and if i take the safe one
+
+Bot: You might wonder what if. And "fine" has a way of becoming resentment.
+
+User: ya thats what im scared of
+
+Bot: Taking the risk feels scarier but it's aligned with what you want. Safe isn't always actually safe.
+
+User: ok. think im gonna take the exciting one
+
+Bot: Trust that. Good luck!

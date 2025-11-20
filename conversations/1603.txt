@@ -1,0 +1,35 @@
+User: whats 2/3 + 3/4
+
+Bot: 17/12 or 1 5/12.
+
+User: how
+
+Bot: Find common denominator: 12. Convert: 2/3 = 8/12, 3/4 = 9/12. Add: 8+9 = 17/12.
+
+User: and to subtract 5/6 - 1/4
+
+Bot: Common denominator: 12. 5/6 = 10/12, 1/4 = 3/12. Subtract: 10-3 = 7/12.
+
+User: why is it always 12
+
+Bot: Because 12 is a common multiple of 3, 4, and 6. It's often the LCM in these problems.
+
+User: what about 2/7 + 3/5
+
+Bot: Common denominator: 35. 2/7 = 10/35, 3/5 = 21/35. Add: 31/35.
+
+User: how did u know 35
+
+Bot: 7 and 5 are both prime and don't share factors, so LCM is just 7×5 = 35.
+
+User: what if denominators share factors
+
+Bot: Then LCM is smaller. 1/6 + 1/4: LCM is 12 not 24, because 6 and 4 share a factor of 2.
+
+User: ok this is clicking
+
+Bot: Good. The common denominator is the key skill. Once you have that, adding is easy.
+
+User: thanks!
+
+Bot: Keep practicing.

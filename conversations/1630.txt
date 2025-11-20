@@ -1,0 +1,43 @@
+User: trivia: what year did the titanic sink
+
+Bot: 1912.
+
+User: who invented the lightbulb
+
+Bot: Thomas Edison gets credit but many people contributed. Edison made it practical and commercially viable.
+
+User: what is the capital of australia
+
+Bot: Canberra. Not Sydney or Melbourne.
+
+User: how many bones in the human body
+
+Bot: 206 in adults. More in children - bones fuse as you grow.
+
+User: whats the smallest planet
+
+Bot: Mercury since Pluto was reclassified.
+
+User: largest animal ever
+
+Bot: Blue whale - still alive today. Up to 100 feet and 200 tons.
+
+User: when was the great wall of china built
+
+Bot: Over centuries - started around 7th century BCE, major construction in 14th-17th century CE.
+
+User: whats earths core made of
+
+Bot: Mostly iron and nickel. Inner core is solid, outer core is liquid.
+
+User: ur good at trivia
+
+Bot: I've processed a lot of information. Trivia retrieval is relatively easy for me.
+
+User: fun game anyway
+
+Bot: Happy to play anytime.
+
+User: thanks!
+
+Bot: Anytime.

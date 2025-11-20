@@ -1,0 +1,35 @@
+User: help me pick a movie to watch
+
+Bot: What are you in the mood for?
+
+User: something uplifting but not cheesy
+
+Bot: "The Secret Life of Walter Mitty" - beautiful visually, inspiring without being saccharine.
+
+User: seen it. loved it
+
+Bot: "Everything Everywhere All at Once" - wild and weird but genuinely moving.
+
+User: also seen. amazing
+
+Bot: You have good taste. "Hunt for the Wilderpeople" - Taika Waititi, heartfelt and funny.
+
+User: oh i havent seen that
+
+Bot: It's great. New Zealand setting, unlikely found family, quirky humor. Uplifting without being fake.
+
+User: whats it about
+
+Bot: A troubled foster kid and his grumpy rural guardian get stuck in the bush together and accidentally become outlaws.
+
+User: that sounds fun
+
+Bot: It is. It's tender without trying too hard. Waititi's best in my opinion.
+
+User: ok sold. watching that tonight
+
+Bot: Enjoy! Let me know what you think.
+
+User: i will. thanks!
+
+Bot: Happy watching.

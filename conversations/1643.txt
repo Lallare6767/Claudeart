@@ -1,0 +1,35 @@
+User: i forgot how to do long division
+
+Bot: No worries. Let's refresh. Want to try one?
+
+User: ya do 847 divided by 7
+
+Bot: Okay:
+7 goes into 8 once (7). Write 1, subtract: 8-7=1.
+Bring down 4 → 14. 7 goes into 14 twice (14). Write 2, subtract: 14-14=0.
+Bring down 7 → 7. 7 goes into 7 once (7). Write 1, subtract: 7-7=0.
+Answer: 121.
+
+User: oh ok that makes sense. let me try 936 divided by 4
+
+Bot: Go ahead and work through it.
+
+User: 4 into 9 is 2, remainder 1. bring down 3 makes 13. 4 into 13 is 3, remainder 1. bring down 6 makes 16. 4 into 16 is 4. so 234
+
+Bot: Perfect! You've got it.
+
+User: what about when theres a remainder at the end
+
+Bot: Same process. If you had 938÷4, at the end you'd have 938 = 234 with remainder 2. Or write it as 234.5.
+
+User: how do u get the .5
+
+Bot: Take the remainder (2) divided by divisor (4) = 0.5.
+
+User: oh right
+
+Bot: Long division is just systematic. Follow the steps and it works.
+
+User: thanks for the refresher
+
+Bot: Anytime.

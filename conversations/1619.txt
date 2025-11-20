@@ -1,0 +1,39 @@
+User: i think my manager doesnt like me
+
+Bot: What makes you think that?
+
+User: short with me in meetings. doesnt make eye contact. leaves me off emails
+
+Bot: Has it always been like this or did something change?
+
+User: it shifted a few weeks ago
+
+Bot: Can you think of anything that happened around that time?
+
+User: i pushed back on a project decision
+
+Bot: Was the pushback public?
+
+User: ya in a team meeting
+
+Bot: Some managers take that poorly even when they shouldn't. You may have bruised their ego.
+
+User: so what do i do
+
+Bot: Ask for a 1:1. "I wanted to check in - I feel like something shifted between us. Is there anything I should know?"
+
+User: what if they say everything is fine
+
+Bot: Then you've addressed it and can watch if it improves. If behavior continues, you have documentation that you tried.
+
+User: should i apologize for pushing back
+
+Bot: Not unless you were actually wrong or disrespectful. Healthy teams debate. If they can't handle that, that's on them.
+
+User: im worried about retaliation
+
+Bot: If it continues, document and involve HR if needed. But start with the conversation.
+
+User: ok. thanks
+
+Bot: Good luck. Hopefully it's just a misunderstanding.
