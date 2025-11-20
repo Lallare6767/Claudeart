@@ -1,0 +1,39 @@
+User: i just realized i have no hobbies
+
+Bot: What do you do with your free time?
+
+User: scroll my phone. watch tv. nothing really
+
+Bot: Those are passive activities. Hobbies usually involve creating or actively engaging with something.
+
+User: ya thats the problem. i dont have anything like that
+
+Bot: What did you enjoy as a kid?
+
+User: drawing i guess. and building legos
+
+Bot: Those are both options. You could pick them back up.
+
+User: legos feel childish
+
+Bot: Adult lego sets are a whole thing. Complex architecture, cars, Star Wars sets. No one thinks that's childish.
+
+User: hm maybe
+
+Bot: Drawing is also totally valid. You don't have to be good - it's just for you.
+
+User: i was ok at it before
+
+Bot: Try again. Buy a cheap sketchbook and see if you still enjoy it.
+
+User: what if i suck
+
+Bot: Then you suck. But you enjoyed doing something, which is the point of a hobby.
+
+User: fair point
+
+Bot: Pick one - legos or drawing - and try it this week. Low stakes exploration.
+
+User: ok ill get a sketchbook
+
+Bot: Good. Report back.

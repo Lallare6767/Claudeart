@@ -1,0 +1,31 @@
+User: ugh my code wont work
+
+Bot: I don't help with code, but I can help you think through the problem. What's it supposed to do and what's it actually doing?
+
+User: oh right no code. ok nvm
+
+Bot: I can still help with debugging logic though. Walk me through the problem?
+
+User: its supposed to sort a list but its not sorting correctly
+
+Bot: How is it failing? Wrong order, only partially sorted, error message?
+
+User: wrong order. some items are in wrong place
+
+Bot: Are you comparing the right things? Sometimes sorting fails because the comparison logic is off.
+
+User: hm maybe. ill check that
+
+Bot: Also check edge cases - duplicates, empty values, different data types. Those trip people up.
+
+User: good point
+
+Bot: Step through it manually with a small example. See where the logic breaks.
+
+User: ok ill try that. thanks for the debugging approach
+
+Bot: Even without seeing the code, systematic debugging is the same. Isolate the problem, test assumptions.
+
+User: true. appreciate it
+
+Bot: Good luck! You'll figure it out.

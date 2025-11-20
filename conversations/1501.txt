@@ -1,0 +1,35 @@
+User: i want a pet but idk which one
+
+Bot: What's your living situation? Apartment, house, yard?
+
+User: apartment. medium sized
+
+Bot: Any restrictions from your lease on pets?
+
+User: cats and small dogs are fine. no exotic animals
+
+Bot: How much time do you have for care? Dogs need walks and more attention than cats.
+
+User: i work from home so time isnt an issue
+
+Bot: Do you want something interactive or more independent?
+
+User: interactive. i want companionship
+
+Bot: Dog sounds right then. Cats can be companionable but dogs are consistently more actively engaged.
+
+User: what breed
+
+Bot: For an apartment: consider size and energy level. A cavalier king charles, french bulldog, or even a small mixed breed from a shelter.
+
+User: i was thinking about adopting
+
+Bot: Great option. Shelter dogs are often already trained and you can see their personality before committing.
+
+User: any downsides to adopting
+
+Bot: Sometimes health or behavioral history is unknown. But shelters usually do temperament testing and can match you well.
+
+User: ok ill visit a shelter this weekend
+
+Bot: Take your time meeting dogs. The right one will feel obvious.

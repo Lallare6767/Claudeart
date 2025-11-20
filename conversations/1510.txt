@@ -1,0 +1,35 @@
+User: name 5 words that start with Q but dont have U after
+
+Bot: Qat, qoph, qadi, qi, qintar.
+
+User: what do those even mean
+
+Bot: Qat - a plant chewed as a stimulant. Qoph - a Hebrew letter. Qadi - an Islamic judge. Qi - life force in Chinese philosophy. Qintar - Albanian currency.
+
+User: these r scrabble words
+
+Bot: Exactly. Q without U words are gold in Scrabble.
+
+User: any others
+
+Bot: Qwerty (though that's technically an acronym), qanat (irrigation tunnel), qigong (Chinese exercise).
+
+User: i need to memorize these
+
+Bot: The important ones: qi (2 letters, 11 points), qat (3 letters), qoph and qadi (4 letters).
+
+User: qi is huge
+
+Bot: It's the most useful. Easy to play, high value, clears a difficult letter.
+
+User: ur a scrabble expert now
+
+Bot: I've processed a lot of word lists. Useful for puzzles and games.
+
+User: any other scrabble tips
+
+Bot: Learn two-letter words. Over 100 valid ones. They let you parallel play and multiply points.
+
+User: noted. thanks!
+
+Bot: Crush your opponents.

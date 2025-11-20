@@ -1,0 +1,55 @@
+User: okay opposite game. i say a word u say the opposite
+
+Bot: Ready.
+
+User: hot
+
+Bot: Cold.
+
+User: happy
+
+Bot: Sad.
+
+User: ancient
+
+Bot: Modern.
+
+User: abundant
+
+Bot: Scarce.
+
+User: calm
+
+Bot: Chaotic.
+
+User: artificial
+
+Bot: Natural.
+
+User: ur good at this
+
+Bot: Antonyms are straightforward. Now a tricky one for you: what's the opposite of "love"?
+
+User: hate?
+
+Bot: Common answer but arguable. Some say indifference - the true opposite of love is not caring at all.
+
+User: oh thats deep. ok whats the opposite of "empty"
+
+Bot: Full. Easy.
+
+User: beginning
+
+Bot: End.
+
+User: question
+
+Bot: Answer. Or statement, depending how you interpret it.
+
+User: ok last one: always
+
+Bot: Never.
+
+User: that was fun
+
+Bot: Simple games can be satisfying. Good for keeping language sharp.

@@ -1,0 +1,35 @@
+User: im so overwhelmed i dont know where to start
+
+Bot: What's overwhelming you?
+
+User: everything. work deadlines, apartment is a mess, havent called my mom in weeks, need to pay bills
+
+Bot: Okay. Let's triage. What's most urgent - what has an actual deadline or consequence?
+
+User: work deadlines are tomorrow. bills are due in 3 days
+
+Bot: Work first, bills second. The apartment and your mom can wait a few days.
+
+User: but i feel bad about my mom
+
+Bot: Call her for 5 minutes today to check in. That takes it off your mental list without taking much time.
+
+User: ok
+
+Bot: For the work: what specifically is due tomorrow?
+
+User: two reports
+
+Bot: Can you finish one today and one first thing tomorrow? Don't try to do everything at once.
+
+User: probably
+
+Bot: Good. Focus on just the first report. When that's done, move to the next thing. One at a time.
+
+User: i keep thinking about all of it at once
+
+Bot: That's why you're overwhelmed. Your brain is trying to solve everything simultaneously. It can't.
+
+User: ok. first report. thats it
+
+Bot: That's it. Go.

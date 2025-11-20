@@ -1,0 +1,43 @@
+User: i applied for something and im waiting to hear back
+
+Bot: What did you apply for?
+
+User: grant for my art project
+
+Bot: Nice! How long is the typical wait?
+
+User: 4-6 weeks. im at week 3
+
+Bot: Right in the middle of the anxiety zone.
+
+User: exactly. i keep checking my email
+
+Bot: That won't make it come faster.
+
+User: i know but i cant stop
+
+Bot: Try checking twice a day - morning and evening - instead of constantly. Gives you structure.
+
+User: thats probably healthier
+
+Bot: What happens if you don't get it?
+
+User: id be disappointed but id figure something else out. apply elsewhere
+
+Bot: Good mindset. You're not betting everything on this one thing.
+
+User: trying not to
+
+Bot: What's the project about?
+
+User: its a series about urban loneliness. photographs and mixed media
+
+Bot: That sounds compelling. Relevant subject.
+
+User: thanks. fingers crossed
+
+Bot: I hope you get it. But either way, the work sounds worth making.
+
+User: ya. thanks
+
+Bot: Good luck!

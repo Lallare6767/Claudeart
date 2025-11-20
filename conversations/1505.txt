@@ -1,0 +1,39 @@
+User: how do i stop procrastinating
+
+Bot: What are you procrastinating on?
+
+User: everything. work projects, chores, personal stuff
+
+Bot: Is it the same feeling for all of them? Or different reasons?
+
+User: different i think. work feels overwhelming. chores feel boring. personal stuff feels scary
+
+Bot: Three different problems then. Overwhelming needs breaking into smaller pieces. Boring needs pairing with something enjoyable. Scary needs examining.
+
+User: what do you mean pairing
+
+Bot: Chores + podcast. Chores + music. Chores + phone call with a friend. Make the boring thing a vehicle for something you like.
+
+User: oh i do that sometimes
+
+Bot: For overwhelming: what's the smallest first step? Not the whole project - just the first five minutes.
+
+User: probably just opening the document
+
+Bot: Do that. Just open it. Momentum often carries you further.
+
+User: and the scary stuff?
+
+Bot: What specifically is scary about it?
+
+User: putting myself out there. what if i fail
+
+Bot: So it's fear of judgment or failure. You're protecting yourself by not trying.
+
+User: ya
+
+Bot: The thing is - not trying is also failing. Just quietly. Is that better?
+
+User: no
+
+Bot: Then try. The outcome is uncertain either way but only one path has a chance.

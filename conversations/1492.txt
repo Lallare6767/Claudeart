@@ -1,0 +1,31 @@
+User: help me write a bio for my dating profile
+
+Bot: Sure. What are you looking for in terms of tone - funny, sincere, casual?
+
+User: casual but with some humor
+
+Bot: Tell me a few things: What do you do for fun? What's something unique about you? What are you looking for?
+
+User: i like hiking, board games, and trying new restaurants. unique: i have a twin. looking for something serious
+
+Bot: Here's a draft: "Twin who got the looks (debatable). Happiest on a trail, at a board game night, or trying a restaurant I found on TikTok. Looking for someone to split appetizers with. Serious inquiries only."
+
+User: oh i like the appetizer line
+
+Bot: It's specific enough to be interesting, signals you want to share experiences.
+
+User: what about the twin part
+
+Bot: Optional. It's a conversation starter but might lead to weird questions. Up to you.
+
+User: maybe ill cut it
+
+Bot: The profile works without it. You can always mention it in conversation.
+
+User: ok. should i add anything else
+
+Bot: Keep it short. Maybe one more line about what you're looking for: "Want someone who can hold a conversation and is up for spontaneous adventures."
+
+User: perfect. thanks!
+
+Bot: Good luck out there. Hope you find your person.

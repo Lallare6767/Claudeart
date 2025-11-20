@@ -1,0 +1,35 @@
+User: what are the primary colors
+
+Bot: Depends on the context. For light (additive): red, green, blue. For paint/pigment (subtractive): red, yellow, blue - or more accurately cyan, magenta, yellow.
+
+User: why different
+
+Bot: Light combines to make white (additive). Paint absorbs light, so mixing takes away colors (subtractive).
+
+User: which one did i learn in school
+
+Bot: Probably red, yellow, blue. That's traditional art education. It works but isn't technically accurate.
+
+User: wait its wrong?
+
+Bot: Not wrong for practical painting, but the true subtractive primaries are cyan, magenta, yellow - that's why printers use CMY.
+
+User: mind blown
+
+Bot: Red, yellow, blue was simplified for kids. Cyan, magenta, yellow give you a wider color gamut.
+
+User: why do computer screens use RGB
+
+Bot: Because screens emit light. Red, green, blue light at full intensity makes white.
+
+User: and turning them all off is black
+
+Bot: Exactly. It's the absence of light.
+
+User: colors are more complicated than i thought
+
+Bot: They really are. Color theory is deep.
+
+User: thanks for the lesson
+
+Bot: Anytime. It's fun stuff once you dig into it.

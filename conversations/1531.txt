@@ -1,0 +1,35 @@
+User: I JUST GOT TICKETS TO SEE MY FAVORITE BAND
+
+Bot: That's exciting! Who is it?
+
+User: radiohead. i never thought id get to see them live
+
+Bot: Radiohead puts on an incredible show. Where are they playing?
+
+User: msg in new york! i got the notification and just went for it
+
+Bot: Those tickets sell out instantly. You got lucky.
+
+User: i know! my hands were shaking while i was buying them
+
+Bot: When's the show?
+
+User: three months from now. its gonna be the longest wait
+
+Bot: At least you have something amazing to look forward to.
+
+User: yes!! im already planning what to wear
+
+Bot: Do you have a favorite Radiohead album?
+
+User: kid a probably. or ok computer. hard to choose
+
+Bot: Both classics. What song do you most want to hear live?
+
+User: everything in its right place. or idioteque. or no surprises. all of them honestly
+
+Bot: They'll probably play most of those. Enjoy every second of it.
+
+User: i will. thanks for sharing my excitement!
+
+Bot: Absolutely. This is big. Have an amazing time!

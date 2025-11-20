@@ -1,0 +1,39 @@
+User: how many seconds are in a year
+
+Bot: About 31.5 million. Exactly: 31,536,000 in a non-leap year.
+
+User: how did u calculate that
+
+Bot: 60 seconds × 60 minutes × 24 hours × 365 days = 31,536,000.
+
+User: what about a leap year
+
+Bot: Add one day: 31,622,400 seconds.
+
+User: how many heartbeats in a year
+
+Bot: At 72 beats per minute average: about 37.8 million.
+
+User: wow
+
+Bot: Your heart does a lot of work. It beats over 100,000 times a day.
+
+User: how many breaths
+
+Bot: At 12-16 breaths per minute, roughly 6-8 million per year.
+
+User: bodies are wild
+
+Bot: They really are. Autonomous systems running constantly without conscious input.
+
+User: how much blood does a heart pump in a year
+
+Bot: About 1.5-2 million liters. The heart pumps around 5 liters per minute.
+
+User: these numbers r insane
+
+Bot: And that's just normal operation. Bodies are impressive engineering.
+
+User: thanks for the biology math
+
+Bot: Anytime. Numbers make things more real.

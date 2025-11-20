@@ -1,0 +1,35 @@
+User: i want to learn a new language. which one
+
+Bot: Depends on your goals. What's drawing you to learn one?
+
+User: travel mostly. and just general interest
+
+Bot: Where do you want to travel?
+
+User: europe and south america
+
+Bot: Spanish covers most of South America plus Spain, and it's one of the easier languages for English speakers. French is useful in parts of Europe and Africa. Portuguese for Brazil.
+
+User: spanish sounds most practical
+
+Bot: It is. Huge number of speakers worldwide, lots of learning resources, useful for work too.
+
+User: whats the best way to learn
+
+Bot: Combination: app for daily practice (Duolingo to start), conversation practice with native speakers, and immersion content (shows, music, podcasts in Spanish).
+
+User: how long until im conversational
+
+Bot: With consistent daily practice, basic conversation in 6 months to a year. Fluency takes longer - years of practice.
+
+User: thats a while
+
+Bot: Languages are a long game. But you'll be able to travel and communicate much sooner than fluency.
+
+User: ok im gonna download duolingo
+
+Bot: Good start. Consistency matters more than intensity. 15 minutes daily beats 2 hours weekly.
+
+User: got it. thanks!
+
+Bot: Buena suerte!

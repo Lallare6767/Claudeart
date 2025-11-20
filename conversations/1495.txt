@@ -1,0 +1,39 @@
+User: im nervous about my first day at a new job
+
+Bot: That's totally normal. When do you start?
+
+User: tomorrow
+
+Bot: What specifically makes you nervous?
+
+User: meeting everyone. not knowing what to do. looking dumb
+
+Bot: Those are all temporary. Everyone expects new people to need time to learn.
+
+User: i know but first impressions matter
+
+Bot: They do, but they're not everything. A good first week matters more than a perfect first hour.
+
+User: any tips
+
+Bot: Listen more than you talk. Write things down. Ask questions - it shows you care about getting it right.
+
+User: what if i forget peoples names
+
+Bot: Everyone does. When you forget, just ask again. "Sorry, remind me your name?" is fine. Better than avoiding them.
+
+User: should i be more outgoing or reserved
+
+Bot: Be yourself, maybe slightly reserved at first. Observe the culture before jumping in too much.
+
+User: ok. i keep imagining all the ways it could go wrong
+
+Bot: Your brain is trying to protect you by rehearsing failure. It's not helpful though.
+
+User: no its really not
+
+Bot: You got the job. They want you there. Go show them they made the right choice.
+
+User: ok. thanks
+
+Bot: Good luck tomorrow. You've got this.

@@ -1,0 +1,35 @@
+User: count the vowels in this sentence: the quick brown fox
+
+Bot: 5 vowels. e, u, i, o, o.
+
+User: now consonants
+
+Bot: 11 consonants: t, h, q, c, k, b, r, w, n, f, x.
+
+User: ok harder: she sells seashells by the seashore
+
+Bot: Vowels: e, e, a, e, a, y, e, e, a, o, e. That's 11 (including y as a vowel in "by").
+
+User: is y a vowel
+
+Bot: Sometimes. When it makes a vowel sound like in "by" or "shy" it counts. In "yes" it's a consonant.
+
+User: english is weird
+
+Bot: Very. Most rules have exceptions.
+
+User: ok whats the vowel to consonant ratio
+
+Bot: In "she sells seashells by the seashore" - 11 vowels to 17 consonants. Ratio is about 0.65 or roughly 2:3.
+
+User: is that normal for english
+
+Bot: English averages about 40% vowels, 60% consonants. So that sentence is roughly typical.
+
+User: interesting
+
+Bot: Language patterns are fun to analyze. Even normal text has these underlying statistics.
+
+User: thanks for the nerd session
+
+Bot: Always down for word analysis.

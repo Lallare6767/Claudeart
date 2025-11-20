@@ -1,0 +1,33 @@
+User: how many continents are there
+
+Bot: Seven - or six, five, or four, depending on the model.
+
+User: wait what
+
+Bot: The seven-continent model: Africa, Antarctica, Asia, Australia, Europe, North America, South America.
+
+But some models combine: Eurasia (Europe + Asia), Americas (North + South), or even Afro-Eurasia (Africa + Europe + Asia).
+
+User: why would they combine them
+
+Bot: Continental divisions are partly cultural, not just geological. Europe and Asia share a landmass with no clear geological boundary.
+
+User: so what actually counts
+
+Bot: There's no single authority. Different cultures teach different models. Seven is most common in English-speaking countries.
+
+User: thats confusing
+
+Bot: Geography is messier than we learn in school. It's political and cultural as much as scientific.
+
+User: what about australia vs oceania
+
+Bot: Some models call the continent "Oceania" and include Pacific islands. Others call it "Australia" and just mean the main landmass.
+
+User: ok so theres no right answer
+
+Bot: Not really. It depends on who you ask and what definition they're using.
+
+User: learning is wild
+
+Bot: The more you learn, the more answers become "it depends."

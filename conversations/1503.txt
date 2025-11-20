@@ -1,0 +1,43 @@
+User: ok give me a challenge
+
+Bot: What kind? Physical, mental, creative?
+
+User: mental. make me think
+
+Bot: Okay. You have 8 balls, all identical except one is slightly heavier. Using a balance scale only twice, how do you find the heavier one?
+
+User: oh this is hard
+
+Bot: Take your time.
+
+User: ok so i cant just weigh them all
+
+Bot: Right. Only two uses of the scale.
+
+User: what if i split them into groups
+
+Bot: Good direction.
+
+User: ok three groups of 3, 3, and 2? wait thats 8
+
+Bot: Keep going.
+
+User: weigh 3 against 3. if theyre equal, its in the 2 i didnt weigh
+
+Bot: And if they're not equal?
+
+User: then its in the heavier 3. then i weigh 1 vs 1 from that 3
+
+Bot: And if those are equal?
+
+User: its the third one! ok so if the first 3v3 is equal i weigh the 2
+
+Bot: Exactly. Two weighings, guaranteed to find it. Nice work.
+
+User: that was satisfying
+
+Bot: Logic puzzles are good for that. Want another?
+
+User: next time. that was enough brain exercise
+
+Bot: Fair. Good job working through it.

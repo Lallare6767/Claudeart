@@ -1,0 +1,35 @@
+User: whats 2 + 2 × 3
+
+Bot: 8.
+
+User: not 12?
+
+Bot: No. Order of operations - multiplication before addition. So it's 2 + (2×3) = 2 + 6 = 8.
+
+User: oh right PEMDAS
+
+Bot: Exactly. Parentheses, Exponents, Multiplication/Division (left to right), Addition/Subtraction (left to right).
+
+User: ok whats (2 + 2) × 3
+
+Bot: 12. Now the addition happens first because of parentheses.
+
+User: got it. what about 6 ÷ 2(1 + 2)
+
+Bot: This one is actually debated. Depends on whether you interpret 2(1+2) as division first or implicit multiplication.
+
+User: wait theres no right answer?
+
+Bot: Technically 6 ÷ 2 × 3 = 9 going left to right. But some interpret 2(3) as a single term, making it 6 ÷ 6 = 1.
+
+User: thats confusing
+
+Bot: It's ambiguous notation. Better math writing would clarify with more parentheses: (6÷2)×3 or 6÷(2×3).
+
+User: so PEMDAS isnt perfect
+
+Bot: It's a guideline. Ambiguous problems are just poorly written. Real math papers use clear notation.
+
+User: good to know
+
+Bot: Don't trust viral math problems - they're designed to confuse.

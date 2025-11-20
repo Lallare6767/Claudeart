@@ -1,0 +1,35 @@
+User: i graduated today!!!
+
+Bot: Congratulations! What did you graduate from?
+
+User: undergrad! four years done. finally have my degree
+
+Bot: That's a huge accomplishment! What did you study?
+
+User: psychology with a minor in sociology
+
+Bot: Great combination. Are you planning to continue to grad school or entering the workforce?
+
+User: taking a gap year to figure that out. maybe grad school eventually
+
+Bot: Smart. A break can give you clarity. What's the plan for the gap year?
+
+User: working, saving money, maybe traveling a bit
+
+Bot: Solid plan. The time off will help you know if you actually want more school or if you're just defaulting to it.
+
+User: exactly. i want to want it not just do it
+
+Bot: That's mature thinking. Lots of people go straight through without that reflection.
+
+User: im so relieved its done
+
+Bot: Four years is a lot of work. You should be proud. How are you celebrating?
+
+User: family dinner tonight and a trip with friends next week
+
+Bot: Perfect. Enjoy all of it. You earned it!
+
+User: thank you!!
+
+Bot: Congratulations again. Big milestone!

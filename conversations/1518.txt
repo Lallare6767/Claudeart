@@ -1,0 +1,39 @@
+User: i spent too much money this month and i feel guilty
+
+Bot: How much over budget?
+
+User: like $400
+
+Bot: On what?
+
+User: some was necessary. car repair. but also a lot of eating out and random stuff
+
+Bot: Can you cover it without going into debt?
+
+User: ya from savings. but thats the problem. i wanted to grow savings not shrink it
+
+Bot: One month isn't a pattern. What made this month different?
+
+User: stress maybe. i kept using shopping and food as comfort
+
+Bot: Stress spending is real. Recognizing it is step one.
+
+User: how do i stop
+
+Bot: Find other comfort activities that don't cost money. Walk, bath, calling a friend. Replace the behavior.
+
+User: easier said than done
+
+Bot: True. But the guilt you feel now is data - remember this feeling next time you're tempted.
+
+User: good point
+
+Bot: Also try a 24-hour rule for non-essential purchases. Wait a day. Often the urge passes.
+
+User: i should do that
+
+Bot: Rebuild from here. One bad month is recoverable. Just learn from it.
+
+User: ok thanks
+
+Bot: You'll bounce back. Just be intentional.

@@ -1,0 +1,35 @@
+User: how do i ask for a raise
+
+Bot: First question: do you deserve one?
+
+User: yes. i took on more responsibilities and im performing well
+
+Bot: Good. Then gather evidence - specific accomplishments, metrics, responsibilities beyond your job description.
+
+User: then what
+
+Bot: Schedule a dedicated meeting. Not at the end of another meeting. "I'd like to discuss my compensation - when can we schedule that?"
+
+User: what do i say in the meeting
+
+Bot: Lead with your value: "In the past year I've [accomplishment], [accomplishment], and [accomplishment]. Based on my contributions and market rate for this role, I'd like to discuss a salary adjustment."
+
+User: should i name a number
+
+Bot: Yes. Research comparable salaries and come in slightly high. If you don't name a number, they will, and it'll be lower.
+
+User: what if they say no
+
+Bot: Ask what it would take to get there. "What would I need to do to justify this raise in the next 6 months?" Get specifics in writing.
+
+User: im nervous
+
+Bot: That's normal. But not asking guarantees you don't get it. Asking might work.
+
+User: ok ill prepare my points
+
+Bot: Document everything. Go in confident about your value. You've earned this conversation.
+
+User: thanks
+
+Bot: Good luck. Let me know how it goes.

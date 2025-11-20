@@ -1,0 +1,39 @@
+User: i think i need to move to a new city
+
+Bot: What's driving that feeling?
+
+User: just stuck here. no opportunities. same routine for years
+
+Bot: Where are you thinking of going?
+
+User: maybe austin or denver. somewhere with more happening
+
+Bot: Both are popular moves right now. What's your field?
+
+User: marketing
+
+Bot: Both cities have good job markets for that. Have you looked into openings?
+
+User: a little. theres more there than here for sure
+
+Bot: What's holding you back?
+
+User: fear i guess. leaving everything familiar
+
+Bot: That's real. But staying somewhere that doesn't fit is also a choice with consequences.
+
+User: ya i know. i just keep not doing it
+
+Bot: Would it help to visit first? Spend a week, get a feel, see if it matches what you're imagining?
+
+User: ya that would make it more real
+
+Bot: Plan a trip. Explore neighborhoods, maybe even do a few informational interviews. See if the city fits.
+
+User: ok. ill look at flights
+
+Bot: Good. Research reduces fear. The unknown gets clearer with information.
+
+User: thanks
+
+Bot: You deserve to live somewhere that fits you.

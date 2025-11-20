@@ -1,0 +1,39 @@
+User: help me think of baby names
+
+Bot: Sure! Are you expecting or just brainstorming?
+
+User: expecting! due in 4 months. its a girl
+
+Bot: Congratulations! What's your style - classic, modern, unique?
+
+User: leaning classic but not too common
+
+Bot: Some options: Eleanor, Margot, Ivy, Clara, Hazel, Josephine, Audrey.
+
+User: i like hazel
+
+Bot: Hazel is beautiful. Nature-inspired, vintage but not old-fashioned. Good nickname potential with Haze or Zee.
+
+User: never thought about zee. thats cute
+
+Bot: What about middle name?
+
+User: maybe after my grandmother. her name was rose
+
+Bot: Hazel Rose. That's lovely together. Good rhythm, not too matchy.
+
+User: oh i love that
+
+Bot: One syllable middle names work well with two-syllable firsts. Keeps it balanced.
+
+User: ok hazel rose is on the list now
+
+Bot: Other first names to consider with Rose: Violet Rose, Iris Rose (but those are all flowers), Nora Rose, Ada Rose.
+
+User: i think hazel is the one though
+
+Bot: It's a great choice. Classic, elegant, and meaningful with the family connection.
+
+User: thanks!! this helped
+
+Bot: Congratulations again!

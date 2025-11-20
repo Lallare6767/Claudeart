@@ -1,0 +1,39 @@
+User: recommend me something to watch
+
+Bot: What are you in the mood for? Genre? Length? Intensity?
+
+User: something light. comedy maybe. tv show
+
+Bot: Have you seen "What We Do in the Shadows"?
+
+User: no whats it about
+
+Bot: Vampire roommates living in Staten Island, navigating modern life. Mockumentary style, absurd humor.
+
+User: that sounds fun
+
+Bot: It's very funny. Not demanding to watch. Good for relaxing.
+
+User: whats another option
+
+Bot: "Schitt's Creek" if you want heartwarming comedy. Family loses fortune and lives in small town.
+
+User: seen it. loved it
+
+Bot: "The Good Place"? Afterlife comedy, philosophical but light and funny.
+
+User: also seen. these r all good recs tho
+
+Bot: "Parks and Recreation" or "Brooklyn Nine-Nine"?
+
+User: seen parks. maybe ill try brooklyn
+
+Bot: It's in the same vein. Workplace comedy, ensemble cast, consistently funny.
+
+User: ok sold. starting that tonight
+
+Bot: Enjoy! It's a good comfort watch.
+
+User: thanks!
+
+Bot: Let me know if you need more recs later.

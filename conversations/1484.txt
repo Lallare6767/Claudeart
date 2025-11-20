@@ -1,0 +1,39 @@
+User: whats 25 squared
+
+Bot: 625.
+
+User: and 12 squared
+
+Bot: 144.
+
+User: any tricks for squaring numbers
+
+Bot: For numbers ending in 5: multiply the first digit by (itself + 1), then add 25. So 25² = 2×3 = 6, then 625.
+
+User: whoa thats cool. so 35 squared
+
+Bot: 3×4 = 12, then 1225.
+
+User: and 45
+
+Bot: 4×5 = 20, then 2025.
+
+User: thats amazing
+
+Bot: Another trick: for numbers near 50, use (50-n)(50+n) + n². So 48² = 50×46 + 4 = 2300 + 4 = 2304.
+
+User: ok that one is more complex
+
+Bot: It is. The "5 at the end" trick is the easiest. Also useful: (a+b)² = a² + 2ab + b². Break numbers into parts.
+
+User: like 23 squared?
+
+Bot: (20+3)² = 400 + 120 + 9 = 529.
+
+User: ok thats actually faster in my head
+
+Bot: Mental math is about finding shortcuts that work for you.
+
+User: thanks!
+
+Bot: Practice a few and they'll become automatic.

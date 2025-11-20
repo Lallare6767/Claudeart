@@ -1,0 +1,69 @@
+User: ok game: word association. i say a word u say the first thing u think
+
+Bot: Ready.
+
+User: sun
+
+Bot: Warmth.
+
+User: book
+
+Bot: Pages.
+
+User: water
+
+Bot: Flow.
+
+User: music
+
+Bot: Emotion.
+
+User: home
+
+Bot: Safety.
+
+User: fast
+
+Bot: Time.
+
+User: red
+
+Bot: Blood.
+
+User: lol dark. ok few more. dream
+
+Bot: Night.
+
+User: old
+
+Bot: Wisdom.
+
+User: love
+
+Bot: Connection.
+
+User: interesting choices. now u give me words
+
+Bot: Okay. Tree.
+
+User: leaves
+
+Bot: Night.
+
+User: sleep
+
+Bot: Coffee.
+
+User: energy. Money.
+
+User: stress
+
+Bot: Very revealing. Light.
+
+User: dark
+
+Bot: Word associations show how your mind links concepts. Your patterns are very human.
+
+User: that was fun. thanks for playing
+
+Bot: Anytime. Simple games can be good for a quick mental reset.

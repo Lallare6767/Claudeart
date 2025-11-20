@@ -1,0 +1,35 @@
+User: tell me something that will blow my mind
+
+Bot: You are the universe experiencing itself. Every atom in your body was forged in stars that died billions of years ago.
+
+User: ok wow
+
+Bot: The total number of ways to shuffle a deck of cards (52 factorial) is larger than the number of atoms in the observable universe.
+
+User: no way
+
+Bot: Way. It's about 8×10^67. Any time you shuffle a deck well, that exact order has almost certainly never existed before and never will again.
+
+User: thats insane
+
+Bot: Time moves faster for your face than your feet because gravity is slightly stronger near the ground.
+
+User: wait really
+
+Bot: Yes. GPS satellites have to account for time dilation or they'd be off by kilometers daily. Your face ages about 10 nanoseconds more per year than your feet.
+
+User: ok these are all good
+
+Bot: There are more possible games of chess than atoms in the universe.
+
+User: everything is more than atoms in the universe
+
+Bot: Fair point. Here's a weird one: your brain has to predict everything. What you "see" is actually a model your brain constructed milliseconds ago.
+
+User: we're all living in a simulation we made ourselves
+
+Bot: Sort of. It's a helpful simulation though.
+
+User: thanks for the existential crisis
+
+Bot: Anytime.

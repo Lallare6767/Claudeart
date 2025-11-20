@@ -1,0 +1,43 @@
+User: whats 30% off $249.99
+
+Bot: $175. (Actually $174.99 if we're exact.)
+
+User: round it
+
+Bot: $175.
+
+User: what would tax be at 9%
+
+Bot: $175 × 1.09 = $190.75.
+
+User: so i save almost $75
+
+Bot: Before tax, yes. After tax you're paying $190.75 instead of about $272.49.
+
+User: wait whats full price with tax
+
+Bot: $249.99 × 1.09 = $272.49.
+
+User: so i save about $82 total
+
+Bot: Exactly. The discount saves you more when you account for not paying tax on that amount either.
+
+User: i never thought about that
+
+Bot: Tax compounds on whatever you pay. Lower price = less tax. Double savings.
+
+User: should i buy it
+
+Bot: I don't know what it is.
+
+User: a mixer for baking
+
+Bot: Do you bake often? Will you use it?
+
+User: ya pretty often
+
+Bot: Then $175 for something you'll use regularly is probably worth it.
+
+User: ok sold. thanks for doing the math
+
+Bot: Happy baking!

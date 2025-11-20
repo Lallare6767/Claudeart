@@ -1,0 +1,39 @@
+User: i had a panic attack today
+
+Bot: I'm sorry. Are you okay now?
+
+User: ya its passed but im shaky
+
+Bot: That's normal after a panic attack. Your body is coming down from the adrenaline.
+
+User: it was so scary. i thought i was dying
+
+Bot: That's common - panic attacks can mimic heart attack symptoms. Have you had them before?
+
+User: a few times but this was the worst
+
+Bot: What triggered it?
+
+User: crowded store. i just got overwhelmed and suddenly couldnt breathe
+
+Bot: Sensory overload can definitely trigger them. Did you have a way to leave?
+
+User: ya i went to my car. then it got really bad there
+
+Bot: Anything help it pass?
+
+User: trying to control my breathing eventually. and just waiting
+
+Bot: Grounding techniques can help too - naming things you can see, hear, feel. Gives your brain something else to focus on.
+
+User: ill try that next time
+
+Bot: If they're becoming more frequent, talk to a doctor. There are effective treatments.
+
+User: ya maybe
+
+Bot: For now, rest. Be gentle with yourself today. Panic attacks are exhausting.
+
+User: ok. thanks
+
+Bot: Take care.

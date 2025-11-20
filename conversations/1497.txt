@@ -1,0 +1,39 @@
+User: whats the integral of 2x
+
+Bot: x².
+
+User: how bout 3x²
+
+Bot: x³.
+
+User: wait where did the 3 go
+
+Bot: The power rule: integral of ax^n = (a·x^(n+1))/(n+1). So integral of 3x² = 3x³/3 = x³.
+
+User: oh the 3 cancels with the new coefficient
+
+Bot: Exactly. You add 1 to the exponent and divide by that new exponent.
+
+User: what about integral of x
+
+Bot: x = x¹, so integral = x²/2.
+
+User: and just a constant like 5
+
+Bot: 5x. The integral of a constant is that constant times x.
+
+User: why
+
+Bot: Think of it as 5x⁰. Apply the rule: 5x¹/1 = 5x.
+
+User: ok that makes sense. what about 4x³
+
+Bot: 4x⁴/4 = x⁴.
+
+User: nice. these are easier than i thought
+
+Bot: Basic integration is straightforward. It gets harder with products and compositions, but the fundamentals are just reversing differentiation.
+
+User: thanks!
+
+Bot: Keep practicing.
