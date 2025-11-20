@@ -1,0 +1,39 @@
+User: help me write a complaint email
+
+Bot: About what?
+
+User: terrible customer service at a store
+
+Bot: What happened specifically?
+
+User: ignored for 20 minutes. then rude when i asked for help
+
+Bot: What outcome do you want?
+
+User: apology maybe. acknowledgment
+
+Bot: Here's a structure: State facts, explain impact, request action.
+
+User: ok
+
+Bot: "On [date] at [location], I waited 20 minutes without assistance. When I asked for help, the employee was dismissive and rude. This experience was frustrating and made me feel unwelcome. I'd appreciate acknowledgment and assurance this is being addressed."
+
+User: thats good. not too aggressive?
+
+Bot: Factual, not emotional. That's more effective.
+
+User: should i name the employee
+
+Bot: Yes, if you know it. They need specifics to act.
+
+User: what if nothing happens
+
+Bot: You tried. Post a review if you want further action.
+
+User: ok
+
+Bot: Keep a copy for reference.
+
+User: thanks for the help
+
+Bot: Good luck. You deserve better service.

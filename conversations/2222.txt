@@ -1,0 +1,51 @@
+User: explain slope
+
+Bot: How steep a line is. Rise over run.
+
+User: rise over run
+
+Bot: How much it goes up divided by how much it goes right.
+
+User: so 3/2 means
+
+Bot: Go up 3 for every 2 to the right.
+
+User: what if its negative
+
+Bot: Goes down. -3/2 means down 3 for every 2 right.
+
+User: what about 0
+
+Bot: Horizontal line. No rise.
+
+User: and undefined
+
+Bot: Vertical line. Can't divide by zero run.
+
+User: how do i find slope from two points
+
+Bot: (y₂ - y₁)/(x₂ - x₁).
+
+User: give me an example
+
+Bot: Points (1, 2) and (4, 8). Slope = (8-2)/(4-1) = 6/3 = 2.
+
+User: what does that mean
+
+Bot: For every 1 unit right, the line goes up 2.
+
+User: parallel lines have same slope
+
+Bot: Yes! And perpendicular have negative reciprocal slopes.
+
+User: so if slope is 2
+
+Bot: Perpendicular is -1/2.
+
+User: cool
+
+Bot: Slope connects algebra to geometry. It's fundamental.
+
+User: thanks!
+
+Bot: Practice finding slopes. It'll click.

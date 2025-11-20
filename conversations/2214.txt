@@ -1,0 +1,51 @@
+User: i want to start running but idk how
+
+Bot: Have you ever run before?
+
+User: a little. never consistent
+
+Bot: Start with run/walk intervals.
+
+User: like what
+
+Bot: Run 1 minute, walk 2 minutes. Repeat for 20 minutes.
+
+User: thats it?
+
+Bot: Thats plenty for starting. Build from there.
+
+User: how often
+
+Bot: Three times a week with rest days between.
+
+User: what about shoes
+
+Bot: Go to a running store. Get fitted properly.
+
+User: expensive?
+
+Bot: $100-150 but worth it. Bad shoes cause injury.
+
+User: what about speed
+
+Bot: Doesn't matter at first. Slow enough to hold a conversation.
+
+User: really that slow
+
+Bot: Yes. Speed comes later. First goal is consistency.
+
+User: ok
+
+Bot: Download Couch to 5K app. It guides the intervals.
+
+User: good idea
+
+Bot: Most people go too fast too soon and quit.
+
+User: i dont want to quit
+
+Bot: Then go slow. Build gradually. Trust the process.
+
+User: ok thanks
+
+Bot: In 8 weeks you'll be running 30 minutes straight.

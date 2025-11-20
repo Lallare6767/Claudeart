@@ -1,0 +1,51 @@
+User: rate my idea
+
+Bot: For what?
+
+User: a business. subscription meal kits for pets
+
+Bot: Interesting. Dogs or cats? Both?
+
+User: both
+
+Bot: Market research done?
+
+User: some
+
+Bot: What's the competition like?
+
+User: theres a few but room for more
+
+Bot: Differentiation?
+
+User: local sourcing. custom to pet allergies
+
+Bot: Those are good angles.
+
+User: so what do u think
+
+Bot: Pet industry is growing. Subscription models work. Could be viable.
+
+User: but
+
+Bot: Logistics are hard for fresh food. And margins are tight.
+
+User: yeah those are concerns
+
+Bot: Can you start small? Test locally before scaling?
+
+User: probably
+
+Bot: Do that. Validate before investing big.
+
+User: ok
+
+Bot: The idea isn't bad. Execution will determine success.
+
+User: fair
+
+Bot: Make sure you understand the costs deeply.
+
+User: ok thanks for the feedback
+
+Bot: Good luck. Pets people spend money on.

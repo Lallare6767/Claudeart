@@ -1,0 +1,43 @@
+User: explain ratio and proportion
+
+Bot: Ratio compares two quantities. Proportion says two ratios are equal.
+
+User: example
+
+Bot: Ratio: 3 apples to 4 oranges = 3:4. Proportion: 3:4 = 6:8.
+
+User: so proportion is an equation
+
+Bot: Yes. Two equivalent ratios.
+
+User: how do u solve proportions
+
+Bot: Cross multiply. If a/b = c/d, then ad = bc.
+
+User: solve 2/3 = x/12
+
+Bot: 2 × 12 = 3x. 24 = 3x. x = 8.
+
+User: and 5/x = 15/9
+
+Bot: 5 × 9 = 15x. 45 = 15x. x = 3.
+
+User: when do u use these
+
+Bot: Recipes, maps, scale drawings, unit rates.
+
+User: like if a recipe doubles
+
+Bot: Yes. 2 cups flour for 4 servings. For 10 servings: 2/4 = x/10.
+
+User: x = 5 cups
+
+Bot: Perfect.
+
+User: this is practical
+
+Bot: Proportions solve a lot of real-world problems.
+
+User: thanks!
+
+Bot: Keep practicing. The setup is the hard part.

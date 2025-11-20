@@ -1,0 +1,47 @@
+User: help me think of a username
+
+Bot: For what platform?
+
+User: gaming
+
+Bot: What vibe? Funny, intimidating, mysterious?
+
+User: funny but not trying too hard
+
+Bot: What games do you play?
+
+User: mostly shooters
+
+Bot: How about "AimingLowExpectations" or "FriendlyFireCasualty"?
+
+User: ha those are good
+
+Bot: "RespawnChampion" or "HeadshotHopeful"?
+
+User: i like HeadshotHopeful
+
+Bot: Self-deprecating but optimistic.
+
+User: any more options
+
+Bot: "TriggerHappyButMissing" or "BulletSponge9000"?
+
+User: BulletSponge is great
+
+Bot: So between HeadshotHopeful and BulletSponge9000?
+
+User: probably HeadshotHopeful
+
+Bot: Good choice. Shorter, funnier.
+
+User: thanks for the help
+
+Bot: Add numbers if it's taken.
+
+User: will do
+
+Bot: Have fun gaming. May your headshots hit.
+
+User: thanks
+
+Bot: Anytime.

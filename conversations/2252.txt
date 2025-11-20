@@ -1,0 +1,43 @@
+User: whats standard deviation
+
+Bot: Measures how spread out data is from the mean.
+
+User: so bigger means more spread
+
+Bot: Exactly. Small standard deviation = clustered near mean.
+
+User: how do u calculate it
+
+Bot: Find mean. Find each value's distance from mean. Square them. Average. Square root.
+
+User: thats complex
+
+Bot: Formula: √(Σ(x-μ)²/n).
+
+User: when would i use it
+
+Bot: Comparing consistency. Which student's grades are more stable?
+
+User: the one with lower sd
+
+Bot: Right. Also: understanding distributions.
+
+User: like 68% within one sd
+
+Bot: Yes! The empirical rule. 68-95-99.7 for normal distributions.
+
+User: one sd, two sd, three sd
+
+Bot: You've got it.
+
+User: why square and then root
+
+Bot: Squaring makes all distances positive. Root brings back to original scale.
+
+User: clever
+
+Bot: Statistics is elegant once you understand why.
+
+User: thanks!
+
+Bot: Standard deviation is everywhere. Finance, science, quality control.

@@ -1,0 +1,47 @@
+User: tell me something i dont know
+
+Bot: The blob of toothpaste on your brush is called a nurdle.
+
+User: what
+
+Bot: Trademark term. Companies fought over it.
+
+User: thats ridiculous
+
+Bot: The world is full of things like that.
+
+User: more
+
+Bot: There's a word for the dot over lowercase i and j: tittle.
+
+User: ha
+
+Bot: And the space between your eyebrows is called the glabella.
+
+User: i knew glabella actually
+
+Bot: Okay. Oxford University is older than the Aztec Empire.
+
+User: wait really
+
+Bot: Teaching began at Oxford in 1096. Aztec civilization started in 1325.
+
+User: thats wild
+
+Bot: History timelines are weird.
+
+User: one more
+
+Bot: Wombat poop is cube-shaped.
+
+User: why
+
+Bot: Marks territory on rocks. Cubes don't roll off.
+
+User: evolution is strange
+
+Bot: Problem solving at every level.
+
+User: thanks for the random facts
+
+Bot: Knowledge is everywhere. Keep being curious.

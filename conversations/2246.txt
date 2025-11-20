@@ -1,0 +1,47 @@
+User: whats the difference between permutation and combination
+
+Bot: Permutation: order matters. Combination: order doesn't.
+
+User: example
+
+Bot: Permutation: how many ways to arrange 3 books on a shelf? 3! = 6.
+
+User: and combination
+
+Bot: Combination: how many ways to choose 3 books from 5? Order doesn't matter.
+
+User: how do u calculate combination
+
+Bot: n! / (r!(n-r)!) for choosing r from n.
+
+User: so 5 choose 3
+
+Bot: 5!/(3!2!) = 120/(6×2) = 10.
+
+User: and permutation would be
+
+Bot: 5!/(5-3)! = 120/2 = 60.
+
+User: why bigger
+
+Bot: Because ABC and CAB count separately in permutation.
+
+User: so combination collapses them
+
+Bot: Exactly. Divides out the redundant orderings.
+
+User: when do i use each
+
+Bot: Permutation for arrangements, rankings. Combination for selections, groups.
+
+User: like lottery numbers
+
+Bot: Combination. Order you pick doesn't matter.
+
+User: this is helpful
+
+Bot: The "does order matter?" question tells you which to use.
+
+User: thanks!
+
+Bot: Keep practicing. The formulas become automatic.

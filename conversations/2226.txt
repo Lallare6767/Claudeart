@@ -1,0 +1,51 @@
+User: whats so and so squared
+
+Bot: Which number do you want to square?
+
+User: 13
+
+Bot: 13² = 169.
+
+User: how do u know that
+
+Bot: 13 × 13. Or: (10 + 3)² = 100 + 60 + 9 = 169.
+
+User: oh expand the binomial
+
+Bot: Exactly. Works for any teen number.
+
+User: 14 squared
+
+Bot: (10 + 4)² = 100 + 80 + 16 = 196.
+
+User: cool trick. what about 25
+
+Bot: 625. That one is just memory.
+
+User: any trick for it
+
+Bot: Numbers ending in 5: multiply the tens digit by itself + 1, then append 25.
+
+User: show me
+
+Bot: 25: 2 × 3 = 6, append 25 = 625.
+
+User: 35
+
+Bot: 3 × 4 = 12, append 25 = 1225.
+
+User: thats amazing
+
+Bot: Mental math has lots of tricks like this.
+
+User: 45
+
+Bot: 4 × 5 = 20, append 25 = 2025.
+
+User: i love this
+
+Bot: Math is full of patterns. Keep looking for them.
+
+User: thanks!
+
+Bot: Now you can square numbers ending in 5 instantly.

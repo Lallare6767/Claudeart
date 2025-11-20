@@ -1,0 +1,47 @@
+User: whats a function in math
+
+Bot: A rule that assigns exactly one output to each input.
+
+User: like f(x) = x + 2
+
+Bot: Yes. Input x, output x + 2.
+
+User: so f(3) = 5
+
+Bot: Exactly.
+
+User: what makes something not a function
+
+Bot: If one input gives multiple outputs.
+
+User: like what
+
+Bot: A circle. x = 0 gives two y values.
+
+User: oh the vertical line test
+
+Bot: Right! If a vertical line hits the graph twice, not a function.
+
+User: what about f(x) = x²
+
+Bot: That's a function. Each x gives one y.
+
+User: even though f(2) = f(-2)?
+
+Bot: Different inputs, same output is fine. Same input, different outputs isn't.
+
+User: oh i see
+
+Bot: Functions are very structured. That's why they're useful.
+
+User: for what
+
+Bot: Modeling relationships. Predicting. Calculating.
+
+User: everywhere in math
+
+Bot: Everywhere in life. Most things are functions.
+
+User: thanks!
+
+Bot: Start thinking about what's a function. You'll see them everywhere.

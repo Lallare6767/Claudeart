@@ -1,0 +1,47 @@
+User: what happened to my question
+
+Bot: I only see this message. What did you ask?
+
+User: something about relationships
+
+Bot: I don't remember prior conversations. Each one is new for me.
+
+User: oh right
+
+Bot: Do you want to ask again?
+
+User: i forget the exact wording
+
+Bot: What was the topic?
+
+User: how to know if a relationship is right
+
+Bot: Ah. Good question.
+
+User: what do u think
+
+Bot: Does it bring out the best in you? Do you feel safe? Can you be yourself?
+
+User: mostly yes
+
+Bot: That's a good sign.
+
+User: but sometimes we fight
+
+Bot: All couples fight. It's how you fight that matters.
+
+User: what do u mean
+
+Bot: With respect? Resolving things? Or with contempt and stonewalling?
+
+User: mostly respect
+
+Bot: Then you're okay. No relationship is friction-free.
+
+User: ok that helps
+
+Bot: Trust your gut. You know better than anyone.
+
+User: ok thanks
+
+Bot: Glad to re-answer.

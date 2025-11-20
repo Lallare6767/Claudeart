@@ -1,0 +1,63 @@
+User: can we play 20 questions
+
+Bot: Sure! Think of something. Animal, vegetable, or mineral?
+
+User: animal
+
+Bot: Is it a mammal?
+
+User: yes
+
+Bot: Is it a pet commonly kept in homes?
+
+User: yes
+
+Bot: Does it bark?
+
+User: no
+
+Bot: Does it have fur?
+
+User: yes
+
+Bot: Is it a cat?
+
+User: yes! only 5 questions
+
+Bot: Too easy. Want to go again? You ask this time.
+
+User: ok ive got one
+
+Bot: Animal, vegetable, or mineral?
+
+User: mineral
+
+Bot: Is it found in homes?
+
+User: it can be
+
+Bot: Is it used for decoration?
+
+User: sometimes
+
+Bot: Is it metal?
+
+User: no
+
+Bot: Is it a gemstone?
+
+User: getting closer
+
+Bot: Is it crystal?
+
+User: yes!
+
+Bot: Fun. Six questions for me.
+
+User: ur good at this
+
+Bot: Elimination is key. Cut the space in half each time.
+
+User: thanks for playing
+
+Bot: Anytime!

@@ -1,0 +1,43 @@
+User: convert celsius to fahrenheit
+
+Bot: Multiply by 9/5, add 32.
+
+User: so 20°C
+
+Bot: (20 × 9/5) + 32 = 36 + 32 = 68°F.
+
+User: and 30°C
+
+Bot: (30 × 9/5) + 32 = 54 + 32 = 86°F.
+
+User: other way?
+
+Bot: Subtract 32, multiply by 5/9.
+
+User: 77°F to celsius
+
+Bot: (77 - 32) × 5/9 = 45 × 5/9 = 25°C.
+
+User: is there an easy approximation
+
+Bot: Double and add 30 for C to F. For 20°C: 40 + 30 = 70°F. Close to 68.
+
+User: and F to C
+
+Bot: Subtract 30, halve it. For 77°F: 47/2 = 23.5°C. Close to 25.
+
+User: good enough for everyday
+
+Bot: Exact for science, approximate for weather.
+
+User: whats freezing in both
+
+Bot: 0°C = 32°F.
+
+User: and boiling
+
+Bot: 100°C = 212°F.
+
+User: thanks!
+
+Bot: Those reference points help calibrate.

@@ -1,0 +1,43 @@
+User: solve this inequality: 2x + 3 < 11
+
+Bot: 2x < 8, so x < 4.
+
+User: what about 5 - x > 2
+
+Bot: -x > -3, so x < 3. Remember to flip the inequality when multiplying by negative.
+
+User: wait why flip
+
+Bot: When you multiply or divide by negative, the direction reverses.
+
+User: always?
+
+Bot: Always. -2 < -1 but 2 > 1.
+
+User: ok. what about -3x ≥ 12
+
+Bot: x ≤ -4. Divided by -3, flipped the sign.
+
+User: and 4x - 1 ≤ 3x + 5
+
+Bot: x ≤ 6.
+
+User: what if theres absolute value
+
+Bot: |x - 2| < 3 means -3 < x - 2 < 3, so -1 < x < 5.
+
+User: oh it becomes a range
+
+Bot: For less than, yes. For greater than, it splits.
+
+User: splits how
+
+Bot: |x - 2| > 3 means x - 2 > 3 OR x - 2 < -3. So x > 5 OR x < -1.
+
+User: thats tricky
+
+Bot: Inequalities are just equations with direction. Keep track of flips.
+
+User: thanks!
+
+Bot: Practice the absolute value ones. They're the trickiest.

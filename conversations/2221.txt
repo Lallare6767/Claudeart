@@ -1,0 +1,51 @@
+User: i want to learn to cook but keep failing
+
+Bot: Failing how?
+
+User: things burn. taste bad. recipes dont work
+
+Bot: What are you trying to make?
+
+User: complex stuff sometimes
+
+Bot: That's the problem.
+
+User: but i want to cook like that
+
+Bot: Walk before you run.
+
+User: what should i start with
+
+Bot: Eggs. Master eggs and you can cook anything.
+
+User: just eggs?
+
+Bot: Scrambled, fried, poached, omelette. Each teaches something.
+
+User: what else
+
+Bot: Pasta. Rice. Basic vegetables. Foundational skills.
+
+User: those seem boring
+
+Bot: They're not when done well. That's the point.
+
+User: ok
+
+Bot: Also: read the whole recipe first. Mise en place.
+
+User: mise en place?
+
+Bot: Prep everything before you start. That's how professionals do it.
+
+User: ok
+
+Bot: And taste as you go. Adjust.
+
+User: ok ill try
+
+Bot: Cooking is skill, not talent. You'll get better with practice.
+
+User: i hope so
+
+Bot: Make eggs this week. Seven ways. Then we'll talk.

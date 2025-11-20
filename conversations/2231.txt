@@ -1,0 +1,55 @@
+User: i feel overwhelmed by choices
+
+Bot: What choices?
+
+User: everything. career. relationships. where to live
+
+Bot: Too many options at once.
+
+User: exactly
+
+Bot: Which one has a deadline?
+
+User: none really
+
+Bot: Then pick one to decide. Put the rest aside.
+
+User: how do i pick
+
+Bot: Which one affects the others most?
+
+User: probably career
+
+Bot: Start there. Once that's decided, others might clarify.
+
+User: but what if i choose wrong
+
+Bot: Most choices are reversible.
+
+User: not career
+
+Bot: Even career. People change jobs, industries, cities.
+
+User: i guess
+
+Bot: Analysis paralysis is worse than a wrong choice.
+
+User: but i need to get it right
+
+Bot: You need to make a choice and learn from it.
+
+User: that scares me
+
+Bot: Inaction is also a choice. Just a passive one.
+
+User: ok
+
+Bot: Give yourself a deadline. Decide by X date. Then stop thinking.
+
+User: that might help
+
+Bot: It will. Constraint breeds action.
+
+User: ok thanks
+
+Bot: Make a choice. Any forward motion is progress.

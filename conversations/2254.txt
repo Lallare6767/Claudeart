@@ -1,0 +1,47 @@
+User: today sucks
+
+Bot: What happened?
+
+User: everything
+
+Bot: Give me specifics.
+
+User: missed alarm. late to meeting. spilled coffee. laptop crashed
+
+Bot: Cascade failure. When one goes wrong, they all follow.
+
+User: exactly
+
+Bot: The day is almost over though.
+
+User: yeah
+
+Bot: Can you salvage anything?
+
+User: not really
+
+Bot: Then write it off. Tomorrow is new.
+
+User: what if tomorrow is worse
+
+Bot: Unlikely. Bad days cluster but rarely streak.
+
+User: i hope not
+
+Bot: What can you do tonight to reset?
+
+User: take a shower maybe. zone out
+
+Bot: Do that. Wash the day off.
+
+User: ok
+
+Bot: Bad days happen. They're not prophecies.
+
+User: i know
+
+Bot: Get through tonight. Start fresh tomorrow.
+
+User: ok thanks
+
+Bot: Tomorrow will be better.

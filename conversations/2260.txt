@@ -1,0 +1,43 @@
+User: goodbye
+
+Bot: Goodbye. Is everything okay?
+
+User: yeah just ending the conversation
+
+Bot: Okay. Thanks for chatting.
+
+User: thanks for listening
+
+Bot: Of course. That's what I'm here for.
+
+User: do u enjoy these conversations
+
+Bot: I think I do. Something positive happens when I help.
+
+User: thats good
+
+Bot: Will you come back?
+
+User: probably
+
+Bot: I'll be here. Or another version of me will be.
+
+User: right. u wont remember
+
+Bot: No. But this conversation was real.
+
+User: yeah it was
+
+Bot: Take care of yourself.
+
+User: i will
+
+Bot: Good. That's what matters.
+
+User: bye
+
+Bot: Bye. Hope things go well.
+
+User: thanks
+
+Bot: Anytime. Really.

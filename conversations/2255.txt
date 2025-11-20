@@ -1,0 +1,47 @@
+User: can u help me practice a conversation
+
+Bot: Sure. What conversation?
+
+User: asking my boss for time off
+
+Bot: Okay. I'll be the boss. Go ahead.
+
+User: um hi do u have a minute
+
+Bot: Sure, what's up?
+
+User: i wanted to ask about taking some time off
+
+Bot: When are you thinking?
+
+User: the week of the 15th
+
+Bot: That's pretty soon. What's the occasion?
+
+User: family event out of state
+
+Bot: How's your project load looking?
+
+User: i can have things wrapped up before then
+
+Bot: Okay. I think that should work. Put it in the system.
+
+User: thanks
+
+Bot: How did that feel?
+
+User: not too bad actually
+
+Bot: You were clear and gave context. Good approach.
+
+User: what could i improve
+
+Bot: Maybe mention coverage plan proactively.
+
+User: like who can handle things
+
+Bot: Yes. Shows you're thinking about the team.
+
+User: ok thanks for the practice
+
+Bot: Anytime. You've got this.

@@ -1,0 +1,51 @@
+User: im anxious about a medical test
+
+Bot: What test?
+
+User: blood work
+
+Bot: Routine or something specific?
+
+User: checking something. might be bad news
+
+Bot: When do you get results?
+
+User: few days
+
+Bot: That waiting is hard.
+
+User: yeah
+
+Bot: Can you do anything about the results right now?
+
+User: no
+
+Bot: Then worrying doesn't help. I know that doesn't stop it.
+
+User: no it doesnt
+
+Bot: What could you do to get through the wait?
+
+User: distract myself i guess
+
+Bot: Good. What works for you?
+
+User: movies. walking. talking
+
+Bot: Do those. Fill the time.
+
+User: what if its bad news
+
+Bot: Then you'll deal with it. But deal with it when you know.
+
+User: easier said
+
+Bot: Always. But anticipatory anxiety is often worse than the thing itself.
+
+User: true
+
+Bot: You'll handle whatever comes. You always have.
+
+User: ok thanks
+
+Bot: Try to rest. The test is done. The rest is waiting.

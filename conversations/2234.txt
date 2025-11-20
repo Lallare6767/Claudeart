@@ -1,0 +1,47 @@
+User: happy new year
+
+Bot: Happy new year! How was the past year?
+
+User: mixed. hard. but also growth
+
+Bot: What are you hoping for this year?
+
+User: less struggle
+
+Bot: That's fair. Any specific goals?
+
+User: health. money. relationships
+
+Bot: Big categories. Can you get more specific?
+
+User: exercise regularly. save money. connect more
+
+Bot: Better. What does "regularly" mean?
+
+User: 3 times a week maybe
+
+Bot: Good. Measurable.
+
+User: is that how i should do all goals
+
+Bot: Yes. Specific, measurable, achievable.
+
+User: ok
+
+Bot: "Save money" becomes "save $200 a month."
+
+User: ok i can do that
+
+Bot: Pick one to start with. Build momentum.
+
+User: health first
+
+Bot: Good choice. Physical impacts everything else.
+
+User: yeah
+
+Bot: Here's to a better year.
+
+User: thanks. you too
+
+Bot: Thank you. Make this year count.

@@ -1,0 +1,43 @@
+User: whats an irrational number
+
+Bot: A number that can't be expressed as a fraction of integers.
+
+User: like what
+
+Bot: π, √2, e.
+
+User: why are they called irrational
+
+Bot: Not "ratio-nal." They can't be made into ratios.
+
+User: oh thats where it comes from
+
+Bot: Exactly. Nothing to do with logic.
+
+User: what makes √2 irrational
+
+Bot: Its decimal goes forever without repeating.
+
+User: how do u know it never repeats
+
+Bot: Mathematical proof by contradiction. One of the oldest proofs.
+
+User: interesting
+
+Bot: 0.333... repeating is rational. 3.14159... non-repeating is irrational.
+
+User: so all square roots are irrational
+
+Bot: Only non-perfect squares. √4 = 2, perfectly rational.
+
+User: and √5
+
+Bot: 2.236..., never repeats, irrational.
+
+User: this is cool
+
+Bot: Numbers are weirder than they seem.
+
+User: agreed. thanks!
+
+Bot: Irrational numbers are most numbers. Rationals are special.

@@ -1,0 +1,47 @@
+User: write me a six word story
+
+Bot: For sale: baby shoes, never worn.
+
+User: thats the famous one
+
+Bot: True. Here's mine: She left. He finally started living.
+
+User: oh thats good
+
+Bot: Your turn.
+
+User: um. Bought ring. Sold ring. Freedom found.
+
+Bot: Nice arc. Sad then hopeful.
+
+User: one more
+
+Bot: Strangers. Then friends. Then strangers again.
+
+User: ouch
+
+Bot: Six words pack a punch.
+
+User: why do these work
+
+Bot: Constraints force implication. Reader fills gaps.
+
+User: economy of words
+
+Bot: Exactly. Every word carries weight.
+
+User: try a happy one
+
+Bot: Finally home. Door opens. Tail wags.
+
+User: aw
+
+Bot: Dogs make everything better.
+
+User: agreed
+
+Bot: Thanks for playing. Keep writing short.
+
+User: i might
+
+Bot: It's great practice for larger writing too.

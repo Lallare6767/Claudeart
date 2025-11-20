@@ -1,0 +1,43 @@
+User: whats median in statistics
+
+Bot: The middle value when data is ordered.
+
+User: like if i have 3 5 7
+
+Bot: Median is 5.
+
+User: what about 3 5 7 9
+
+Bot: Average of the two middle values. (5+7)/2 = 6.
+
+User: why use median instead of mean
+
+Bot: Median resists outliers better.
+
+User: example
+
+Bot: Salaries: 50k, 50k, 50k, 50k, 500k. Mean is 140k. Median is 50k.
+
+User: median is more representative
+
+Bot: For that data, yes.
+
+User: when is mean better
+
+Bot: Symmetric distributions without outliers.
+
+User: what about mode
+
+Bot: Most frequent value. Good for categories.
+
+User: like favorite color
+
+Bot: Exactly. Can't average colors.
+
+User: this is actually useful
+
+Bot: Statistics is everywhere once you look.
+
+User: thanks!
+
+Bot: Know when to use each. That's the skill.

@@ -1,0 +1,39 @@
+User: simplify (3x²)(4x³)
+
+Bot: 12x⁵. Multiply coefficients, add exponents.
+
+User: and (2x³)²
+
+Bot: 4x⁶. Square coefficient, multiply exponent by 2.
+
+User: what about (5x²y³)(2xy⁴)
+
+Bot: 10x³y⁷. Multiply coefficients, add exponents of same variables.
+
+User: divide: 15x⁴/3x²
+
+Bot: 5x². Divide coefficients, subtract exponents.
+
+User: and 24x⁵y³/(6x²y)
+
+Bot: 4x³y². Same process for each variable.
+
+User: what if exponent becomes negative
+
+Bot: Move to denominator. x⁻² = 1/x².
+
+User: like 8x²/4x⁵
+
+Bot: 2x⁻³ = 2/x³.
+
+User: these are fun
+
+Bot: Exponent rules make everything systematic.
+
+User: yeah once u know the rules
+
+Bot: That's all algebra is. Rules applied consistently.
+
+User: thanks!
+
+Bot: Keep practicing. Speed comes with repetition.

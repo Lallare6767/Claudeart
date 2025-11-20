@@ -1,0 +1,47 @@
+User: i made my first friend in a while
+
+Bot: That's wonderful! Where did you meet?
+
+User: a class i signed up for
+
+Bot: What kind of class?
+
+User: pottery
+
+Bot: That's a great place to meet people. How did you connect?
+
+User: just started talking. had similar humor
+
+Bot: The best friendships start that way.
+
+User: i forgot what this felt like
+
+Bot: What does it feel like?
+
+User: exciting. nervous. hopeful
+
+Bot: All good signs.
+
+User: i dont want to mess it up
+
+Bot: Don't overthink it. Just keep showing up.
+
+User: how often should i reach out
+
+Bot: Don't count. Just be consistent.
+
+User: ok
+
+Bot: Let it develop naturally.
+
+User: ok
+
+Bot: You took a risk by going to the class. That's how this happens.
+
+User: yeah im glad i did
+
+Bot: Keep taking small risks. This is the reward.
+
+User: ok thanks
+
+Bot: Have fun with your new friend.

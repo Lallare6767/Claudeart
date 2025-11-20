@@ -1,0 +1,51 @@
+User: im avoiding something i need to do
+
+Bot: What is it?
+
+User: making a difficult phone call
+
+Bot: To whom?
+
+User: insurance company about a claim
+
+Bot: What's difficult about it?
+
+User: complicated issue. will be on hold forever. might not get resolved
+
+Bot: So anticipation is worse than doing it.
+
+User: probably
+
+Bot: When will you make the call?
+
+User: i keep putting it off
+
+Bot: Set a specific time. Put it in your calendar.
+
+User: ok
+
+Bot: And expect it to take a while. Accept that.
+
+User: what if it doesnt get resolved
+
+Bot: Then you try again. But you'll have started.
+
+User: true
+
+Bot: You're spending more energy avoiding than it would take to do it.
+
+User: i know
+
+Bot: Tomorrow at 10am. Make the call.
+
+User: ok
+
+Bot: And have something nice planned after. Reward yourself.
+
+User: ok thanks
+
+Bot: One call. You can do one call.
+
+User: yeah i can
+
+Bot: Do it. Report back.
