@@ -1,0 +1,39 @@
+User: how do i multiply fractions
+
+Bot: Multiply the tops, multiply the bottoms. (a/b) × (c/d) = ac/bd.
+
+User: so 2/3 times 4/5
+
+Bot: (2×4)/(3×5) = 8/15.
+
+User: thats it?
+
+Bot: That's it. Fractions are easiest to multiply.
+
+User: what about 3/4 times 2/3
+
+Bot: 6/12 = 1/2.
+
+User: oh it simplified
+
+Bot: Always simplify. Or cross-cancel first: 3/4 × 2/3 = 1/2 × 2/2... wait, let me show properly.
+
+User: ok
+
+Bot: Cancel the 3s: (3/4) × (2/3) = (1/4) × (2/1) = 2/4 = 1/2.
+
+User: thats faster
+
+Bot: Cross-canceling saves work. Look for shared factors.
+
+User: what about dividing
+
+Bot: Flip the second fraction and multiply. (a/b) ÷ (c/d) = (a/b) × (d/c).
+
+User: so 2/3 divided by 1/4
+
+Bot: 2/3 × 4/1 = 8/3.
+
+User: cool. thanks!
+
+Bot: Fractions are easy once you know the tricks.

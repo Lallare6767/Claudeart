@@ -1,0 +1,43 @@
+User: should i tell my friend their partner is cheating
+
+Bot: How do you know?
+
+User: i saw them with someone else
+
+Bot: Saw them doing what exactly?
+
+User: kissing
+
+Bot: That's pretty clear. How close are you to this friend?
+
+User: very
+
+Bot: Then yes, tell them.
+
+User: what if it ruins the friendship
+
+Bot: They might be upset with you. But they deserve to know.
+
+User: what do i say
+
+Bot: Facts only. "I saw [partner] kissing someone at [place]." No interpretation.
+
+User: should i have proof
+
+Bot: If you have it, yes. If not, still tell them.
+
+User: they might not believe me
+
+Bot: That's their choice. You did your part.
+
+User: this sucks
+
+Bot: It does. But imagine finding out later that you knew and said nothing.
+
+User: ok ill tell them
+
+Bot: Be prepared for any reaction. They might shoot the messenger.
+
+User: but its the right thing
+
+Bot: It is.

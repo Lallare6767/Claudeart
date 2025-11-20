@@ -1,0 +1,43 @@
+User: explain negative exponents
+
+Bot: x^(-n) = 1/x^n. It's the reciprocal.
+
+User: so 2^(-3) is
+
+Bot: 1/2³ = 1/8.
+
+User: and 5^(-2)
+
+Bot: 1/25.
+
+User: what about fractions
+
+Bot: (1/2)^(-2) = 2² = 4. Flip the fraction, make exponent positive.
+
+User: oh thats cool
+
+Bot: What about x^(-1)?
+
+User: 1/x
+
+Bot: Right. So 3^(-1) = 1/3.
+
+User: and 10^(-3)
+
+Bot: 1/1000 = 0.001.
+
+User: oh its moving the decimal
+
+Bot: For base 10, yes. 10^(-1) = 0.1, 10^(-2) = 0.01, etc.
+
+User: that makes sense
+
+Bot: Negative exponents just mean "divide by this many."
+
+User: instead of multiply
+
+Bot: Exactly. Positive exponents multiply, negative divide.
+
+User: thanks!
+
+Bot: Once you see the pattern, negatives aren't scary.

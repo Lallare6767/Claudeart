@@ -1,0 +1,39 @@
+User: simplify 24/36
+
+Bot: 24/36 = 2/3.
+
+User: how
+
+Bot: Divide both by 12. GCD of 24 and 36.
+
+User: whats gcd
+
+Bot: Greatest common divisor. Largest number that divides both evenly.
+
+User: simplify 45/60
+
+Bot: 45/60 = 3/4. GCD is 15.
+
+User: and 18/27
+
+Bot: 18/27 = 2/3. GCD is 9.
+
+User: how do i find gcd quickly
+
+Bot: List factors of both numbers. Or use prime factorization.
+
+User: show me
+
+Bot: 24 = 2³ × 3. 36 = 2² × 3². Common: 2² × 3 = 12.
+
+User: thats kinda cool
+
+Bot: Or just keep dividing by common factors until you can't.
+
+User: 24/36... both divide by 2 gives 12/18... by 2 again gives 6/9... by 3 gives 2/3
+
+Bot: Exactly. Works every time.
+
+User: thanks!
+
+Bot: Simplifying fractions is just pattern recognition.

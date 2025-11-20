@@ -1,0 +1,43 @@
+User: should i tell my boss im looking for other jobs
+
+Bot: No.
+
+User: why not
+
+Bot: It creates awkwardness and they might start managing you out.
+
+User: but isnt it dishonest
+
+Bot: It's private. Your job search is your business.
+
+User: what if they find out
+
+Bot: Keep it quiet. Don't tell coworkers, don't use work computer.
+
+User: what about references
+
+Bot: Use references from previous jobs or coworkers you trust not to talk.
+
+User: my boss is my best reference
+
+Bot: Only contact them once you have an offer and need to.
+
+User: what if they counter offer
+
+Bot: Usually don't take it. They'll always know you tried to leave.
+
+User: really
+
+Bot: Most people who accept counteroffers leave within a year anyway.
+
+User: didnt know that
+
+Bot: If you're looking, there's a reason. Counter offers don't fix reasons.
+
+User: good point
+
+Bot: Keep it private until you have an offer in hand.
+
+User: ok thanks
+
+Bot: Good luck with the search.

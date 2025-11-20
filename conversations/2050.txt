@@ -1,0 +1,47 @@
+User: my pet is dying
+
+Bot: I'm so sorry. What kind of pet?
+
+User: dog. hes 14
+
+Bot: That's a good long life. How's he doing?
+
+User: not eating. barely moves
+
+Bot: Have you talked to a vet about options?
+
+User: yeah. they said its time soon
+
+Bot: That's the hardest decision.
+
+User: i dont know if i can make it
+
+Bot: You can. He needs you to.
+
+User: what if i wait too long
+
+Bot: Better a day too early than a day too late.
+
+User: i dont want him to suffer
+
+Bot: Then you know what to do.
+
+User: will he know i love him
+
+Bot: He's always known. He'll know at the end too.
+
+User: this hurts so much
+
+Bot: It should. Fourteen years of love is a lot to lose.
+
+User: hes been my best friend
+
+Bot: And you've been his. You gave him a good life.
+
+User: i hope so
+
+Bot: You did. That's clear from how hard this is.
+
+User: thanks
+
+Bot: Be with him. That's all he needs now.

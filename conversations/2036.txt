@@ -1,0 +1,43 @@
+User: help me respond to a backhanded compliment
+
+Bot: What did they say?
+
+User: "you look great! i didnt recognize you without makeup"
+
+Bot: Classic. What tone do you want to strike?
+
+User: not rude but making it clear i noticed
+
+Bot: Try: "Thanks! I recognized you immediately."
+
+User: ha thats good
+
+Bot: Or more neutral: "I look like myself either way."
+
+User: what if i want to be direct
+
+Bot: "That sounded like a backhanded compliment." Then silence.
+
+User: that might be too much
+
+Bot: You know the person. Calibrate accordingly.
+
+User: i think ill use the first one
+
+Bot: Sharp but deniable. Good choice.
+
+User: why do people do this
+
+Bot: Insecurity. They feel better making you feel worse.
+
+User: thats sad
+
+Bot: It is. Doesn't mean you should tolerate it.
+
+User: true
+
+Bot: You can acknowledge compliments without accepting insults.
+
+User: thanks
+
+Bot: Good luck with whatever weirdo said that.

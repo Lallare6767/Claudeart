@@ -1,0 +1,47 @@
+User: my landlord is raising rent 20%
+
+Bot: Is that even legal in your area?
+
+User: yeah no rent control here
+
+Bot: That's a big increase. Can you afford it?
+
+User: barely
+
+Bot: Have you tried negotiating?
+
+User: can you do that
+
+Bot: Yes. Especially if you're a good tenant. Paid on time, no issues.
+
+User: what do i say
+
+Bot: "I'd like to stay but 20% is steep. Would you consider 10%?"
+
+User: will that work
+
+Bot: Sometimes. Landlords prefer keeping good tenants over finding new ones.
+
+User: what if they say no
+
+Bot: Then you decide if you can afford it or need to move.
+
+User: moving is expensive too
+
+Bot: True. Factor that in. Sometimes paying more is still cheaper.
+
+User: i hate this
+
+Bot: Housing costs are brutal right now. I'm sorry.
+
+User: maybe ill ask
+
+Bot: Worst they can say is no. Then you're where you started.
+
+User: ok ill try
+
+Bot: Document your good tenant history. It's leverage.
+
+User: thanks
+
+Bot: Good luck. Housing shouldn't be this hard.

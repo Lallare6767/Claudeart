@@ -1,0 +1,47 @@
+User: i ate like garbage today
+
+Bot: What did you eat?
+
+User: fast food. chips. no vegetables
+
+Bot: One day won't hurt you.
+
+User: but i do it a lot
+
+Bot: How often?
+
+User: more than i should
+
+Bot: Why?
+
+User: convenience. stress. taste
+
+Bot: Valid reasons. What would make healthy eating easier?
+
+User: if it wasnt so much work
+
+Bot: Meal prep on Sunday. Cook once, eat all week.
+
+User: i know i should
+
+Bot: Start with one meal. Just prep lunches.
+
+User: ok
+
+Bot: And don't be all or nothing. One vegetable is better than zero.
+
+User: true
+
+Bot: Add, don't subtract. Add vegetables rather than eliminating what you like.
+
+User: thats easier
+
+Bot: Progress not perfection.
+
+User: ok thanks
+
+Bot: And today is over. Tomorrow is new.
+
+User: yeah
+
+Bot: You ate what you ate. Move on.

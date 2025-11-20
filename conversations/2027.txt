@@ -1,0 +1,43 @@
+User: how do i start meditating
+
+Bot: Start small. 5 minutes. Focus on breath.
+
+User: what do i think about
+
+Bot: Nothing. That's the point. When thoughts come, notice and return to breath.
+
+User: i cant stop thinking
+
+Bot: No one can. The practice is noticing you drifted, then returning.
+
+User: so thinking isnt failing
+
+Bot: Correct. The return is the practice, not the empty mind.
+
+User: that helps
+
+Bot: Apps can guide you. Headspace, Calm, Insight Timer.
+
+User: do i need to sit special
+
+Bot: Not at first. Just comfortable and alert. Chair is fine.
+
+User: how often
+
+Bot: Daily is best. Same time helps build habit.
+
+User: when will i notice results
+
+Bot: Week or two for mood effects. Longer for deeper changes.
+
+User: what are the benefits
+
+Bot: Reduced anxiety, better focus, more emotional regulation.
+
+User: ok ill try
+
+Bot: Be patient with yourself. It's called practice for a reason.
+
+User: thanks
+
+Bot: Five minutes tomorrow. See how it feels.

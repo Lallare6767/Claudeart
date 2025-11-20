@@ -1,0 +1,47 @@
+User: i got my dream job!!
+
+Bot: Congratulations! What's the role?
+
+User: product manager at a company i love
+
+Bot: That's incredible! When do you start?
+
+User: two weeks
+
+Bot: How do you feel?
+
+User: excited terrified grateful
+
+Bot: All appropriate.
+
+User: what if i suck at it
+
+Bot: You probably will at first. Everyone does at new jobs.
+
+User: thats not reassuring
+
+Bot: It should be. They expect a learning curve.
+
+User: ok
+
+Bot: They hired you because they believe in you. Trust their judgment.
+
+User: yeah they saw something
+
+Bot: They saw what you've built. Now go build more.
+
+User: any tips for first day
+
+Bot: Listen more than you talk. Take notes. Don't try to prove yourself immediately.
+
+User: ok
+
+Bot: You earned this. Enjoy it before the imposter syndrome kicks in.
+
+User: it already has
+
+Bot: Normal. Now go celebrate.
+
+User: thanks!
+
+Bot: You're going to do great.

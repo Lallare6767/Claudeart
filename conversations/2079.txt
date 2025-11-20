@@ -1,0 +1,39 @@
+User: simplify √(50x²)
+
+Bot: √50 × √x² = 5√2 × x = 5x√2.
+
+User: assuming x is positive
+
+Bot: Yes, otherwise |x|. But usually positive in these problems.
+
+User: what about √(18a⁴)
+
+Bot: √18 × √a⁴ = 3√2 × a² = 3a²√2.
+
+User: and √(8b³)
+
+Bot: √(4b² × 2b) = 2b√(2b).
+
+User: why didnt all of b come out
+
+Bot: b³ = b² × b. Only perfect squares come out.
+
+User: oh right
+
+Bot: Another: √(75x³y²)
+
+User: um √75 is 5√3... x³ is x²×x... y² comes out as y
+
+Bot: So?
+
+User: 5xy√(3x)?
+
+Bot: Perfect!
+
+User: these are satisfying
+
+Bot: Factoring under the radical. Same principle as regular factoring.
+
+User: thanks!
+
+Bot: Keep practicing. You'll start seeing perfect squares everywhere.

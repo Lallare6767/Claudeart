@@ -1,0 +1,39 @@
+User: what angle is in an equilateral triangle
+
+Bot: 60 degrees. All three angles.
+
+User: why 60
+
+Bot: Triangle angles sum to 180. 180/3 = 60.
+
+User: what about isoceles
+
+Bot: Two angles are equal. Third can be anything (that makes total 180).
+
+User: like if one angle is 40
+
+Bot: The other two are equal. (180-40)/2 = 70 each.
+
+User: what if the two equal angles are 50
+
+Bot: Third angle is 180 - 100 = 80.
+
+User: and scalene
+
+Bot: All three angles different.
+
+User: what about right triangles
+
+Bot: One angle is 90. Other two must sum to 90.
+
+User: so if one is 30
+
+Bot: Other is 60. Classic 30-60-90 triangle.
+
+User: this is easier than i thought
+
+Bot: Triangles = 180. That's the whole rule.
+
+User: thanks!
+
+Bot: Now try quadrilaterals. They're 360.

@@ -1,0 +1,43 @@
+User: whats the circumference of a circle
+
+Bot: 2πr or πd. r = radius, d = diameter.
+
+User: whats π again
+
+Bot: Approximately 3.14159. Use 3.14 for most calculations.
+
+User: so if radius is 5
+
+Bot: Circumference = 2 × 3.14 × 5 = 31.4.
+
+User: and if diameter is 10
+
+Bot: Same answer. π × 10 = 31.4.
+
+User: why are they the same
+
+Bot: Diameter is 2 × radius. So 2πr = πd.
+
+User: oh duh
+
+Bot: What about area?
+
+User: um πr²
+
+Bot: So area with radius 5?
+
+User: 3.14 × 25 = 78.5
+
+Bot: Perfect. Circle formulas are some of the most useful.
+
+User: why is π in both
+
+Bot: Pi is the ratio of circumference to diameter. It's fundamental to circles.
+
+User: ok thanks
+
+Bot: Remember: circumference around, area inside.
+
+User: got it
+
+Bot: Practice with different radii. Becomes automatic.

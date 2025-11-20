@@ -1,0 +1,43 @@
+User: whats 6 factorial
+
+Bot: 6! = 720.
+
+User: how
+
+Bot: 6 × 5 × 4 × 3 × 2 × 1 = 720.
+
+User: whats 5 factorial
+
+Bot: 120.
+
+User: and 7
+
+Bot: 5040. It's 7 × 720.
+
+User: they grow fast
+
+Bot: Extremely fast. 10! is already 3,628,800.
+
+User: when do u use factorials
+
+Bot: Permutations and combinations. Counting arrangements.
+
+User: like what
+
+Bot: How many ways can 6 people line up? 6! = 720.
+
+User: oh that makes sense
+
+Bot: If order matters, it's permutations. Factorials everywhere.
+
+User: what if order doesnt matter
+
+Bot: Combinations. Divide by the arrangements you don't care about.
+
+User: this is actually cool
+
+Bot: Combinatorics is fun. Counting things systematically.
+
+User: thanks!
+
+Bot: Practice computing factorials mentally. They come up a lot.

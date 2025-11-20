@@ -1,0 +1,47 @@
+User: im moving to a new city and im nervous
+
+Bot: Where to?
+
+User: chicago
+
+Bot: Exciting! What's taking you there?
+
+User: job
+
+Bot: Nervous about what specifically?
+
+User: making friends. starting over
+
+Bot: Valid. What's your plan for meeting people?
+
+User: i dont have one
+
+Bot: You need one. Hobbies, classes, sports leagues, coworking spaces.
+
+User: im not very outgoing
+
+Bot: You don't need to be. You need to show up consistently.
+
+User: what do u mean
+
+Bot: Join something that meets regularly. Familiarity breeds friendship.
+
+User: like what
+
+Bot: What do you like doing?
+
+User: running
+
+Bot: Running clubs. Perfect for introverts. Side by side, no forced conversation.
+
+User: oh good idea
+
+Bot: Give yourself six months. New city friendships take time.
+
+User: ok
+
+Bot: And explore the city. Fall in love with where you live.
+
+User: ok thanks
+
+Bot: Chicago is great. You're going to love it.

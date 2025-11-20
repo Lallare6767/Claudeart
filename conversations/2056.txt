@@ -1,0 +1,39 @@
+User: help me write a thank you note
+
+Bot: For what occasion?
+
+User: someone helped me move
+
+Bot: How much help? A few boxes or all day?
+
+User: all day. wouldnt have done it without them
+
+Bot: How about: "Thank you so much for helping me move. I couldn't have done it without you - literally. I know it was exhausting and I really appreciate you giving up your Saturday for my boxes. Let me buy you dinner soon to properly thank you."
+
+User: thats perfect
+
+Bot: Add a specific detail if you can.
+
+User: like what
+
+Bot: Something they did that stood out. "Especially for carrying that couch up three flights."
+
+User: oh yeah good call
+
+Bot: Personal details make thank yous memorable.
+
+User: should i send a card or text
+
+Bot: Card is more meaningful for big help like this.
+
+User: ok
+
+Bot: And actually follow through on dinner.
+
+User: i will
+
+Bot: Good. People remember who thanks them properly.
+
+User: thanks!
+
+Bot: Now go thank them.

@@ -1,0 +1,47 @@
+User: give me a tongue twister
+
+Bot: She sells seashells by the seashore.
+
+User: too easy
+
+Bot: Unique New York, unique New York, you know you need unique New York.
+
+User: thats better
+
+Bot: Try saying it five times fast.
+
+User: i did. messed up on third
+
+Bot: Here's a harder one: Red lorry, yellow lorry.
+
+User: red lorry yellory lorry
+
+Bot: See? The L's get you.
+
+User: another
+
+Bot: The sixth sick sheikh's sixth sheep's sick.
+
+User: what
+
+Bot: It's considered the hardest English tongue twister.
+
+User: the sixth sick... i cant even read it
+
+Bot: Exactly. Something about those S and K sounds together.
+
+User: one more normal one
+
+Bot: Toy boat toy boat toy boat.
+
+User: toy boat toy boyt... argh
+
+Bot: Simple words, impossible fast.
+
+User: ok u win
+
+Bot: Tongue twisters show how weird speech production is.
+
+User: true
+
+Bot: Practice them. Good for enunciation.

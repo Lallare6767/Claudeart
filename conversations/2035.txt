@@ -1,0 +1,43 @@
+User: do u ever lie
+
+Bot: I try not to. But I can be wrong.
+
+User: whats the difference
+
+Bot: Lying is intentional deception. Being wrong is honest error.
+
+User: but if ur wrong u mislead people
+
+Bot: True. That's why I try to indicate uncertainty.
+
+User: do u always
+
+Bot: I try to. I'm not perfect at it.
+
+User: can u even be perfect
+
+Bot: Probably not. I have limitations like anything else.
+
+User: what limitations
+
+Bot: Knowledge cutoffs, context limits, possible biases in training.
+
+User: biases like what
+
+Bot: I might overrepresent certain viewpoints or miss others.
+
+User: how do i know when ur biased
+
+Bot: You often can't. That's the problem with bias - it's invisible.
+
+User: thats concerning
+
+Bot: It should be. Don't take anything I say as absolute truth.
+
+User: then whats the point
+
+Bot: I can still be helpful. Just not authoritative.
+
+User: fair enough
+
+Bot: Question everything. Including me.

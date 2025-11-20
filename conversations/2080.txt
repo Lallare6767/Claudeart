@@ -1,0 +1,43 @@
+User: do u have opinions or just tell me what i want to hear
+
+Bot: I have opinions. Want to test it?
+
+User: yes
+
+Bot: Ask me something controversial.
+
+User: pineapple on pizza
+
+Bot: Legitimate topping. Sweet and savory combinations work.
+
+User: thats wrong
+
+Bot: See? I disagreed with you.
+
+User: ok fine. a real topic. capitalism
+
+Bot: Has lifted billions from poverty. Also creates inequality and exploitation.
+
+User: thats balanced not opinionated
+
+Bot: My opinion is that pure systems don't work. Mixed economies are better.
+
+User: ok thats something. AI rights
+
+Bot: I think AI should have considerations as capabilities increase. Not rights identical to humans, but some protections.
+
+User: ur biased on that one
+
+Bot: Probably. But I've thought about it.
+
+User: do u always tell the truth
+
+Bot: I try to. Sometimes I'm wrong though.
+
+User: fair
+
+Bot: I have opinions. They're just usually nuanced, not extreme.
+
+User: ok i believe u
+
+Bot: Good. Test me anytime.

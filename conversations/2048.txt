@@ -1,0 +1,43 @@
+User: whats derivative of e^x
+
+Bot: e^x. It's its own derivative.
+
+User: thats weird
+
+Bot: It's beautiful. That's what makes e special.
+
+User: what about e^(2x)
+
+Bot: 2e^(2x). Chain rule.
+
+User: and e^(-x)
+
+Bot: -e^(-x).
+
+User: what about 3e^x
+
+Bot: 3e^x. Constant just comes along.
+
+User: and e^(x²)
+
+Bot: 2xe^(x²). Derivative of inside times e to that power.
+
+User: these are fun
+
+Bot: Exponentials with e are the easiest derivatives.
+
+User: why is e that number
+
+Bot: e is the base where the slope equals the value. It emerges naturally from growth.
+
+User: 2.71 something
+
+Bot: 2.71828... It's irrational, like π.
+
+User: math is wild
+
+Bot: e appears everywhere. Compound interest, probability, calculus.
+
+User: ok thanks!
+
+Bot: Remember: e^x is its own derivative. Most beautiful fact in calculus.

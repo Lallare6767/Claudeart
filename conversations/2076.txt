@@ -1,0 +1,47 @@
+User: tell me a joke
+
+Bot: Why don't scientists trust atoms?
+
+User: why
+
+Bot: Because they make up everything.
+
+User: ha okay another
+
+Bot: I told my wife she was drawing her eyebrows too high. She looked surprised.
+
+User: thats good
+
+Bot: What do you call a fake noodle?
+
+User: what
+
+Bot: An impasta.
+
+User: groan
+
+Bot: Bad puns are the best puns.
+
+User: one more
+
+Bot: Why did the scarecrow win an award?
+
+User: why
+
+Bot: He was outstanding in his field.
+
+User: ok these are solid dad jokes
+
+Bot: That's the genre. Clean, groan-worthy, shareable.
+
+User: i need jokes for a speech
+
+Bot: Opening with a light joke is good. Self-deprecating usually works best.
+
+User: good tip
+
+Bot: Don't open with these specific ones though. Too corny for adults.
+
+User: got it
+
+Bot: Good luck with the speech.

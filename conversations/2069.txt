@@ -1,0 +1,35 @@
+User: whats the volume of a cone
+
+Bot: (1/3)πr²h.
+
+User: why 1/3
+
+Bot: A cone is one third of a cylinder with the same base and height.
+
+User: really
+
+Bot: Yep! Cylinder is πr²h. Cone fits inside three times.
+
+User: so if r is 3 and h is 6
+
+Bot: Volume = (1/3) × 3.14 × 9 × 6 = (1/3) × 169.56 = 56.52.
+
+User: what about a sphere
+
+Bot: (4/3)πr³.
+
+User: so if r is 3
+
+Bot: Volume = (4/3) × 3.14 × 27 = 113.04.
+
+User: why such weird formulas
+
+Bot: They come from calculus. Slicing shapes and summing infinitely thin pieces.
+
+User: above my paygrade
+
+Bot: For now. The formulas work without knowing why.
+
+User: ok thanks
+
+Bot: Practice with different radii. The numbers get big fast with cubing.

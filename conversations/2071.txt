@@ -1,0 +1,47 @@
+User: i got a tattoo and regret it
+
+Bot: When did you get it?
+
+User: last week
+
+Bot: What's the regret about?
+
+User: i dont like how it looks
+
+Bot: Is it the design, placement, or execution?
+
+User: design. it was an impulse
+
+Bot: Give it time. Tattoo regret often fades.
+
+User: how long
+
+Bot: Few weeks to months. Your brain adjusts.
+
+User: what if i still hate it
+
+Bot: Cover-up or removal. Both are options.
+
+User: removal is expensive right
+
+Bot: Yes and painful. Cover-ups are often better.
+
+User: i cant believe i did this
+
+Bot: You made a decision. Not the worst one possible.
+
+User: it felt right at the time
+
+Bot: Sometimes things do. Now you know for future tattoos.
+
+User: not sure ill get another
+
+Bot: That's fine. But wait before deciding that too.
+
+User: ok
+
+Bot: For now, just live with it. Don't stare at it. See if you adjust.
+
+User: ok thanks
+
+Bot: Worst case it becomes a story. You'll be fine.

@@ -1,0 +1,39 @@
+User: whats the pythagorean theorem
+
+Bot: a² + b² = c² where c is the hypotenuse of a right triangle.
+
+User: give me an example
+
+Bot: If sides are 3 and 4, hypotenuse = √(9+16) = √25 = 5.
+
+User: what about 5 and 12
+
+Bot: √(25+144) = √169 = 13.
+
+User: those come out nice
+
+Bot: Those are Pythagorean triples. 3-4-5, 5-12-13, 8-15-17, 7-24-25.
+
+User: do all triangles have nice numbers
+
+Bot: No, most have irrational hypotenuses. √2, √5, etc.
+
+User: like what
+
+Bot: Sides of 1 and 1: hypotenuse = √2 ≈ 1.414.
+
+User: when do i use this
+
+Bot: Finding distances, checking right angles, construction, physics.
+
+User: can i go backwards
+
+Bot: Yes. If you know the hypotenuse and one side: b = √(c² - a²).
+
+User: oh useful
+
+Bot: One of the most practical theorems you'll ever learn.
+
+User: thanks!
+
+Bot: The ancients knew it. You should too.
