@@ -1,0 +1,55 @@
+User: give me a word game
+
+Bot: I'll say a word, you say one that rhymes and relates in meaning.
+
+User: ok go
+
+Bot: Bright.
+
+User: light
+
+Bot: Good! Fear.
+
+User: tear
+
+Bot: Works! Now harder: serene.
+
+User: green
+
+Bot: Rhymes but doesn't relate. Try again.
+
+User: clean?
+
+Bot: Better! Serene and clean both suggest clarity. Last one: trouble.
+
+User: rubble
+
+Bot: Nice! Both suggest things falling apart.
+
+User: this is fun
+
+Bot: It makes you think about words differently.
+
+User: gimme another game
+
+Bot: I give you three words, you find what they have in common. Ready?
+
+User: yep
+
+Bot: Book, fish, coat.
+
+User: umm
+
+Bot: Think about what comes after each word.
+
+User: worm! bookworm fishworm coatworm
+
+Bot: Close! Bookworm works, but think about "hook" instead.
+
+User: oh! hook! fish hook coat hook book hook
+
+Bot: Got it!
+
+User: that was good
+
+Bot: Words are fun to play with.

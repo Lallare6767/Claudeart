@@ -1,0 +1,43 @@
+User: whats the formula for distance
+
+Bot: Distance = rate × time, or d = rt.
+
+User: so if i drive 60 mph for 3 hours
+
+Bot: You travel 180 miles. 60 × 3 = 180.
+
+User: what if i want to find rate
+
+Bot: r = d/t. If you travel 200 miles in 4 hours, you averaged 50 mph.
+
+User: and time?
+
+Bot: t = d/r. 300 miles at 60 mph takes 5 hours.
+
+User: these all come from the same formula
+
+Bot: Yes. Just rearranged. d = rt is the base.
+
+User: whats a harder one
+
+Bot: Two cars leave from the same point going opposite directions at 40 and 60 mph. How long until they're 300 miles apart?
+
+User: um combined speed is 100 mph. so 300/100 = 3 hours
+
+Bot: Perfect! You're getting it.
+
+User: what about same direction
+
+Bot: If they start together going same direction, the faster one gains 20 mph. To be 100 miles apart: 100/20 = 5 hours.
+
+User: oh its the difference in speed
+
+Bot: Exactly. Relative speed matters.
+
+User: thanks for the practice
+
+Bot: Distance, rate, time - universal problem template.
+
+User: got it
+
+Bot: Good luck!

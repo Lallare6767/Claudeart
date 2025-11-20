@@ -1,0 +1,31 @@
+User: help me write a sick day email
+
+Bot: Sure. What's wrong and who's it to?
+
+User: stomach bug to my boss
+
+Bot: How about: "Hi [Boss], I woke up with a stomach bug and won't be able to come in today. I'll check email if anything urgent comes up. Sorry for the short notice."
+
+User: should i give more details
+
+Bot: No. "Stomach bug" is enough. More detail is oversharing.
+
+User: what if they dont believe me
+
+Bot: That's their problem. You don't need to justify illness.
+
+User: true
+
+Bot: Do you want to mention anything about work coverage?
+
+User: oh yeah theres a meeting at 2
+
+Bot: Add: "Sarah can cover my 2pm meeting if needed, or I can reschedule when I'm back."
+
+User: perfect
+
+Bot: Keep it brief and professional. Hope you feel better.
+
+User: thanks!
+
+Bot: Rest up. Don't check email too much.

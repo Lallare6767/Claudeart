@@ -1,0 +1,43 @@
+User: what is 4/5 divided by 2/3
+
+Bot: 6/5, or 1 and 1/5.
+
+User: how
+
+Bot: Divide by a fraction = multiply by its reciprocal. So 4/5 × 3/2 = 12/10 = 6/5.
+
+User: reciprocal means flip it
+
+Bot: Yes. 2/3 becomes 3/2.
+
+User: what about 3/4 divided by 5/8
+
+Bot: 3/4 × 8/5 = 24/20 = 6/5.
+
+User: same answer interesting
+
+Bot: Coincidence. Try 1/2 divided by 3/4.
+
+User: 1/2 times 4/3... 4/6 = 2/3
+
+Bot: Perfect!
+
+User: this is easier than i thought
+
+Bot: The flip trick makes it simple. Just remember: divide = multiply by reciprocal.
+
+User: why does that work
+
+Bot: Division asks "how many of these fit into that." The reciprocal reverses the relationship.
+
+User: that kinda makes sense
+
+Bot: If you want to go deeper, there's math that explains it. For now, the method works.
+
+User: ill stick with the method
+
+Bot: Practical choice. Keep practicing.
+
+User: thanks!
+
+Bot: Fractions conquered.

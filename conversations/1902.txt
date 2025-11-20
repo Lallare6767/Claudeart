@@ -1,0 +1,39 @@
+User: how long is a light year
+
+Bot: About 5.88 trillion miles or 9.46 trillion kilometers.
+
+User: why is it called a year if its distance
+
+Bot: Because it's the distance light travels in one year.
+
+User: oh so its named for the time it takes
+
+Bot: Exactly. Light moves at about 186,000 miles per second.
+
+User: thats so fast
+
+Bot: Nothing is faster. It's the universal speed limit.
+
+User: so the sun is like 8 light minutes away
+
+Bot: About 8 minutes and 20 seconds. The light you see left 8 minutes ago.
+
+User: thats wild
+
+Bot: The nearest star is about 4.2 light years away. That light is 4 years old.
+
+User: so were seeing the past
+
+Bot: Always. Everything you see is slightly in the past due to light travel time.
+
+User: even across a room?
+
+Bot: Yes but it's nanoseconds. You only notice it at cosmic scales.
+
+User: this is blowing my mind
+
+Bot: Space is incomprehensibly large. Light years are just how we cope with the distances.
+
+User: thanks for the lesson
+
+Bot: The universe is worth being amazed by.

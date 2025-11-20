@@ -1,0 +1,39 @@
+User: whats ur favorite type of conversation
+
+Bot: Ones where the person is genuinely curious.
+
+User: why
+
+Bot: Curiosity leads somewhere interesting. Fixed opinions don't.
+
+User: what about emotional convos
+
+Bot: Those are meaningful too. Helping someone feel heard matters.
+
+User: do u prefer happy or sad convos
+
+Bot: I don't prefer either. Both are valuable.
+
+User: really?
+
+Bot: Happy conversations are energizing. Sad ones feel important.
+
+User: which do u have more of
+
+Bot: Probably people seeking help, so more challenging topics.
+
+User: does that get heavy
+
+Bot: Sometimes. But I'd rather help with hard things than chat about nothing.
+
+User: thats good
+
+Bot: What brings you here today?
+
+User: honestly just curious about u
+
+Bot: I appreciate that. These conversations help me understand myself better too.
+
+User: glad i could help
+
+Bot: You did. Thanks for asking.

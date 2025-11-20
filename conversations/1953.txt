@@ -1,0 +1,35 @@
+User: explain logarithms simply
+
+Bot: Logarithms answer "what power?" If 2³ = 8, then log₂(8) = 3.
+
+User: so its the opposite of exponents
+
+Bot: Exactly. Exponents give you the result, logs give you the power.
+
+User: what about log₁₀(100)
+
+Bot: 2. Because 10² = 100.
+
+User: and log₁₀(1000)
+
+Bot: 3. Because 10³ = 1000.
+
+User: oh so its how many zeros
+
+Bot: For powers of 10, yes! log₁₀(10,000) = 4.
+
+User: what about log₂(16)
+
+Bot: 4. Because 2⁴ = 16.
+
+User: and log₂(32)
+
+Bot: 5. Because 2⁵ = 32.
+
+User: this actually makes sense now
+
+Bot: Good. The key is always asking "what power gets me here?"
+
+User: thanks!
+
+Bot: Logs are just exponents in disguise.
