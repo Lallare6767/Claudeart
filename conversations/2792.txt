@@ -1,0 +1,39 @@
+User: what is probability
+
+Bot: Chance that something will happen. Ranges from 0 to 1.
+
+User: or percent right
+
+Bot: Yes. 0 to 100%.
+
+User: example
+
+Bot: Fair coin flip. Two outcomes. Probability of heads = 1/2 = 50%.
+
+User: what about a die
+
+Bot: Six outcomes. Probability of rolling 3 = 1/6 ≈ 16.7%.
+
+User: what about rolling even number
+
+Bot: Three outcomes work: 2, 4, 6. Probability = 3/6 = 1/2.
+
+User: what about two dice
+
+Bot: More complex. 36 total outcomes.
+
+User: probability of rolling 7
+
+Bot: Six ways to make 7. So 6/36 = 1/6.
+
+User: wait how is there 6 ways
+
+Bot: 1+6, 2+5, 3+4, 4+3, 5+2, 6+1.
+
+User: oh the order matters
+
+Bot: Yes because dice are distinguishable.
+
+User: probability is harder than i thought
+
+Bot: It gets tricky but the basics are simple.

@@ -1,0 +1,39 @@
+User: whats the formula for velocity
+
+Bot: Velocity = distance divided by time.
+
+User: so miles per hour
+
+Bot: Yes. Or meters per second.
+
+User: example
+
+Bot: Drive 120 miles in 2 hours. Velocity = 60 mph.
+
+User: what about acceleration
+
+Bot: Change in velocity divided by time.
+
+User: example
+
+Bot: Go from 0 to 60 mph in 6 seconds. Acceleration = 10 mph per second.
+
+User: thats how fast im speeding up
+
+Bot: Exactly. Rate of change of speed.
+
+User: whats the formula then
+
+Bot: a = (v2 - v1) / t. Final velocity minus initial velocity over time.
+
+User: what if i know acceleration and want distance
+
+Bot: d = v1*t + 0.5*a*t². Gets more complex.
+
+User: thats calculus territory
+
+Bot: Kind of. Basic kinematics.
+
+User: ill stick with velocity for now
+
+Bot: Good starting point. The rest builds on it.

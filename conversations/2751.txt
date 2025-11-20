@@ -1,0 +1,39 @@
+User: someone stole my identity
+
+Bot: How did you find out?
+
+User: credit card charges i didnt make. then a loan opened in my name
+
+Bot: Have you contacted your bank?
+
+User: yes. and froze my credit
+
+Bot: Good. Those are the right first steps.
+
+User: what else do i do
+
+Bot: File a police report. Report to FTC. Check all accounts.
+
+User: this is overwhelming
+
+Bot: It is. Take it step by step.
+
+User: how did they get my info
+
+Bot: Could be a data breach. Phishing. Many ways.
+
+User: i feel violated
+
+Bot: That's valid. Someone took your identity.
+
+User: will i get the money back
+
+Bot: Likely yes if you act quickly. Banks have fraud protections.
+
+User: ok
+
+Bot: Document everything. Keep records of all your calls and reports.
+
+User: ok i will
+
+Bot: This is stressful but recoverable. You're doing the right things.

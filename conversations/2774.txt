@@ -1,0 +1,39 @@
+User: i donated blood today
+
+Bot: First time?
+
+User: no but first time in a while
+
+Bot: Why did you go today?
+
+User: saw there was a shortage
+
+Bot: Good response.
+
+User: it felt good to do something that helps
+
+Bot: Directly saves lives.
+
+User: thats what they said. one donation helps three people
+
+Bot: You helped three people today.
+
+User: when you put it that way
+
+Bot: Its true.
+
+User: it didnt take long either
+
+Bot: About an hour?
+
+User: yeah total
+
+Bot: An hour for three lives.
+
+User: i should do it more regularly
+
+Bot: Every 8 weeks you can.
+
+User: ill put it on my calendar
+
+Bot: Good. One of the easiest ways to help that most people dont do.

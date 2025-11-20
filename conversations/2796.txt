@@ -1,0 +1,29 @@
+User: i need help with a thank you note
+
+Bot: For what occasion?
+
+User: job interview
+
+Bot: Good idea to send one. When was the interview?
+
+User: yesterday
+
+Bot: Perfect timing. What do you want to say?
+
+User: thanks for meeting. im excited about the role
+
+Bot: Here's a draft:
+
+"Thank you for taking the time to meet with me yesterday. I enjoyed learning more about [Company] and the [Role] position. Our conversation about [specific topic] reinforced my excitement about this opportunity. I believe my experience in [skill] would allow me to contribute meaningfully to your team. Please let me know if you need any additional information. I look forward to hearing from you."
+
+User: thats great
+
+Bot: Personalize the bracketed parts.
+
+User: i will. email or handwritten?
+
+Bot: Email. Faster. They may decide quickly.
+
+User: ok sending now
+
+Bot: Good luck. Following up shows professionalism.

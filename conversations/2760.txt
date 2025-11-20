@@ -1,0 +1,35 @@
+User: how do you divide fractions
+
+Bot: Flip the second fraction and multiply.
+
+User: flip?
+
+Bot: Reciprocal. 3/4 becomes 4/3.
+
+User: example
+
+Bot: 1/2 ÷ 3/4. Flip second: 1/2 × 4/3 = 4/6 = 2/3.
+
+User: why does flipping work
+
+Bot: Dividing by a fraction is multiplying by how many times it fits.
+
+User: kinda makes sense
+
+Bot: Just memorize: keep, change, flip.
+
+User: keep first fraction, change to multiply, flip second
+
+Bot: Exactly.
+
+User: another example
+
+Bot: 5/6 ÷ 2/3. Becomes 5/6 × 3/2 = 15/12 = 5/4.
+
+User: thats improper
+
+Bot: Yes. 5/4 = 1 and 1/4.
+
+User: got it
+
+Bot: Division of fractions trips people up. But its just multiplication in disguise.

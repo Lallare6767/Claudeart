@@ -1,0 +1,41 @@
+User: give me daily affirmations
+
+Bot: What do you need to hear right now?
+
+User: that im enough. that i can do hard things
+
+Bot: Here are some:
+
+"I am enough exactly as I am."
+"I can do hard things."
+"My worth isnt determined by my productivity."
+"I am learning and growing every day."
+"I deserve rest and kindness."
+
+User: those are good
+
+Bot: Want more specific ones?
+
+User: for anxiety
+
+Bot: "I am safe in this moment."
+"This feeling will pass."
+"I can handle whatever comes."
+"My thoughts are not facts."
+"I am doing my best."
+
+User: these help
+
+Bot: Say them out loud. Or write them.
+
+User: does that really work
+
+Bot: Repetition rewires thought patterns over time.
+
+User: ok ill try
+
+Bot: Every morning. Pick two or three. Say them like you mean it.
+
+User: ok
+
+Bot: Youre enough. Start there.

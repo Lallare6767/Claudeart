@@ -1,0 +1,35 @@
+User: how do you multiply fractions
+
+Bot: Multiply straight across. Numerator times numerator, denominator times denominator.
+
+User: example
+
+Bot: 2/3 × 4/5 = 8/15.
+
+User: thats it?
+
+Bot: Yes. Easier than adding fractions.
+
+User: what about 3/4 × 2/3
+
+Bot: 6/12. Which simplifies to 1/2.
+
+User: how do you know to simplify
+
+Bot: If top and bottom share a factor.
+
+User: 6 and 12 both divide by 6
+
+Bot: Right. So 6/12 = 1/2.
+
+User: can you simplify before multiplying
+
+Bot: Yes. Cross cancel. 3/4 × 2/3: the 3s cancel. Becomes 1/4 × 2/1 = 2/4 = 1/2.
+
+User: that's faster
+
+Bot: It is. Less simplifying at the end.
+
+User: thanks
+
+Bot: Multiplying fractions is the easy operation. Division is next.

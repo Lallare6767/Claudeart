@@ -1,0 +1,43 @@
+User: my car got totaled and it was my fault
+
+Bot: Are you okay?
+
+User: yeah. just shaken up
+
+Bot: What happened?
+
+User: ran a red light. got hit
+
+Bot: Anyone else hurt?
+
+User: no thank god
+
+Bot: That's what matters most.
+
+User: but now i have no car and insurance is going to kill me
+
+Bot: Will insurance cover anything?
+
+User: some. but my rates will go up
+
+Bot: And you need a car?
+
+User: for work yeah
+
+Bot: Can you get a cheap used one for now?
+
+User: i guess. i just feel so stupid
+
+Bot: You made a mistake. It happens.
+
+User: a big one
+
+Bot: But everyone's alive. That's what matters.
+
+User: true
+
+Bot: Deal with the practical stuff. Learn from this. Move on.
+
+User: ok
+
+Bot: Youre okay. The rest is solvable.

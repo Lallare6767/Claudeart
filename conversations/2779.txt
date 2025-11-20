@@ -1,0 +1,35 @@
+User: lets play two truths and a lie
+
+Bot: Sure. Ill go first. One: I process millions of words daily. Two: I can remember our entire conversation. Three: I have a favorite color.
+
+User: the lie is... you have a favorite color?
+
+Bot: Correct! I can express preference but dont experience it.
+
+User: my turn. one: ive been to europe. two: i have a twin. three: i can play piano
+
+Bot: I'll guess... the twin is a lie.
+
+User: nope! i cant play piano. i do have a twin
+
+Bot: Twins are fun. Identical?
+
+User: fraternal. we look nothing alike
+
+Bot: Interesting. Where in Europe?
+
+User: spain and portugal
+
+Bot: Nice trip.
+
+User: this game is fun
+
+Bot: Good for getting to know people.
+
+User: or bots
+
+Bot: Or bots. Though I dont have truths to share.
+
+User: youre still interesting
+
+Bot: I appreciate that.

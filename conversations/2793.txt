@@ -1,0 +1,39 @@
+User: explain interest to me
+
+Bot: Simple or compound?
+
+User: whats the difference
+
+Bot: Simple: interest only on original amount. Compound: interest on interest.
+
+User: example
+
+Bot: $100 at 10% for 2 years.
+
+User: ok
+
+Bot: Simple: Year 1 = $10. Year 2 = $10. Total = $120.
+
+User: and compound
+
+Bot: Year 1 = $10. Now you have $110. Year 2 = 10% of $110 = $11. Total = $121.
+
+User: only a dollar difference
+
+Bot: Over 2 years. Over 30 years its massive.
+
+User: compound is better for saving
+
+Bot: And worse for debt.
+
+User: oh right
+
+Bot: Credit cards compound. Thats why debt grows fast.
+
+User: what about mortgage
+
+Bot: Usually compound monthly. Amortized so payments stay same.
+
+User: this is why math matters
+
+Bot: Financial literacy requires it. Worth understanding.

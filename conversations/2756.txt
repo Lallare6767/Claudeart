@@ -1,0 +1,43 @@
+User: im dealing with chronic pain
+
+Bot: How long?
+
+User: 3 years
+
+Bot: Have doctors been able to help?
+
+User: some things help some. nothing fixes it
+
+Bot: What kind of pain?
+
+User: back. nerve stuff
+
+Bot: That's hard to treat.
+
+User: i know. ive tried everything
+
+Bot: Physical therapy? Nerve blocks?
+
+User: all of it
+
+Bot: Im sorry. Chronic pain is exhausting.
+
+User: no one understands unless they have it
+
+Bot: That's true. It's invisible.
+
+User: people think im making it up
+
+Bot: That's frustrating and invalidating.
+
+User: i just want one day without it
+
+Bot: Those days are precious when they come.
+
+User: they dont come often
+
+Bot: Are you managing okay mentally?
+
+User: barely
+
+Bot: Please talk to someone if you need to. Chronic pain affects mental health too.

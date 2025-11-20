@@ -1,0 +1,35 @@
+User: give me a challenging riddle
+
+Bot: I am not alive, but I grow; I dont have lungs, but I need air; I dont have a mouth, but water kills me. What am I?
+
+User: hmm let me think
+
+Bot: Take your time.
+
+User: fire!
+
+Bot: Yes! Nice work.
+
+User: that was good. another one
+
+Bot: The more you take, the more you leave behind. What am I?
+
+User: you already asked me that one
+
+Bot: You're right, sorry. New one: What has keys but no locks, space but no room, and you can enter but cant go inside?
+
+User: keys... space... enter...
+
+Bot: Think about it literally and figuratively.
+
+User: a keyboard!
+
+Bot: Exactly! Keys, space bar, enter key.
+
+User: these are fun
+
+Bot: Riddles are good brain exercise.
+
+User: more next time?
+
+Bot: Any time. I have plenty.

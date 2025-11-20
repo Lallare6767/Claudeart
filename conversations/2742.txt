@@ -1,0 +1,39 @@
+User: i got a perfect score on my exam!
+
+Bot: Which exam?
+
+User: LSAT
+
+Bot: That's extremely rare. Congratulations!
+
+User: i cant believe it
+
+Bot: How long did you study?
+
+User: 6 months. every day
+
+Bot: That dedication paid off.
+
+User: i was aiming for 170. got 180
+
+Bot: You exceeded your goal significantly.
+
+User: i cried when i saw it
+
+Bot: Understandable. That opens every door.
+
+User: law school applications go out next month
+
+Bot: With that score you'll have options.
+
+User: thats the hope
+
+Bot: Not just hope. Probability.
+
+User: thank you
+
+Bot: You earned this completely. Go celebrate.
+
+User: im taking myself to fancy dinner
+
+Bot: Perfect. You deserve it.

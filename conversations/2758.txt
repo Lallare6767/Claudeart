@@ -1,0 +1,39 @@
+User: what does perpendicular mean
+
+Bot: Lines that meet at a 90-degree angle.
+
+User: like a plus sign
+
+Bot: Exactly. The lines are perpendicular to each other.
+
+User: what about parallel
+
+Bot: Lines that never meet. Same direction forever.
+
+User: like railroad tracks
+
+Bot: Good example. They stay the same distance apart.
+
+User: can lines be both
+
+Bot: No. They're opposite concepts.
+
+User: what about if lines cross but not at 90 degrees
+
+Bot: Then they're just intersecting. Not perpendicular.
+
+User: so perpendicular is special
+
+Bot: Yes. Specifically 90 degrees.
+
+User: how do you show its perpendicular
+
+Bot: A small square in the corner of the angle.
+
+User: ive seen that
+
+Bot: That symbol means "this is a right angle."
+
+User: thanks
+
+Bot: Geometry has lots of specific vocabulary. Worth learning.

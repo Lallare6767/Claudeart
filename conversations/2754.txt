@@ -1,0 +1,43 @@
+User: my coworker threw me under the bus
+
+Bot: What happened?
+
+User: blamed me for their mistake in front of everyone
+
+Bot: Did your boss believe them?
+
+User: i think so
+
+Bot: Do you have evidence it was their mistake?
+
+User: emails that show they made the decision
+
+Bot: Then send those to your boss.
+
+User: i dont want to look petty
+
+Bot: Defending yourself with evidence isnt petty.
+
+User: what if it backfires
+
+Bot: It might. But right now youre being blamed for something you didnt do.
+
+User: true
+
+Bot: Did you say anything in the meeting?
+
+User: no i was too shocked
+
+Bot: Follow up privately with your boss then.
+
+User: ok
+
+Bot: Frame it as clarification not accusation.
+
+User: how
+
+Bot: "I wanted to share some context on that issue. Here's what happened."
+
+User: ok i can do that
+
+Bot: Dont let false blame stick. It affects your reputation.

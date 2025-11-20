@@ -1,0 +1,39 @@
+User: help me brainstorm business name ideas
+
+Bot: What kind of business?
+
+User: dog walking
+
+Bot: Target market?
+
+User: busy professionals
+
+Bot: Some ideas: Happy Tails Walking, Midday Mutts, Urban Paws, The Daily Walk, Paws on Patrol.
+
+User: i like urban paws
+
+Bot: City feel. Professional but friendly.
+
+User: any more like that
+
+Bot: City Pups, Metro Mutts, Downtown Dogs, Pavement Paws.
+
+User: pavement paws is good
+
+Bot: Good alliteration. Memorable.
+
+User: between urban paws and pavement paws
+
+Bot: Urban Paws is broader. Pavement Paws is more specific and catchy.
+
+User: i think pavement paws
+
+Bot: Good choice. Check if its available.
+
+User: like domain and social?
+
+Bot: Yes. And business name registration in your state.
+
+User: good points
+
+Bot: Once its secured, its yours. Good luck.

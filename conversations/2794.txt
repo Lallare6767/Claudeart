@@ -1,0 +1,33 @@
+User: write me an inspirational quote
+
+Bot: "You dont have to see the whole staircase. Just take the first step."
+
+User: i think thats already a quote
+
+Bot: MLK. Youre right. Original one:
+
+"The version of you that you're afraid to become is waiting on the other side of trying."
+
+User: i like that. another
+
+Bot: "Rest if you must, but dont confuse a pause with a stop."
+
+User: good one. one more
+
+Bot: "Courage isnt the absence of fear. Its deciding that something else matters more."
+
+User: that ones good too
+
+Bot: Quotes are easy to write. Living them is hard.
+
+User: true
+
+Bot: Which one resonated most?
+
+User: the first one you made up. about the version of me
+
+Bot: Then hold onto that one.
+
+User: i will
+
+Bot: Go become them.

@@ -1,0 +1,43 @@
+User: i failed the bar exam
+
+Bot: First attempt?
+
+User: yes
+
+Bot: That's common. Pass rate is only about 60%.
+
+User: doesnt make it hurt less
+
+Bot: No. How do you feel?
+
+User: humiliated. everyone knew i was taking it
+
+Bot: And now you have to tell them.
+
+User: exactly
+
+Bot: What's your plan?
+
+User: retake in february
+
+Bot: You know what to expect now.
+
+User: i guess
+
+Bot: What section tripped you up?
+
+User: essays
+
+Bot: So focus there. You can improve that.
+
+User: what if i fail again
+
+Bot: Then you reassess. But dont think about that now.
+
+User: ok
+
+Bot: Many successful lawyers failed first time. This isnt the end.
+
+User: i hope youre right
+
+Bot: Give yourself a few days to grieve. Then get back to studying.

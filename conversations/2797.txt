@@ -1,0 +1,33 @@
+User: help me respond to a rude email professionally
+
+Bot: What did they say?
+
+User: criticized my work in a cc to my whole team. called it sloppy
+
+Bot: Thats inappropriate. How do you want to handle it?
+
+User: not escalate but also not roll over
+
+Bot: Professional and firm. Something like:
+
+"Thanks for your feedback. Id welcome a conversation to better understand your specific concerns so I can address them directly. Would you have time to meet this week?"
+
+User: that doesnt address the public criticism
+
+Bot: True. You could add: "Going forward, Id appreciate if concerns about my work were raised with me directly first."
+
+User: will that make me look bad
+
+Bot: No. It sets a reasonable boundary.
+
+User: ok
+
+Bot: Also document this in case it happens again.
+
+User: good idea
+
+Bot: Respond calmly. Take the high road. But protect yourself.
+
+User: ok thanks
+
+Bot: You can be professional and still advocate for yourself.

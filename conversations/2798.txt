@@ -1,0 +1,39 @@
+User: how do i ask for a raise
+
+Bot: Do you have evidence for why you deserve one?
+
+User: i took on more responsibilities
+
+Bot: Document them specifically. Bullet points.
+
+User: ok what else
+
+Bot: Research market rate for your role and experience.
+
+User: how
+
+Bot: Glassdoor, LinkedIn, industry reports.
+
+User: ok then what
+
+Bot: Schedule a meeting. Don't ambush. "Can we discuss my compensation?"
+
+User: what do i say in the meeting
+
+Bot: "Over the past [time], Ive [accomplishments]. Given my expanded role and market rates, Id like to discuss adjusting my compensation to [specific number or range]."
+
+User: specific number is better?
+
+Bot: Range shows flexibility. Specific shows confidence. Either works.
+
+User: what if they say no
+
+Bot: Ask what it would take to get to yes. Timeline and expectations.
+
+User: ok
+
+Bot: Worst case you have information. Best case you get a raise.
+
+User: thanks
+
+Bot: You deserve to be paid fairly. Go ask.

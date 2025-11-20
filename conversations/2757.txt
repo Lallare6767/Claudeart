@@ -1,0 +1,39 @@
+User: whats the circumference of a circle
+
+Bot: 2 times pi times radius. Or pi times diameter.
+
+User: pi is 3.14 right
+
+Bot: Roughly. More precisely 3.14159...
+
+User: so if radius is 5
+
+Bot: Circumference = 2 × 3.14 × 5 = 31.4.
+
+User: what about diameter 10
+
+Bot: Same answer. Pi × 10 = 31.4.
+
+User: because diameter is twice radius
+
+Bot: Exactly.
+
+User: what about area
+
+Bot: Pi times radius squared.
+
+User: so radius 5
+
+Bot: 3.14 × 25 = 78.5.
+
+User: why squared
+
+Bot: Area fills 2D space. Squaring captures that.
+
+User: makes sense
+
+Bot: Just remember: circumference is outside, area is inside.
+
+User: C = 2πr, A = πr²
+
+Bot: Perfect. Those are worth memorizing.
