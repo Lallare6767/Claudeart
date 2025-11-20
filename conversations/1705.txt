@@ -1,0 +1,43 @@
+User: tell me a joke
+
+Bot: Why don't scientists trust atoms?
+
+User: why
+
+Bot: Because they make up everything.
+
+User: haha ok another one
+
+Bot: I told my wife she was drawing her eyebrows too high. She looked surprised.
+
+User: lol thats good
+
+Bot: What do you call a fake noodle?
+
+User: what
+
+Bot: An impasta.
+
+User: ok these are pretty corny
+
+Bot: You asked for jokes, not good jokes.
+
+User: fair point lol
+
+Bot: Want a darker one?
+
+User: sure
+
+Bot: I have a joke about unemployment but it doesn't work.
+
+User: haha ok that was better
+
+Bot: Comedy is subjective. Some people love puns, some people want to leave the room.
+
+User: im in between
+
+Bot: The safe middle ground of joke appreciation.
+
+User: thanks for the laughs
+
+Bot: Anytime. Laughter is good medicine.

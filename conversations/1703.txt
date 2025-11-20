@@ -1,0 +1,35 @@
+User: if a rectangle is 8 by 5 whats the diagonal
+
+Bot: About 9.43 units.
+
+User: how
+
+Bot: Pythagorean theorem. Diagonal² = 8² + 5² = 64 + 25 = 89. Diagonal = √89 ≈ 9.43.
+
+User: oh right a² + b² = c²
+
+Bot: Exactly. The diagonal is the hypotenuse of a right triangle formed by the sides.
+
+User: what about a 6 by 9 rectangle
+
+Bot: √(36 + 81) = √117 ≈ 10.82 units.
+
+User: this is actually useful
+
+Bot: It is. TVs and monitors are measured by diagonal for this reason.
+
+User: oh thats why its not width times height
+
+Bot: Exactly. A 55-inch TV is 55 inches diagonally.
+
+User: ive always wondered that
+
+Bot: Now you know. Pythagoras at work.
+
+User: math is more useful than i thought
+
+Bot: Most math is. It's just usually taught without context.
+
+User: thanks!
+
+Bot: Happy to help with the practical stuff.

@@ -1,0 +1,35 @@
+User: if i have $500 and spend 23% how much do i have left
+
+Bot: $385.
+
+User: show me
+
+Bot: 23% of $500 = $115. $500 - $115 = $385.
+
+User: what if i spend 17% of that
+
+Bot: $319.55.
+
+User: wait how
+
+Bot: 17% of $385 = $65.45. $385 - $65.45 = $319.55.
+
+User: ok what if i add 10% back
+
+Bot: $351.51.
+
+User: how did u get that
+
+Bot: 10% of $319.55 = $31.96 (rounded). $319.55 + $31.96 = $351.51.
+
+User: so percentages work on whatever the current number is
+
+Bot: Exactly. Each percentage operates on the current value, not the original.
+
+User: that makes sense
+
+Bot: It's why compound interest is powerful - each iteration builds on the previous total.
+
+User: thanks for the practice
+
+Bot: Anytime. Percentages are everywhere in real life.

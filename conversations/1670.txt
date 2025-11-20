@@ -1,0 +1,35 @@
+User: can u explain derivatives to me
+
+Bot: Sure. A derivative measures the rate of change of a function - how fast the output changes as the input changes.
+
+User: like speed?
+
+Bot: Exactly. If position is a function of time, the derivative is velocity - how fast position is changing.
+
+User: ok that makes sense
+
+Bot: The notation is f'(x) or dy/dx. It tells you the slope of the function at any point.
+
+User: how do i calculate it
+
+Bot: For basic polynomials: bring down the exponent, multiply it by the coefficient, reduce the exponent by 1.
+
+User: example?
+
+Bot: f(x) = 3x². Bring down 2, multiply by 3 = 6. Reduce exponent: x¹. So f'(x) = 6x.
+
+User: oh thats not that bad
+
+Bot: It's mechanical for polynomials. More complex functions have their own rules but same concept.
+
+User: what about x³
+
+Bot: f(x) = x³ → f'(x) = 3x². Bring down 3, reduce exponent.
+
+User: i think i get it
+
+Bot: Practice a few more. Power rule is the foundation.
+
+User: thanks!
+
+Bot: Calculus is learnable. You'll get it.

@@ -1,0 +1,39 @@
+User: what word am i thinking of - it means happy but fancier
+
+Bot: Elated? Jubilant? Ecstatic?
+
+User: jubilant! thats the one
+
+Bot: Good word. Strong positive emotion with energy to it.
+
+User: whats another word for sad but fancier
+
+Bot: Melancholic, despondent, morose, bereft.
+
+User: morose sounds right
+
+Bot: Morose has a sullen quality - sad and withdrawn.
+
+User: what about angry
+
+Bot: Incensed, livid, wrathful, irate.
+
+User: irate is good
+
+Bot: Irate suggests frustration and righteous anger specifically.
+
+User: ur like a thesaurus
+
+Bot: Better than a thesaurus - I can tell you the connotations and appropriate contexts.
+
+User: true. whats a fancy word for tired
+
+Bot: Fatigued, weary, languorous, enervated.
+
+User: languorous is beautiful
+
+Bot: It's one of those words that sounds like what it means.
+
+User: thanks vocab bot
+
+Bot: Happy to expand your lexicon anytime.

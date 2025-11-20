@@ -1,0 +1,27 @@
+User: if a train leaves at 2pm going 60mph and another leaves at 3pm going 80mph when do they meet
+
+Bot: Need more info. Are they going toward each other? How far apart are they starting?
+
+User: oh right. same track toward each other. 200 miles apart
+
+Bot: The first train travels 60 miles before the second starts (1 hour at 60mph). That leaves 140 miles between them.
+
+User: ok
+
+Bot: Combined speed is 60 + 80 = 140 mph. Time to meet: 140 miles / 140 mph = 1 hour.
+
+User: so they meet at 4pm?
+
+Bot: Yes. The second train left at 3pm, traveled 1 hour at 80mph = 80 miles. First train traveled 2 hours at 60mph = 120 miles. Total: 200 miles.
+
+User: that makes sense
+
+Bot: These problems are easier when you break them into steps.
+
+User: trains always confused me in school
+
+Bot: Everyone. They're classic for a reason - they teach relative motion.
+
+User: thanks!
+
+Bot: Anytime.

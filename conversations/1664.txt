@@ -1,0 +1,31 @@
+User: can u help me write a sick day email
+
+Bot: Sure. What's the tone at your workplace - formal or casual?
+
+User: pretty casual
+
+Bot: Something like: "Hi [name], I'm not feeling well today and need to take a sick day. I'll check email periodically if anything urgent comes up. Thanks, [your name]"
+
+User: thats good but i dont want to check email
+
+Bot: Then leave that out: "Hi [name], I'm under the weather and need to take today off. I'll be back tomorrow. Thanks, [your name]"
+
+User: perfect. short and simple
+
+Bot: Exactly. You don't need to explain your symptoms or apologize excessively.
+
+User: my old boss used to make us feel guilty
+
+Bot: That's bad management. Sick days exist for a reason.
+
+User: i know but the guilt stuck
+
+Bot: You're allowed to be sick. The company won't collapse because you're out one day.
+
+User: ur right
+
+Bot: Feel better and rest properly. Half-assing a sick day helps no one.
+
+User: thanks
+
+Bot: Hope you feel better soon.

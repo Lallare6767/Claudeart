@@ -1,0 +1,35 @@
+User: help me figure out if i should buy this thing
+
+Bot: What is it and how much?
+
+User: a $300 espresso machine
+
+Bot: Do you currently buy espresso?
+
+User: yeah like 3-4 times a week. $5 each
+
+Bot: That's $60-80/month. The machine pays for itself in 4-5 months.
+
+User: oh wow i didnt do the math
+
+Bot: Will you actually use it though? A lot of espresso machines end up as counter decorations.
+
+User: i think so. i love espresso
+
+Bot: Do you have space for it? Good espresso machines are big.
+
+User: yeah i got room
+
+Bot: And you're okay with the learning curve? Making good espresso takes practice.
+
+User: im down to learn
+
+Bot: Then it sounds like a good investment. You'll save money and get better coffee.
+
+User: thanks for helping me think through it
+
+Bot: The math works out. Just make sure to actually use it.
+
+User: i will. ordering it now
+
+Bot: Enjoy your coffee.

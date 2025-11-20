@@ -1,0 +1,35 @@
+User: what are some good questions to ask on a first date
+
+Bot: Anything that reveals values and priorities without feeling like an interview.
+
+User: examples?
+
+Bot: "What do you do when you're not working?" - shows interests and how they spend time.
+
+User: good one
+
+Bot: "What are you excited about right now?" - positive framing, shows what lights them up.
+
+User: ooh i like that
+
+Bot: "Tell me about your friends" - people are revealed by their relationships.
+
+User: what should i avoid asking
+
+Bot: Salary, exes in detail, why they're single, anything you wouldn't answer yourself.
+
+User: makes sense
+
+Bot: Also avoid rapid-fire questions. Let conversations develop naturally.
+
+User: what if theres awkward silence
+
+Bot: That's fine. Better than forcing it. Sometimes silence means they're thinking.
+
+User: im nervous lol
+
+Bot: That's normal. They probably are too. Just be curious about them as a person.
+
+User: thanks for the help
+
+Bot: Good luck! Try to have fun with it.

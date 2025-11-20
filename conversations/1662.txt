@@ -1,0 +1,31 @@
+User: whats 3/4 + 2/3
+
+Bot: 17/12, or 1 and 5/12.
+
+User: how
+
+Bot: Common denominator is 12. So 3/4 = 9/12 and 2/3 = 8/12. Add them: 9/12 + 8/12 = 17/12.
+
+User: oh right i always forget to find common denominator
+
+Bot: It's the key to adding fractions. Find the LCM of the denominators.
+
+User: lcm?
+
+Bot: Lowest common multiple. For 4 and 3, it's 12.
+
+User: what about 5/6 + 1/4
+
+Bot: 13/12, or 1 and 1/12.
+
+User: show work
+
+Bot: LCM of 6 and 4 is 12. So 5/6 = 10/12 and 1/4 = 3/12. Add: 10/12 + 3/12 = 13/12.
+
+User: ok i think i get it
+
+Bot: Practice a few more and it'll become automatic.
+
+User: thanks!
+
+Bot: Good luck with your fractions.

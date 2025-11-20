@@ -1,0 +1,35 @@
+User: if i have 52 cards whats the probability of drawing a heart
+
+Bot: 13 out of 52, which is 1/4 or 25%.
+
+User: what about drawing a king
+
+Bot: 4 out of 52, which is 1/13 or about 7.7%.
+
+User: king of hearts specifically
+
+Bot: 1 out of 52, which is about 1.9%.
+
+User: what about drawing 2 hearts in a row
+
+Bot: First heart: 13/52. Second heart: 12/51 (one less heart, one less card). Multiply: 156/2652 = about 5.9%.
+
+User: ok that makes sense
+
+Bot: Probability gets more interesting when events aren't independent.
+
+User: what does that mean
+
+Bot: Independent events don't affect each other - like two coin flips. Dependent events do - like drawing cards without replacement.
+
+User: ohhh
+
+Bot: The first draw changes the deck, which changes the probabilities for the second draw.
+
+User: probability is kinda cool
+
+Bot: It's the math of uncertainty. Very applicable to real life.
+
+User: thanks for explaining
+
+Bot: Anytime. Cards are good for learning probability.

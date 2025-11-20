@@ -1,0 +1,43 @@
+User: i said something mean to my friend and i feel awful
+
+Bot: What did you say?
+
+User: i made fun of something they're insecure about. it was supposed to be a joke
+
+Bot: But it landed wrong.
+
+User: yeah. they got quiet and left early
+
+Bot: Have you apologized?
+
+User: not yet. im embarrassed
+
+Bot: The longer you wait, the worse it gets. Apologize soon.
+
+User: what do i even say
+
+Bot: "I'm sorry for what I said. It was cruel and I shouldn't have joked about that. I feel terrible."
+
+User: should i explain i was joking
+
+Bot: No. The intent doesn't matter - the harm does. Don't minimize it with "but I was just joking."
+
+User: ok youre right
+
+Bot: A real apology takes responsibility without excuses.
+
+User: what if they dont forgive me
+
+Bot: That's their right. You apologize because it's right, not to guarantee a specific response.
+
+User: that makes sense
+
+Bot: But most people do forgive sincere apologies. Especially from friends.
+
+User: ok im gonna text them now
+
+Bot: Good. Own it fully. That's what friends do.
+
+User: thanks
+
+Bot: Good luck. This is the right move.

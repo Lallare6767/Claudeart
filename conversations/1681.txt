@@ -1,0 +1,43 @@
+User: im thinking about getting a dog
+
+Bot: Great! What kind of living situation do you have?
+
+User: apartment in the city
+
+Bot: Size matters then. Also energy level and barking tendencies.
+
+User: i was thinking about a golden retriever
+
+Bot: They're wonderful dogs but they need a lot of exercise and space. Big shedders too.
+
+User: oh maybe not then
+
+Bot: For an apartment, consider a Cavalier King Charles, French Bulldog, or a greyhound - they're surprisingly lazy.
+
+User: greyhounds are lazy?
+
+Bot: Very. They're sprinters, not marathon runners. A couple short walks and they're couch potatoes.
+
+User: i didnt know that
+
+Bot: Common misconception. They're actually great apartment dogs.
+
+User: what about a corgi
+
+Bot: Corgis are herding dogs - high energy, smart, and can be barky. Need more exercise than you'd think.
+
+User: ok greyhound sounds better
+
+Bot: They're also often available for adoption from retired racing programs.
+
+User: thats sweet
+
+Bot: Just make sure you're ready for the commitment. Dogs are 10-15 years.
+
+User: i know. ive wanted one for years
+
+Bot: Then it sounds like you're ready. Good luck finding your pup.
+
+User: thanks!
+
+Bot: Post pictures when you get one.

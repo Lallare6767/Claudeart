@@ -1,0 +1,39 @@
+User: im scared to start therapy
+
+Bot: What specifically scares you about it?
+
+User: talking about my feelings to a stranger
+
+Bot: That's a common fear. What makes that feel scary?
+
+User: being judged. or crying in front of someone
+
+Bot: Therapists are trained not to judge. And they see people cry constantly - it's part of the job.
+
+User: what if i dont know what to say
+
+Bot: The therapist guides the conversation. You don't have to have it all figured out.
+
+User: what if it doesnt help
+
+Bot: Then you try a different therapist. Not every match works.
+
+User: how do i find a good one
+
+Bot: Psychology Today's directory lets you filter by specialty, location, and insurance. Read their profiles.
+
+User: ok
+
+Bot: First sessions are usually just getting to know you. Low pressure.
+
+User: thats good to know
+
+Bot: The fact that you're considering it means something is worth addressing. Trust that instinct.
+
+User: ur right. im gonna look into it
+
+Bot: Good. Taking care of your mental health is brave, not weak.
+
+User: thanks
+
+Bot: You've got this. The hardest part is starting.

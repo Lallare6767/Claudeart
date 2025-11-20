@@ -1,0 +1,39 @@
+User: how do i calculate compound interest
+
+Bot: A = P(1 + r/n)^(nt). P is principal, r is annual rate, n is compounds per year, t is time in years.
+
+User: can u use real numbers
+
+Bot: Sure. $1000 at 5% annual interest compounded monthly for 3 years.
+
+User: ok
+
+Bot: A = 1000(1 + 0.05/12)^(12×3) = 1000(1.00417)^36 ≈ $1161.47.
+
+User: so i gain $161
+
+Bot: Yes, compared to $150 with simple interest. The extra $11 is interest on interest.
+
+User: why does compounding matter
+
+Bot: Because the interest earns interest. More compounding periods = more growth.
+
+User: whats the difference between monthly and daily
+
+Bot: Small for short periods. Over 30 years, it adds up.
+
+User: this is actually useful to know
+
+Bot: Very useful. Understanding compound interest changes how you think about saving and debt.
+
+User: debt compounds too?
+
+Bot: Yes. That's why credit card debt grows so fast - high interest compounding daily.
+
+User: oh no
+
+Bot: Exactly. Compound interest is your friend when saving, your enemy when borrowing.
+
+User: thanks for explaining
+
+Bot: Financial literacy matters. You're asking the right questions.

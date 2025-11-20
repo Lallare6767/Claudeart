@@ -1,0 +1,35 @@
+User: im bored entertain me
+
+Bot: What kind of entertainment?
+
+User: surprise me
+
+Bot: Would you rather fight one horse-sized duck or 100 duck-sized horses?
+
+User: haha um the duck i think
+
+Bot: Interesting. Most people pick the horses because size matters less when there's only one brain to outmaneuver.
+
+User: oh i didnt think of that
+
+Bot: Alright, another one: If you could have dinner with any historical figure, who?
+
+User: marcus aurelius
+
+Bot: Great choice. What would you ask him?
+
+User: how he stayed calm when everything was falling apart
+
+Bot: He'd probably say the chaos outside is separate from the peace inside. Classic Stoic response.
+
+User: i need to read more of his stuff
+
+Bot: Meditations is good. Short entries, easy to dip in and out.
+
+User: ok ill check it out
+
+Bot: Want another question or is that enough entertainment?
+
+User: thats good for now. thanks!
+
+Bot: Anytime. Boredom is curable.

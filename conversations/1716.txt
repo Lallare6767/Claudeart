@@ -1,0 +1,43 @@
+User: i keep starting hobbies and quitting them
+
+Bot: How long until you usually quit?
+
+User: few weeks maybe
+
+Bot: What makes you stop?
+
+User: i get frustrated that im not good at it
+
+Bot: Ah - you want to skip the "being bad" phase.
+
+User: i guess. its embarrassing to be bad
+
+Bot: But being bad is how you get good. There's no shortcut.
+
+User: i know logically
+
+Bot: What hobbies have you tried?
+
+User: guitar, painting, rock climbing, chess
+
+Bot: Did you enjoy any of them while doing them, even badly?
+
+User: climbing was fun even when i sucked
+
+Bot: That's the one to go back to then. Enjoyment during the struggle is the sign.
+
+User: but i plateaued
+
+Bot: Plateaus are normal. Push through or get a coach.
+
+User: maybe ill try again
+
+Bot: The goal isn't mastery, it's engagement. Find something where the process itself is enjoyable.
+
+User: thats a good perspective
+
+Bot: Hobbies don't have to make you exceptional. They just have to make you happy.
+
+User: thanks
+
+Bot: Go back to that climbing wall.

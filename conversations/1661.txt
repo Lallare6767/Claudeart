@@ -1,0 +1,39 @@
+User: im so stressed about money
+
+Bot: What specifically is causing the stress?
+
+User: i have like $200 til payday and its 10 days away
+
+Bot: That's tight. What are your essential expenses for those 10 days?
+
+User: groceries and gas mostly
+
+Bot: Can you make $200 work for groceries and gas for 10 days?
+
+User: maybe if i eat cheap
+
+Bot: Rice, beans, eggs, frozen vegetables - you can eat decently for $5-7 a day.
+
+User: thats like 50-70 bucks
+
+Bot: Leaves you $130+ for gas. What's your commute like?
+
+User: about 20 miles each way
+
+Bot: You should be okay if you're not driving anywhere extra.
+
+User: i hate living like this
+
+Bot: I know. Paycheck to paycheck is exhausting. Is this a temporary situation or ongoing?
+
+User: its been like this for months
+
+Bot: Then the stress is appropriate - it's telling you something needs to change. Budget, income, or both.
+
+User: i know i need a better job
+
+Bot: Start looking while employed. It's easier to find work when you have work.
+
+User: ur right
+
+Bot: You'll get through the next 10 days. But use the stress as motivation to change the pattern.

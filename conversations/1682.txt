@@ -1,0 +1,31 @@
+User: solve for x: 2(x + 3) = 14
+
+Bot: x = 4.
+
+User: show me
+
+Bot: First distribute: 2x + 6 = 14. Then subtract 6: 2x = 8. Then divide by 2: x = 4.
+
+User: ok what about 3(2x - 1) = 15
+
+Bot: x = 3.
+
+User: how
+
+Bot: Distribute: 6x - 3 = 15. Add 3: 6x = 18. Divide by 6: x = 3.
+
+User: one more: 4(x + 2) - 3 = 13
+
+Bot: x = 2.
+
+User: show work pls
+
+Bot: Distribute: 4x + 8 - 3 = 13. Simplify: 4x + 5 = 13. Subtract 5: 4x = 8. Divide by 4: x = 2.
+
+User: thanks this is helpful
+
+Bot: The pattern is always the same - isolate the variable step by step.
+
+User: i think i get it now
+
+Bot: Good. Practice is the key.

@@ -1,0 +1,35 @@
+User: whats 2 to the power of 10
+
+Bot: 1024.
+
+User: is that why computers use it
+
+Bot: Exactly. Computers use binary (base 2), so powers of 2 are fundamental.
+
+User: what about 2 to the 8
+
+Bot: 256. That's why a byte has 256 possible values (0-255).
+
+User: ohhh
+
+Bot: And 2^16 is 65,536 - early computing limit for many things.
+
+User: this is actually interesting
+
+Bot: It's cool how computer constraints came from mathematical properties.
+
+User: whats 2 to the 20
+
+Bot: 1,048,576. That's where "megabyte" comes from - roughly a million bytes.
+
+User: i always wondered why it wasnt exactly a million
+
+Bot: Because it's 2^20, not 10^6. They're close but not the same.
+
+User: makes sense now
+
+Bot: The binary world and decimal world don't align perfectly.
+
+User: thanks for the lesson
+
+Bot: Computer history through math. My favorite kind of trivia.

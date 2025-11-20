@@ -1,0 +1,39 @@
+User: my kid failed a test and im not sure how to react
+
+Bot: What kind of test? And how old is the kid?
+
+User: math test. shes 12
+
+Bot: How did she feel about it?
+
+User: upset. she said she studied
+
+Bot: Did she? Do you know how she studied?
+
+User: she said she did but maybe not effectively
+
+Bot: That's likely. A lot of kids don't know how to actually study. They review but don't test themselves.
+
+User: should i punish her
+
+Bot: For failing? No. Punishment teaches her that failure is shameful, not that it's information.
+
+User: what should i do then
+
+Bot: Talk about what went wrong. Did she not understand the material? Not study effectively? Test anxiety?
+
+User: probably didnt study effectively
+
+Bot: Then help her learn how. Quiz her, don't just let her reread notes.
+
+User: thats good advice
+
+Bot: The goal is problem-solving, not punishment. She'll fail again if she doesn't change her approach.
+
+User: ur right
+
+Bot: Support her without rescuing her. She needs to own the solution.
+
+User: thanks
+
+Bot: She's lucky to have a parent who thinks before reacting.

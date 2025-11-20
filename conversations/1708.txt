@@ -1,0 +1,39 @@
+User: can u help me write a toast for my friends wedding
+
+Bot: Of course. What's your relationship to them?
+
+User: best man. known the groom since childhood
+
+Bot: Perfect - you have material. What do you want the toast to feel like?
+
+User: funny but heartfelt. not too long
+
+Bot: Good instincts. Start with a funny story, pivot to genuine emotion, end with well wishes.
+
+User: can u give me a structure
+
+Bot: 1) Quick intro and thank everyone. 2) Funny story about the groom. 3) How you knew he'd found the one. 4) What you wish for them. 5) Raise glasses.
+
+User: what kind of funny story
+
+Bot: Something endearing, not embarrassing. Shows his character in a good light.
+
+User: he got lost driving to his first date with her
+
+Bot: That's perfect. Sweet and funny without being mean.
+
+User: how do i pivot to serious
+
+Bot: "But when he told me about her, I'd never seen him so sure of anything."
+
+User: oh thats good
+
+Bot: Keep it 2-3 minutes max. People have short attention spans.
+
+User: thanks this really helps
+
+Bot: You'll do great. Speak from the heart and you can't go wrong.
+
+User: ill practice
+
+Bot: Good idea. Congratulations to them.

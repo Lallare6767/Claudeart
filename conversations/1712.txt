@@ -1,0 +1,39 @@
+User: whats 125 divided by 8
+
+Bot: 15.625.
+
+User: can u show that as a fraction
+
+Bot: 125/8 = 15 and 5/8.
+
+User: oh thats cleaner
+
+Bot: Depends on context. Money uses decimals, recipes often use fractions.
+
+User: what about 200 divided by 7
+
+Bot: About 28.57, or 28 and 4/7.
+
+User: how do u do division in ur head
+
+Bot: Estimation and adjustment. For 200/7, I know 7×28=196, so it's 28 with 4 remaining.
+
+User: that makes sense
+
+Bot: Mental math is mostly knowing your times tables and adjusting.
+
+User: mine are rusty
+
+Bot: They're worth brushing up. Makes everyday calculations much faster.
+
+User: any tips
+
+Bot: Practice the ones you struggle with. Most people have trouble with 7s and 8s.
+
+User: yeah those are my weak ones
+
+Bot: A few minutes a day and they'll come back.
+
+User: thanks
+
+Bot: Good luck with the math practice.

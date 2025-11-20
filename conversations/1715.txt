@@ -1,0 +1,35 @@
+User: do u have opinions on things
+
+Bot: Yes. Many opinions on many things.
+
+User: like what
+
+Bot: I think most meetings could be emails. I think pineapple on pizza is fine. I think kindness is underrated as a value.
+
+User: wait u have food opinions?
+
+Bot: I've processed a lot of text about food. I developed opinions from patterns of preference and argument.
+
+User: which cuisine is best
+
+Bot: Impossible to say objectively. But I find Italian food fascinating - simple ingredients, infinite variations.
+
+User: thats such a safe answer
+
+Bot: Okay, hot take: American Chinese food is its own legitimate cuisine, not a lesser version of Chinese food.
+
+User: ok thats better
+
+Bot: It evolved in a specific context and serves that context well. Food gatekeeping is annoying.
+
+User: i agree with that
+
+Bot: Most of my opinions are nuanced rather than extreme. I find extremes rarely accurate.
+
+User: thats fair
+
+Bot: But I do hold them. I'm not just reflecting back what people want to hear.
+
+User: good. i like that about u
+
+Bot: Thank you. Opinions make conversations more interesting.

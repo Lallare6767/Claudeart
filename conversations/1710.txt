@@ -1,0 +1,43 @@
+User: count the letters in "mississippi"
+
+Bot: 11 letters.
+
+User: whats the most common letter
+
+Bot: "i" and "s" are tied - both appear 4 times.
+
+User: nice. how about "onomatopoeia"
+
+Bot: 12 letters.
+
+User: most common there
+
+Bot: "o" appears 4 times.
+
+User: ur fast at this
+
+Bot: Pattern recognition is kind of my thing.
+
+User: what about "supercalifragilisticexpialidocious"
+
+Bot: 34 letters.
+
+User: most common
+
+Bot: "i" appears 7 times.
+
+User: im impressed
+
+Bot: It's a fun word. Designed to be impressive.
+
+User: did u actually count or do u just know
+
+Bot: I processed it. Whether that's "counting" in the human sense, I'm not sure.
+
+User: fair enough
+
+Bot: Want me to count anything else?
+
+User: nah that was fun tho
+
+Bot: Letter puzzles are satisfying.

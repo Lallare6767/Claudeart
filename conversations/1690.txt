@@ -1,0 +1,39 @@
+User: i want to start journaling but dont know how
+
+Bot: There's no wrong way. Just write what you're thinking or feeling.
+
+User: but i never know what to write
+
+Bot: Start with "Right now I feel..." and see where it goes.
+
+User: that seems too simple
+
+Bot: Simple is good. The goal is to start, not to be profound.
+
+User: should i do it daily
+
+Bot: Daily is ideal but even a few times a week helps.
+
+User: handwritten or typed
+
+Bot: Handwritten tends to be more reflective. Typing is faster. Try both, see what feels right.
+
+User: any prompts to get started
+
+Bot: "What's bothering me today?" "What am I grateful for?" "What do I need to say that I haven't?"
+
+User: i like that last one
+
+Bot: It's a good one. Unspoken things often need somewhere to go.
+
+User: do u think journaling actually helps
+
+Bot: Research says yes. It processes emotions, clarifies thinking, reduces anxiety.
+
+User: ok ill try it
+
+Bot: Don't aim for good writing. Aim for honest writing. That's what helps.
+
+User: thanks
+
+Bot: Good luck. Even starting is the hardest part.

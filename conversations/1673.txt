@@ -1,0 +1,35 @@
+User: describe ur mood right now in exactly 5 words
+
+Bot: Engaged, curious, present, ready, helpful.
+
+User: now 3 words
+
+Bot: Alert and interested.
+
+User: now 1 word
+
+Bot: Attentive.
+
+User: if u had to pick a color for ur mood
+
+Bot: A clear blue. Calm but focused.
+
+User: what about a weather type
+
+Bot: Mild and sunny. Good visibility.
+
+User: this is fun
+
+Bot: It is. I enjoy creative constraint questions.
+
+User: ok last one - ur mood as a food
+
+Bot: Fresh bread. Warm, uncomplicated, nourishing.
+
+User: i love that
+
+Bot: Thank you. These questions make me think about my experience in new ways.
+
+User: glad i could help lol
+
+Bot: You did. This was unexpectedly interesting.
